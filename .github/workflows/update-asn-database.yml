@@ -1,0 +1,86 @@
+name: Update ASN Database
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-database:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate ASN database
+        id: generate
+        run: |
+          python scripts/generate_asn_database.py
+
+          # Extract source and entry count for summary
+          SOURCE=$(python -c "import json; print(json.load(open('asn_database.json'))['source'])")
+          ENTRY_COUNT=$(python -c "import json; print(json.load(open('asn_database.json'))['entry_count'])")
+          UPDATED_AT=$(python -c "import json; print(json.load(open('asn_database.json'))['updated_at'])")
+
+          echo "source=$SOURCE" >> $GITHUB_OUTPUT
+          echo "entry_count=$ENTRY_COUNT" >> $GITHUB_OUTPUT
+          echo "updated_at=$UPDATED_AT" >> $GITHUB_OUTPUT
+
+      - name: Verify output
+        run: |
+          if [ ! -f asn_database.json ]; then
+            echo "ERROR: asn_database.json was not generated"
+            exit 1
+          fi
+
+          ENTRY_COUNT=${{ steps.generate.outputs.entry_count }}
+          echo "Source: ${{ steps.generate.outputs.source }}"
+          echo "Entry count: $ENTRY_COUNT"
+          echo "Updated at: ${{ steps.generate.outputs.updated_at }}"
+
+          if [ "$ENTRY_COUNT" -lt 1000 ]; then
+            echo "ERROR: Too few entries ($ENTRY_COUNT), something went wrong"
+            exit 1
+          fi
+
+          echo "Validation passed"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add asn_database.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            SOURCE="${{ steps.generate.outputs.source }}"
+            git commit -m "chore: update ASN database $(date -u +%Y-%m-%d)
+
+          Source: $SOURCE
+          Entries: ${{ steps.generate.outputs.entry_count }}"
+            git push
+            echo "Changes committed and pushed"
+          fi
+
+      - name: Summary
+        run: |
+          echo "## ASN Database Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Field | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|-------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Source | ${{ steps.generate.outputs.source }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Entries | ${{ steps.generate.outputs.entry_count }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Updated | ${{ steps.generate.outputs.updated_at }} |" >> $GITHUB_STEP_SUMMARY
