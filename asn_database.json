@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-17T10:33:09.236Z",
+  "updated_at": "2025-12-18T00:59:22.381Z",
   "source": "PeeringDB",
-  "entry_count": 33553,
+  "entry_count": 33561,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -149,7 +149,7 @@
       "type": "Cable/DSL/ISP"
     },
     "2110": {
-      "name": "BT Ireland",
+      "name": "Enet Communications",
       "type": "Cable/DSL/ISP"
     },
     "6871": {
@@ -20942,7 +20942,7 @@
     },
     "36946": {
       "name": "CIVIX management network",
-      "type": "Route Server"
+      "type": "Network Services"
     },
     "61195": {
       "name": "PeeringCZ Route Servers",
@@ -91666,7 +91666,7 @@
     },
     "273973": {
       "name": "Apoapsis",
-      "type": "Unknown"
+      "type": "Content"
     },
     "200162": {
       "name": "ILOTH",
@@ -95297,7 +95297,7 @@
       "type": "Content"
     },
     "48040": {
-      "name": "Fornex Hosting - Ukraine",
+      "name": "Fornex Hosting - Sweden",
       "type": "Content"
     },
     "24512": {
@@ -95698,7 +95698,7 @@
     },
     "208466": {
       "name": "eontelco",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "272678": {
       "name": "ASN272678",
@@ -102421,8 +102421,8 @@
       "type": "Cable/DSL/ISP"
     },
     "214906": {
-      "name": "Hammes",
-      "type": "Unknown"
+      "name": "Cedric Hammes",
+      "type": "Content"
     },
     "214449": {
       "name": "VERABYTE",
@@ -102635,6 +102635,30 @@
     "202782": {
       "name": "EverLink-AS",
       "type": "Unknown"
+    },
+    "6782": {
+      "name": "BDNET",
+      "type": "Unknown"
+    },
+    "211567": {
+      "name": "Bitwise",
+      "type": "Unknown"
+    },
+    "42151": {
+      "name": "P24-CLOUD",
+      "type": "Unknown"
+    },
+    "142383": {
+      "name": "IDNIC-VTNET-AS-ID",
+      "type": "Unknown"
+    },
+    "329666": {
+      "name": "CIVIX public network",
+      "type": "Network Services"
+    },
+    "273276": {
+      "name": "273276",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -134215,6 +134239,14 @@
     "138528": {
       "name": "EMPIRE TECH",
       "type": "Cable/DSL/ISP"
+    },
+    "202762": {
+      "name": "Inferno Event Services",
+      "type": "NSP"
+    },
+    "203135": {
+      "name": "CTNET",
+      "type": "NSP"
     }
   }
 }
