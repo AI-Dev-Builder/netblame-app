@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-18T00:59:22.381Z",
+  "updated_at": "2025-12-19T01:02:14.901Z",
   "source": "PeeringDB",
-  "entry_count": 33561,
+  "entry_count": 33572,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -6189,7 +6189,7 @@
       "type": "Content"
     },
     "14333": {
-      "name": "On-Ramp Indiana",
+      "name": "On-Ramp Indiana, Inc.",
       "type": "Cable/DSL/ISP"
     },
     "32536": {
@@ -29032,10 +29032,6 @@
       "name": "DWASKG",
       "type": "Unknown"
     },
-    "3580": {
-      "name": "Planet Access Networks",
-      "type": "NSP"
-    },
     "41731": {
       "name": "Johannes Moos",
       "type": "Educational/Research"
@@ -41109,11 +41105,11 @@
       "type": "Cable/DSL/ISP"
     },
     "131111": {
-      "name": "PT Mora Telematika Indonesia Tbk - Domestic",
+      "name": "PT Ekamas Mora Republik Tbk - Domestic",
       "type": "NSP"
     },
     "46038": {
-      "name": "PT Mora Telematika Indonesia Tbk - CepatNet",
+      "name": "PT Ekamas Mora Republik Tbk - CepatNet",
       "type": "Unknown"
     },
     "5080": {
@@ -43471,6 +43467,10 @@
     "26001": {
       "name": "BLUIP",
       "type": "Unknown"
+    },
+    "209186": {
+      "name": "Kuznetsov Kirill Ivanovich",
+      "type": "Enterprise"
     },
     "138290": {
       "name": "Unigro Infranet Online",
@@ -69382,7 +69382,7 @@
     },
     "207754": {
       "name": "Colderwood",
-      "type": "Educational/Research"
+      "type": "Network Services"
     },
     "22659": {
       "name": "Kloud Konnect",
@@ -76902,7 +76902,7 @@
     },
     "53745": {
       "name": "Nordklett Inc.",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "212884": {
       "name": "Smoky Mountain Technical Solutions LLC",
@@ -78855,10 +78855,6 @@
     "200461": {
       "name": "v6Node",
       "type": "Unknown"
-    },
-    "9423": {
-      "name": "ServerKing.io AS9423",
-      "type": "Content"
     },
     "65": {
       "name": "Air Force Systems Networking AS65",
@@ -89216,6 +89212,10 @@
       "name": "STATENET",
       "type": "Cable/DSL/ISP"
     },
+    "153083": {
+      "name": "PT Awan Tiga Bintang",
+      "type": "Cable/DSL/ISP"
+    },
     "954": {
       "name": "TMTG",
       "type": "Content"
@@ -92753,8 +92753,8 @@
       "type": "Unknown"
     },
     "23932": {
-      "name": "winth-as-ap",
-      "type": "Unknown"
+      "name": "OTARO-ISP-TH",
+      "type": "Content"
     },
     "288": {
       "name": "ESA Network Information Centre (ESANIC)",
@@ -95697,7 +95697,7 @@
       "type": "Unknown"
     },
     "208466": {
-      "name": "eontelco",
+      "name": "egdsro",
       "type": "Enterprise"
     },
     "272678": {
@@ -96386,7 +96386,7 @@
     },
     "153096": {
       "name": "High Speed Connection Network",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "212660": {
       "name": "hosting.com DXB1",
@@ -97611,10 +97611,6 @@
     "208220": {
       "name": "offerhostinc",
       "type": "Unknown"
-    },
-    "152758": {
-      "name": "ADILINK",
-      "type": "Cable/DSL/ISP"
     },
     "205874": {
       "name": "BG-ZEROBAIT",
@@ -101146,7 +101142,7 @@
     },
     "19272": {
       "name": "Rochester Colo LLC",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "274234": {
       "name": "Trans Americas Fiber System, S.A.",
@@ -101214,7 +101210,7 @@
     },
     "204436": {
       "name": "Kualo Limited",
-      "type": "Unknown"
+      "type": "Content"
     },
     "154226": {
       "name": "PT GLOBAL ACCESS SMART SOLUTIONS",
@@ -101712,10 +101708,6 @@
       "name": "N.F.F.NETWORK SERVICOS DE TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
     },
-    "154281": {
-      "name": "PT GLOBAL DIGITAL CORE",
-      "type": "Unknown"
-    },
     "205967": {
       "name": "Stryve AS",
       "type": "NSP"
@@ -101910,7 +101902,7 @@
     },
     "136816": {
       "name": "PT Genz Media Utama",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "394130": {
       "name": "STEALTHBYTE",
@@ -102580,10 +102572,6 @@
       "name": "DUSTIN-MS-NL",
       "type": "Unknown"
     },
-    "208960": {
-      "name": "AS_HOCHTIEF",
-      "type": "Unknown"
-    },
     "210572": {
       "name": "UA-FRTZ",
       "type": "Cable/DSL/ISP"
@@ -102648,10 +102636,6 @@
       "name": "P24-CLOUD",
       "type": "Unknown"
     },
-    "142383": {
-      "name": "IDNIC-VTNET-AS-ID",
-      "type": "Unknown"
-    },
     "329666": {
       "name": "CIVIX public network",
       "type": "Network Services"
@@ -102659,6 +102643,54 @@
     "273276": {
       "name": "273276",
       "type": "Cable/DSL/ISP"
+    },
+    "53316": {
+      "name": "ASN-CHEETA-MAIL",
+      "type": "Unknown"
+    },
+    "207355": {
+      "name": "Ka-net",
+      "type": "Unknown"
+    },
+    "215684": {
+      "name": "BLUEF-ASN",
+      "type": "Unknown"
+    },
+    "207652": {
+      "name": "BISAS",
+      "type": "Unknown"
+    },
+    "201233": {
+      "name": "dhs",
+      "type": "Unknown"
+    },
+    "271683": {
+      "name": "ASN271683",
+      "type": "Unknown"
+    },
+    "202911": {
+      "name": "NEWAGENET",
+      "type": "Unknown"
+    },
+    "396461": {
+      "name": "NATEL-ASN1",
+      "type": "Unknown"
+    },
+    "202758": {
+      "name": "ASN-IT24",
+      "type": "Unknown"
+    },
+    "274772": {
+      "name": "ASN274772",
+      "type": "Unknown"
+    },
+    "401506": {
+      "name": "TOGETHER-COMPUTER",
+      "type": "Unknown"
+    },
+    "274385": {
+      "name": "ASN274385",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -106541,7 +106573,7 @@
       "type": "NSP"
     },
     "131702": {
-      "name": "PT Mora Telematika Indonesia Tbk - Mora-IXP",
+      "name": "PT Ekamas Mora Republik Tbk - Mora-IXP",
       "type": "Content"
     },
     "263629": {
@@ -115023,10 +115055,6 @@
     "267831": {
       "name": "INVERSIONES EN TELECOMUNICACIONES DIGITALES",
       "type": "Cable/DSL/ISP"
-    },
-    "209186": {
-      "name": "Kuznetsov Kirill Ivanovich",
-      "type": "Unknown"
     },
     "11996": {
       "name": "Lobo Internet Services",
@@ -128212,6 +128240,10 @@
       "name": "Kamatera EU",
       "type": "Unknown"
     },
+    "9423": {
+      "name": "ServerKing.io AS9423",
+      "type": "Content"
+    },
     "329223": {
       "name": "Chakaza Holdings (PTY) Ltd",
       "type": "Cable/DSL/ISP"
@@ -133432,6 +133464,10 @@
       "name": "FINET",
       "type": "Unknown"
     },
+    "152758": {
+      "name": "ADILINK",
+      "type": "Cable/DSL/ISP"
+    },
     "211626": {
       "name": "AS211626",
       "type": "Non-Profit"
@@ -134240,6 +134276,10 @@
       "name": "EMPIRE TECH",
       "type": "Cable/DSL/ISP"
     },
+    "208960": {
+      "name": "AS_HOCHTIEF",
+      "type": "Enterprise"
+    },
     "202762": {
       "name": "Inferno Event Services",
       "type": "NSP"
@@ -134247,6 +134287,10 @@
     "203135": {
       "name": "CTNET",
       "type": "NSP"
+    },
+    "142383": {
+      "name": "PT Vaiotech Lintas Nusantara",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
