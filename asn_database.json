@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-19T01:02:14.901Z",
+  "updated_at": "2025-12-20T00:59:04.750Z",
   "source": "PeeringDB",
-  "entry_count": 33572,
+  "entry_count": 33582,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -10848,10 +10848,6 @@
       "name": "Data Express",
       "type": "NSP"
     },
-    "42707": {
-      "name": "e-Quest IT Diensten",
-      "type": "Cable/DSL/ISP"
-    },
     "262469": {
       "name": "WISP ICONECTA SERVICOS DE REDE LTDA",
       "type": "Cable/DSL/ISP"
@@ -20941,8 +20937,8 @@
       "type": "Enterprise"
     },
     "36946": {
-      "name": "CIVIX management network",
-      "type": "Network Services"
+      "name": "CIVIX peering network",
+      "type": "Route Server"
     },
     "61195": {
       "name": "PeeringCZ Route Servers",
@@ -44378,7 +44374,7 @@
     },
     "45223": {
       "name": "World Internetwork Co.,Ltd",
-      "type": "Unknown"
+      "type": "Content"
     },
     "60003": {
       "name": "iubari",
@@ -47106,10 +47102,6 @@
     },
     "266536": {
       "name": "CENTRALNET LTDA - ME",
-      "type": "Cable/DSL/ISP"
-    },
-    "16117": {
-      "name": "GAVLENET",
       "type": "Cable/DSL/ISP"
     },
     "34854": {
@@ -77325,7 +77317,7 @@
       "type": "Unknown"
     },
     "199310": {
-      "name": "Wolfxun Experimental Network",
+      "name": "QFLink-AS",
       "type": "Content"
     },
     "200197": {
@@ -97917,7 +97909,7 @@
       "type": "Unknown"
     },
     "132058": {
-      "name": "VIANLIMITED-AS-AP",
+      "name": "VIAN",
       "type": "Unknown"
     },
     "132745": {
@@ -101560,10 +101552,6 @@
       "name": "ECCODENT PROIECT SRL",
       "type": "Unknown"
     },
-    "154335": {
-      "name": "NAYSWAN NETWORK AND DATA SOLUTION",
-      "type": "Cable/DSL/ISP"
-    },
     "401832": {
       "name": "Rule Your Own Game Inc.",
       "type": "Unknown"
@@ -102606,7 +102594,7 @@
     },
     "209466": {
       "name": "DROVIACOMPUTACAO",
-      "type": "Unknown"
+      "type": "Content"
     },
     "37969": {
       "name": "AIDC-CN",
@@ -102622,7 +102610,7 @@
     },
     "202782": {
       "name": "EverLink-AS",
-      "type": "Unknown"
+      "type": "Content"
     },
     "6782": {
       "name": "BDNET",
@@ -102688,9 +102676,45 @@
       "name": "TOGETHER-COMPUTER",
       "type": "Unknown"
     },
-    "274385": {
-      "name": "ASN274385",
+    "154450": {
+      "name": "ImpleTech",
+      "type": "Enterprise"
+    },
+    "215348": {
+      "name": "GONET-AS",
       "type": "Unknown"
+    },
+    "154244": {
+      "name": "IDNIC-FOURSAMEDIA-ID",
+      "type": "Unknown"
+    },
+    "274390": {
+      "name": "ASN274390",
+      "type": "Unknown"
+    },
+    "58062": {
+      "name": "StarNetwork !",
+      "type": "Unknown"
+    },
+    "154239": {
+      "name": "IRINN-NEOSOFT-AS-IN",
+      "type": "Unknown"
+    },
+    "137428": {
+      "name": "IDNIC-KAMPOENGDIGITAL-AS-ID",
+      "type": "Unknown"
+    },
+    "265818": {
+      "name": "265818",
+      "type": "Unknown"
+    },
+    "46324": {
+      "name": "ADVANCED-STREAM-01",
+      "type": "Unknown"
+    },
+    "202532": {
+      "name": "MBYTECHNOLOGY",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -104746,6 +104770,10 @@
     },
     "262659": {
       "name": "ULTRAWAVE TELECOM EIRELI",
+      "type": "Cable/DSL/ISP"
+    },
+    "42707": {
+      "name": "e-Quest IT Diensten",
       "type": "Cable/DSL/ISP"
     },
     "60983": {
@@ -116578,6 +116606,10 @@
     },
     "265038": {
       "name": "TELFO BRASIL",
+      "type": "Cable/DSL/ISP"
+    },
+    "16117": {
+      "name": "GAVLENET",
       "type": "Cable/DSL/ISP"
     },
     "11522": {
@@ -128517,7 +128549,7 @@
       "type": "Network Services"
     },
     "199073": {
-      "name": "ImpleTech",
+      "name": "ImpleTech (EU)",
       "type": "Enterprise"
     },
     "151405": {
@@ -134152,6 +134184,10 @@
       "name": "RackByte LLC",
       "type": "Content"
     },
+    "154335": {
+      "name": "NAYSWAN NETWORK AND DATA SOLUTION",
+      "type": "Cable/DSL/ISP"
+    },
     "208806": {
       "name": "OSNET DATACENTER",
       "type": "Route Server"
@@ -134290,6 +134326,10 @@
     },
     "142383": {
       "name": "PT Vaiotech Lintas Nusantara",
+      "type": "Cable/DSL/ISP"
+    },
+    "274385": {
+      "name": "ASN274385",
       "type": "Cable/DSL/ISP"
     }
   }
