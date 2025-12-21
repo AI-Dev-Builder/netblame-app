@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-20T00:59:04.750Z",
+  "updated_at": "2025-12-21T01:06:42.508Z",
   "source": "PeeringDB",
-  "entry_count": 33582,
+  "entry_count": 33580,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -52020,10 +52020,6 @@
       "name": "euNetworks Cloud Connect",
       "type": "NSP"
     },
-    "328621": {
-      "name": "CloudProx Hosting",
-      "type": "Unknown"
-    },
     "270507": {
       "name": "DOMINIO TELECOM LTDA",
       "type": "Unknown"
@@ -84034,7 +84030,7 @@
     },
     "396842": {
       "name": "RuralNET",
-      "type": "Cable/DSL/ISP"
+      "type": "Network Services"
     },
     "215782": {
       "name": "Keepit CH-ZH",
@@ -89999,10 +89995,6 @@
     "131621": {
       "name": "Taiwan Network Information Center",
       "type": "Enterprise"
-    },
-    "214775": {
-      "name": "YICHEN LING",
-      "type": "Unknown"
     },
     "24039": {
       "name": "ITC Global (Australia)",
@@ -96781,7 +96773,7 @@
       "type": "Unknown"
     },
     "214931": {
-      "name": "ALUE-LTD",
+      "name": "ALUE-NET",
       "type": "Non-Profit"
     },
     "213640": {
@@ -96905,7 +96897,7 @@
       "type": "Unknown"
     },
     "209866": {
-      "name": "PIOTRMACHA",
+      "name": "Piotr Macha",
       "type": "Educational/Research"
     },
     "213784": {
@@ -101477,7 +101469,7 @@
       "type": "Unknown"
     },
     "210699": {
-      "name": "🌐 INFRAWIRE.HOST - AS210699",
+      "name": "🌐 INFRAWIRE - AS210699",
       "type": "Network Services"
     },
     "152648": {
@@ -102715,6 +102707,10 @@
     "202532": {
       "name": "MBYTECHNOLOGY",
       "type": "Cable/DSL/ISP"
+    },
+    "202610": {
+      "name": "NEKO-AS",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -124817,7 +124813,7 @@
       "type": "Enterprise"
     },
     "211184": {
-      "name": "Frai.se",
+      "name": "Unitix Network",
       "type": "Educational/Research"
     },
     "141957": {
@@ -128646,11 +128642,7 @@
     },
     "150462": {
       "name": "PT. Air Lintas Komunikasi",
-      "type": "Cable/DSL/ISP"
-    },
-    "198376": {
-      "name": "Kinako Network",
-      "type": "Cable/DSL/ISP"
+      "type": "Unknown"
     },
     "393678": {
       "name": "XDAR Wireless LLC",
