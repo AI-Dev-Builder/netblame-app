@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-21T01:06:42.508Z",
+  "updated_at": "2025-12-22T01:05:36.588Z",
   "source": "PeeringDB",
-  "entry_count": 33580,
+  "entry_count": 33582,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -29027,6 +29027,10 @@
     "36213": {
       "name": "DWASKG",
       "type": "Unknown"
+    },
+    "3580": {
+      "name": "Planet Access Networks",
+      "type": "NSP"
     },
     "41731": {
       "name": "Johannes Moos",
@@ -70729,7 +70733,7 @@
       "type": "Cable/DSL/ISP"
     },
     "213028": {
-      "name": "Clyvo",
+      "name": "Clyvo Networks",
       "type": "Network Services"
     },
     "44411": {
@@ -99140,10 +99144,6 @@
       "name": "NETVIA",
       "type": "Unknown"
     },
-    "205369": {
-      "name": "iYoRoy-Network",
-      "type": "Educational/Research"
-    },
     "205417": {
       "name": "TsukiNoShizuku Project",
       "type": "Educational/Research"
@@ -100158,7 +100158,7 @@
     },
     "209503": {
       "name": "Zentyx",
-      "type": "Unknown"
+      "type": "Content"
     },
     "401818": {
       "name": "SERVOSPHERE-TURKEY",
@@ -102456,10 +102456,6 @@
       "name": "EKO-LINE Sp. z o.o.",
       "type": "Cable/DSL/ISP"
     },
-    "147126": {
-      "name": "PT Patra Sinar Teknologi",
-      "type": "Unknown"
-    },
     "202909": {
       "name": "KUEBLER",
       "type": "Unknown"
@@ -102582,7 +102578,7 @@
     },
     "329593": {
       "name": "Moveon Telecoms Limited (AS329593)",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "209466": {
       "name": "DROVIACOMPUTACAO",
@@ -102710,6 +102706,14 @@
     },
     "202610": {
       "name": "NEKO-AS",
+      "type": "Unknown"
+    },
+    "154415": {
+      "name": "IDNIC-BTW-ID",
+      "type": "Unknown"
+    },
+    "153370": {
+      "name": "FGL-AS-BD",
       "type": "Unknown"
     },
     "22822": {
@@ -123352,6 +123356,10 @@
       "name": "Yuze Zhang",
       "type": "Unknown"
     },
+    "210881": {
+      "name": "LEO-SCHERR",
+      "type": "Unknown"
+    },
     "203432": {
       "name": "FAImaison",
       "type": "Unknown"
@@ -128116,10 +128124,6 @@
       "name": "E2W Solutions AS200716",
       "type": "Educational/Research"
     },
-    "20079": {
-      "name": "VARAYO INC",
-      "type": "Cable/DSL/ISP"
-    },
     "329234": {
       "name": "NMBINX Operations/Route Collector",
       "type": "Route Collector"
@@ -130880,10 +130884,6 @@
       "name": "PixelHosting",
       "type": "Content"
     },
-    "329421": {
-      "name": "Localtel Communications Limited",
-      "type": "Unknown"
-    },
     "54004": {
       "name": "Lightpath",
       "type": "NSP"
@@ -132413,7 +132413,7 @@
       "type": "Enterprise"
     },
     "213866": {
-      "name": "ImGuard Networks",
+      "name": "ImGuard Communications",
       "type": "Content"
     },
     "214806": {
@@ -133768,6 +133768,10 @@
       "name": "NEXUSLINK",
       "type": "Cable/DSL/ISP"
     },
+    "205369": {
+      "name": "iYoRoy-Network",
+      "type": "Educational/Research"
+    },
     "205548": {
       "name": "Zouter",
       "type": "Cable/DSL/ISP"
@@ -134295,6 +134299,10 @@
     "34989": {
       "name": "ServeTheWorld AS",
       "type": "Unknown"
+    },
+    "147126": {
+      "name": "PT Patra Sinar Teknologi",
+      "type": "NSP"
     },
     "19388": {
       "name": "Team Cymru Labs",
