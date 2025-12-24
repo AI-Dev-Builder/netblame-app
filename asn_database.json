@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-23T01:02:15.832Z",
+  "updated_at": "2025-12-24T01:02:06.121Z",
   "source": "PeeringDB",
-  "entry_count": 33589,
+  "entry_count": 33588,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -29589,7 +29589,7 @@
       "type": "Unknown"
     },
     "205678": {
-      "name": "peoplefone",
+      "name": "Peoplefone AG",
       "type": "Unknown"
     },
     "24173": {
@@ -35519,10 +35519,6 @@
     "267343": {
       "name": "DO NASCIMENTO SANTOS INFORMATICA",
       "type": "Cable/DSL/ISP"
-    },
-    "204631": {
-      "name": "VIVANET",
-      "type": "Content"
     },
     "267197": {
       "name": "Camoa Telecom",
@@ -46285,7 +46281,7 @@
       "type": "Route Server"
     },
     "133898": {
-      "name": "FLIP TV",
+      "name": "FLIP",
       "type": "Cable/DSL/ISP"
     },
     "137326": {
@@ -60996,10 +60992,6 @@
       "name": "Netfala",
       "type": "Unknown"
     },
-    "58015": {
-      "name": "XEONITY GbR",
-      "type": "NSP"
-    },
     "211544": {
       "name": "Unlabeled",
       "type": "Educational/Research"
@@ -64346,7 +64338,7 @@
     },
     "8120": {
       "name": "BestWeb",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "15320": {
       "name": "PRIMELINK",
@@ -79924,10 +79916,6 @@
       "name": "SKY NET@HOME",
       "type": "Unknown"
     },
-    "48883": {
-      "name": "fibranode Network",
-      "type": "NSP"
-    },
     "206912": {
       "name": "Superdach",
       "type": "Unknown"
@@ -85384,10 +85372,6 @@
       "name": "AYOUN ACCESS TELECOMMUNICATION AND TECHNOLOGY COMPANY trading as A2 Telecom",
       "type": "Unknown"
     },
-    "215317": {
-      "name": "Marcos Vives Del Sol",
-      "type": "Educational/Research"
-    },
     "35165": {
       "name": "ETOZheWebMAX",
       "type": "Unknown"
@@ -89896,10 +89880,6 @@
       "name": "Millennium Partners, L.P.",
       "type": "Unknown"
     },
-    "214408": {
-      "name": "InternalHost",
-      "type": "Unknown"
-    },
     "211": {
       "name": "Rome Air Development Center",
       "type": "Unknown"
@@ -91351,6 +91331,10 @@
     "329317": {
       "name": "ORG-ML15-AFRINIC",
       "type": "Unknown"
+    },
+    "153131": {
+      "name": "MAINTEK",
+      "type": "Cable/DSL/ISP"
     },
     "888": {
       "name": "AMECO-PRIMARY",
@@ -102662,7 +102646,7 @@
     },
     "215348": {
       "name": "Gnet LLC",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "154244": {
       "name": "PT EMPAT SAUDARA MULIA",
@@ -102730,6 +102714,18 @@
     },
     "215737": {
       "name": "Marnix Bouhuis",
+      "type": "Unknown"
+    },
+    "132707": {
+      "name": "NEXET Sub",
+      "type": "Network Services"
+    },
+    "36002": {
+      "name": "GoMami NET",
+      "type": "NSP"
+    },
+    "274155": {
+      "name": "274155",
       "type": "Unknown"
     },
     "22822": {
@@ -103081,7 +103077,7 @@
       "type": "NSP"
     },
     "23260": {
-      "name": "Savage Communications",
+      "name": "Savage Communications Inc.",
       "type": "Cable/DSL/ISP"
     },
     "40988": {
@@ -111667,6 +111663,10 @@
     "267264": {
       "name": "JrFiber Telecomunicações",
       "type": "Cable/DSL/ISP"
+    },
+    "204631": {
+      "name": "VIVANET",
+      "type": "Content"
     },
     "394352": {
       "name": "FASTNET-COMMUNICATIONS",
@@ -125980,10 +125980,6 @@
       "name": "Starlight Media",
       "type": "Enterprise"
     },
-    "204729": {
-      "name": "Xaviero",
-      "type": "Content"
-    },
     "44709": {
       "name": "KamaTera Israel",
       "type": "Network Services"
@@ -126290,7 +126286,7 @@
     },
     "271751": {
       "name": "GIGANET WIRELESS LTDA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "399980": {
       "name": "RFPT",
