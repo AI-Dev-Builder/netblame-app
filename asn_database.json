@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-24T01:02:06.121Z",
+  "updated_at": "2025-12-25T01:02:18.227Z",
   "source": "PeeringDB",
-  "entry_count": 33588,
+  "entry_count": 33597,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -102266,7 +102266,7 @@
     },
     "149926": {
       "name": "PT Ilham Wifi Solution",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "134644": {
       "name": "PT Cakrawala Lintas Kepri",
@@ -102726,6 +102726,42 @@
     },
     "274155": {
       "name": "274155",
+      "type": "Unknown"
+    },
+    "402094": {
+      "name": "SRJK-DFW-01",
+      "type": "Unknown"
+    },
+    "328614": {
+      "name": "ORG-ETCL1-AFRINIC",
+      "type": "Cable/DSL/ISP"
+    },
+    "10665": {
+      "name": "SKYNET !",
+      "type": "Unknown"
+    },
+    "139553": {
+      "name": "AIRICON-AS-IN",
+      "type": "Unknown"
+    },
+    "212529": {
+      "name": "Jonathan-Rom",
+      "type": "Educational/Research"
+    },
+    "275615": {
+      "name": "ASN275615",
+      "type": "Unknown"
+    },
+    "402105": {
+      "name": "SPANSCALE",
+      "type": "Unknown"
+    },
+    "402103": {
+      "name": "VARAYO-ASN-01",
+      "type": "Cable/DSL/ISP"
+    },
+    "402104": {
+      "name": "ZZNYJIDI",
       "type": "Unknown"
     },
     "22822": {
