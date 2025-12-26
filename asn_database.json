@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-25T01:02:18.227Z",
+  "updated_at": "2025-12-26T01:02:31.466Z",
   "source": "PeeringDB",
-  "entry_count": 33597,
+  "entry_count": 33601,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -62997,7 +62997,7 @@
       "type": "Cable/DSL/ISP"
     },
     "211323": {
-      "name": "MrSheepNET AS211323",
+      "name": "0xDEADBEEF AS211323",
       "type": "Unknown"
     },
     "328817": {
@@ -77910,7 +77910,7 @@
     },
     "206033": {
       "name": "Repox Labs Ltd",
-      "type": "Network Services"
+      "type": "NSP"
     },
     "271610": {
       "name": "FoxFibraPRO Telecomunicações do Brasil LTDA",
@@ -80453,7 +80453,7 @@
       "type": "Cable/DSL/ISP"
     },
     "37725": {
-      "name": "NGN (Decommissioned)",
+      "name": "IoT",
       "type": "Network Services"
     },
     "198011": {
@@ -81399,10 +81399,6 @@
     "329199": {
       "name": "STL FIBERCO",
       "type": "Unknown"
-    },
-    "3920": {
-      "name": "ESTOXY-OU",
-      "type": "Enterprise"
     },
     "198990": {
       "name": "Pine Hosting",
@@ -94970,7 +94966,7 @@
     },
     "152014": {
       "name": "PT. Mitra Kita Brilian",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "57300": {
       "name": "Comuni Riuniti XL s.r.l.",
@@ -102660,10 +102656,6 @@
       "name": "StarNetwork !",
       "type": "Unknown"
     },
-    "154239": {
-      "name": "Neosoft Technologies And Software Pvt Ltd",
-      "type": "Unknown"
-    },
     "137428": {
       "name": "PT Carel Mitra Komunika",
       "type": "Unknown"
@@ -102762,6 +102754,26 @@
     },
     "402104": {
       "name": "ZZNYJIDI",
+      "type": "Unknown"
+    },
+    "215990": {
+      "name": "Jell",
+      "type": "Unknown"
+    },
+    "151866": {
+      "name": "DAIHUU-VN",
+      "type": "Unknown"
+    },
+    "152382": {
+      "name": "IDNIC-KSN-AS-ID",
+      "type": "Unknown"
+    },
+    "216169": {
+      "name": "Mtserver",
+      "type": "Unknown"
+    },
+    "203753": {
+      "name": "CLOUDRACK !",
       "type": "Unknown"
     },
     "22822": {
@@ -128697,8 +128709,8 @@
       "type": "Cable/DSL/ISP"
     },
     "150462": {
-      "name": "PT. Air Lintas Komunikasi",
-      "type": "Unknown"
+      "name": "PT Air Lintas Komunikasi",
+      "type": "Cable/DSL/ISP"
     },
     "393678": {
       "name": "XDAR Wireless LLC",
@@ -134391,6 +134403,10 @@
     "274385": {
       "name": "RCELL TELECOM COMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
+    },
+    "154239": {
+      "name": "Neosoft Technologies And Software Pvt Ltd",
+      "type": "Network Services"
     }
   }
 }
