@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-26T01:02:31.466Z",
+  "updated_at": "2025-12-27T01:00:53.557Z",
   "source": "PeeringDB",
-  "entry_count": 33601,
+  "entry_count": 33602,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -40724,10 +40724,6 @@
       "name": "Daulatpur Online",
       "type": "Cable/DSL/ISP"
     },
-    "199466": {
-      "name": "Voxbit",
-      "type": "Content"
-    },
     "209989": {
       "name": "LRT",
       "type": "Enterprise"
@@ -63468,10 +63464,6 @@
       "name": "Mitan Telematica",
       "type": "NSP"
     },
-    "211063": {
-      "name": "E",
-      "type": "Non-Profit"
-    },
     "265192": {
       "name": "F. A. ROCHA E COMERCIO",
       "type": "Cable/DSL/ISP"
@@ -65602,7 +65594,7 @@
     },
     "210667": {
       "name": "Smishcraft Hosting",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "50898": {
       "name": "METROLINE-PL",
@@ -67163,10 +67155,6 @@
     "272551": {
       "name": "Acenet Soluções de Rede e Internet",
       "type": "Cable/DSL/ISP"
-    },
-    "147021": {
-      "name": "Hong Kong Pu Ju International Group",
-      "type": "Unknown"
     },
     "131523": {
       "name": "Shanghai pujv Communication Technology",
@@ -76958,7 +76946,7 @@
     },
     "41068": {
       "name": "SPEEDBIT",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "210315": {
       "name": "RealTime",
@@ -87243,10 +87231,6 @@
     "216407": {
       "name": "Riyadh IX Route Servers",
       "type": "Route Server"
-    },
-    "214848": {
-      "name": "CompatibleNetwork",
-      "type": "Unknown"
     },
     "272099": {
       "name": "WIRSCHKE MONGES RICARDO DANIEL",
@@ -102658,7 +102642,7 @@
     },
     "137428": {
       "name": "PT Carel Mitra Komunika",
-      "type": "Unknown"
+      "type": "Content"
     },
     "265818": {
       "name": "CORAL CABLE VISION LIMITED",
@@ -102746,7 +102730,7 @@
     },
     "402105": {
       "name": "SPANSCALE",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "402103": {
       "name": "VARAYO-ASN-01",
@@ -102774,6 +102758,34 @@
     },
     "203753": {
       "name": "CLOUDRACK !",
+      "type": "Unknown"
+    },
+    "27640": {
+      "name": "GIGAS HOSTING USA",
+      "type": "Enterprise"
+    },
+    "154314": {
+      "name": "IDNIC-ENOSYS-AS-ID",
+      "type": "Unknown"
+    },
+    "274175": {
+      "name": "Cooperativa Telefonica Coronel Du Graty",
+      "type": "Cable/DSL/ISP"
+    },
+    "273720": {
+      "name": "EVEREST DIGITAL (ASN273720)",
+      "type": "Content"
+    },
+    "153876": {
+      "name": "IDNIC-OMG-AS-ID",
+      "type": "Unknown"
+    },
+    "215619": {
+      "name": "RCD-AS",
+      "type": "Unknown"
+    },
+    "2535": {
+      "name": "BP",
       "type": "Unknown"
     },
     "22822": {
@@ -104179,10 +104191,6 @@
     "33762": {
       "name": "Broadlink (Pty) Ltd",
       "type": "Cable/DSL/ISP"
-    },
-    "26106": {
-      "name": "Premitel",
-      "type": "NSP"
     },
     "45630": {
       "name": "Fibrecomm Network (M) Sdn Bhd",
@@ -115520,10 +115528,6 @@
       "name": "DATANET-UG",
       "type": "Cable/DSL/ISP"
     },
-    "268728": {
-      "name": "ALLREDE TELECOM (TI5)",
-      "type": "Cable/DSL/ISP"
-    },
     "268206": {
       "name": "Community Net Internet e Informática",
       "type": "Cable/DSL/ISP"
@@ -122175,10 +122179,6 @@
     "38230": {
       "name": "Navice Communications B.V.",
       "type": "Network Services"
-    },
-    "211646": {
-      "name": "Freie Netze Ostfriesland",
-      "type": "Non-Profit"
     },
     "262978": {
       "name": "Armazém Datacenter",
@@ -130733,7 +130733,7 @@
       "type": "Content"
     },
     "204902": {
-      "name": "XIWO",
+      "name": "MARITIK INFRAS",
       "type": "Network Services"
     },
     "152080": {
@@ -131195,6 +131195,10 @@
     "214836": {
       "name": "KMMGROEP-AS",
       "type": "Enterprise"
+    },
+    "214848": {
+      "name": "CompatibleNetwork",
+      "type": "Non-Profit"
     },
     "266832": {
       "name": "Contecom",
