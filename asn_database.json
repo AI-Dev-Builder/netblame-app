@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-27T01:00:53.557Z",
+  "updated_at": "2025-12-28T01:10:24.890Z",
   "source": "PeeringDB",
-  "entry_count": 33602,
+  "entry_count": 33605,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -85836,6 +85836,10 @@
       "name": "CHANNELUCPTYLTD-AS-AP",
       "type": "Unknown"
     },
+    "215470": {
+      "name": "LAZCO STUDIO LTD",
+      "type": "NSP"
+    },
     "263109": {
       "name": "Primus Solucoes em T.I. LTDA",
       "type": "Unknown"
@@ -88394,6 +88398,10 @@
     },
     "272040": {
       "name": "272040",
+      "type": "Unknown"
+    },
+    "214565": {
+      "name": "Empeiria-Ai-Transit",
       "type": "Unknown"
     },
     "273154": {
@@ -98616,10 +98624,6 @@
       "name": "Atypon Systems",
       "type": "Content"
     },
-    "208181": {
-      "name": "STORMUR-IP",
-      "type": "Enterprise"
-    },
     "40111": {
       "name": "PARKER FIBERNET",
       "type": "Cable/DSL/ISP"
@@ -99429,7 +99433,7 @@
       "type": "Unknown"
     },
     "205141": {
-      "name": "XIWO-TECHNOLOGIES",
+      "name": "XIWO TECHNOLOGIES",
       "type": "Cable/DSL/ISP"
     },
     "214659": {
@@ -99587,10 +99591,6 @@
     "48511": {
       "name": "Sector Telecom Ltd.",
       "type": "Cable/DSL/ISP"
-    },
-    "210880": {
-      "name": "Arda Daglioglu",
-      "type": "Unknown"
     },
     "153785": {
       "name": "BERRYM",
@@ -102740,24 +102740,16 @@
       "name": "ZZNYJIDI",
       "type": "Unknown"
     },
-    "215990": {
-      "name": "Jell",
-      "type": "Unknown"
-    },
     "151866": {
       "name": "DAIHUU-VN",
       "type": "Unknown"
     },
     "152382": {
-      "name": "IDNIC-KSN-AS-ID",
-      "type": "Unknown"
+      "name": "Kartika Siger Network",
+      "type": "Cable/DSL/ISP"
     },
     "216169": {
       "name": "Mtserver",
-      "type": "Unknown"
-    },
-    "203753": {
-      "name": "CLOUDRACK !",
       "type": "Unknown"
     },
     "27640": {
@@ -102786,6 +102778,22 @@
     },
     "2535": {
       "name": "BP",
+      "type": "Unknown"
+    },
+    "202934": {
+      "name": "MUNTEANU-AS",
+      "type": "Unknown"
+    },
+    "64245": {
+      "name": "AS-DIGITALFYRE",
+      "type": "Content"
+    },
+    "207840": {
+      "name": "XIWO MOBILE",
+      "type": "Cable/DSL/ISP"
+    },
+    "154449": {
+      "name": "DSN-AS-AP",
       "type": "Unknown"
     },
     "22822": {
@@ -126028,6 +126036,10 @@
       "name": "Starlight Media",
       "type": "Enterprise"
     },
+    "204729": {
+      "name": "Internalhost",
+      "type": "Content"
+    },
     "44709": {
       "name": "KamaTera Israel",
       "type": "Network Services"
@@ -128936,10 +128948,6 @@
       "name": "PT.PC24 Telekomunikasi Indonesia",
       "type": "Network Services"
     },
-    "197434": {
-      "name": "NAU",
-      "type": "Educational/Research"
-    },
     "272732": {
       "name": "ONLY SERVICOS DE TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
@@ -130763,10 +130771,6 @@
     "400400": {
       "name": "Clair Global",
       "type": "Cable/DSL/ISP"
-    },
-    "215470": {
-      "name": "LAZCO STUDIO LTD",
-      "type": "NSP"
     },
     "14219": {
       "name": "ENTRYWAN",
@@ -133952,6 +133956,10 @@
       "name": "HLINK",
       "type": "Cable/DSL/ISP"
     },
+    "210880": {
+      "name": "Arda Daglioglu",
+      "type": "Route Collector"
+    },
     "329608": {
       "name": "NetClick",
       "type": "Cable/DSL/ISP"
@@ -134411,6 +134419,10 @@
     "154239": {
       "name": "Neosoft Technologies And Software Pvt Ltd",
       "type": "Network Services"
+    },
+    "215990": {
+      "name": "Jell",
+      "type": "Unknown"
     }
   }
 }
