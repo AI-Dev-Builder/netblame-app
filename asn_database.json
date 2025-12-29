@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-28T01:10:24.890Z",
+  "updated_at": "2025-12-29T01:08:06.235Z",
   "source": "PeeringDB",
-  "entry_count": 33605,
+  "entry_count": 33608,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -40240,10 +40240,6 @@
       "name": "A.I.P. INTERNET",
       "type": "Cable/DSL/ISP"
     },
-    "58750": {
-      "name": "Logic Plus",
-      "type": "Enterprise"
-    },
     "268654": {
       "name": "NOVAFIBRA",
       "type": "Unknown"
@@ -41053,7 +41049,7 @@
       "type": "Cable/DSL/ISP"
     },
     "209710": {
-      "name": "SNRD-AS",
+      "name": "SNRD Networks Limited (Lumine)",
       "type": "Content"
     },
     "202707": {
@@ -53715,10 +53711,6 @@
     "26974": {
       "name": "bigbyte.cc Corp",
       "type": "Unknown"
-    },
-    "55913": {
-      "name": "Logic Plus Corporate",
-      "type": "Enterprise"
     },
     "270797": {
       "name": "Brasil Cloud Serviços de Computação em Nuvem",
@@ -80500,6 +80492,10 @@
       "name": "HRCNET TELECOM LTDA",
       "type": "Unknown"
     },
+    "61961": {
+      "name": "Nellicus, LLC",
+      "type": "Educational/Research"
+    },
     "49769": {
       "name": "Teracom Samhällsnät AB",
       "type": "Unknown"
@@ -102614,7 +102610,7 @@
     },
     "274772": {
       "name": "UP NET WORK INTERNET FIBRA OPTICA LTDA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "401506": {
       "name": "Together Computer, Inc.",
@@ -102794,6 +102790,26 @@
     },
     "154449": {
       "name": "DSN-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "202734": {
+      "name": "Tianshome",
+      "type": "Unknown"
+    },
+    "53654": {
+      "name": "TJF-HOLDINGS",
+      "type": "Unknown"
+    },
+    "154418": {
+      "name": "MSBDCLOUD-AS-AP",
+      "type": "Content"
+    },
+    "13317": {
+      "name": "AS-WAN",
+      "type": "Unknown"
+    },
+    "213975": {
+      "name": "COMPUTER-POWER",
       "type": "Unknown"
     },
     "22822": {
@@ -129007,10 +129023,6 @@
     "64289": {
       "name": "Macarne - AS64289",
       "type": "NSP"
-    },
-    "61961": {
-      "name": "Nellicus, LLC",
-      "type": "Educational/Research"
     },
     "31942": {
       "name": "HyperFiber",
