@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-29T01:08:06.235Z",
+  "updated_at": "2025-12-30T01:02:49.421Z",
   "source": "PeeringDB",
-  "entry_count": 33608,
+  "entry_count": 33622,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -7093,7 +7093,7 @@
       "type": "Content"
     },
     "13409": {
-      "name": "Portland Internetworks",
+      "name": "Internetworks",
       "type": "Cable/DSL/ISP"
     },
     "31463": {
@@ -40240,6 +40240,10 @@
       "name": "A.I.P. INTERNET",
       "type": "Cable/DSL/ISP"
     },
+    "58750": {
+      "name": "Logic Plus",
+      "type": "Enterprise"
+    },
     "268654": {
       "name": "NOVAFIBRA",
       "type": "Unknown"
@@ -52663,10 +52667,6 @@
     "265896": {
       "name": "VIVA TELECOMUNICAÇÕES",
       "type": "NSP"
-    },
-    "44291": {
-      "name": "Infomir",
-      "type": "Cable/DSL/ISP"
     },
     "213310": {
       "name": "Tyler Griffiths",
@@ -77576,10 +77576,6 @@
       "name": "HGC GLOBAL COMMUNICAT IONS (CAMBODIA) COMPANY LIMIT ED",
       "type": "Unknown"
     },
-    "199108": {
-      "name": "TAMUKAI NETWORK R",
-      "type": "Educational/Research"
-    },
     "51742": {
       "name": "Netlife ISP",
       "type": "Cable/DSL/ISP"
@@ -81383,6 +81379,10 @@
     "329199": {
       "name": "STL FIBERCO",
       "type": "Unknown"
+    },
+    "3920": {
+      "name": "PUSHPKT-OU",
+      "type": "Enterprise"
     },
     "198990": {
       "name": "Pine Hosting",
@@ -88397,7 +88397,7 @@
       "type": "Unknown"
     },
     "214565": {
-      "name": "Empeiria-Ai-Transit",
+      "name": "EMPEIRIA AI LTD",
       "type": "Unknown"
     },
     "273154": {
@@ -100029,7 +100029,7 @@
       "type": "NSP"
     },
     "198020": {
-      "name": "Verda Cloud Oy",
+      "name": "Verda Cloud",
       "type": "Unknown"
     },
     "202956": {
@@ -101256,6 +101256,10 @@
       "name": "SIBANET",
       "type": "Cable/DSL/ISP"
     },
+    "19896": {
+      "name": "Albro Holdings",
+      "type": "Unknown"
+    },
     "211539": {
       "name": "YUSUF OZTURKYUSUF OZTURK",
       "type": "Cable/DSL/ISP"
@@ -102329,7 +102333,7 @@
       "type": "Unknown"
     },
     "54801": {
-      "name": "ZILLION-NETWORK",
+      "name": "Zillion Network Inc.",
       "type": "Unknown"
     },
     "139620": {
@@ -102541,7 +102545,7 @@
       "type": "Network Services"
     },
     "213787": {
-      "name": "CLOUDRACK",
+      "name": "CLOUDRACK-MSK",
       "type": "Network Services"
     },
     "213780": {
@@ -102633,7 +102637,7 @@
       "type": "Unknown"
     },
     "58062": {
-      "name": "StarNetwork !",
+      "name": "w1n ltd",
       "type": "Unknown"
     },
     "137428": {
@@ -102697,31 +102701,31 @@
       "type": "NSP"
     },
     "274155": {
-      "name": "274155",
+      "name": "DIGITAL DOT GROUP SAS",
       "type": "Unknown"
     },
     "402094": {
-      "name": "SRJK-DFW-01",
+      "name": "SRJK LLC",
       "type": "Unknown"
     },
     "328614": {
-      "name": "ORG-ETCL1-AFRINIC",
+      "name": "Eden Technologies",
       "type": "Cable/DSL/ISP"
     },
     "10665": {
-      "name": "SKYNET !",
+      "name": "SkyNET Corporation",
       "type": "Unknown"
     },
     "139553": {
-      "name": "AIRICON-AS-IN",
+      "name": "Airicon Communication Pvt Ltd",
       "type": "Unknown"
     },
     "212529": {
-      "name": "Jonathan-Rom",
+      "name": "Jonathan Rom",
       "type": "Educational/Research"
     },
     "275615": {
-      "name": "ASN275615",
+      "name": "R de Abreu Machado",
       "type": "Unknown"
     },
     "402105": {
@@ -102729,7 +102733,7 @@
       "type": "Enterprise"
     },
     "402103": {
-      "name": "VARAYO-ASN-01",
+      "name": "VARAYO",
       "type": "Cable/DSL/ISP"
     },
     "402104": {
@@ -102737,7 +102741,7 @@
       "type": "Unknown"
     },
     "151866": {
-      "name": "DAIHUU-VN",
+      "name": "DAI HUU SERVICE AND TRADING MECHANICAL COMPANY LIMITED",
       "type": "Unknown"
     },
     "152382": {
@@ -102748,12 +102752,16 @@
       "name": "Mtserver",
       "type": "Unknown"
     },
+    "203753": {
+      "name": "CLOUDRACK-SAM",
+      "type": "Network Services"
+    },
     "27640": {
       "name": "GIGAS HOSTING USA",
       "type": "Enterprise"
     },
     "154314": {
-      "name": "IDNIC-ENOSYS-AS-ID",
+      "name": "PT Eno Cyber Sentinel",
       "type": "Unknown"
     },
     "274175": {
@@ -102765,19 +102773,19 @@
       "type": "Content"
     },
     "153876": {
-      "name": "IDNIC-OMG-AS-ID",
-      "type": "Unknown"
+      "name": "Oofydi Media Group",
+      "type": "Cable/DSL/ISP"
     },
     "215619": {
-      "name": "RCD-AS",
+      "name": "Cheung Yat Hei Sean",
       "type": "Unknown"
     },
     "2535": {
-      "name": "BP",
+      "name": "BP America, Inc.",
       "type": "Unknown"
     },
     "202934": {
-      "name": "MUNTEANU-AS",
+      "name": "SINCITY HOSTING",
       "type": "Unknown"
     },
     "64245": {
@@ -102789,27 +102797,67 @@
       "type": "Cable/DSL/ISP"
     },
     "154449": {
-      "name": "DSN-AS-AP",
+      "name": "Dream Solution Networks",
       "type": "Cable/DSL/ISP"
     },
-    "202734": {
-      "name": "Tianshome",
-      "type": "Unknown"
-    },
     "53654": {
-      "name": "TJF-HOLDINGS",
+      "name": "TJF HOLDINGS",
       "type": "Unknown"
     },
     "154418": {
-      "name": "MSBDCLOUD-AS-AP",
+      "name": "M/S. BD Cloud",
       "type": "Content"
     },
     "13317": {
-      "name": "AS-WAN",
+      "name": "Wan holdings LLC",
       "type": "Unknown"
     },
     "213975": {
-      "name": "COMPUTER-POWER",
+      "name": "Warwick Ward-Cox",
+      "type": "Unknown"
+    },
+    "149933": {
+      "name": "PT Sahabat Manjur Grup",
+      "type": "Unknown"
+    },
+    "203778": {
+      "name": "SPEED-NET Arkadiusz Broniecki",
+      "type": "Unknown"
+    },
+    "9442": {
+      "name": "NIXI, De-cix Interwire Internet Services Private Limited",
+      "type": "Unknown"
+    },
+    "132295": {
+      "name": "Jahid Communication",
+      "type": "Unknown"
+    },
+    "207966": {
+      "name": "AO \"State Technical Service\"",
+      "type": "Unknown"
+    },
+    "209224": {
+      "name": "Landesbank Baden-Wuerttemberg",
+      "type": "Unknown"
+    },
+    "154455": {
+      "name": "INSTANET",
+      "type": "Unknown"
+    },
+    "274029": {
+      "name": "274029",
+      "type": "Cable/DSL/ISP"
+    },
+    "139205": {
+      "name": "Jalabyte",
+      "type": "Cable/DSL/ISP"
+    },
+    "213902": {
+      "name": "ZLAYER",
+      "type": "Unknown"
+    },
+    "154471": {
+      "name": "BROTHERS1-AS-AP",
       "type": "Unknown"
     },
     "22822": {
@@ -118864,6 +118912,10 @@
       "name": "CarandaiNet Serviços de Internet Ltda.",
       "type": "Cable/DSL/ISP"
     },
+    "44291": {
+      "name": "Infomir",
+      "type": "Cable/DSL/ISP"
+    },
     "213295": {
       "name": "OPENTEL",
       "type": "Cable/DSL/ISP"
@@ -124909,7 +124961,7 @@
       "type": "Enterprise"
     },
     "211184": {
-      "name": "Unitix Network",
+      "name": "Unitix",
       "type": "Educational/Research"
     },
     "141957": {
@@ -125482,7 +125534,7 @@
     },
     "205684": {
       "name": "Algathia",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "400555": {
       "name": "Isogram",
@@ -132121,7 +132173,7 @@
       "type": "Cable/DSL/ISP"
     },
     "215704": {
-      "name": "NGN CZ",
+      "name": "NGN CZ s.r.o.",
       "type": "NSP"
     },
     "56554": {
@@ -134435,6 +134487,10 @@
     "215990": {
       "name": "Jell",
       "type": "Unknown"
+    },
+    "202734": {
+      "name": "Tianshome",
+      "type": "Educational/Research"
     }
   }
 }
