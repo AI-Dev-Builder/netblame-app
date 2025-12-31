@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-30T01:02:49.421Z",
+  "updated_at": "2025-12-31T01:03:58.063Z",
   "source": "PeeringDB",
-  "entry_count": 33622,
+  "entry_count": 33631,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -41052,10 +41052,6 @@
       "name": "WAVE RURAL CONNECT Network",
       "type": "Cable/DSL/ISP"
     },
-    "209710": {
-      "name": "SNRD Networks Limited (Lumine)",
-      "type": "Content"
-    },
     "202707": {
       "name": "omnidat",
       "type": "Cable/DSL/ISP"
@@ -69790,7 +69786,7 @@
     },
     "210106": {
       "name": "HuskyHQ",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "400688": {
       "name": "DanielNet",
@@ -71521,7 +71517,7 @@
       "type": "Content"
     },
     "267212": {
-      "name": "SERVER MEDIA COMUNICAÇÃO",
+      "name": "WEB 8 DATA CENTER LTDA",
       "type": "NSP"
     },
     "271102": {
@@ -76630,7 +76626,7 @@
     },
     "393796": {
       "name": "Golden Belt Telephone",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "268085": {
       "name": "Plusnet Foz",
@@ -87299,6 +87295,10 @@
     "152848": {
       "name": "asdf.hk",
       "type": "NSP"
+    },
+    "214946": {
+      "name": "Kireshki",
+      "type": "Unknown"
     },
     "267704": {
       "name": "267704",
@@ -99102,7 +99102,7 @@
     },
     "39194": {
       "name": "VSP",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "207483": {
       "name": "NETVIA",
@@ -101280,10 +101280,6 @@
       "name": "MAXKO (Africa)",
       "type": "NSP"
     },
-    "204150": {
-      "name": "StormHost",
-      "type": "Content"
-    },
     "7565": {
       "name": "BDCOM Online Limited",
       "type": "Cable/DSL/ISP"
@@ -102658,7 +102654,7 @@
     },
     "202610": {
       "name": "NekoClaw Ltd",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "154415": {
       "name": "PT Bajastu Teknologi Waringin",
@@ -102706,7 +102702,7 @@
     },
     "402094": {
       "name": "SRJK LLC",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "328614": {
       "name": "Eden Technologies",
@@ -102858,6 +102854,34 @@
     },
     "154471": {
       "name": "BROTHERS1-AS-AP",
+      "type": "Unknown"
+    },
+    "151393": {
+      "name": "NNICPL-AS-AP",
+      "type": "Unknown"
+    },
+    "274389": {
+      "name": "ASN274389",
+      "type": "Unknown"
+    },
+    "213893": {
+      "name": "IPTR-AS",
+      "type": "Unknown"
+    },
+    "214785": {
+      "name": "INTONET369",
+      "type": "Unknown"
+    },
+    "31184": {
+      "name": "MBNET-AS",
+      "type": "Enterprise"
+    },
+    "400562": {
+      "name": "AS-ATOM",
+      "type": "Unknown"
+    },
+    "154442": {
+      "name": "IDNIC-ASATRIONETWORK-ID",
       "type": "Unknown"
     },
     "22822": {
@@ -109646,7 +109670,7 @@
     },
     "264596": {
       "name": "ALFA TELECOMUNICACOES",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "42739": {
       "name": "Hawe Telekom",
@@ -109797,7 +109821,7 @@
       "type": "Cable/DSL/ISP"
     },
     "133647": {
-      "name": "ELXIRE DATA SERVICES",
+      "name": "ELXIRE COMMUNICATION LTD",
       "type": "Cable/DSL/ISP"
     },
     "41441": {
@@ -114331,6 +114355,10 @@
     "61461": {
       "name": "Airtek Solutions",
       "type": "NSP"
+    },
+    "209710": {
+      "name": "SNRD Networks Limited (Lumine)",
+      "type": "Content"
     },
     "268084": {
       "name": "MAXIMA INTERNET BANDA LARGA",
@@ -126084,6 +126112,10 @@
       "name": "Alioth Systems",
       "type": "Educational/Research"
     },
+    "204225": {
+      "name": "Oma",
+      "type": "Content"
+    },
     "150004": {
       "name": "Check Networks",
       "type": "NSP"
@@ -132553,7 +132585,7 @@
       "type": "Enterprise"
     },
     "213866": {
-      "name": "ImGuard Communications",
+      "name": "Vortex Hosting",
       "type": "Content"
     },
     "214806": {
@@ -134307,6 +134339,10 @@
     "210046": {
       "name": "Beeasy",
       "type": "Unknown"
+    },
+    "204150": {
+      "name": "StormHost",
+      "type": "Content"
     },
     "137356": {
       "name": "Universitas PGRI Yogyakarta",
