@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-12-31T01:03:58.063Z",
+  "updated_at": "2026-01-01T01:10:26.025Z",
   "source": "PeeringDB",
-  "entry_count": 33631,
+  "entry_count": 33624,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -8670,10 +8670,6 @@
     },
     "57879": {
       "name": "sfip84 Hosting und mehr",
-      "type": "Content"
-    },
-    "56730": {
-      "name": "Wirehive Ltd",
       "type": "Content"
     },
     "51514": {
@@ -21632,10 +21628,6 @@
       "name": "MCG Jakub Skorek",
       "type": "Cable/DSL/ISP"
     },
-    "64402": {
-      "name": "VMX Communications",
-      "type": "NSP"
-    },
     "263807": {
       "name": "MEDIASTREAM",
       "type": "Content"
@@ -22159,10 +22151,6 @@
     "35760": {
       "name": "PROXNET SP.J.",
       "type": "Cable/DSL/ISP"
-    },
-    "134409": {
-      "name": "PublicDNS AS134409",
-      "type": "Non-Profit"
     },
     "134881": {
       "name": "JLINK INDIA",
@@ -24702,7 +24690,7 @@
     },
     "56549": {
       "name": "State Technical Service KZ",
-      "type": "Unknown"
+      "type": "Route Server"
     },
     "52078": {
       "name": "MARTEL MARTA BIENIA",
@@ -43251,10 +43239,6 @@
     "136998": {
       "name": "POIPETINTERNET",
       "type": "Unknown"
-    },
-    "24322": {
-      "name": "HostLink",
-      "type": "NSP"
     },
     "135666": {
       "name": "MOIC AS",
@@ -67448,10 +67432,6 @@
       "name": "CONNECT-S",
       "type": "Cable/DSL/ISP"
     },
-    "271588": {
-      "name": "TIEL TELECOM",
-      "type": "NSP"
-    },
     "149315": {
       "name": "SOLNET INDONESIA AS149315",
       "type": "Cable/DSL/ISP"
@@ -82872,10 +82852,6 @@
       "name": "GRAZHDANIN",
       "type": "Unknown"
     },
-    "199707": {
-      "name": "ByteVirt",
-      "type": "Unknown"
-    },
     "215963": {
       "name": "Torin Storkey",
       "type": "Unknown"
@@ -87748,10 +87724,6 @@
       "name": "Chemnitzer StudentenNetz",
       "type": "Non-Profit"
     },
-    "214726": {
-      "name": "Boring Network",
-      "type": "Enterprise"
-    },
     "150549": {
       "name": "PT JKB Telematika Indonesia",
       "type": "Cable/DSL/ISP"
@@ -91357,7 +91329,7 @@
       "type": "NSP"
     },
     "215026": {
-      "name": "EvosHosting by Len Service SRL",
+      "name": "WaleHost by Len Service SRL",
       "type": "Content"
     },
     "30482": {
@@ -100236,10 +100208,6 @@
       "name": "ZAJIL-AS",
       "type": "Unknown"
     },
-    "153545": {
-      "name": "CLOUDASNPTYLTD-AS-AU",
-      "type": "Unknown"
-    },
     "207217": {
       "name": "Hawe Telekom MIX",
       "type": "NSP"
@@ -102768,10 +102736,6 @@
       "name": "EVEREST DIGITAL (ASN273720)",
       "type": "Content"
     },
-    "153876": {
-      "name": "Oofydi Media Group",
-      "type": "Cable/DSL/ISP"
-    },
     "215619": {
       "name": "Cheung Yat Hei Sean",
       "type": "Unknown"
@@ -102878,10 +102842,22 @@
     },
     "400562": {
       "name": "AS-ATOM",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "154442": {
       "name": "IDNIC-ASATRIONETWORK-ID",
+      "type": "Unknown"
+    },
+    "18043": {
+      "name": "HCCG-AS",
+      "type": "Unknown"
+    },
+    "139940": {
+      "name": "IDNIC-SAMPANGKAB-AS-ID",
+      "type": "Unknown"
+    },
+    "154408": {
+      "name": "URLSTART-AS-AP",
       "type": "Unknown"
     },
     "22822": {
@@ -107759,10 +107735,6 @@
     "45284": {
       "name": "Wireline Solution India Pvt Ltd",
       "type": "Cable/DSL/ISP"
-    },
-    "135610": {
-      "name": "Open Route Servers",
-      "type": "Route Server"
     },
     "133968": {
       "name": "Logon Broadband",
@@ -114309,7 +114281,7 @@
       "type": "Cable/DSL/ISP"
     },
     "9155": {
-      "name": "Qnet",
+      "name": "Solutions by STC",
       "type": "Unknown"
     },
     "43660": {
@@ -126486,7 +126458,7 @@
     },
     "57793": {
       "name": "1310.io",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "58007": {
       "name": "Witine",
@@ -131548,10 +131520,6 @@
       "name": "CELLNEX POLAND Sp. z o.o.",
       "type": "Enterprise"
     },
-    "214643": {
-      "name": "Starina Inc",
-      "type": "Cable/DSL/ISP"
-    },
     "12494": {
       "name": "OOO \"Post ltd\"",
       "type": "Cable/DSL/ISP"
@@ -134523,6 +134491,10 @@
     "215990": {
       "name": "Jell",
       "type": "Unknown"
+    },
+    "153876": {
+      "name": "Oofydi Media Group",
+      "type": "Cable/DSL/ISP"
     },
     "202734": {
       "name": "Tianshome",
