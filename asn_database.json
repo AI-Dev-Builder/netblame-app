@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-01T01:10:26.025Z",
+  "updated_at": "2026-01-02T01:04:14.971Z",
   "source": "PeeringDB",
-  "entry_count": 33624,
+  "entry_count": 33628,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -99553,7 +99553,7 @@
       "type": "Unknown"
     },
     "154189": {
-      "name": "Fiber 4",
+      "name": "FIBER4-AS-AP",
       "type": "Cable/DSL/ISP"
     },
     "48511": {
@@ -102858,6 +102858,26 @@
     },
     "154408": {
       "name": "URLSTART-AS-AP",
+      "type": "Unknown"
+    },
+    "153252": {
+      "name": "RGCOMP-AS-IN",
+      "type": "Unknown"
+    },
+    "142169": {
+      "name": "IRINN-HIRDHAV-AS-IN",
+      "type": "Unknown"
+    },
+    "205305": {
+      "name": "pandem_asn",
+      "type": "Unknown"
+    },
+    "203766": {
+      "name": "AWILLS",
+      "type": "Unknown"
+    },
+    "49995": {
+      "name": "THREEFON-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -109793,7 +109813,7 @@
       "type": "Cable/DSL/ISP"
     },
     "133647": {
-      "name": "ELXIRE COMMUNICATION LTD",
+      "name": "ELXIRE DATA SERVICES PVT LTD",
       "type": "Cable/DSL/ISP"
     },
     "41441": {
@@ -134487,10 +134507,6 @@
     "154239": {
       "name": "Neosoft Technologies And Software Pvt Ltd",
       "type": "Network Services"
-    },
-    "215990": {
-      "name": "Jell",
-      "type": "Unknown"
     },
     "153876": {
       "name": "Oofydi Media Group",
