@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-02T01:04:14.971Z",
+  "updated_at": "2026-01-03T01:00:17.768Z",
   "source": "PeeringDB",
-  "entry_count": 33628,
+  "entry_count": 33633,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -86536,10 +86536,6 @@
       "name": "KHATOREIT-AS-IN",
       "type": "Cable/DSL/ISP"
     },
-    "215035": {
-      "name": "CONNECT-IX",
-      "type": "Network Services"
-    },
     "268879": {
       "name": "RASÃO SYGANET TELECOMUNICAÇÕES LTDA",
       "type": "Cable/DSL/ISP"
@@ -87294,7 +87290,7 @@
     },
     "401100": {
       "name": "BMUS AS401100",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "202719": {
       "name": "PRANET",
@@ -97672,10 +97668,6 @@
       "name": "PT Jaringan Teknologi Sejahtera",
       "type": "Cable/DSL/ISP"
     },
-    "153996": {
-      "name": "VP InfoTech Co., Ltd. (VisperHost)",
-      "type": "Enterprise"
-    },
     "13438": {
       "name": "VIVIO-TECHNOLOGIES",
       "type": "Unknown"
@@ -99553,7 +99545,7 @@
       "type": "Unknown"
     },
     "154189": {
-      "name": "FIBER4-AS-AP",
+      "name": "Fiber 4",
       "type": "Cable/DSL/ISP"
     },
     "48511": {
@@ -100393,8 +100385,8 @@
       "type": "Content"
     },
     "48660": {
-      "name": "talido",
-      "type": "Unknown"
+      "name": "VERIUP",
+      "type": "Content"
     },
     "140100": {
       "name": "MWNPL-AS-AP",
@@ -102144,10 +102136,6 @@
       "name": "Hostpolis Networks",
       "type": "Unknown"
     },
-    "274580": {
-      "name": "CANAA TELECOM",
-      "type": "Cable/DSL/ISP"
-    },
     "131306": {
       "name": "CITI Cableworld Inc.",
       "type": "Cable/DSL/ISP"
@@ -102836,10 +102824,6 @@
       "name": "INTONET369",
       "type": "Unknown"
     },
-    "31184": {
-      "name": "MBNET-AS",
-      "type": "Enterprise"
-    },
     "400562": {
       "name": "AS-ATOM",
       "type": "Cable/DSL/ISP"
@@ -102849,8 +102833,8 @@
       "type": "Unknown"
     },
     "18043": {
-      "name": "HCCG-AS",
-      "type": "Unknown"
+      "name": "Department of Education, Hsinchu City",
+      "type": "Educational/Research"
     },
     "139940": {
       "name": "IDNIC-SAMPANGKAB-AS-ID",
@@ -102878,6 +102862,26 @@
     },
     "49995": {
       "name": "THREEFON-AS",
+      "type": "Unknown"
+    },
+    "210438": {
+      "name": "NOP-SYSTEMS",
+      "type": "Unknown"
+    },
+    "272026": {
+      "name": "HERKIM",
+      "type": "Cable/DSL/ISP"
+    },
+    "264392": {
+      "name": "ASN264392",
+      "type": "Unknown"
+    },
+    "214036": {
+      "name": "ULTAHOST-AS",
+      "type": "Unknown"
+    },
+    "12230": {
+      "name": "TABLEBOUND",
       "type": "Unknown"
     },
     "22822": {
@@ -116325,7 +116329,7 @@
       "type": "Route Server"
     },
     "136700": {
-      "name": "Innolens Media and Broadcasting Private Limited",
+      "name": "Innolens Media and Broadcasting Limited",
       "type": "Cable/DSL/ISP"
     },
     "18719": {
@@ -121882,7 +121886,7 @@
     },
     "211747": {
       "name": "HYPR-NET",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "199290": {
       "name": "MOWITEL",
@@ -124609,7 +124613,7 @@
       "type": "Cable/DSL/ISP"
     },
     "146944": {
-      "name": "Innolens Media and Broadcasting - Chennai",
+      "name": "Innolens Media and Broadcasting Limited - Chennai",
       "type": "Cable/DSL/ISP"
     },
     "141920": {
@@ -127473,7 +127477,7 @@
       "type": "Cable/DSL/ISP"
     },
     "51939": {
-      "name": "TerraNetUK",
+      "name": "TerraMCUK",
       "type": "Unknown"
     },
     "150699": {
@@ -133653,7 +133657,7 @@
       "type": "Cable/DSL/ISP"
     },
     "211626": {
-      "name": "AS211626",
+      "name": "ASRO",
       "type": "Non-Profit"
     },
     "267384": {
@@ -133683,6 +133687,10 @@
     "329532": {
       "name": "EnvisageCloud",
       "type": "Content"
+    },
+    "153996": {
+      "name": "VP InfoTech Co., Ltd. (VisperHost)",
+      "type": "Enterprise"
     },
     "266404": {
       "name": "G7NET AS266404",
@@ -134456,6 +134464,10 @@
       "name": "Xilin Xie",
       "type": "Non-Profit"
     },
+    "274580": {
+      "name": "CANAA TELECOM",
+      "type": "Cable/DSL/ISP"
+    },
     "209597": {
       "name": "PEPOWO",
       "type": "Cable/DSL/ISP"
@@ -134508,6 +134520,10 @@
       "name": "Neosoft Technologies And Software Pvt Ltd",
       "type": "Network Services"
     },
+    "215990": {
+      "name": "Jell",
+      "type": "Unknown"
+    },
     "153876": {
       "name": "Oofydi Media Group",
       "type": "Cable/DSL/ISP"
@@ -134515,6 +134531,10 @@
     "202734": {
       "name": "Tianshome",
       "type": "Educational/Research"
+    },
+    "31184": {
+      "name": "MBNET-AS",
+      "type": "NSP"
     }
   }
 }
