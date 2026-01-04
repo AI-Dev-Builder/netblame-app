@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-03T01:00:17.768Z",
+  "updated_at": "2026-01-04T01:10:55.415Z",
   "source": "PeeringDB",
-  "entry_count": 33633,
+  "entry_count": 33635,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -39526,7 +39526,7 @@
     },
     "197068": {
       "name": "CURATOR",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "5473": {
       "name": "Iterika",
@@ -81356,10 +81356,6 @@
       "name": "STL FIBERCO",
       "type": "Unknown"
     },
-    "3920": {
-      "name": "PUSHPKT-OU",
-      "type": "Enterprise"
-    },
     "198990": {
       "name": "Pine Hosting",
       "type": "Unknown"
@@ -94028,10 +94024,6 @@
       "name": "LIPARI-NETWORKS",
       "type": "Unknown"
     },
-    "151601": {
-      "name": "IDNIC-BORNEOINOVASIGEMILANG-AS-ID",
-      "type": "Unknown"
-    },
     "16661": {
       "name": "InfoSecEdu",
       "type": "Content"
@@ -102778,7 +102770,7 @@
     },
     "132295": {
       "name": "Jahid Communication",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "207966": {
       "name": "AO \"State Technical Service\"",
@@ -102883,6 +102875,22 @@
     "12230": {
       "name": "TABLEBOUND",
       "type": "Unknown"
+    },
+    "58026": {
+      "name": "JiufuNetwork",
+      "type": "Cable/DSL/ISP"
+    },
+    "154320": {
+      "name": "ARRIGA-AS-AP",
+      "type": "Unknown"
+    },
+    "397368": {
+      "name": "TETAHOST",
+      "type": "Unknown"
+    },
+    "142463": {
+      "name": "Mahisagar Telelink Private Limited",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -118658,7 +118666,7 @@
     },
     "131677": {
       "name": "OPENFOR",
-      "type": "Cable/DSL/ISP"
+      "type": "Content"
     },
     "136880": {
       "name": "PT. Sumatra Multimedia Solusi",
@@ -133369,7 +133377,7 @@
       "type": "Content"
     },
     "210349": {
-      "name": "Alexis Lurot",
+      "name": "AZERNET",
       "type": "Unknown"
     },
     "216392": {
