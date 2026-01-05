@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-04T01:10:55.415Z",
+  "updated_at": "2026-01-05T01:09:51.470Z",
   "source": "PeeringDB",
-  "entry_count": 33635,
+  "entry_count": 33642,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -17518,10 +17518,6 @@
     },
     "394642": {
       "name": "Montgomery Internet Exchange",
-      "type": "Unknown"
-    },
-    "201366": {
-      "name": "Localitel bvba",
       "type": "Unknown"
     },
     "51324": {
@@ -81356,6 +81352,10 @@
       "name": "STL FIBERCO",
       "type": "Unknown"
     },
+    "3920": {
+      "name": "PUSHPKT-OU",
+      "type": "Enterprise"
+    },
     "198990": {
       "name": "Pine Hosting",
       "type": "Unknown"
@@ -94330,7 +94330,7 @@
     },
     "212868": {
       "name": "Glitch Servers",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "212770": {
       "name": "AKILLIBULUT",
@@ -102489,7 +102489,7 @@
       "type": "Network Services"
     },
     "213787": {
-      "name": "CLOUDRACK-MSK",
+      "name": "CLOUDRACK",
       "type": "Network Services"
     },
     "213780": {
@@ -102697,7 +102697,7 @@
       "type": "Unknown"
     },
     "203753": {
-      "name": "CLOUDRACK-SAM",
+      "name": "FIRSTUNIT",
       "type": "Network Services"
     },
     "27640": {
@@ -102785,7 +102785,7 @@
       "type": "Unknown"
     },
     "274029": {
-      "name": "274029",
+      "name": "ASU TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "139205": {
@@ -102797,31 +102797,31 @@
       "type": "Unknown"
     },
     "154471": {
-      "name": "BROTHERS1-AS-AP",
+      "name": "BROTHERS IT",
       "type": "Unknown"
     },
     "151393": {
-      "name": "NNICPL-AS-AP",
+      "name": "Nepal Network Information Center Pvt. Ltd.",
       "type": "Unknown"
     },
     "274389": {
-      "name": "ASN274389",
+      "name": "F-NET MASTER LTDA",
       "type": "Unknown"
     },
     "213893": {
-      "name": "IPTR-AS",
+      "name": "IPTransit Business LTD",
       "type": "Unknown"
     },
     "214785": {
-      "name": "INTONET369",
+      "name": "369 IntoNet Limited",
       "type": "Unknown"
     },
     "400562": {
-      "name": "AS-ATOM",
+      "name": "Atom Networks, LLC",
       "type": "Cable/DSL/ISP"
     },
     "154442": {
-      "name": "IDNIC-ASATRIONETWORK-ID",
+      "name": "PT Asa Trio Network",
       "type": "Unknown"
     },
     "18043": {
@@ -102829,23 +102829,23 @@
       "type": "Educational/Research"
     },
     "139940": {
-      "name": "IDNIC-SAMPANGKAB-AS-ID",
+      "name": "Dinas Komunikasi dan Informatika Kabupaten Sampang",
       "type": "Unknown"
     },
     "154408": {
-      "name": "URLSTART-AS-AP",
+      "name": "URLSTART",
       "type": "Unknown"
     },
     "153252": {
-      "name": "RGCOMP-AS-IN",
+      "name": "Rg Communications Private Limited",
       "type": "Unknown"
     },
     "142169": {
-      "name": "IRINN-HIRDHAV-AS-IN",
+      "name": "HIRDHAV TECHNOLOGIES",
       "type": "Unknown"
     },
     "205305": {
-      "name": "pandem_asn",
+      "name": "Gabriel Peron",
       "type": "Unknown"
     },
     "203766": {
@@ -102853,11 +102853,11 @@
       "type": "Unknown"
     },
     "49995": {
-      "name": "THREEFON-AS",
+      "name": "VOIP STAR LLC",
       "type": "Unknown"
     },
     "210438": {
-      "name": "NOP-SYSTEMS",
+      "name": "Kai Jan Kriegel",
       "type": "Unknown"
     },
     "272026": {
@@ -102865,23 +102865,23 @@
       "type": "Cable/DSL/ISP"
     },
     "264392": {
-      "name": "ASN264392",
+      "name": "AOM INFORMÁTICA LTDA",
       "type": "Unknown"
     },
     "214036": {
-      "name": "ULTAHOST-AS",
+      "name": "Ultahost, Inc.",
       "type": "Unknown"
     },
     "12230": {
       "name": "TABLEBOUND",
-      "type": "Unknown"
+      "type": "Content"
     },
     "58026": {
       "name": "JiufuNetwork",
       "type": "Cable/DSL/ISP"
     },
     "154320": {
-      "name": "ARRIGA-AS-AP",
+      "name": "Arriga International Limited",
       "type": "Unknown"
     },
     "397368": {
@@ -102891,6 +102891,22 @@
     "142463": {
       "name": "Mahisagar Telelink Private Limited",
       "type": "Cable/DSL/ISP"
+    },
+    "131562": {
+      "name": "HNCATV",
+      "type": "Unknown"
+    },
+    "198256": {
+      "name": "mishke",
+      "type": "Unknown"
+    },
+    "207977": {
+      "name": "GreenSpruceISP",
+      "type": "Unknown"
+    },
+    "18908": {
+      "name": "Technology & Business Solutions",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -109495,6 +109511,10 @@
     "43320": {
       "name": "VKTelekom",
       "type": "Cable/DSL/ISP"
+    },
+    "205932": {
+      "name": "TerraNet Ltd",
+      "type": "Unknown"
     },
     "48648": {
       "name": "K-Link AS48648",
@@ -129792,6 +129812,10 @@
       "name": "ANNEX",
       "type": "Cable/DSL/ISP"
     },
+    "216084": {
+      "name": "Kerem Uluboy",
+      "type": "Unknown"
+    },
     "151674": {
       "name": "Huangyu Network",
       "type": "Educational/Research"
@@ -132196,6 +132220,10 @@
       "name": "M-TELECOM",
       "type": "Enterprise"
     },
+    "214347": {
+      "name": "Massive Dynamic Technical Services Limited",
+      "type": "Unknown"
+    },
     "214161": {
       "name": "R4fo.com Network",
       "type": "Educational/Research"
@@ -134529,7 +134557,7 @@
       "type": "Network Services"
     },
     "215990": {
-      "name": "Jell",
+      "name": "Jelle Leenaert",
       "type": "Unknown"
     },
     "153876": {
@@ -134541,7 +134569,7 @@
       "type": "Educational/Research"
     },
     "31184": {
-      "name": "MBNET-AS",
+      "name": "MB-NET",
       "type": "NSP"
     }
   }
