@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-05T01:09:51.470Z",
+  "updated_at": "2026-01-06T01:04:08.772Z",
   "source": "PeeringDB",
-  "entry_count": 33642,
+  "entry_count": 33657,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -24685,8 +24685,8 @@
       "type": "Cable/DSL/ISP"
     },
     "56549": {
-      "name": "State Technical Service KZ",
-      "type": "Route Server"
+      "name": "QazGovIX",
+      "type": "Network Services"
     },
     "52078": {
       "name": "MARTEL MARTA BIENIA",
@@ -41081,11 +41081,11 @@
       "type": "Cable/DSL/ISP"
     },
     "131111": {
-      "name": "PT Ekamas Mora Republik Tbk - Domestic",
+      "name": "PT Ekamas Mora Republik Tbk | PT Mora Telematika Indonesia Tbk - Domestic",
       "type": "NSP"
     },
     "46038": {
-      "name": "PT Ekamas Mora Republik Tbk - CepatNet",
+      "name": "PT Ekamas Mora Republik Tbk | PT Mora Telematika Indonesia Tbk - CepatNet",
       "type": "Unknown"
     },
     "5080": {
@@ -69292,10 +69292,6 @@
       "name": "Liberty Broadband",
       "type": "Unknown"
     },
-    "400566": {
-      "name": "Sergio Zygmunt Group",
-      "type": "Unknown"
-    },
     "270692": {
       "name": "JOSE CARLOS GONZAGA CARDOSO",
       "type": "Unknown"
@@ -70833,7 +70829,7 @@
       "type": "NSP"
     },
     "272806": {
-      "name": "PIT - Colombia - IP Services",
+      "name": "PIT - IP Services RE",
       "type": "Unknown"
     },
     "64140": {
@@ -71335,10 +71331,6 @@
     "8880": {
       "name": "Agency for Investment Information",
       "type": "Content"
-    },
-    "212341": {
-      "name": "CSN Solutions AS212341",
-      "type": "NSP"
     },
     "149051": {
       "name": "Digital Nasional",
@@ -80474,7 +80466,7 @@
     },
     "48700": {
       "name": "Arexico",
-      "type": "NSP"
+      "type": "Network Services"
     },
     "137450": {
       "name": "Western ICT Solutions Services",
@@ -83376,10 +83368,6 @@
       "name": "Institut Seni Indonesia Surakarta",
       "type": "Educational/Research"
     },
-    "152184": {
-      "name": "TAMUKAI NETWORK A",
-      "type": "Educational/Research"
-    },
     "151376": {
       "name": "SHR-TYO-NET",
       "type": "Route Server"
@@ -84337,7 +84325,7 @@
       "type": "Unknown"
     },
     "207281": {
-      "name": "Matrix Private Company for Communications and Internet Services Ltd. Liability",
+      "name": "Bawabet Al Manama",
       "type": "Unknown"
     },
     "215662": {
@@ -87493,7 +87481,7 @@
       "type": "Unknown"
     },
     "215248": {
-      "name": "215248 - Bastiaan Mathijs Brink",
+      "name": "AS215248",
       "type": "Unknown"
     },
     "202108": {
@@ -93373,7 +93361,7 @@
       "type": "Unknown"
     },
     "213622": {
-      "name": "Falcon FZE LLC",
+      "name": "Falcon Network",
       "type": "NSP"
     },
     "401593": {
@@ -97666,7 +97654,7 @@
     },
     "206781": {
       "name": "LYVRA",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "396147": {
       "name": "FREMIX-RS",
@@ -101244,10 +101232,6 @@
       "name": "Antenne Collective Ettelbruck",
       "type": "Cable/DSL/ISP"
     },
-    "274181": {
-      "name": "FIBERAR",
-      "type": "Unknown"
-    },
     "7356": {
       "name": "Sikla Tech",
       "type": "Unknown"
@@ -102846,7 +102830,7 @@
     },
     "205305": {
       "name": "Gabriel Peron",
-      "type": "Unknown"
+      "type": "Content"
     },
     "203766": {
       "name": "AWILLS",
@@ -102863,10 +102847,6 @@
     "272026": {
       "name": "HERKIM",
       "type": "Cable/DSL/ISP"
-    },
-    "264392": {
-      "name": "AOM INFORMÁTICA LTDA",
-      "type": "Unknown"
     },
     "214036": {
       "name": "Ultahost, Inc.",
@@ -102897,15 +102877,75 @@
       "type": "Unknown"
     },
     "198256": {
-      "name": "mishke",
-      "type": "Unknown"
+      "name": "Mesh Communication",
+      "type": "Cable/DSL/ISP"
     },
     "207977": {
       "name": "GreenSpruceISP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "18908": {
       "name": "Technology & Business Solutions",
+      "type": "Unknown"
+    },
+    "22665": {
+      "name": "UNGAGE",
+      "type": "Content"
+    },
+    "208111": {
+      "name": "baremetal.ae",
+      "type": "Enterprise"
+    },
+    "210688": {
+      "name": "BENJAMINLEROY",
+      "type": "Non-Profit"
+    },
+    "329626": {
+      "name": "Oryx Fibre Infrastructure (Pty) Ltd",
+      "type": "Cable/DSL/ISP"
+    },
+    "153897": {
+      "name": "IRINN-IPLUSNPL-AS-IN",
+      "type": "Cable/DSL/ISP"
+    },
+    "215110": {
+      "name": "ZeroTunnel",
+      "type": "Unknown"
+    },
+    "266375": {
+      "name": "ASN266375 - Gigabyte Internet",
+      "type": "Unknown"
+    },
+    "198112": {
+      "name": "PROSAT-NET",
+      "type": "Unknown"
+    },
+    "49571": {
+      "name": "CELLNET-AS",
+      "type": "NSP"
+    },
+    "60589": {
+      "name": "LIQUID-AS",
+      "type": "Unknown"
+    },
+    "34390": {
+      "name": "nTelekom-AS-PON",
+      "type": "Unknown"
+    },
+    "210911": {
+      "name": "aslubonetswiatlowod",
+      "type": "Unknown"
+    },
+    "209632": {
+      "name": "Muehlena",
+      "type": "Unknown"
+    },
+    "213928": {
+      "name": "INSIDENETWORKS",
+      "type": "Unknown"
+    },
+    "271660": {
+      "name": "ASN271660",
       "type": "Unknown"
     },
     "22822": {
@@ -103141,7 +103181,7 @@
       "type": "NSP"
     },
     "20694": {
-      "name": "NMMN New Media Markets & Networks IT-Services GmbH",
+      "name": "NMMN GmbH",
       "type": "Content"
     },
     "1257": {
@@ -106789,7 +106829,7 @@
       "type": "NSP"
     },
     "131702": {
-      "name": "PT Ekamas Mora Republik Tbk - Mora-IXP",
+      "name": "PT Ekamas Mora Republik Tbk | PT Mora Telematika Indonesia Tbk - Mora-IXP",
       "type": "Content"
     },
     "263629": {
@@ -107331,6 +107371,10 @@
     "8978": {
       "name": "Holy See",
       "type": "Non-Profit"
+    },
+    "202831": {
+      "name": "Ablaykhan Akylbekovich Sharimov",
+      "type": "Unknown"
     },
     "327960": {
       "name": "PC Maniacs",
@@ -108434,7 +108478,7 @@
     },
     "263415": {
       "name": "EGR NET TELECOMUNICACOES LTDA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "32494": {
       "name": "Online Technology Exchange",
@@ -109845,7 +109889,7 @@
       "type": "Cable/DSL/ISP"
     },
     "133647": {
-      "name": "ELXIRE DATA SERVICES PVT LTD",
+      "name": "RGCM",
       "type": "Cable/DSL/ISP"
     },
     "41441": {
@@ -112758,7 +112802,7 @@
     },
     "267189": {
       "name": "DIGITAL SAT INTERNET LTDA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "328334": {
       "name": "Phoenix Quest",
@@ -125508,6 +125552,10 @@
       "name": "FONTNET ME",
       "type": "Cable/DSL/ISP"
     },
+    "400566": {
+      "name": "Cooperative Computing Alliance",
+      "type": "Content"
+    },
     "211651": {
       "name": "Landeshauptstadt Stuttgart",
       "type": "Government"
@@ -126159,6 +126207,10 @@
     "48229": {
       "name": "Starlight Media",
       "type": "Enterprise"
+    },
+    "212341": {
+      "name": "CSN Solutions AS212341",
+      "type": "NSP"
     },
     "204729": {
       "name": "Internalhost",
@@ -130083,6 +130135,10 @@
     "141746": {
       "name": "Disaster Science",
       "type": "Content"
+    },
+    "152184": {
+      "name": "TAMUKAI NETWORK A",
+      "type": "Educational/Research"
     },
     "271658": {
       "name": "ALPHANET  SOLUCOES EM INTERNET",
@@ -134522,7 +134578,7 @@
     },
     "147126": {
       "name": "PT Patra Sinar Teknologi",
-      "type": "Cable/DSL/ISP"
+      "type": "Enterprise"
     },
     "19388": {
       "name": "Team Cymru Labs",
@@ -134571,6 +134627,10 @@
     "31184": {
       "name": "MB-NET",
       "type": "NSP"
+    },
+    "264392": {
+      "name": "AOM INFORMÁTICA LTDA",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
