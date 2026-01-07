@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-06T01:04:08.772Z",
+  "updated_at": "2026-01-07T01:04:14.235Z",
   "source": "PeeringDB",
-  "entry_count": 33657,
+  "entry_count": 33655,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -42177,7 +42177,7 @@
       "type": "Cable/DSL/ISP"
     },
     "6233": {
-      "name": "xTom United States",
+      "name": "xTom San Jose",
       "type": "Cable/DSL/ISP"
     },
     "5377": {
@@ -42711,10 +42711,6 @@
     "268763": {
       "name": "Go Fast",
       "type": "Cable/DSL/ISP"
-    },
-    "138510": {
-      "name": "TunnelBroker Australia",
-      "type": "Route Server"
     },
     "188": {
       "name": "SAIC",
@@ -52249,7 +52245,7 @@
       "type": "Unknown"
     },
     "49585": {
-      "name": "CoreRoute OÜ",
+      "name": "CoreRoute UG (haftungsbeschränkt)",
       "type": "Cable/DSL/ISP"
     },
     "203440": {
@@ -53659,10 +53655,6 @@
     "270670": {
       "name": "WEBNET INTERNET",
       "type": "Cable/DSL/ISP"
-    },
-    "394582": {
-      "name": "binaryMedia",
-      "type": "Network Services"
     },
     "17953": {
       "name": "BroadBand Security",
@@ -57743,10 +57735,6 @@
     "62080": {
       "name": "Adrian Almenar",
       "type": "Educational/Research"
-    },
-    "203326": {
-      "name": "EQUADEX",
-      "type": "Cable/DSL/ISP"
     },
     "137541": {
       "name": "Royalnet",
@@ -63716,10 +63704,6 @@
       "name": "Taunton Municipal Lighting Plant",
       "type": "Unknown"
     },
-    "47891": {
-      "name": "WEBINDUSTRIE",
-      "type": "Enterprise"
-    },
     "328798": {
       "name": "InsideData",
       "type": "Enterprise"
@@ -68482,7 +68466,7 @@
     },
     "14754": {
       "name": "Telgua",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "141456": {
       "name": "Bondhon Communication",
@@ -73898,14 +73882,6 @@
     },
     "263909": {
       "name": "Prefeitura Municipal de Santos",
-      "type": "Unknown"
-    },
-    "399682": {
-      "name": "HRD Hollywood",
-      "type": "Unknown"
-    },
-    "399683": {
-      "name": "HRD Tampa",
       "type": "Unknown"
     },
     "2872": {
@@ -79556,10 +79532,6 @@
       "name": "GRANDRAPIDS-INTERNET-EXCHANGE",
       "type": "Unknown"
     },
-    "62847": {
-      "name": "KENTUCKYFI",
-      "type": "Unknown"
-    },
     "262830": {
       "name": "Plug Provedor Internet",
       "type": "NSP"
@@ -81235,10 +81207,6 @@
     "216296": {
       "name": "StormaX",
       "type": "Educational/Research"
-    },
-    "13366": {
-      "name": "Culture Wireless Business LLC",
-      "type": "Unknown"
     },
     "31958": {
       "name": "NGNSYS, LLC",
@@ -84686,7 +84654,7 @@
     },
     "141639": {
       "name": "IDNIC-L1V-AS-ID",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "215466": {
       "name": "Benedikt Riedel",
@@ -92060,10 +92028,6 @@
       "name": "Wikstrom Telephone Company (Voice)",
       "type": "Cable/DSL/ISP"
     },
-    "401066": {
-      "name": "ORGANISATION MONDIALE DU NUMERIQUE LLC",
-      "type": "Unknown"
-    },
     "401507": {
       "name": "imput (401507)",
       "type": "Unknown"
@@ -98932,10 +98896,6 @@
       "name": "LEONARD-NET",
       "type": "Educational/Research"
     },
-    "151011": {
-      "name": "IDNIC-DISKOMINFO-KUTAI-AS-ID",
-      "type": "Cable/DSL/ISP"
-    },
     "205621": {
       "name": "ZENTRIAOU",
       "type": "Unknown"
@@ -100922,7 +100882,7 @@
     },
     "264523": {
       "name": "ASN264523",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "273481": {
       "name": "ASN273481",
@@ -102398,7 +102358,7 @@
     },
     "56508": {
       "name": "ARDC",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "37808": {
       "name": "PLUGINS IX - NAIROBI PEERING",
@@ -102607,10 +102567,6 @@
     "14120": {
       "name": "oneZero Financial Systems",
       "type": "Enterprise"
-    },
-    "264368": {
-      "name": "A. L. A. INFORMATICA LTDA.",
-      "type": "Unknown"
     },
     "264935": {
       "name": "CENTRALNET TELECOMUNICACOES LTDA - ME",
@@ -102905,7 +102861,7 @@
       "type": "Cable/DSL/ISP"
     },
     "153897": {
-      "name": "IRINN-IPLUSNPL-AS-IN",
+      "name": "I PLUS",
       "type": "Cable/DSL/ISP"
     },
     "215110": {
@@ -102913,11 +102869,11 @@
       "type": "Unknown"
     },
     "266375": {
-      "name": "ASN266375 - Gigabyte Internet",
+      "name": "R. N. Informatica Ltda - ME",
       "type": "Unknown"
     },
     "198112": {
-      "name": "PROSAT-NET",
+      "name": "Leszek Checik trading as PROSAT S.C.",
       "type": "Unknown"
     },
     "49571": {
@@ -102925,11 +102881,11 @@
       "type": "NSP"
     },
     "60589": {
-      "name": "LIQUID-AS",
+      "name": "Liquid Systems Sp. z o.o.",
       "type": "Unknown"
     },
     "34390": {
-      "name": "nTelekom-AS-PON",
+      "name": "IP4NET Sp. z o.o.",
       "type": "Unknown"
     },
     "210911": {
@@ -102937,7 +102893,7 @@
       "type": "Unknown"
     },
     "209632": {
-      "name": "Muehlena",
+      "name": "Joel Rene Muehlena",
       "type": "Unknown"
     },
     "213928": {
@@ -102945,8 +102901,44 @@
       "type": "Unknown"
     },
     "271660": {
-      "name": "ASN271660",
+      "name": "Planície Net Telecom Eireli",
       "type": "Unknown"
+    },
+    "152612": {
+      "name": "Aoter Networks Co., Ltd",
+      "type": "Enterprise"
+    },
+    "401060": {
+      "name": "Gigaion, LLC",
+      "type": "Unknown"
+    },
+    "138401": {
+      "name": "TupleTech Corporation, TupleTech Corporation",
+      "type": "Unknown"
+    },
+    "329644": {
+      "name": "HBD SOUTH AFRICA",
+      "type": "Unknown"
+    },
+    "209601": {
+      "name": "Yu ZuYuan",
+      "type": "Unknown"
+    },
+    "202554": {
+      "name": "1-PL Internet Exchange Poland",
+      "type": "Route Server"
+    },
+    "202580": {
+      "name": "1-NL Internet Exchange Netherlands",
+      "type": "Route Server"
+    },
+    "22306": {
+      "name": "eGov Jamaica Limited",
+      "type": "Unknown"
+    },
+    "397006": {
+      "name": "MULLCLOUD",
+      "type": "Content"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -109620,10 +109612,6 @@
       "name": "TELECAB TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
     },
-    "136754": {
-      "name": "BGP.Exchange - Route Collector",
-      "type": "Non-Profit"
-    },
     "136338": {
       "name": "Trivoz Digital Networks",
       "type": "Cable/DSL/ISP"
@@ -113561,8 +113549,8 @@
       "type": "Cable/DSL/ISP"
     },
     "267329": {
-      "name": "YOUSER TELECOMUNICAÇÕES LTDA",
-      "type": "Unknown"
+      "name": "LIDER CONEXOES DE INTERNET LTDA",
+      "type": "Cable/DSL/ISP"
     },
     "268324": {
       "name": "Provecom",
@@ -119656,10 +119644,6 @@
       "name": "Freifunk Regensburg e.V.",
       "type": "Non-Profit"
     },
-    "140884": {
-      "name": "InterAUS IX Route Servers",
-      "type": "Route Server"
-    },
     "212995": {
       "name": "TAN-NET",
       "type": "Educational/Research"
@@ -123673,7 +123657,7 @@
       "type": "Cable/DSL/ISP"
     },
     "210890": {
-      "name": "Kristiaan De Rocker",
+      "name": "ROKR Services BV",
       "type": "Educational/Research"
     },
     "133929": {
@@ -132669,7 +132653,7 @@
       "type": "Enterprise"
     },
     "213866": {
-      "name": "Vortex Hosting",
+      "name": "VortexHosting",
       "type": "Content"
     },
     "214806": {
@@ -134016,6 +134000,10 @@
       "name": "Go Net Communications",
       "type": "Unknown"
     },
+    "151011": {
+      "name": "IDNIC-DISKOMINFO-KUTAI-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
     "135405": {
       "name": "TMHTTWTL-AS-AP",
       "type": "Network Services"
@@ -134611,6 +134599,10 @@
     "154239": {
       "name": "Neosoft Technologies And Software Pvt Ltd",
       "type": "Network Services"
+    },
+    "264368": {
+      "name": "A. L. A. INFORMATICA LTDA.",
+      "type": "Cable/DSL/ISP"
     },
     "215990": {
       "name": "Jelle Leenaert",
