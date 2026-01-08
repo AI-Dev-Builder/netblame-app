@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-07T01:04:14.235Z",
+  "updated_at": "2026-01-08T01:04:24.089Z",
   "source": "PeeringDB",
-  "entry_count": 33655,
+  "entry_count": 33662,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -9923,6 +9923,10 @@
     "23576": {
       "name": "NAVER",
       "type": "Content"
+    },
+    "12741": {
+      "name": "Netia",
+      "type": "NSP"
     },
     "52186": {
       "name": "ATP Nederland B.V.",
@@ -81076,6 +81080,10 @@
       "name": "Embark Studios (AS48448)",
       "type": "Content"
     },
+    "216343": {
+      "name": "Mertcan GOKGOZ",
+      "type": "Educational/Research"
+    },
     "150272": {
       "name": "PT. Golden Network Nusantara",
       "type": "Cable/DSL/ISP"
@@ -86566,7 +86574,7 @@
     },
     "146925": {
       "name": "SHREE BALAJI WIFI PVT LTD",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "33817": {
       "name": "Subsidiary Enterprise Telegroup-Ukraine",
@@ -92967,10 +92975,6 @@
     "206882": {
       "name": "WIFILINKS",
       "type": "Unknown"
-    },
-    "206014": {
-      "name": "RdemSystems",
-      "type": "Enterprise"
     },
     "263475": {
       "name": "Guara Digital",
@@ -102776,10 +102780,6 @@
       "name": "URLSTART",
       "type": "Unknown"
     },
-    "153252": {
-      "name": "Rg Communications Private Limited",
-      "type": "Unknown"
-    },
     "142169": {
       "name": "HIRDHAV TECHNOLOGIES",
       "type": "Unknown"
@@ -102939,6 +102939,30 @@
     "397006": {
       "name": "MULLCLOUD",
       "type": "Content"
+    },
+    "136203": {
+      "name": "THINKEX-AS-AP",
+      "type": "Unknown"
+    },
+    "274235": {
+      "name": "274235",
+      "type": "Unknown"
+    },
+    "154440": {
+      "name": "IDNIC-DISKOMINFOCIMAHI-ID",
+      "type": "Unknown"
+    },
+    "207118": {
+      "name": "DIOGO",
+      "type": "Unknown"
+    },
+    "209817": {
+      "name": "multinet-as",
+      "type": "Unknown"
+    },
+    "63208": {
+      "name": "GENVIO-INC-AS",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -104758,10 +104782,6 @@
     },
     "9268": {
       "name": "Over The Wire",
-      "type": "NSP"
-    },
-    "12741": {
-      "name": "Netia",
       "type": "NSP"
     },
     "42423": {
@@ -127542,7 +127562,7 @@
     },
     "51939": {
       "name": "TerraMCUK",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "150699": {
       "name": "INAAYA IT SOLUTIONS",
@@ -129415,10 +129435,6 @@
     "216333": {
       "name": "NetDev Network",
       "type": "NSP"
-    },
-    "216343": {
-      "name": "Mertcan GOKGOZ",
-      "type": "Educational/Research"
     },
     "271638": {
       "name": "Cronos Telecom",
@@ -132896,6 +132912,10 @@
       "name": "IPTEL - NOVA VISION",
       "type": "Cable/DSL/ISP"
     },
+    "206014": {
+      "name": "RdemSystems",
+      "type": "Enterprise"
+    },
     "216075": {
       "name": "EtherLinx",
       "type": "Non-Profit"
@@ -134620,9 +134640,17 @@
       "name": "MB-NET",
       "type": "NSP"
     },
+    "153252": {
+      "name": "Rg Communications Private Limited",
+      "type": "Unknown"
+    },
     "264392": {
       "name": "AOM INFORMÁTICA LTDA",
       "type": "Cable/DSL/ISP"
+    },
+    "329654": {
+      "name": "Cortech Systems Limited",
+      "type": "Unknown"
     }
   }
 }
