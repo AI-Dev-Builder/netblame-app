@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-09T00:09:39.526Z",
+  "updated_at": "2026-01-10T00:09:35.506Z",
   "source": "PeeringDB",
-  "entry_count": 33679,
+  "entry_count": 33674,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -5945,7 +5945,7 @@
       "type": "Non-Profit"
     },
     "49820": {
-      "name": "Pictura Database Publishing",
+      "name": "Vitec Memorix",
       "type": "Content"
     },
     "13722": {
@@ -6697,7 +6697,7 @@
       "type": "Content"
     },
     "13243": {
-      "name": "EVRY NORGE",
+      "name": "Vivicta AS",
       "type": "Content"
     },
     "15802": {
@@ -13870,7 +13870,7 @@
     },
     "53889": {
       "name": "WJY LLC",
-      "type": "Educational/Research"
+      "type": "Cable/DSL/ISP"
     },
     "39090": {
       "name": "Brandl Services GmbH",
@@ -16245,7 +16245,7 @@
       "type": "Cable/DSL/ISP"
     },
     "262481": {
-      "name": "NEOREDE TELECOMUNICAO LTDA",
+      "name": "Vero Internet Litoral",
       "type": "Cable/DSL/ISP"
     },
     "32867": {
@@ -17853,7 +17853,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263405": {
-      "name": "GIGANET SERVICOS DE INTERNET",
+      "name": "Vero Internet IIG",
       "type": "Cable/DSL/ISP"
     },
     "12276": {
@@ -27232,10 +27232,6 @@
       "name": "Latin IP LLC",
       "type": "NSP"
     },
-    "12085": {
-      "name": "Equinix Legacy Network - DC",
-      "type": "NSP"
-    },
     "48716": {
       "name": "PS Internet Company Network",
       "type": "Enterprise"
@@ -27972,22 +27968,6 @@
       "name": "Sterling Payment Technologies",
       "type": "Enterprise"
     },
-    "19930": {
-      "name": "Equinix Legacy Network - CH",
-      "type": "NSP"
-    },
-    "27566": {
-      "name": "Equinix Legacy Network - NY",
-      "type": "NSP"
-    },
-    "54588": {
-      "name": "Equinix Legacy Network - SV",
-      "type": "NSP"
-    },
-    "32323": {
-      "name": "Equinix Legacy Network - TR",
-      "type": "NSP"
-    },
     "35213": {
       "name": "TOV \"Kompjuternie Merezhi\"",
       "type": "NSP"
@@ -28540,21 +28520,9 @@
       "name": "SpotXchange IAD",
       "type": "Unknown"
     },
-    "27224": {
-      "name": "Equinix Legacy Network - LA",
-      "type": "NSP"
-    },
     "12580": {
       "name": "Omnitec",
       "type": "Unknown"
-    },
-    "29884": {
-      "name": "Equinix Legacy Network - DA",
-      "type": "NSP"
-    },
-    "32550": {
-      "name": "Equinix Legacy Network - SE",
-      "type": "NSP"
     },
     "13208": {
       "name": "Newtel",
@@ -40293,7 +40261,7 @@
       "type": "Cable/DSL/ISP"
     },
     "201201": {
-      "name": "Delska Lithuania",
+      "name": "Delska Lithuania 201201",
       "type": "NSP"
     },
     "50446": {
@@ -41486,7 +41454,7 @@
     },
     "264215": {
       "name": "W Fibra Telecom LTDA",
-      "type": "NSP"
+      "type": "Enterprise"
     },
     "266673": {
       "name": "FLYTEC TELECOM SOCIEDAD ANONIMA",
@@ -43877,7 +43845,7 @@
       "type": "Cable/DSL/ISP"
     },
     "62282": {
-      "name": "RACKRAY",
+      "name": "Delska Lithuania 62282",
       "type": "Unknown"
     },
     "57907": {
@@ -50788,10 +50756,6 @@
       "name": "PCCW Mobile",
       "type": "Cable/DSL/ISP"
     },
-    "41732": {
-      "name": "HostingFuze Network",
-      "type": "Non-Profit"
-    },
     "17538": {
       "name": "Circlecom Nusantara Indonesia",
       "type": "Cable/DSL/ISP"
@@ -52850,10 +52814,6 @@
     },
     "22987": {
       "name": "BrightRidge",
-      "type": "Cable/DSL/ISP"
-    },
-    "133410": {
-      "name": "Business Zone Limited",
       "type": "Cable/DSL/ISP"
     },
     "268286": {
@@ -58178,10 +58138,6 @@
     },
     "10101": {
       "name": "SIMPUR-BN",
-      "type": "Unknown"
-    },
-    "137871": {
-      "name": "IT Net",
       "type": "Unknown"
     },
     "267062": {
@@ -72420,10 +72376,6 @@
       "name": "WOW PERU",
       "type": "Unknown"
     },
-    "16553": {
-      "name": "Equinix Legacy Network - MI",
-      "type": "NSP"
-    },
     "267528": {
       "name": "Enter Info Informática e Serviços",
       "type": "Unknown"
@@ -78200,10 +78152,6 @@
       "name": "Best IT Centre",
       "type": "Cable/DSL/ISP"
     },
-    "211940": {
-      "name": "MIHAILA N VALENTIN-EUGEN",
-      "type": "Route Server"
-    },
     "398931": {
       "name": "LS Enterprises",
       "type": "Unknown"
@@ -80255,6 +80203,10 @@
     "47790": {
       "name": "Netfala",
       "type": "Unknown"
+    },
+    "58015": {
+      "name": "Tievolu - AS58015",
+      "type": "NSP"
     },
     "211544": {
       "name": "Unlabeled",
@@ -82923,10 +82875,6 @@
     "142426": {
       "name": "GenNext Enterprises Pty Ltd",
       "type": "Cable/DSL/ISP"
-    },
-    "63786": {
-      "name": "MARCHE",
-      "type": "Unknown"
     },
     "142424": {
       "name": "Unique Cable Network Inc administrator",
@@ -92172,10 +92120,6 @@
       "name": "DIGO INTERNET",
       "type": "Cable/DSL/ISP"
     },
-    "210532": {
-      "name": "hueNET (old)",
-      "type": "Educational/Research"
-    },
     "272030": {
       "name": "SMARTNET Argentina",
       "type": "Cable/DSL/ISP"
@@ -100989,8 +100933,8 @@
       "type": "Cable/DSL/ISP"
     },
     "57934": {
-      "name": "Miaowoo Network",
-      "type": "Unknown"
+      "name": "WJY OU",
+      "type": "Cable/DSL/ISP"
     },
     "149478": {
       "name": "Rocket Internet Service",
@@ -101517,7 +101461,7 @@
       "type": "NSP"
     },
     "48678": {
-      "name": "PENTECH",
+      "name": "PENDC",
       "type": "Content"
     },
     "31968": {
@@ -106590,7 +106534,7 @@
     },
     "62246": {
       "name": "WJY Limited",
-      "type": "Educational/Research"
+      "type": "Cable/DSL/ISP"
     },
     "61964": {
       "name": "Freedom Magnitogorsk",
@@ -115634,10 +115578,6 @@
     },
     "214834": {
       "name": "Rekade Networks",
-      "type": "Content"
-    },
-    "401098": {
-      "name": "VARAYO INC - CDN",
       "type": "Content"
     },
     "1124": {
@@ -128349,7 +128289,7 @@
       "type": "Cable/DSL/ISP"
     },
     "211626": {
-      "name": "ASRO",
+      "name": "Arfone",
       "type": "Non-Profit"
     },
     "274063": {
@@ -134621,8 +134561,8 @@
       "type": "Unknown"
     },
     "209601": {
-      "name": "Yu ZuYuan",
-      "type": "Unknown"
+      "name": "XiaoYuan Networks",
+      "type": "Cable/DSL/ISP"
     },
     "202554": {
       "name": "1-PL Internet Exchange Poland",
@@ -134682,10 +134622,10 @@
     },
     "205514": {
       "name": "Martin Reicher",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "142187": {
-      "name": "Protectiv",
+      "name": "Protectiv IT Security Inc.",
       "type": "Content"
     },
     "207213": {
@@ -134694,10 +134634,10 @@
     },
     "208229": {
       "name": "MICHELE ROBERTAZZI",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "206097": {
-      "name": "gameshield",
+      "name": "Gameshield",
       "type": "Unknown"
     },
     "202615": {
@@ -134719,6 +134659,46 @@
     "210643": {
       "name": "Artur Zagidullin",
       "type": "Unknown"
+    },
+    "264226": {
+      "name": "ASN264226",
+      "type": "Unknown"
+    },
+    "154413": {
+      "name": "IDNIC-NETKITA-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "212890": {
+      "name": "ONEMAN-NETWORK",
+      "type": "Unknown"
+    },
+    "329639": {
+      "name": "ORG-JL1-AFRINIC",
+      "type": "Cable/DSL/ISP"
+    },
+    "142192": {
+      "name": "RRRL NET",
+      "type": "Cable/DSL/ISP"
+    },
+    "35704": {
+      "name": "ITZBund",
+      "type": "Unknown"
+    },
+    "201875": {
+      "name": "Trendingjobs",
+      "type": "Content"
+    },
+    "23374": {
+      "name": "FPUA",
+      "type": "Unknown"
+    },
+    "54891": {
+      "name": "CATHRON-INFO-MAIN",
+      "type": "Unknown"
+    },
+    "36346": {
+      "name": "TOGETHER-INFRA",
+      "type": "Network Services"
     }
   }
 }
