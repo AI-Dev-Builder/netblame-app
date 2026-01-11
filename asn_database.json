@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-10T00:09:35.506Z",
+  "updated_at": "2026-01-11T00:10:52.197Z",
   "source": "PeeringDB",
-  "entry_count": 33674,
+  "entry_count": 33681,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -69982,7 +69982,7 @@
     },
     "268624": {
       "name": "Gamers Club",
-      "type": "Network Services"
+      "type": "Content"
     },
     "265400": {
       "name": "VALE VERDE TECNOLOGIA INTEGRADA",
@@ -77829,7 +77829,7 @@
       "type": "Cable/DSL/ISP"
     },
     "206659": {
-      "name": "Tievolu",
+      "name": "Tievolu - Managed Services",
       "type": "NSP"
     },
     "139552": {
@@ -80205,7 +80205,7 @@
       "type": "Unknown"
     },
     "58015": {
-      "name": "Tievolu - AS58015",
+      "name": "Tievolu",
       "type": "NSP"
     },
     "211544": {
@@ -85541,7 +85541,7 @@
       "type": "Cable/DSL/ISP"
     },
     "38324": {
-      "name": "Clayer",
+      "name": "NetPilot Limited",
       "type": "Cable/DSL/ISP"
     },
     "197503": {
@@ -128993,7 +128993,7 @@
       "type": "Unknown"
     },
     "206604": {
-      "name": "FoxDevLab",
+      "name": "Belka's network",
       "type": "Educational/Research"
     },
     "153914": {
@@ -134699,6 +134699,34 @@
     "36346": {
       "name": "TOGETHER-INFRA",
       "type": "Network Services"
+    },
+    "213493": {
+      "name": "NYRU",
+      "type": "Content"
+    },
+    "329592": {
+      "name": "SiteHUB Agency",
+      "type": "Content"
+    },
+    "202858": {
+      "name": "ALASTAIR",
+      "type": "Unknown"
+    },
+    "11169": {
+      "name": "ARQUENZO-KCMO-01",
+      "type": "Network Services"
+    },
+    "32200": {
+      "name": "Epoxytel",
+      "type": "Route Server"
+    },
+    "31130": {
+      "name": "RapidSpace",
+      "type": "Unknown"
+    },
+    "152439": {
+      "name": "IDNIC-APPLEWIFI-AS-ID",
+      "type": "Unknown"
     }
   }
 }
