@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-11T00:10:52.197Z",
+  "updated_at": "2026-01-12T00:10:39.503Z",
   "source": "PeeringDB",
-  "entry_count": 33681,
+  "entry_count": 33684,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -8063,10 +8063,6 @@
     "44002": {
       "name": "Sys-DataCom s.r.o.",
       "type": "Cable/DSL/ISP"
-    },
-    "40253": {
-      "name": "Elysia Root L.C.",
-      "type": "Unknown"
     },
     "15301": {
       "name": "iovation, Inc.",
@@ -97168,6 +97164,10 @@
       "name": "GONET AS857",
       "type": "Government"
     },
+    "202464": {
+      "name": "Rongchang Qu",
+      "type": "Unknown"
+    },
     "207137": {
       "name": "PacketHub AS207137",
       "type": "Unknown"
@@ -106222,7 +106222,7 @@
     },
     "57575": {
       "name": "NETMOUNTAINS",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "45325": {
       "name": "PT PC24 Telekomunikasi Indonesia",
@@ -113730,7 +113730,7 @@
     },
     "215172": {
       "name": "JianyueLab Ltd.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "265680": {
       "name": "HNTELCO",
@@ -132802,7 +132802,7 @@
     },
     "154261": {
       "name": "Walastik Internet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "272076": {
       "name": "FIBRA100 S.A.S",
@@ -134308,10 +134308,6 @@
       "name": "Dream Solution Networks",
       "type": "Cable/DSL/ISP"
     },
-    "202734": {
-      "name": "Tianshome",
-      "type": "Educational/Research"
-    },
     "53654": {
       "name": "TJF HOLDINGS",
       "type": "Unknown"
@@ -134661,19 +134657,19 @@
       "type": "Unknown"
     },
     "264226": {
-      "name": "ASN264226",
+      "name": "ADVANCED CONNECTION TELECOM LTDA-ME",
       "type": "Unknown"
     },
     "154413": {
-      "name": "IDNIC-NETKITA-ID",
+      "name": "PT Busano Internet Kita",
       "type": "Cable/DSL/ISP"
     },
     "212890": {
-      "name": "ONEMAN-NETWORK",
+      "name": "ONEMAN NETWORK LIMITED",
       "type": "Unknown"
     },
     "329639": {
-      "name": "ORG-JL1-AFRINIC",
+      "name": "JFSWISP (PTY) LTD",
       "type": "Cable/DSL/ISP"
     },
     "142192": {
@@ -134689,15 +134685,15 @@
       "type": "Content"
     },
     "23374": {
-      "name": "FPUA",
+      "name": "FPUAnet Communications",
       "type": "Unknown"
     },
     "54891": {
-      "name": "CATHRON-INFO-MAIN",
+      "name": "CATHRON INFORMATION CONSULTING",
       "type": "Unknown"
     },
     "36346": {
-      "name": "TOGETHER-INFRA",
+      "name": "Together Computer",
       "type": "Network Services"
     },
     "213493": {
@@ -134713,7 +134709,7 @@
       "type": "Unknown"
     },
     "11169": {
-      "name": "ARQUENZO-KCMO-01",
+      "name": "Arquenzo",
       "type": "Network Services"
     },
     "32200": {
@@ -134722,11 +134718,27 @@
     },
     "31130": {
       "name": "RapidSpace",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "152439": {
-      "name": "IDNIC-APPLEWIFI-AS-ID",
+      "name": "PT Applewifi Selalu Lancar",
       "type": "Unknown"
+    },
+    "53902": {
+      "name": "FLUXORUSNETWORKS",
+      "type": "NSP"
+    },
+    "203168": {
+      "name": "JianyueLab Net. Non Profit",
+      "type": "Non-Profit"
+    },
+    "43103": {
+      "name": "ONE TELECOM ltd",
+      "type": "Unknown"
+    },
+    "203860": {
+      "name": "AARTSEN",
+      "type": "Enterprise"
     }
   }
 }
