@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-12T00:10:39.503Z",
+  "updated_at": "2026-01-13T00:08:06.559Z",
   "source": "PeeringDB",
-  "entry_count": 33684,
+  "entry_count": 33689,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -10953,7 +10953,7 @@
       "type": "Content"
     },
     "28287": {
-      "name": "Fit Telecom - Americanet",
+      "name": "Vero Internet PPE",
       "type": "Cable/DSL/ISP"
     },
     "34510": {
@@ -12641,7 +12641,7 @@
       "type": "Cable/DSL/ISP"
     },
     "28667": {
-      "name": "NETWORK TELECOMUNICACOES S.A.",
+      "name": "Vero Internet LRA",
       "type": "Cable/DSL/ISP"
     },
     "49360": {
@@ -12781,7 +12781,7 @@
       "type": "Cable/DSL/ISP"
     },
     "53171": {
-      "name": "PATH TELECOM AS53171",
+      "name": "Vero Internet AS53171",
       "type": "Unknown"
     },
     "262355": {
@@ -12893,7 +12893,7 @@
       "type": "Cable/DSL/ISP"
     },
     "262659": {
-      "name": "ULTRAWAVE TELECOM EIRELI",
+      "name": "Vero Internet BRU",
       "type": "Cable/DSL/ISP"
     },
     "132245": {
@@ -13381,7 +13381,7 @@
       "type": "Cable/DSL/ISP"
     },
     "53080": {
-      "name": "Rede Telecom",
+      "name": "Vero Internet AS53080",
       "type": "NSP"
     },
     "60894": {
@@ -14269,7 +14269,7 @@
       "type": "NSP"
     },
     "28263": {
-      "name": "Ensite Brasil Telecomunicaes Ltda - ME",
+      "name": "Vero Internet ARC3",
       "type": "Cable/DSL/ISP"
     },
     "6659": {
@@ -17685,7 +17685,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263297": {
-      "name": "RENOVARE TELECOM",
+      "name": "Vero Internet DSR",
       "type": "Cable/DSL/ISP"
     },
     "132917": {
@@ -20405,7 +20405,7 @@
       "type": "NSP"
     },
     "52940": {
-      "name": "PATH TELECOM AS52940",
+      "name": "Vero Internet AS52940",
       "type": "NSP"
     },
     "11910": {
@@ -22381,7 +22381,7 @@
       "type": "NSP"
     },
     "262272": {
-      "name": "FIT Telecom",
+      "name": "Vero Internet ARC2",
       "type": "Cable/DSL/ISP"
     },
     "54661": {
@@ -23541,7 +23541,7 @@
       "type": "Unknown"
     },
     "262794": {
-      "name": "Vero",
+      "name": "Vero Internet MGO",
       "type": "Cable/DSL/ISP"
     },
     "72": {
@@ -24175,10 +24175,6 @@
     "12066": {
       "name": "Altice Dominicana2",
       "type": "Unknown"
-    },
-    "200825": {
-      "name": "MegaServers.nl",
-      "type": "Cable/DSL/ISP"
     },
     "263422": {
       "name": "AXXESS TELECOMUNICAÇÕES",
@@ -24825,7 +24821,7 @@
       "type": "Unknown"
     },
     "28211": {
-      "name": "SMO TELECOM",
+      "name": "Vero Internet AS28211",
       "type": "Cable/DSL/ISP"
     },
     "11714": {
@@ -29105,7 +29101,7 @@
       "type": "Cable/DSL/ISP"
     },
     "61844": {
-      "name": "PATH TELECOM AS61844",
+      "name": "Vero Internet AS61844",
       "type": "Unknown"
     },
     "25386": {
@@ -34789,7 +34785,7 @@
       "type": "Cable/DSL/ISP"
     },
     "266201": {
-      "name": "RNV CORP",
+      "name": "Vero Internet DSR1",
       "type": "Cable/DSL/ISP"
     },
     "327956": {
@@ -39733,7 +39729,7 @@
       "type": "Enterprise"
     },
     "265974": {
-      "name": "PATH TELECOM AS265974",
+      "name": "Vero Internet AS265974",
       "type": "NSP"
     },
     "265858": {
@@ -43881,7 +43877,7 @@
       "type": "Unknown"
     },
     "28669": {
-      "name": "America-NET",
+      "name": "Vero Internet SP",
       "type": "Cable/DSL/ISP"
     },
     "266633": {
@@ -48385,7 +48381,7 @@
       "type": "Unknown"
     },
     "263645": {
-      "name": "FIXTELL TELECOM",
+      "name": "Vero Internet BSB",
       "type": "Cable/DSL/ISP"
     },
     "268444": {
@@ -56153,7 +56149,7 @@
       "type": "Cable/DSL/ISP"
     },
     "48472": {
-      "name": "Truenetwork CDN",
+      "name": "KEYPOINT-EKB",
       "type": "Content"
     },
     "209086": {
@@ -73888,10 +73884,6 @@
       "name": "TMONE DC",
       "type": "Enterprise"
     },
-    "208399": {
-      "name": "Horyzont Media",
-      "type": "Unknown"
-    },
     "265336": {
       "name": "ELneT Telecom",
       "type": "NSP"
@@ -81482,10 +81474,6 @@
     },
     "47705": {
       "name": "ZASTAVA-NET",
-      "type": "Cable/DSL/ISP"
-    },
-    "50258": {
-      "name": "Teyla",
       "type": "Cable/DSL/ISP"
     },
     "211617": {
@@ -104034,7 +104022,7 @@
     },
     "151326": {
       "name": "DCConnect Communication",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "149594": {
       "name": "MEGATEL NETWORKS",
@@ -109884,6 +109872,10 @@
       "name": "AT&T Data Communications Services",
       "type": "Unknown"
     },
+    "57399": {
+      "name": "PathConnect - AS57399",
+      "type": "Route Server"
+    },
     "152117": {
       "name": "Edgevana",
       "type": "Enterprise"
@@ -113213,8 +113205,8 @@
       "type": "Cable/DSL/ISP"
     },
     "202616": {
-      "name": "WE-FTTH-AS",
-      "type": "Unknown"
+      "name": "Wien Energie Superschnell",
+      "type": "Cable/DSL/ISP"
     },
     "215276": {
       "name": "OuO Network",
@@ -115185,7 +115177,7 @@
       "type": "Educational/Research"
     },
     "135489": {
-      "name": "FENGYENET",
+      "name": "FENGYE NETWORKS LIMITED",
       "type": "Cable/DSL/ISP"
     },
     "271413": {
@@ -130589,7 +130581,7 @@
       "type": "Educational/Research"
     },
     "208259": {
-      "name": "AVEN-AS",
+      "name": "AVENSTORE",
       "type": "Enterprise"
     },
     "210536": {
@@ -134308,6 +134300,10 @@
       "name": "Dream Solution Networks",
       "type": "Cable/DSL/ISP"
     },
+    "202734": {
+      "name": "Tianshome",
+      "type": "Educational/Research"
+    },
     "53654": {
       "name": "TJF HOLDINGS",
       "type": "Unknown"
@@ -134330,7 +134326,7 @@
     },
     "203778": {
       "name": "SPEED-NET Arkadiusz Broniecki",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "9442": {
       "name": "NIXI, De-cix Interwire Internet Services Private Limited",
@@ -134339,10 +134335,6 @@
     "132295": {
       "name": "Jahid Communication",
       "type": "Cable/DSL/ISP"
-    },
-    "207966": {
-      "name": "AO \"State Technical Service\"",
-      "type": "Unknown"
     },
     "209224": {
       "name": "Landesbank Baden-Wuerttemberg",
@@ -134454,7 +134446,7 @@
     },
     "154320": {
       "name": "Arriga International Limited",
-      "type": "Unknown"
+      "type": "Content"
     },
     "397368": {
       "name": "TETAHOST",
@@ -134729,7 +134721,7 @@
       "type": "NSP"
     },
     "203168": {
-      "name": "JianyueLab Net. Non Profit",
+      "name": "JianyueLab Net. Non Profit & P7IX Route Server",
       "type": "Non-Profit"
     },
     "43103": {
@@ -134739,6 +134731,34 @@
     "203860": {
       "name": "AARTSEN",
       "type": "Enterprise"
+    },
+    "154210": {
+      "name": "PT Pituama Unggulan Teknologi",
+      "type": "Unknown"
+    },
+    "154124": {
+      "name": "PT Global Media Jaringan Nasional",
+      "type": "Unknown"
+    },
+    "153694": {
+      "name": "Silverlining Private Limited",
+      "type": "Unknown"
+    },
+    "208674": {
+      "name": "EIOTTMANN",
+      "type": "Unknown"
+    },
+    "203730": {
+      "name": "SOLEBLANCA-AS",
+      "type": "Unknown"
+    },
+    "16617": {
+      "name": "COMMUNITYISP",
+      "type": "Unknown"
+    },
+    "203545": {
+      "name": "NERZEN-BILISIM-TEKNOLOJILERI",
+      "type": "Network Services"
     }
   }
 }
