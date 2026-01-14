@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-13T00:08:06.559Z",
+  "updated_at": "2026-01-14T00:10:04.296Z",
   "source": "PeeringDB",
-  "entry_count": 33689,
+  "entry_count": 33703,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -2377,7 +2377,7 @@
       "type": "NSP"
     },
     "13054": {
-      "name": "FreiNet",
+      "name": "badenIT",
       "type": "Cable/DSL/ISP"
     },
     "34288": {
@@ -3605,7 +3605,7 @@
       "type": "NSP"
     },
     "1213": {
-      "name": "HEAnet",
+      "name": "Asiera",
       "type": "Educational/Research"
     },
     "8689": {
@@ -10953,7 +10953,7 @@
       "type": "Content"
     },
     "28287": {
-      "name": "Vero Internet PPE",
+      "name": "Vero Internet AS28287",
       "type": "Cable/DSL/ISP"
     },
     "34510": {
@@ -12641,7 +12641,7 @@
       "type": "Cable/DSL/ISP"
     },
     "28667": {
-      "name": "Vero Internet LRA",
+      "name": "Vero Internet AS28667",
       "type": "Cable/DSL/ISP"
     },
     "49360": {
@@ -12893,7 +12893,7 @@
       "type": "Cable/DSL/ISP"
     },
     "262659": {
-      "name": "Vero Internet BRU",
+      "name": "Vero Internet AS262659",
       "type": "Cable/DSL/ISP"
     },
     "132245": {
@@ -13077,7 +13077,7 @@
       "type": "Cable/DSL/ISP"
     },
     "262700": {
-      "name": "Vero Internet EF",
+      "name": "Vero Internet AS262700",
       "type": "Cable/DSL/ISP"
     },
     "57976": {
@@ -13329,7 +13329,7 @@
       "type": "Educational/Research"
     },
     "28241": {
-      "name": "Vero Internet VC",
+      "name": "Vero Internet AS28241",
       "type": "Cable/DSL/ISP"
     },
     "8412": {
@@ -13409,7 +13409,7 @@
       "type": "Cable/DSL/ISP"
     },
     "53184": {
-      "name": "Vero Internet Tche",
+      "name": "Vero Internet AS53184",
       "type": "Cable/DSL/ISP"
     },
     "26609": {
@@ -13733,7 +13733,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263072": {
-      "name": "Vero Internet BDF",
+      "name": "Vero Internet AS263072",
       "type": "Cable/DSL/ISP"
     },
     "61893": {
@@ -14269,7 +14269,7 @@
       "type": "NSP"
     },
     "28263": {
-      "name": "Vero Internet ARC3",
+      "name": "Vero Internet AS28263",
       "type": "Cable/DSL/ISP"
     },
     "6659": {
@@ -15669,7 +15669,7 @@
       "type": "Cable/DSL/ISP"
     },
     "262673": {
-      "name": "Vero Internet CNL",
+      "name": "Vero Internet AS262673",
       "type": "Cable/DSL/ISP"
     },
     "28009": {
@@ -16062,7 +16062,7 @@
     },
     "62336": {
       "name": "PURtel.com",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "17069": {
       "name": "Cotel Argentina",
@@ -16241,7 +16241,7 @@
       "type": "Cable/DSL/ISP"
     },
     "262481": {
-      "name": "Vero Internet Litoral",
+      "name": "Vero Internet AS262481",
       "type": "Cable/DSL/ISP"
     },
     "32867": {
@@ -17025,7 +17025,7 @@
       "type": "Enterprise"
     },
     "53085": {
-      "name": "Vero Internet MKA",
+      "name": "Vero Internet AS53085",
       "type": "Cable/DSL/ISP"
     },
     "32678": {
@@ -17685,7 +17685,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263297": {
-      "name": "Vero Internet DSR",
+      "name": "Vero Internet AS263297",
       "type": "Cable/DSL/ISP"
     },
     "132917": {
@@ -17849,7 +17849,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263405": {
-      "name": "Vero Internet IIG",
+      "name": "Vero Internet AS263405",
       "type": "Cable/DSL/ISP"
     },
     "12276": {
@@ -18825,7 +18825,7 @@
       "type": "NSP"
     },
     "53191": {
-      "name": "Vero Internet Plug",
+      "name": "Vero Internet AS53191",
       "type": "NSP"
     },
     "58226": {
@@ -22381,7 +22381,7 @@
       "type": "NSP"
     },
     "262272": {
-      "name": "Vero Internet ARC2",
+      "name": "Vero Internet AS262272",
       "type": "Cable/DSL/ISP"
     },
     "54661": {
@@ -23541,7 +23541,7 @@
       "type": "Unknown"
     },
     "262794": {
-      "name": "Vero Internet MGO",
+      "name": "Vero Internet AS262794",
       "type": "Cable/DSL/ISP"
     },
     "72": {
@@ -30113,7 +30113,7 @@
       "type": "Cable/DSL/ISP"
     },
     "56549": {
-      "name": "QazGovIX Route Server",
+      "name": "QazGovIX Route Servers",
       "type": "Route Server"
     },
     "52078": {
@@ -34785,7 +34785,7 @@
       "type": "Cable/DSL/ISP"
     },
     "266201": {
-      "name": "Vero Internet DSR1",
+      "name": "Vero Internet AS266201",
       "type": "Cable/DSL/ISP"
     },
     "327956": {
@@ -43013,7 +43013,7 @@
       "type": "Route Server"
     },
     "262671": {
-      "name": "Vero Internet SM",
+      "name": "Vero Internet AS262671",
       "type": "Cable/DSL/ISP"
     },
     "13329": {
@@ -43561,7 +43561,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263032": {
-      "name": "Vero Internet Emp",
+      "name": "Vero Internet AS263032",
       "type": "Cable/DSL/ISP"
     },
     "52972": {
@@ -43877,7 +43877,7 @@
       "type": "Unknown"
     },
     "28669": {
-      "name": "Vero Internet SP",
+      "name": "Vero Internet AS28669",
       "type": "Cable/DSL/ISP"
     },
     "266633": {
@@ -44665,7 +44665,7 @@
       "type": "NSP"
     },
     "267124": {
-      "name": "Paulino Perreira Dos Santos ME",
+      "name": "Rede Virtual Net",
       "type": "Cable/DSL/ISP"
     },
     "22381": {
@@ -45337,7 +45337,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263864": {
-      "name": "Vero Internet IJUI",
+      "name": "Vero Internet AS263864",
       "type": "Cable/DSL/ISP"
     },
     "3789": {
@@ -47273,7 +47273,7 @@
       "type": "Enterprise"
     },
     "267085": {
-      "name": "Vero Internet G4 EPP",
+      "name": "Vero Internet AS267085",
       "type": "Cable/DSL/ISP"
     },
     "268300": {
@@ -48381,7 +48381,7 @@
       "type": "Unknown"
     },
     "263645": {
-      "name": "Vero Internet BSB",
+      "name": "Vero Internet AS263645",
       "type": "Cable/DSL/ISP"
     },
     "268444": {
@@ -80605,11 +80605,11 @@
       "type": "Unknown"
     },
     "266949": {
-      "name": "Vero Internet DV",
+      "name": "Vero Internet AS266949",
       "type": "NSP"
     },
     "268613": {
-      "name": "Vero Internet Oeste",
+      "name": "Vero Internet AS268613",
       "type": "NSP"
     },
     "27694": {
@@ -81421,7 +81421,7 @@
       "type": "Enterprise"
     },
     "267404": {
-      "name": "Vero Internet Clc",
+      "name": "Vero Internet AS267404",
       "type": "Unknown"
     },
     "265283": {
@@ -83082,7 +83082,7 @@
     },
     "211623": {
       "name": "NAML B.V.",
-      "type": "Content"
+      "type": "Network Services"
     },
     "137467": {
       "name": "Asif Husain Choudhury",
@@ -97154,7 +97154,7 @@
     },
     "202464": {
       "name": "Rongchang Qu",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "207137": {
       "name": "PacketHub AS207137",
@@ -109873,8 +109873,8 @@
       "type": "Unknown"
     },
     "57399": {
-      "name": "PathConnect - AS57399",
-      "type": "Route Server"
+      "name": "PathConnect Routing Labs",
+      "type": "Network Services"
     },
     "152117": {
       "name": "Edgevana",
@@ -114953,7 +114953,7 @@
       "type": "Unknown"
     },
     "133202": {
-      "name": "Afghanistan Faiz Satellite Communications, AFSAT",
+      "name": "AFSAT",
       "type": "Unknown"
     },
     "17990": {
@@ -127730,7 +127730,7 @@
     },
     "56868": {
       "name": "PT Omni Data Center Indonesia AS56868",
-      "type": "Unknown"
+      "type": "Route Server"
     },
     "153655": {
       "name": "Rural Fibre Co",
@@ -128074,7 +128074,7 @@
     },
     "39592": {
       "name": "IGX0-AS",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "274838": {
       "name": "ASN274838",
@@ -131497,8 +131497,8 @@
       "type": "Cable/DSL/ISP"
     },
     "47630": {
-      "name": "TELEVOIP-AS",
-      "type": "Unknown"
+      "name": "TeleVoIP bv",
+      "type": "NSP"
     },
     "149818": {
       "name": "CONPL-AS-AP",
@@ -134336,6 +134336,10 @@
       "name": "Jahid Communication",
       "type": "Cable/DSL/ISP"
     },
+    "207966": {
+      "name": "STS Services",
+      "type": "Unknown"
+    },
     "209224": {
       "name": "Landesbank Baden-Wuerttemberg",
       "type": "Unknown"
@@ -134565,7 +134569,7 @@
       "type": "Unknown"
     },
     "397006": {
-      "name": "Mullcloud LLC",
+      "name": "Mullcloud",
       "type": "Content"
     },
     "136203": {
@@ -134601,11 +134605,11 @@
       "type": "Content"
     },
     "264299": {
-      "name": "Vero Internet ARC",
+      "name": "Vero Internet AS264299",
       "type": "Cable/DSL/ISP"
     },
     "265079": {
-      "name": "Vero Internet ARC1",
+      "name": "Vero Internet AS265079",
       "type": "Cable/DSL/ISP"
     },
     "205514": {
@@ -134678,7 +134682,7 @@
     },
     "23374": {
       "name": "FPUAnet Communications",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "54891": {
       "name": "CATHRON INFORMATION CONSULTING",
@@ -134738,7 +134742,7 @@
     },
     "154124": {
       "name": "PT Global Media Jaringan Nasional",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "153694": {
       "name": "Silverlining Private Limited",
@@ -134746,19 +134750,71 @@
     },
     "208674": {
       "name": "EIOTTMANN",
-      "type": "Unknown"
+      "type": "Content"
     },
     "203730": {
-      "name": "SOLEBLANCA-AS",
+      "name": "Soleblanca SA",
       "type": "Unknown"
     },
     "16617": {
-      "name": "COMMUNITYISP",
+      "name": "COMMUNITY ISP",
       "type": "Unknown"
     },
     "203545": {
-      "name": "NERZEN-BILISIM-TEKNOLOJILERI",
+      "name": "NERZEN BILISIM TEKNOLOJILERI",
+      "type": "Enterprise"
+    },
+    "202358": {
+      "name": "MVNET SOLUTIONS",
+      "type": "NSP"
+    },
+    "142292": {
+      "name": "NTDKB",
+      "type": "Unknown"
+    },
+    "198000": {
+      "name": "Spoldzielnia Mieszkaniowa \"Polnoc\"",
+      "type": "Unknown"
+    },
+    "24780": {
+      "name": "AUTOSTRADE",
+      "type": "Unknown"
+    },
+    "136266": {
+      "name": "Mohammad Abu Nayem T/A Automation System",
+      "type": "Cable/DSL/ISP"
+    },
+    "329693": {
+      "name": "ATLANTIC TECH FIBER LTD",
+      "type": "Unknown"
+    },
+    "153262": {
+      "name": "RASHI COMMUNICATION PRIVATE LIMITED",
+      "type": "Unknown"
+    },
+    "211463": {
+      "name": "CARRIER1",
+      "type": "Unknown"
+    },
+    "202396": {
+      "name": "ZYK-AS",
+      "type": "Unknown"
+    },
+    "60708": {
+      "name": "KazNIC Astana",
+      "type": "Non-Profit"
+    },
+    "205592": {
+      "name": "Setsuna Network",
       "type": "Network Services"
+    },
+    "7768": {
+      "name": "Teknet Internet",
+      "type": "Cable/DSL/ISP"
+    },
+    "206921": {
+      "name": "LAZENTIS-BV",
+      "type": "Unknown"
     }
   }
 }
