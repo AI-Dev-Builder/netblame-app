@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-14T00:10:04.296Z",
+  "updated_at": "2026-01-15T00:10:07.527Z",
   "source": "PeeringDB",
-  "entry_count": 33703,
+  "entry_count": 33718,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -11422,7 +11422,7 @@
     },
     "9749": {
       "name": "GPK Computers",
-      "type": "Cable/DSL/ISP"
+      "type": "Enterprise"
     },
     "262744": {
       "name": "ICEnet Telecomunicações (Totalvia Internet)",
@@ -55085,7 +55085,7 @@
       "type": "Cable/DSL/ISP"
     },
     "266968": {
-      "name": "SUANET TELECOMUNICACOES",
+      "name": "SUANET TELECOMUNICAÇÕES",
       "type": "Cable/DSL/ISP"
     },
     "44273": {
@@ -100740,6 +100740,10 @@
       "name": "Yacolo",
       "type": "Content"
     },
+    "202437": {
+      "name": "Heo Jun trading as ParkAppsHouse",
+      "type": "Unknown"
+    },
     "63062": {
       "name": "Hughenet CDN",
       "type": "Content"
@@ -107133,7 +107137,7 @@
       "type": "Educational/Research"
     },
     "151673": {
-      "name": "CXY Edu and Rsch Network",
+      "name": "Xinyu Network",
       "type": "Educational/Research"
     },
     "329233": {
@@ -113027,6 +113031,10 @@
     "50831": {
       "name": "Adelina Outsourcing LLC",
       "type": "Unknown"
+    },
+    "215323": {
+      "name": "MOMANIC",
+      "type": "Enterprise"
     },
     "273461": {
       "name": "CYBERWEB ATJP",
@@ -123196,10 +123204,6 @@
       "name": "G-HO.ST Network",
       "type": "Educational/Research"
     },
-    "213671": {
-      "name": "The 4th Utility",
-      "type": "Cable/DSL/ISP"
-    },
     "50841": {
       "name": "POM-IX Route Servers",
       "type": "Route Server"
@@ -123762,7 +123766,7 @@
     },
     "401609": {
       "name": "Bainbridge Internet Services",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "401637": {
       "name": "APRILNEA",
@@ -128261,7 +128265,7 @@
       "type": "Cable/DSL/ISP"
     },
     "272118": {
-      "name": "272118",
+      "name": "DATALINK, C.A.",
       "type": "Unknown"
     },
     "26812": {
@@ -132334,7 +132338,7 @@
     },
     "154191": {
       "name": "PT WIFIKCB LINTAS DATA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "209625": {
       "name": "Redcluster LTD",
@@ -134206,7 +134210,7 @@
     },
     "328614": {
       "name": "Eden Technologies",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "10665": {
       "name": "SkyNET Corporation",
@@ -134322,7 +134326,7 @@
     },
     "149933": {
       "name": "PT Sahabat Manjur Grup",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "203778": {
       "name": "SPEED-NET Arkadiusz Broniecki",
@@ -134594,7 +134598,7 @@
     },
     "209817": {
       "name": "MULTINET.PL SP. Z O.O.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "63208": {
       "name": "Genvio Inc.",
@@ -134674,7 +134678,7 @@
     },
     "35704": {
       "name": "ITZBund",
-      "type": "Unknown"
+      "type": "Government"
     },
     "201875": {
       "name": "Trendingjobs",
@@ -134686,7 +134690,7 @@
     },
     "54891": {
       "name": "CATHRON INFORMATION CONSULTING",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "36346": {
       "name": "Together Computer",
@@ -134797,7 +134801,7 @@
       "type": "Unknown"
     },
     "202396": {
-      "name": "ZYK-AS",
+      "name": "Zeng Yukai",
       "type": "Unknown"
     },
     "60708": {
@@ -134813,8 +134817,64 @@
       "type": "Cable/DSL/ISP"
     },
     "206921": {
-      "name": "LAZENTIS-BV",
+      "name": "Lazentis",
+      "type": "Content"
+    },
+    "7118": {
+      "name": "Global Internet Services",
+      "type": "Cable/DSL/ISP"
+    },
+    "401992": {
+      "name": "Toztech Internet Services",
       "type": "Unknown"
+    },
+    "24205": {
+      "name": "PT. Bank Permata Tbk.",
+      "type": "Unknown"
+    },
+    "202751": {
+      "name": "Christopher Edwards",
+      "type": "Unknown"
+    },
+    "142207": {
+      "name": "WJY (Shanghai) Technology Co., Ltd., WJY (Shanghai) Technology Co., Ltd.",
+      "type": "Unknown"
+    },
+    "202335": {
+      "name": "Haima Network",
+      "type": "Unknown"
+    },
+    "138011": {
+      "name": "PT Abid Infotama Komputindo Utama",
+      "type": "Unknown"
+    },
+    "7468": {
+      "name": "Superhub Ltd., Cyber Express Communication Ltd.",
+      "type": "Unknown"
+    },
+    "26768": {
+      "name": "SAKURA Content",
+      "type": "Content"
+    },
+    "27411": {
+      "name": "LeaseWeb USA / CHI-11",
+      "type": "Content"
+    },
+    "396362": {
+      "name": "LeaseWeb USA / NYC-01",
+      "type": "Content"
+    },
+    "393886": {
+      "name": "LeaseWeb USA / MIA-01",
+      "type": "Content"
+    },
+    "395954": {
+      "name": "LeaseWeb USA / LAX-12",
+      "type": "Content"
+    },
+    "396190": {
+      "name": "LeaseWeb USA / SEA-11",
+      "type": "Content"
     }
   }
 }
