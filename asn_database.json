@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-15T00:10:07.527Z",
+  "updated_at": "2026-01-16T00:09:51.691Z",
   "source": "PeeringDB",
-  "entry_count": 33718,
+  "entry_count": 33732,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -27262,7 +27262,7 @@
     },
     "58424": {
       "name": "Xinwei Telecom Cambodia",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "265130": {
       "name": "FIBRA EMPRESAS LTDA",
@@ -55507,6 +55507,10 @@
     "136998": {
       "name": "POIPETINTERNET",
       "type": "Unknown"
+    },
+    "24322": {
+      "name": "infininet (prev. HostLink)",
+      "type": "NSP"
     },
     "135666": {
       "name": "MOIC AS",
@@ -97168,6 +97172,10 @@
       "name": "Vilcom Networks Limited",
       "type": "Cable/DSL/ISP"
     },
+    "202559": {
+      "name": "IXP-1-DE",
+      "type": "Unknown"
+    },
     "264449": {
       "name": "ZOOM NET",
       "type": "Unknown"
@@ -102690,7 +102698,7 @@
     },
     "23528": {
       "name": "Sparkpost",
-      "type": "Unknown"
+      "type": "Content"
     },
     "150480": {
       "name": "Bursa Networking",
@@ -122389,7 +122397,7 @@
       "type": "Cable/DSL/ISP"
     },
     "214346": {
-      "name": "HunterWeb",
+      "name": "Hunter Web LLC",
       "type": "Unknown"
     },
     "215706": {
@@ -123203,6 +123211,10 @@
     "213625": {
       "name": "G-HO.ST Network",
       "type": "Educational/Research"
+    },
+    "213671": {
+      "name": "The 4th Utility",
+      "type": "Cable/DSL/ISP"
     },
     "50841": {
       "name": "POM-IX Route Servers",
@@ -127702,7 +127714,7 @@
     },
     "147094": {
       "name": "PT. MITRA VISIONER PRATAMA",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "8241": {
       "name": "RELLINE-AS",
@@ -128266,7 +128278,7 @@
     },
     "272118": {
       "name": "DATALINK, C.A.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "26812": {
       "name": "ROTARY-INTERNATIONAL",
@@ -128285,7 +128297,7 @@
       "type": "Cable/DSL/ISP"
     },
     "211626": {
-      "name": "Arfone",
+      "name": "ASRO",
       "type": "Non-Profit"
     },
     "274063": {
@@ -133110,7 +133122,7 @@
     },
     "329505": {
       "name": "FLICKSWITCH (PROPRIETARY) LIMITED",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "11580": {
       "name": "Island Networks Ltd",
@@ -133877,8 +133889,8 @@
       "type": "Cable/DSL/ISP"
     },
     "147126": {
-      "name": "PT Patra Sinar Teknologi",
-      "type": "Enterprise"
+      "name": "Patra Sinar Teknologi",
+      "type": "Cable/DSL/ISP"
     },
     "19388": {
       "name": "Team Cymru Labs",
@@ -134842,7 +134854,7 @@
     },
     "202335": {
       "name": "Haima Network",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "138011": {
       "name": "PT Abid Infotama Komputindo Utama",
@@ -134875,6 +134887,50 @@
     "396190": {
       "name": "LeaseWeb USA / SEA-11",
       "type": "Content"
+    },
+    "133831": {
+      "name": "PT Irama Media FlashNet",
+      "type": "Unknown"
+    },
+    "399823": {
+      "name": "GOIP GLOBALNET SOLUTIONS LLC",
+      "type": "Unknown"
+    },
+    "154065": {
+      "name": "NIXI",
+      "type": "Unknown"
+    },
+    "152148": {
+      "name": "FAST LINE FIBER PRIVATE LIMITED",
+      "type": "Cable/DSL/ISP"
+    },
+    "210357": {
+      "name": "Shahbanov Ramis Magomedalievich",
+      "type": "Cable/DSL/ISP"
+    },
+    "275621": {
+      "name": "CARBON SERVIÇOS DE INTERNET LTDA",
+      "type": "Unknown"
+    },
+    "213424": {
+      "name": "Jordan McKee",
+      "type": "Unknown"
+    },
+    "214670": {
+      "name": "No Metric Limited",
+      "type": "Cable/DSL/ISP"
+    },
+    "208123": {
+      "name": "SPN Alliance Limited",
+      "type": "Unknown"
+    },
+    "210225": {
+      "name": "David Dings",
+      "type": "Unknown"
+    },
+    "272817": {
+      "name": "SPEED FIBER SPEEDFIBER CIA.LTDA.",
+      "type": "Unknown"
     }
   }
 }
