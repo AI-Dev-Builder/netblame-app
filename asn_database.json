@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-16T00:09:51.691Z",
+  "updated_at": "2026-01-17T00:09:17.864Z",
   "source": "PeeringDB",
-  "entry_count": 33732,
+  "entry_count": 33737,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -72554,7 +72554,7 @@
     },
     "39563": {
       "name": "UC Systems",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "212784": {
       "name": "Marykirk-com",
@@ -85777,7 +85777,7 @@
       "type": "Unknown"
     },
     "210764": {
-      "name": "ISC F-ROOT AGP1",
+      "name": "ISC F-ROOT DYU1",
       "type": "Unknown"
     },
     "61853": {
@@ -90534,10 +90534,6 @@
     },
     "269641": {
       "name": "RURALNET BRASIL",
-      "type": "Cable/DSL/ISP"
-    },
-    "142325": {
-      "name": "Teralink Networks",
       "type": "Cable/DSL/ISP"
     },
     "147154": {
@@ -102697,7 +102693,7 @@
       "type": "Content"
     },
     "23528": {
-      "name": "Sparkpost",
+      "name": "Bird",
       "type": "Content"
     },
     "150480": {
@@ -104766,7 +104762,7 @@
     },
     "199829": {
       "name": "Akronic Network",
-      "type": "Content"
+      "type": "NSP"
     },
     "7709": {
       "name": "Taiwan Network Access Point",
@@ -105834,7 +105830,7 @@
     },
     "139659": {
       "name": "LUCIDACLOUD",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "135912": {
       "name": "VNETWORK JOINT STOCK COMPANY",
@@ -113951,10 +113947,6 @@
     "215140": {
       "name": "Lucas ANSQUER",
       "type": "Network Services"
-    },
-    "215129": {
-      "name": "Wodarek Productions",
-      "type": "Educational/Research"
     },
     "272041": {
       "name": "FUNDACION DIACONIA FONDO ROTATIVO DE INVERSION Y FOMENTO INSTITUCION FINANCIERA DE DESARROLLO (DIACONIA FRIF - IFD)",
@@ -129042,7 +129034,7 @@
     },
     "215652": {
       "name": "JB-PL-ROUTE",
-      "type": "Enterprise"
+      "type": "Unknown"
     },
     "199959": {
       "name": "GWY IT PTY LTD",
@@ -134930,6 +134922,34 @@
     },
     "272817": {
       "name": "SPEED FIBER SPEEDFIBER CIA.LTDA.",
+      "type": "Unknown"
+    },
+    "202473": {
+      "name": "PSC-Net",
+      "type": "Cable/DSL/ISP"
+    },
+    "14958": {
+      "name": "NATIONS-KS",
+      "type": "Unknown"
+    },
+    "274092": {
+      "name": "274092",
+      "type": "NSP"
+    },
+    "210097": {
+      "name": "EXACT-DIGITAL",
+      "type": "Unknown"
+    },
+    "202142": {
+      "name": "PHRBR-07012026",
+      "type": "Unknown"
+    },
+    "205719": {
+      "name": "FORESTSNET-AS",
+      "type": "Unknown"
+    },
+    "394935": {
+      "name": "CHUCK-RESERVA",
       "type": "Unknown"
     }
   }
