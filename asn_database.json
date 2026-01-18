@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-17T00:09:17.864Z",
+  "updated_at": "2026-01-18T00:10:46.902Z",
   "source": "PeeringDB",
-  "entry_count": 33737,
+  "entry_count": 33744,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -46574,7 +46574,7 @@
     },
     "203786": {
       "name": "WK-AS203796",
-      "type": "Unknown"
+      "type": "Content"
     },
     "134028": {
       "name": "sunray infonet",
@@ -86913,7 +86913,7 @@
       "type": "Unknown"
     },
     "211507": {
-      "name": "JulianAchter",
+      "name": "Julian Achter",
       "type": "Unknown"
     },
     "139484": {
@@ -113948,6 +113948,10 @@
       "name": "Lucas ANSQUER",
       "type": "Network Services"
     },
+    "215129": {
+      "name": "Wodarek Productions",
+      "type": "Educational/Research"
+    },
     "272041": {
       "name": "FUNDACION DIACONIA FONDO ROTATIVO DE INVERSION Y FOMENTO INSTITUCION FINANCIERA DE DESARROLLO (DIACONIA FRIF - IFD)",
       "type": "Enterprise"
@@ -127962,7 +127966,7 @@
     },
     "207113": {
       "name": "Cyrus-Mbitao",
-      "type": "Non-Profit"
+      "type": "Network Services"
     },
     "207099": {
       "name": "RICKARDANDRI",
@@ -134726,7 +134730,7 @@
     },
     "152439": {
       "name": "PT Applewifi Selalu Lancar",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "53902": {
       "name": "FLUXORUSNETWORKS",
@@ -134805,8 +134809,8 @@
       "type": "Unknown"
     },
     "202396": {
-      "name": "Zeng Yukai",
-      "type": "Unknown"
+      "name": "Yukari Networks",
+      "type": "Educational/Research"
     },
     "60708": {
       "name": "KazNIC Astana",
@@ -134941,8 +134945,8 @@
       "type": "Unknown"
     },
     "202142": {
-      "name": "PHRBR-07012026",
-      "type": "Unknown"
+      "name": "PacketHarbor",
+      "type": "NSP"
     },
     "205719": {
       "name": "FORESTSNET-AS",
@@ -134950,6 +134954,30 @@
     },
     "394935": {
       "name": "CHUCK-RESERVA",
+      "type": "Unknown"
+    },
+    "211687": {
+      "name": "HCORE-LTD",
+      "type": "Unknown"
+    },
+    "202294": {
+      "name": "Netlojik",
+      "type": "Unknown"
+    },
+    "142168": {
+      "name": "RACE-AS-AP",
+      "type": "Unknown"
+    },
+    "150516": {
+      "name": "IDNIC-BNPT-AS-ID",
+      "type": "Unknown"
+    },
+    "264042": {
+      "name": "ASN264042",
+      "type": "Unknown"
+    },
+    "274812": {
+      "name": "JM FIBRA",
       "type": "Unknown"
     }
   }
