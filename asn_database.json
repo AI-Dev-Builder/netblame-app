@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-18T00:10:46.902Z",
+  "updated_at": "2026-01-19T00:10:42.595Z",
   "source": "PeeringDB",
-  "entry_count": 33744,
+  "entry_count": 33750,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -115920,6 +115920,10 @@
       "name": "UDAG",
       "type": "Unknown"
     },
+    "214781": {
+      "name": "ASTEL JSC #36407",
+      "type": "Unknown"
+    },
     "262431": {
       "name": "Liq Corp",
       "type": "Unknown"
@@ -129570,7 +129574,7 @@
     },
     "205941": {
       "name": "Lungu Stefan",
-      "type": "Educational/Research"
+      "type": "NSP"
     },
     "43905": {
       "name": "SPACE NORWAY SATCOM AS",
@@ -134950,7 +134954,7 @@
     },
     "205719": {
       "name": "FORESTSNET-AS",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "394935": {
       "name": "CHUCK-RESERVA",
@@ -134966,7 +134970,7 @@
     },
     "142168": {
       "name": "RACE-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "150516": {
       "name": "IDNIC-BNPT-AS-ID",
@@ -134979,6 +134983,26 @@
     "274812": {
       "name": "JM FIBRA",
       "type": "Unknown"
+    },
+    "402107": {
+      "name": "BITFISSURE-01",
+      "type": "Unknown"
+    },
+    "141189": {
+      "name": "Meta Link Private Limited - 141189",
+      "type": "Cable/DSL/ISP"
+    },
+    "399003": {
+      "name": "CCL-AS-01",
+      "type": "Unknown"
+    },
+    "214041": {
+      "name": "TREAS",
+      "type": "Content"
+    },
+    "133157": {
+      "name": "FIREFLY-AS-AP",
+      "type": "Network Services"
     }
   }
 }
