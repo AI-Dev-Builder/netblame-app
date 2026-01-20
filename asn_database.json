@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-19T00:10:42.595Z",
+  "updated_at": "2026-01-20T00:09:33.466Z",
   "source": "PeeringDB",
-  "entry_count": 33750,
+  "entry_count": 33761,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -6402,7 +6402,7 @@
     },
     "45474": {
       "name": "Nexusguard",
-      "type": "NSP"
+      "type": "Network Services"
     },
     "50469": {
       "name": "HessenKom GmbH & Co KG",
@@ -46296,6 +46296,10 @@
       "name": "NETPLAY TELECOM",
       "type": "Cable/DSL/ISP"
     },
+    "202322": {
+      "name": "BTOELLE",
+      "type": "Educational/Research"
+    },
     "266115": {
       "name": "W Rodrigo de Jesus ME",
       "type": "Cable/DSL/ISP"
@@ -72585,7 +72589,7 @@
       "type": "Unknown"
     },
     "271203": {
-      "name": "NetX Brasil",
+      "name": "ZUX",
       "type": "NSP"
     },
     "270894": {
@@ -78129,7 +78133,7 @@
       "type": "Cable/DSL/ISP"
     },
     "141694": {
-      "name": "ERMISLTD-AS-AP",
+      "name": "Ermis Ltd.",
       "type": "Unknown"
     },
     "140631": {
@@ -97169,8 +97173,8 @@
       "type": "Cable/DSL/ISP"
     },
     "202559": {
-      "name": "IXP-1-DE",
-      "type": "Unknown"
+      "name": "1-DE",
+      "type": "Route Server"
     },
     "264449": {
       "name": "ZOOM NET",
@@ -108856,6 +108860,10 @@
       "name": "PT Pandawa Global Telematika",
       "type": "Unknown"
     },
+    "216121": {
+      "name": "VALKYRIE HOSTING",
+      "type": "Educational/Research"
+    },
     "151099": {
       "name": "ANANTH TELECOM SERVICES",
       "type": "Cable/DSL/ISP"
@@ -118390,7 +118398,7 @@
     },
     "329258": {
       "name": "Nextgen Telcoms LTD",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "214371": {
       "name": "HORIZON-IT",
@@ -134268,10 +134276,6 @@
       "name": "Mtserver",
       "type": "Unknown"
     },
-    "203753": {
-      "name": "FIRSTUNIT",
-      "type": "Network Services"
-    },
     "27640": {
       "name": "GIGAS HOSTING USA",
       "type": "Enterprise"
@@ -134573,11 +134577,11 @@
       "type": "Cable/DSL/ISP"
     },
     "202554": {
-      "name": "1-PL Internet Exchange Poland",
+      "name": "1-PL",
       "type": "Route Server"
     },
     "202580": {
-      "name": "1-NL Internet Exchange Netherlands",
+      "name": "1-NL",
       "type": "Route Server"
     },
     "22306": {
@@ -134858,7 +134862,7 @@
     },
     "138011": {
       "name": "PT Abid Infotama Komputindo Utama",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "7468": {
       "name": "Superhub Ltd., Cyber Express Communication Ltd.",
@@ -134957,7 +134961,7 @@
       "type": "Enterprise"
     },
     "394935": {
-      "name": "CHUCK-RESERVA",
+      "name": "CHUCK RESERVA",
       "type": "Unknown"
     },
     "211687": {
@@ -135003,6 +135007,46 @@
     "133157": {
       "name": "FIREFLY-AS-AP",
       "type": "Network Services"
+    },
+    "154167": {
+      "name": "ABLVDC-AS-AP",
+      "type": "Unknown"
+    },
+    "146996": {
+      "name": "DEX-AS-AP",
+      "type": "Unknown"
+    },
+    "154324": {
+      "name": "APL-AS-AP",
+      "type": "Unknown"
+    },
+    "141460": {
+      "name": "SNSIT-AS-AP",
+      "type": "Unknown"
+    },
+    "209342": {
+      "name": "NIC-SDAIA-Deem",
+      "type": "Unknown"
+    },
+    "204742": {
+      "name": "bitarray",
+      "type": "Unknown"
+    },
+    "202192": {
+      "name": "DATAHUB-IX",
+      "type": "NSP"
+    },
+    "214507": {
+      "name": "plds",
+      "type": "Unknown"
+    },
+    "214635": {
+      "name": "MedOneISP",
+      "type": "Unknown"
+    },
+    "393705": {
+      "name": "LYTEFIBER-01",
+      "type": "Unknown"
     }
   }
 }
