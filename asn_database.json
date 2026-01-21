@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-20T00:09:33.466Z",
+  "updated_at": "2026-01-21T00:09:46.332Z",
   "source": "PeeringDB",
-  "entry_count": 33761,
+  "entry_count": 33770,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -41872,6 +41872,10 @@
       "name": "JackNet",
       "type": "Educational/Research"
     },
+    "204789": {
+      "name": "Bizbeta LTD",
+      "type": "Unknown"
+    },
     "53156": {
       "name": "PortalSAT Telecom",
       "type": "Cable/DSL/ISP"
@@ -66338,7 +66342,7 @@
     },
     "207315": {
       "name": "Stichting Internet Archive",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "265232": {
       "name": "WLAN SISTEMAS",
@@ -95185,7 +95189,7 @@
       "type": "Cable/DSL/ISP"
     },
     "203874": {
-      "name": "XStar",
+      "name": "DevRex",
       "type": "Non-Profit"
     },
     "149897": {
@@ -108862,7 +108866,7 @@
     },
     "216121": {
       "name": "VALKYRIE HOSTING",
-      "type": "Educational/Research"
+      "type": "Network Services"
     },
     "151099": {
       "name": "ANANTH TELECOM SERVICES",
@@ -111378,7 +111382,7 @@
     },
     "206581": {
       "name": "Marcin Wietecha WietNet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "51692": {
       "name": "HyberHost",
@@ -114789,8 +114793,8 @@
       "type": "Enterprise"
     },
     "18044": {
-      "name": "ALLROUND-INTERNET",
-      "type": "Unknown"
+      "name": "Kanrays Technology Co., Ltd.",
+      "type": "NSP"
     },
     "400031": {
       "name": "GIGAPACKET",
@@ -115881,7 +115885,7 @@
       "type": "Cable/DSL/ISP"
     },
     "43": {
-      "name": "BNL-AS",
+      "name": "Brookhaven National Laboratory",
       "type": "Unknown"
     },
     "37127": {
@@ -125529,7 +125533,7 @@
       "type": "Unknown"
     },
     "208986": {
-      "name": "PROMEDIA NOWICKI WESOLOWSKI Sp.J.",
+      "name": "NET-PRO",
       "type": "Unknown"
     },
     "211038": {
@@ -126415,10 +126419,6 @@
     "262622": {
       "name": "ASN262622",
       "type": "Cable/DSL/ISP"
-    },
-    "54419": {
-      "name": "Lightpath Phoenix",
-      "type": "Unknown"
     },
     "272666": {
       "name": "ASN272666",
@@ -128837,7 +128837,7 @@
       "type": "Unknown"
     },
     "210773": {
-      "name": "MagicEdge Global LTD",
+      "name": "Xinyu Network Next",
       "type": "Enterprise"
     },
     "154040": {
@@ -129050,7 +129050,7 @@
     },
     "215652": {
       "name": "JB-PL-ROUTE",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "199959": {
       "name": "GWY IT PTY LTD",
@@ -133866,7 +133866,7 @@
     },
     "61625": {
       "name": "Grupo We Dev LTDA",
-      "type": "Unknown"
+      "type": "Content"
     },
     "209809": {
       "name": "ROCO HOST LTD",
@@ -134898,7 +134898,7 @@
     },
     "399823": {
       "name": "GOIP GLOBALNET SOLUTIONS LLC",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "154065": {
       "name": "NIXI",
@@ -134982,7 +134982,7 @@
     },
     "264042": {
       "name": "ASN264042",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "274812": {
       "name": "JM FIBRA",
@@ -135029,7 +135029,7 @@
       "type": "Unknown"
     },
     "204742": {
-      "name": "bitarray",
+      "name": "Bitarray GmbH",
       "type": "Unknown"
     },
     "202192": {
@@ -135042,10 +135042,46 @@
     },
     "214635": {
       "name": "MedOneISP",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "393705": {
-      "name": "LYTEFIBER-01",
+      "name": "Lyte Fiber, LLC",
+      "type": "Cable/DSL/ISP"
+    },
+    "202163": {
+      "name": "altarek",
+      "type": "Unknown"
+    },
+    "273238": {
+      "name": "CABLE EXITO S.A.S.",
+      "type": "Unknown"
+    },
+    "21077": {
+      "name": "ISP4BAS",
+      "type": "Unknown"
+    },
+    "57222": {
+      "name": "HAASE IT",
+      "type": "Unknown"
+    },
+    "44375": {
+      "name": "Asmanfaraz Sepahan Company (P.J.S)",
+      "type": "NSP"
+    },
+    "142177": {
+      "name": "HENRYPDEATRAS-AS-AP",
+      "type": "Unknown"
+    },
+    "214422": {
+      "name": "itsy-host",
+      "type": "Unknown"
+    },
+    "206777": {
+      "name": "MSINGH",
+      "type": "Unknown"
+    },
+    "39547": {
+      "name": "ITE-AS",
       "type": "Unknown"
     }
   }
