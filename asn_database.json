@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-21T00:09:46.332Z",
+  "updated_at": "2026-01-22T00:10:25.854Z",
   "source": "PeeringDB",
-  "entry_count": 33770,
+  "entry_count": 33776,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -2629,7 +2629,7 @@
       "type": "NSP"
     },
     "8399": {
-      "name": "Sewan Communications",
+      "name": "Sewan SAS",
       "type": "Cable/DSL/ISP"
     },
     "17346": {
@@ -13952,10 +13952,6 @@
       "name": "Softbank Telecom (Ultina service brand)",
       "type": "Enterprise"
     },
-    "198184": {
-      "name": "NEXTO",
-      "type": "NSP"
-    },
     "21744": {
       "name": "WestStar TV Ltd.",
       "type": "Cable/DSL/ISP"
@@ -15998,10 +15994,6 @@
     },
     "20207": {
       "name": "Gigared",
-      "type": "Cable/DSL/ISP"
-    },
-    "262696": {
-      "name": "Turbonet Telecomunicações LTDA ME",
       "type": "Cable/DSL/ISP"
     },
     "262623": {
@@ -52510,10 +52502,6 @@
     },
     "265487": {
       "name": "SKY POWER INFORMATICA",
-      "type": "Cable/DSL/ISP"
-    },
-    "266640": {
-      "name": "MARISETE DE FARIAS ME",
       "type": "Cable/DSL/ISP"
     },
     "46950": {
@@ -92504,6 +92492,10 @@
       "name": "Fiber Life Internet",
       "type": "Cable/DSL/ISP"
     },
+    "210632": {
+      "name": "NOVARA",
+      "type": "Content"
+    },
     "43524": {
       "name": "BREM-IX Route Servers",
       "type": "Route Server"
@@ -97763,6 +97755,10 @@
     "400478": {
       "name": "STMBOYD-NET",
       "type": "Unknown"
+    },
+    "202199": {
+      "name": "Traware Technologies",
+      "type": "Cable/DSL/ISP"
     },
     "202408": {
       "name": "MANSORA NETWORK",
@@ -113480,10 +113476,6 @@
       "name": "WEBNET !",
       "type": "Cable/DSL/ISP"
     },
-    "215221": {
-      "name": "MPNATA-NET",
-      "type": "Educational/Research"
-    },
     "206236": {
       "name": "Default Gateway",
       "type": "Unknown"
@@ -126420,6 +126412,10 @@
       "name": "ASN262622",
       "type": "Cable/DSL/ISP"
     },
+    "54419": {
+      "name": "Lightpath Phoenix",
+      "type": "Unknown"
+    },
     "272666": {
       "name": "ASN272666",
       "type": "Unknown"
@@ -135017,8 +135013,8 @@
       "type": "Unknown"
     },
     "154324": {
-      "name": "APL-AS-AP",
-      "type": "Unknown"
+      "name": "AltusCloud",
+      "type": "Content"
     },
     "141460": {
       "name": "SNSIT-AS-AP",
@@ -135037,7 +135033,7 @@
       "type": "NSP"
     },
     "214507": {
-      "name": "plds",
+      "name": "SIA \"Puces datorsistemas\"",
       "type": "Unknown"
     },
     "214635": {
@@ -135049,7 +135045,7 @@
       "type": "Cable/DSL/ISP"
     },
     "202163": {
-      "name": "altarek",
+      "name": "AL TAREK ENERGY SPC",
       "type": "Unknown"
     },
     "273238": {
@@ -135073,7 +135069,7 @@
       "type": "Unknown"
     },
     "214422": {
-      "name": "itsy-host",
+      "name": "Dmytro Nebaba",
       "type": "Unknown"
     },
     "206777": {
@@ -135081,7 +135077,35 @@
       "type": "Unknown"
     },
     "39547": {
-      "name": "ITE-AS",
+      "name": "Carrywater Group S.A.",
+      "type": "Unknown"
+    },
+    "40278": {
+      "name": "Internet Management Services LLC",
+      "type": "Unknown"
+    },
+    "398925": {
+      "name": "TAREKCLOUD-US",
+      "type": "Cable/DSL/ISP"
+    },
+    "214476": {
+      "name": "canus",
+      "type": "Unknown"
+    },
+    "215762": {
+      "name": "bulletgroup",
+      "type": "Unknown"
+    },
+    "210557": {
+      "name": "FalakNET",
+      "type": "Unknown"
+    },
+    "209207": {
+      "name": "DHOST-AS",
+      "type": "Unknown"
+    },
+    "210092": {
+      "name": "GOLDENNET",
       "type": "Unknown"
     }
   }
