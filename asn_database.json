@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-22T00:10:25.854Z",
+  "updated_at": "2026-01-23T00:10:30.438Z",
   "source": "PeeringDB",
-  "entry_count": 33776,
+  "entry_count": 33788,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -961,7 +961,7 @@
       "type": "Cable/DSL/ISP"
     },
     "5430": {
-      "name": "freenet Cityline GmbH",
+      "name": "TERRA CLOUD Duesseldorf GmbH / WORTMANN AG",
       "type": "NSP"
     },
     "21947": {
@@ -19453,7 +19453,7 @@
       "type": "Cable/DSL/ISP"
     },
     "52936": {
-      "name": "ISOTELCO",
+      "name": "AS52936",
       "type": "Cable/DSL/ISP"
     },
     "53334": {
@@ -24666,7 +24666,7 @@
     },
     "202831": {
       "name": "Ablaykhan Akylbekovich Sharimov",
-      "type": "Unknown"
+      "type": "Content"
     },
     "264956": {
       "name": "Murillo Jorge Alteia",
@@ -29793,7 +29793,7 @@
       "type": "Enterprise"
     },
     "203230": {
-      "name": "multiTK Tomasz Pohl, Krzysztof Matyjaszczyk s.c.",
+      "name": "multiTK sp. z o.o.",
       "type": "Cable/DSL/ISP"
     },
     "62009": {
@@ -32781,7 +32781,7 @@
       "type": "Unknown"
     },
     "266498": {
-      "name": "UNIVERSO TECNOLOGIA LTDA",
+      "name": "UNIVERSO INTERNET",
       "type": "Cable/DSL/ISP"
     },
     "263903": {
@@ -35409,7 +35409,7 @@
       "type": "Non-Profit"
     },
     "266228": {
-      "name": "ONCABO",
+      "name": "AS266228",
       "type": "Cable/DSL/ISP"
     },
     "205777": {
@@ -42257,7 +42257,7 @@
       "type": "Cable/DSL/ISP"
     },
     "266154": {
-      "name": "WJ Internet",
+      "name": "W. J. Internet",
       "type": "Cable/DSL/ISP"
     },
     "19834": {
@@ -64085,7 +64085,7 @@
       "type": "Cable/DSL/ISP"
     },
     "269633": {
-      "name": "LCE TELECOM",
+      "name": "LINK CEARA TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "266114": {
@@ -80986,7 +80986,7 @@
     },
     "399226": {
       "name": "SPEEDFI",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "399337": {
       "name": "Netcrawler",
@@ -111213,8 +111213,8 @@
       "type": "Unknown"
     },
     "269051": {
-      "name": "UNIVERSO FIBER COMUNICACAO MULTIMIDIA",
-      "type": "Unknown"
+      "name": "UNIVERSO FIBER",
+      "type": "Cable/DSL/ISP"
     },
     "137511": {
       "name": "Civil Aviation Authority of Mongolia",
@@ -114553,7 +114553,7 @@
       "type": "Unknown"
     },
     "36186": {
-      "name": "3DS BB",
+      "name": "3DS Hosting",
       "type": "NSP"
     },
     "24239": {
@@ -116895,6 +116895,10 @@
     "53763": {
       "name": "Lakeside Network",
       "type": "NSP"
+    },
+    "214598": {
+      "name": "ENVARO",
+      "type": "Unknown"
     },
     "61444": {
       "name": "Enlaces Regionales de Chile S.A.",
@@ -127612,10 +127616,6 @@
       "name": "mhjafarzadeh",
       "type": "Content"
     },
-    "401608": {
-      "name": "STATICNODE",
-      "type": "Enterprise"
-    },
     "203122": {
       "name": "YELLOWNET",
       "type": "Unknown"
@@ -135046,7 +135046,7 @@
     },
     "202163": {
       "name": "AL TAREK ENERGY SPC",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "273238": {
       "name": "CABLE EXITO S.A.S.",
@@ -135070,7 +135070,7 @@
     },
     "214422": {
       "name": "Dmytro Nebaba",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "206777": {
       "name": "MSINGH",
@@ -135107,6 +135107,54 @@
     "210092": {
       "name": "GOLDENNET",
       "type": "Unknown"
+    },
+    "202157": {
+      "name": "NOE-HQ",
+      "type": "Unknown"
+    },
+    "38772": {
+      "name": "SMARTLINKNET-AS-ID",
+      "type": "Unknown"
+    },
+    "60712": {
+      "name": "MCSWEEN",
+      "type": "Unknown"
+    },
+    "154468": {
+      "name": "IRINN-LDRF-AS-IN",
+      "type": "Unknown"
+    },
+    "204464": {
+      "name": "NextSolutions",
+      "type": "Unknown"
+    },
+    "133147": {
+      "name": "TECHPATH-AS-AP",
+      "type": "Unknown"
+    },
+    "203534": {
+      "name": "ErikOmarov",
+      "type": "Unknown"
+    },
+    "55227": {
+      "name": "COREDATACENTRES",
+      "type": "Unknown"
+    },
+    "152125": {
+      "name": "NRSENTERPRISE-AS-AP",
+      "type": "Unknown"
+    },
+    "402127": {
+      "name": "TAKOYAKI-NET",
+      "type": "Unknown"
+    },
+    "204208": {
+      "name": "Peravix",
+      "type": "Unknown"
+    },
+    "270187": {
+      "name": "270187",
+      "type": "Network Services"
     }
   }
 }
