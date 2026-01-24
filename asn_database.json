@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-23T00:10:30.438Z",
+  "updated_at": "2026-01-24T00:09:44.317Z",
   "source": "PeeringDB",
-  "entry_count": 33788,
+  "entry_count": 33793,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -3409,7 +3409,7 @@
       "type": "NSP"
     },
     "12731": {
-      "name": "IPHH Internet Port Hamburg GmbH",
+      "name": "Portus Data Centers / IPHH",
       "type": "NSP"
     },
     "15935": {
@@ -3826,7 +3826,7 @@
     },
     "23930": {
       "name": "IP Converge Data Services, Inc.",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "12958": {
       "name": "T2 Russia Network",
@@ -6317,8 +6317,8 @@
       "type": "NSP"
     },
     "19148": {
-      "name": "LiveWorld Inc",
-      "type": "Content"
+      "name": "LeaseWeb USA #2832",
+      "type": "Unknown"
     },
     "28908": {
       "name": "Telecom3 Sverige AB",
@@ -21182,14 +21182,6 @@
     },
     "7668": {
       "name": "HTCN",
-      "type": "NSP"
-    },
-    "64208": {
-      "name": "Virtustream",
-      "type": "NSP"
-    },
-    "6812": {
-      "name": "Virtustream EU",
       "type": "NSP"
     },
     "201499": {
@@ -66529,7 +66521,7 @@
       "type": "Unknown"
     },
     "203593": {
-      "name": "TeleMark",
+      "name": "Telemark",
       "type": "NSP"
     },
     "25400": {
@@ -99582,7 +99574,7 @@
     },
     "139982": {
       "name": "PT Buana Visualnet Sentra",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "200372": {
       "name": "Lars Ewald",
@@ -100098,7 +100090,7 @@
     },
     "200229": {
       "name": "STATBYTE / Florian Kasper",
-      "type": "Educational/Research"
+      "type": "Content"
     },
     "393397": {
       "name": "Lake Region Technology & Communications",
@@ -116257,8 +116249,8 @@
       "type": "Cable/DSL/ISP"
     },
     "273024": {
-      "name": "273024",
-      "type": "Unknown"
+      "name": "SISPROT GLOBAL FIBER, C.A.",
+      "type": "Cable/DSL/ISP"
     },
     "24305": {
       "name": "EdgeIX Pty Ltd",
@@ -134930,7 +134922,7 @@
     },
     "272817": {
       "name": "SPEED FIBER SPEEDFIBER CIA.LTDA.",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "202473": {
       "name": "PSC-Net",
@@ -134966,7 +134958,7 @@
     },
     "202294": {
       "name": "Netlojik",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "142168": {
       "name": "RACE-AS-AP",
@@ -135090,7 +135082,7 @@
     },
     "214476": {
       "name": "canus",
-      "type": "Unknown"
+      "type": "Content"
     },
     "215762": {
       "name": "bulletgroup",
@@ -135125,8 +135117,8 @@
       "type": "Unknown"
     },
     "204464": {
-      "name": "NextSolutions",
-      "type": "Unknown"
+      "name": "NextSolutions - Justin Franke",
+      "type": "NSP"
     },
     "133147": {
       "name": "TECHPATH-AS-AP",
@@ -135155,6 +135147,34 @@
     "270187": {
       "name": "270187",
       "type": "Network Services"
+    },
+    "203704": {
+      "name": "SPANAGIOT",
+      "type": "Unknown"
+    },
+    "141771": {
+      "name": "CHINANET-HEBEI-ZHANGJIAKOU-MAN",
+      "type": "Unknown"
+    },
+    "215501": {
+      "name": "INETMAX-AS",
+      "type": "Unknown"
+    },
+    "51230": {
+      "name": "Cifrabar-as",
+      "type": "Cable/DSL/ISP"
+    },
+    "60077": {
+      "name": "AT-CLOUD",
+      "type": "Unknown"
+    },
+    "207620": {
+      "name": "KentWifi-FlixNet",
+      "type": "Cable/DSL/ISP"
+    },
+    "329458": {
+      "name": "ORG-FSL4-AFRINIC",
+      "type": "Unknown"
     }
   }
 }
