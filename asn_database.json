@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-24T00:09:44.317Z",
+  "updated_at": "2026-01-25T00:10:57.070Z",
   "source": "PeeringDB",
-  "entry_count": 33793,
+  "entry_count": 33803,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -3341,8 +3341,8 @@
       "type": "Cable/DSL/ISP"
     },
     "29752": {
-      "name": "IndieClick Media Group, Inc.",
-      "type": "Content"
+      "name": "ZEN-SDN",
+      "type": "Unknown"
     },
     "23033": {
       "name": "Wowrack.com",
@@ -8063,6 +8063,10 @@
     "44002": {
       "name": "Sys-DataCom s.r.o.",
       "type": "Cable/DSL/ISP"
+    },
+    "40253": {
+      "name": "Elysia Root L.C.",
+      "type": "Unknown"
     },
     "15301": {
       "name": "iovation, Inc.",
@@ -115686,7 +115690,7 @@
     },
     "265694": {
       "name": "265694",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "150606": {
       "name": "OTIS-AS-IN",
@@ -122686,7 +122690,7 @@
     },
     "213996": {
       "name": "J&Y LLC",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "151709": {
       "name": "Vels Fibernet Private Limited",
@@ -135175,6 +135179,42 @@
     "329458": {
       "name": "ORG-FSL4-AFRINIC",
       "type": "Unknown"
+    },
+    "201957": {
+      "name": "EthernalCloud",
+      "type": "Unknown"
+    },
+    "263874": {
+      "name": "ASN263874",
+      "type": "Unknown"
+    },
+    "153896": {
+      "name": "IDNIC-SHOFANET-AS-ID",
+      "type": "Unknown"
+    },
+    "402122": {
+      "name": "SSSOOO-NETWORKS",
+      "type": "Unknown"
+    },
+    "136458": {
+      "name": "BKNIX L3 services",
+      "type": "Non-Profit"
+    },
+    "274249": {
+      "name": "274249",
+      "type": "NSP"
+    },
+    "274402": {
+      "name": "274402",
+      "type": "Unknown"
+    },
+    "401860": {
+      "name": "FIBERWISE001",
+      "type": "Unknown"
+    },
+    "206691": {
+      "name": "Opened Joint Stock Company \"Tojiktelecom\"",
+      "type": "Network Services"
     }
   }
 }
