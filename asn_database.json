@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-25T00:10:57.070Z",
+  "updated_at": "2026-01-26T00:10:48.903Z",
   "source": "PeeringDB",
-  "entry_count": 33803,
+  "entry_count": 33808,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -63792,10 +63792,6 @@
       "name": "Ziply Fiber legacy",
       "type": "Cable/DSL/ISP"
     },
-    "269479": {
-      "name": "TTINET TELECOMUNICACOES",
-      "type": "Cable/DSL/ISP"
-    },
     "53997": {
       "name": "DNC Holdings, Inc.",
       "type": "Content"
@@ -97580,6 +97576,10 @@
       "name": "BANDA TURBO PROVEDORES DE INTERNET LTDA",
       "type": "Cable/DSL/ISP"
     },
+    "202076": {
+      "name": "Optua Telecommunications Limited #31270",
+      "type": "Unknown"
+    },
     "272738": {
       "name": "JC FRANKLIN TELECOM",
       "type": "Cable/DSL/ISP"
@@ -100876,6 +100876,10 @@
       "name": "Nexusguard, Inc",
       "type": "Unknown"
     },
+    "202118": {
+      "name": "Luthfi Quartziosa Sulistiyo #32202",
+      "type": "Non-Profit"
+    },
     "150486": {
       "name": "PT Nafa Solusi Persada",
       "type": "Enterprise"
@@ -102275,10 +102279,6 @@
     "199203": {
       "name": "MayboyNetwork",
       "type": "Unknown"
-    },
-    "199266": {
-      "name": "containerdev",
-      "type": "Non-Profit"
     },
     "397283": {
       "name": "RocketNode",
@@ -115253,7 +115253,7 @@
       "type": "Cable/DSL/ISP"
     },
     "214913": {
-      "name": "WEBTEJO-AS",
+      "name": "WEBTEJO",
       "type": "Content"
     },
     "152672": {
@@ -127612,6 +127612,10 @@
       "name": "mhjafarzadeh",
       "type": "Content"
     },
+    "401608": {
+      "name": "Hunter Web LLC #39458",
+      "type": "Unknown"
+    },
     "203122": {
       "name": "YELLOWNET",
       "type": "Unknown"
@@ -132761,7 +132765,7 @@
       "type": "Unknown"
     },
     "214720": {
-      "name": "Shisaku Labs",
+      "name": "MoeDove Shisaku Labs",
       "type": "Educational/Research"
     },
     "22069": {
@@ -134845,8 +134849,8 @@
       "type": "Unknown"
     },
     "142207": {
-      "name": "WJY (Shanghai) Technology Co., Ltd., WJY (Shanghai) Technology Co., Ltd.",
-      "type": "Unknown"
+      "name": "WJY (Shanghai) Technology Co., Ltd.",
+      "type": "Cable/DSL/ISP"
     },
     "202335": {
       "name": "Haima Network",
@@ -134933,11 +134937,11 @@
       "type": "Cable/DSL/ISP"
     },
     "14958": {
-      "name": "NATIONS-KS",
+      "name": "NATIONS HOLDING COMPANY",
       "type": "Unknown"
     },
     "274092": {
-      "name": "274092",
+      "name": "SURNET TELECOM C.A.",
       "type": "NSP"
     },
     "210097": {
@@ -134949,7 +134953,7 @@
       "type": "NSP"
     },
     "205719": {
-      "name": "FORESTSNET-AS",
+      "name": "FORESTSNET LTD",
       "type": "Enterprise"
     },
     "394935": {
@@ -134957,7 +134961,7 @@
       "type": "Unknown"
     },
     "211687": {
-      "name": "HCORE-LTD",
+      "name": "HCORE LTD",
       "type": "Unknown"
     },
     "202294": {
@@ -134965,11 +134969,11 @@
       "type": "Enterprise"
     },
     "142168": {
-      "name": "RACE-AS-AP",
+      "name": "RACE IT",
       "type": "Cable/DSL/ISP"
     },
     "150516": {
-      "name": "IDNIC-BNPT-AS-ID",
+      "name": "Badan Nasional Penanggulangan Terorisme",
       "type": "Unknown"
     },
     "264042": {
@@ -134989,7 +134993,7 @@
       "type": "Cable/DSL/ISP"
     },
     "399003": {
-      "name": "CCL-AS-01",
+      "name": "chr.is Consulting LLC",
       "type": "Unknown"
     },
     "214041": {
@@ -134997,15 +135001,15 @@
       "type": "Content"
     },
     "133157": {
-      "name": "FIREFLY-AS-AP",
+      "name": "Firefly Solution",
       "type": "Network Services"
     },
     "154167": {
-      "name": "ABLVDC-AS-AP",
+      "name": "Rackmill, Rackmill",
       "type": "Unknown"
     },
     "146996": {
-      "name": "DEX-AS-AP",
+      "name": "DEXSERVER, DEXSERVER",
       "type": "Unknown"
     },
     "154324": {
@@ -135013,7 +135017,7 @@
       "type": "Content"
     },
     "141460": {
-      "name": "SNSIT-AS-AP",
+      "name": "SNS IT, SNS IT",
       "type": "Unknown"
     },
     "209342": {
@@ -135054,14 +135058,14 @@
     },
     "57222": {
       "name": "HAASE IT",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "44375": {
       "name": "Asmanfaraz Sepahan Company (P.J.S)",
       "type": "NSP"
     },
     "142177": {
-      "name": "HENRYPDEATRAS-AS-AP",
+      "name": "Deatras Network and Data Solution, Deatras Network and Data Solution",
       "type": "Unknown"
     },
     "214422": {
@@ -135081,7 +135085,7 @@
       "type": "Unknown"
     },
     "398925": {
-      "name": "TAREKCLOUD-US",
+      "name": "TarekWell",
       "type": "Cable/DSL/ISP"
     },
     "214476": {
@@ -135097,7 +135101,7 @@
       "type": "Unknown"
     },
     "209207": {
-      "name": "DHOST-AS",
+      "name": "Digital Hosting Provider LLC",
       "type": "Unknown"
     },
     "210092": {
@@ -135105,11 +135109,11 @@
       "type": "Unknown"
     },
     "202157": {
-      "name": "NOE-HQ",
+      "name": "Nintendo of Europe SE",
       "type": "Unknown"
     },
     "38772": {
-      "name": "SMARTLINKNET-AS-ID",
+      "name": "PT. Smartlink Global Media.",
       "type": "Unknown"
     },
     "60712": {
@@ -135117,7 +135121,7 @@
       "type": "Unknown"
     },
     "154468": {
-      "name": "IRINN-LDRF-AS-IN",
+      "name": "LRDF INTERNET SERVICE PRIVATE LIMITED",
       "type": "Unknown"
     },
     "204464": {
@@ -135125,23 +135129,27 @@
       "type": "NSP"
     },
     "133147": {
-      "name": "TECHPATH-AS-AP",
+      "name": "UNIVERSAL DATA PTY LTD, TechPath Pty Ltd",
       "type": "Unknown"
     },
     "203534": {
-      "name": "ErikOmarov",
-      "type": "Unknown"
+      "name": "On1x",
+      "type": "Content"
     },
     "55227": {
       "name": "COREDATACENTRES",
       "type": "Unknown"
     },
+    "154462": {
+      "name": "Yournet Communications",
+      "type": "Unknown"
+    },
     "152125": {
-      "name": "NRSENTERPRISE-AS-AP",
+      "name": "NRS ENTERPRISE, NRS ENTERPRISE",
       "type": "Unknown"
     },
     "402127": {
-      "name": "TAKOYAKI-NET",
+      "name": "Project Takoyaki Technologies",
       "type": "Unknown"
     },
     "204208": {
@@ -135149,7 +135157,7 @@
       "type": "Unknown"
     },
     "270187": {
-      "name": "270187",
+      "name": "2M SOLUCIONES",
       "type": "Network Services"
     },
     "203704": {
@@ -135161,15 +135169,15 @@
       "type": "Unknown"
     },
     "215501": {
-      "name": "INETMAX-AS",
+      "name": "Hingshabti LLC",
       "type": "Unknown"
     },
     "51230": {
-      "name": "Cifrabar-as",
+      "name": "Cifrabar",
       "type": "Cable/DSL/ISP"
     },
     "60077": {
-      "name": "AT-CLOUD",
+      "name": "Asre Dadeha Asiatech",
       "type": "Unknown"
     },
     "207620": {
@@ -135177,23 +135185,23 @@
       "type": "Cable/DSL/ISP"
     },
     "329458": {
-      "name": "ORG-FSL4-AFRINIC",
+      "name": "FieldBase Services Limited",
       "type": "Unknown"
     },
     "201957": {
       "name": "EthernalCloud",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "263874": {
-      "name": "ASN263874",
+      "name": "Dione Balarim Prieto Tecnologia e Internet",
       "type": "Unknown"
     },
     "153896": {
-      "name": "IDNIC-SHOFANET-AS-ID",
+      "name": "PT Shofanet Media Telekomunikasi",
       "type": "Unknown"
     },
     "402122": {
-      "name": "SSSOOO-NETWORKS",
+      "name": "SSS.OOO LLC",
       "type": "Unknown"
     },
     "136458": {
@@ -135201,20 +135209,32 @@
       "type": "Non-Profit"
     },
     "274249": {
-      "name": "274249",
+      "name": "DEVELOPMENT OF BIG TECHNOLOGIES - DOBIT S.A.S.",
       "type": "NSP"
     },
     "274402": {
-      "name": "274402",
+      "name": "ONE LINK COMUNICACIONES DEL GOLFO",
       "type": "Unknown"
     },
     "401860": {
-      "name": "FIBERWISE001",
+      "name": "FiberWise LLC",
       "type": "Unknown"
     },
     "206691": {
       "name": "Opened Joint Stock Company \"Tojiktelecom\"",
       "type": "Network Services"
+    },
+    "206266": {
+      "name": "HanseMerkur Krankenversicherung AG",
+      "type": "Unknown"
+    },
+    "14956": {
+      "name": "ROUTERHOSTING",
+      "type": "Unknown"
+    },
+    "402119": {
+      "name": "Nova86 Cust",
+      "type": "Unknown"
     }
   }
 }
