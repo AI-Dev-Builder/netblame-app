@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-26T00:10:48.903Z",
+  "updated_at": "2026-01-27T00:10:54.874Z",
   "source": "PeeringDB",
-  "entry_count": 33808,
+  "entry_count": 33816,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -3341,8 +3341,8 @@
       "type": "Cable/DSL/ISP"
     },
     "29752": {
-      "name": "ZEN-SDN",
-      "type": "Unknown"
+      "name": "ZEN-AS29752",
+      "type": "Content"
     },
     "23033": {
       "name": "Wowrack.com",
@@ -31772,6 +31772,10 @@
       "name": "PSD Group",
       "type": "NSP"
     },
+    "206226": {
+      "name": "LITTLEORBIT",
+      "type": "Unknown"
+    },
     "198682": {
       "name": "Eurofiber France - Netiwan",
       "type": "Cable/DSL/ISP"
@@ -57814,7 +57818,7 @@
     },
     "31915": {
       "name": "Mojo Broadband",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "208709": {
       "name": "April Faye John",
@@ -58703,6 +58707,10 @@
     "269058": {
       "name": "mgnettelecom",
       "type": "Unknown"
+    },
+    "138995": {
+      "name": "ANTBOX1-AS-AP-138885",
+      "type": "Content"
     },
     "131645": {
       "name": "KlickKlack Communications",
@@ -90000,10 +90008,6 @@
       "name": "DAAN COMMUNICATIONS",
       "type": "Unknown"
     },
-    "53024": {
-      "name": "INFOR DF TELECOMUNICACOES E INFORMATICA",
-      "type": "Cable/DSL/ISP"
-    },
     "33040": {
       "name": "Telecom Intellectual Property",
       "type": "Cable/DSL/ISP"
@@ -97577,8 +97581,8 @@
       "type": "Cable/DSL/ISP"
     },
     "202076": {
-      "name": "Optua Telecommunications Limited #31270",
-      "type": "Unknown"
+      "name": "Optua Telecommunications Limited",
+      "type": "Network Services"
     },
     "272738": {
       "name": "JC FRANKLIN TELECOM",
@@ -100873,7 +100877,7 @@
       "type": "Network Services"
     },
     "6500": {
-      "name": "Nexusguard, Inc",
+      "name": "Nexusguard Inc",
       "type": "Unknown"
     },
     "202118": {
@@ -120524,10 +120528,6 @@
       "name": "ORG-IMSL1-AFRINIC",
       "type": "Unknown"
     },
-    "152616": {
-      "name": "LEYUN",
-      "type": "Enterprise"
-    },
     "273335": {
       "name": "ASN273335",
       "type": "Cable/DSL/ISP"
@@ -122401,7 +122401,7 @@
       "type": "Cable/DSL/ISP"
     },
     "214346": {
-      "name": "Hunter Web LLC",
+      "name": "Hunter Web LLC #214346",
       "type": "Unknown"
     },
     "215706": {
@@ -127613,7 +127613,7 @@
       "type": "Content"
     },
     "401608": {
-      "name": "Hunter Web LLC #39458",
+      "name": "Hunter Web LLC",
       "type": "Unknown"
     },
     "203122": {
@@ -135026,7 +135026,7 @@
     },
     "204742": {
       "name": "Bitarray GmbH",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "202192": {
       "name": "DATAHUB-IX",
@@ -135114,7 +135114,7 @@
     },
     "38772": {
       "name": "PT. Smartlink Global Media.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "60712": {
       "name": "MCSWEEN",
@@ -135125,7 +135125,7 @@
       "type": "Unknown"
     },
     "204464": {
-      "name": "NextSolutions - Justin Franke",
+      "name": "NextSolutions",
       "type": "NSP"
     },
     "133147": {
@@ -135142,7 +135142,7 @@
     },
     "154462": {
       "name": "Yournet Communications",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "152125": {
       "name": "NRS ENTERPRISE, NRS ENTERPRISE",
@@ -135162,7 +135162,7 @@
     },
     "203704": {
       "name": "SPANAGIOT",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "141771": {
       "name": "CHINANET-HEBEI-ZHANGJIAKOU-MAN",
@@ -135213,7 +135213,7 @@
       "type": "NSP"
     },
     "274402": {
-      "name": "ONE LINK COMUNICACIONES DEL GOLFO",
+      "name": "ONE LINK",
       "type": "Unknown"
     },
     "401860": {
@@ -135234,6 +135234,38 @@
     },
     "402119": {
       "name": "Nova86 Cust",
+      "type": "Unknown"
+    },
+    "399264": {
+      "name": "AS-DATACOM-CA",
+      "type": "Unknown"
+    },
+    "216173": {
+      "name": "ULAYER-AS",
+      "type": "Unknown"
+    },
+    "139638": {
+      "name": "ANTBOX1-AS-AP",
+      "type": "Unknown"
+    },
+    "152358": {
+      "name": "IDNIC-THRIVE-AS-ID",
+      "type": "Enterprise"
+    },
+    "21207": {
+      "name": "RWE",
+      "type": "Unknown"
+    },
+    "142220": {
+      "name": "IDNIC-CITALANGNET-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "201988": {
+      "name": "VPSN-ASN",
+      "type": "Unknown"
+    },
+    "212701": {
+      "name": "HOSTINUX-AS !",
       "type": "Unknown"
     }
   }
