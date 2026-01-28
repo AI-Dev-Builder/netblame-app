@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-27T00:10:54.874Z",
+  "updated_at": "2026-01-28T00:10:28.360Z",
   "source": "PeeringDB",
-  "entry_count": 33816,
+  "entry_count": 33819,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -3524,10 +3524,6 @@
       "name": "NAP Colombia",
       "type": "Route Server"
     },
-    "15003": {
-      "name": "LeaseWeb USA",
-      "type": "Content"
-    },
     "6459": {
       "name": "GTT Communications (AS6459)",
       "type": "NSP"
@@ -6315,10 +6311,6 @@
     "11071": {
       "name": "InfoWest",
       "type": "NSP"
-    },
-    "19148": {
-      "name": "LeaseWeb USA #2832",
-      "type": "Unknown"
     },
     "28908": {
       "name": "Telecom3 Sverige AB",
@@ -10981,7 +10973,7 @@
       "type": "NSP"
     },
     "28171": {
-      "name": "S.O. DO BRASIL TELECOM",
+      "name": "S.O. DO BRASIL",
       "type": "Cable/DSL/ISP"
     },
     "53306": {
@@ -19143,10 +19135,6 @@
     "13097": {
       "name": "Axera AS13097",
       "type": "Cable/DSL/ISP"
-    },
-    "60626": {
-      "name": "Leaseweb CDN B.V.",
-      "type": "Content"
     },
     "61102": {
       "name": "Interhost Networks",
@@ -38822,7 +38810,7 @@
     },
     "265933": {
       "name": "connectx serviços de telecomunicações",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "132696": {
       "name": "SGIX Services",
@@ -88028,10 +88016,6 @@
       "name": "DATAPHOTON, INC.",
       "type": "Enterprise"
     },
-    "6540": {
-      "name": "Path Network, Inc. (AS6540)",
-      "type": "NSP"
-    },
     "139597": {
       "name": "Wellcamp Business Park",
       "type": "NSP"
@@ -112074,7 +112058,7 @@
     },
     "199018": {
       "name": "Xkrme Network",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "215563": {
       "name": "Luke IT",
@@ -118239,10 +118223,6 @@
     "153179": {
       "name": "Computer Complex Network, Computer Complex Network",
       "type": "Unknown"
-    },
-    "214393": {
-      "name": "Lukas Becker",
-      "type": "Cable/DSL/ISP"
     },
     "211733": {
       "name": "Atlas IP",
@@ -124497,7 +124477,7 @@
       "type": "Enterprise"
     },
     "213449": {
-      "name": "Jann-Ole Wagenaar",
+      "name": "AS213449",
       "type": "Content"
     },
     "212770": {
@@ -125109,8 +125089,8 @@
       "type": "Enterprise"
     },
     "153692": {
-      "name": "Digital Essentials Trading",
-      "type": "Unknown"
+      "name": "DETconnectPH",
+      "type": "Content"
     },
     "55985": {
       "name": "Zhejiang Watone Cloud Data Technology Co., Ltd",
@@ -125641,7 +125621,7 @@
       "type": "Unknown"
     },
     "153636": {
-      "name": "Erzar Inti Solusi",
+      "name": "PT Erzar Inti Solusi",
       "type": "Cable/DSL/ISP"
     },
     "133540": {
@@ -129076,10 +129056,6 @@
       "name": "QTNETWORK",
       "type": "NSP"
     },
-    "399779": {
-      "name": "MOCIX",
-      "type": "Route Server"
-    },
     "152586": {
       "name": "Kuroit (India)",
       "type": "Enterprise"
@@ -129649,7 +129625,7 @@
       "type": "Cable/DSL/ISP"
     },
     "131112": {
-      "name": "MMTC-AS-ID",
+      "name": "STMM MMTC Yogyakarta",
       "type": "Educational/Research"
     },
     "49051": {
@@ -135145,8 +135121,8 @@
       "type": "Cable/DSL/ISP"
     },
     "152125": {
-      "name": "NRS ENTERPRISE, NRS ENTERPRISE",
-      "type": "Unknown"
+      "name": "NRS ENTERPRISE",
+      "type": "Cable/DSL/ISP"
     },
     "402127": {
       "name": "Project Takoyaki Technologies",
@@ -135238,7 +135214,7 @@
     },
     "399264": {
       "name": "AS-DATACOM-CA",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "216173": {
       "name": "ULAYER-AS",
@@ -135266,6 +135242,42 @@
     },
     "212701": {
       "name": "HOSTINUX-AS !",
+      "type": "Unknown"
+    },
+    "142188": {
+      "name": "PT Aryaka Lintas Media",
+      "type": "Unknown"
+    },
+    "209532": {
+      "name": "INFORMATIQUE MAINTENANCE SERVICES SAS",
+      "type": "Unknown"
+    },
+    "201944": {
+      "name": "Pysio Next Networks",
+      "type": "Non-Profit"
+    },
+    "205035": {
+      "name": "LucusHost",
+      "type": "Unknown"
+    },
+    "201190": {
+      "name": "VOXBEE-SERVICES",
+      "type": "Unknown"
+    },
+    "140210": {
+      "name": "CONNECTX-AS-AP",
+      "type": "Unknown"
+    },
+    "42740": {
+      "name": "BACKSTAGE-AS",
+      "type": "Unknown"
+    },
+    "7257": {
+      "name": "JP-MARU-20250124",
+      "type": "Unknown"
+    },
+    "214587": {
+      "name": "Rulx-Philome-Alexis",
       "type": "Unknown"
     }
   }
