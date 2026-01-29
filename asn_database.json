@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-28T00:10:28.360Z",
+  "updated_at": "2026-01-29T00:11:36.799Z",
   "source": "PeeringDB",
-  "entry_count": 33819,
+  "entry_count": 33820,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -23705,7 +23705,7 @@
       "type": "Unknown"
     },
     "59954": {
-      "name": "TN-IX Route Servers",
+      "name": "KEYPOINT-SPB",
       "type": "Route Server"
     },
     "134555": {
@@ -135278,6 +135278,10 @@
     },
     "214587": {
       "name": "Rulx-Philome-Alexis",
+      "type": "Unknown"
+    },
+    "154475": {
+      "name": "IDNIC-PERMATADATA-ID",
       "type": "Unknown"
     }
   }
