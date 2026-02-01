@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-01-31T00:11:58.403Z",
+  "updated_at": "2026-02-01T00:13:25.173Z",
   "source": "PeeringDB",
-  "entry_count": 33852,
+  "entry_count": 33857,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -10841,7 +10841,7 @@
       "type": "Cable/DSL/ISP"
     },
     "52866": {
-      "name": "IVeloz Telecomunicações",
+      "name": "Brasil TecPar (iVeloz)",
       "type": "NSP"
     },
     "50957": {
@@ -13265,7 +13265,7 @@
       "type": "Cable/DSL/ISP"
     },
     "262605": {
-      "name": "LVT Telecom",
+      "name": "Brasil TecPar (LVT)",
       "type": "Cable/DSL/ISP"
     },
     "16363": {
@@ -13941,7 +13941,7 @@
       "type": "NSP"
     },
     "262526": {
-      "name": "Titania Telecom",
+      "name": "Brasil TecPar (Titania)",
       "type": "NSP"
     },
     "52751": {
@@ -14689,7 +14689,7 @@
       "type": "Content"
     },
     "53135": {
-      "name": "BRASIL TECNOLOGIA E PARTICIPACOES S/A",
+      "name": "Brasil TecPar (Intnet)",
       "type": "NSP"
     },
     "60969": {
@@ -22385,7 +22385,7 @@
       "type": "Cable/DSL/ISP"
     },
     "28635": {
-      "name": "Younet Internet",
+      "name": "Brasil TecPar (Titania/Younet)",
       "type": "Cable/DSL/ISP"
     },
     "44065": {
@@ -22917,7 +22917,7 @@
       "type": "Cable/DSL/ISP"
     },
     "52900": {
-      "name": "HI TELECOM",
+      "name": "Brasil TecPar (Hi Tecklink 1)",
       "type": "Cable/DSL/ISP"
     },
     "53233": {
@@ -23645,7 +23645,7 @@
       "type": "Unknown"
     },
     "28638": {
-      "name": "CENTRO OESTE TELECOM EIRELI",
+      "name": "Brasil TecPar (Primatec CO)",
       "type": "NSP"
     },
     "52797": {
@@ -29009,7 +29009,7 @@
       "type": "Cable/DSL/ISP"
     },
     "265427": {
-      "name": "SELKO INTERNET",
+      "name": "Brasil TecPar (Selko)",
       "type": "Cable/DSL/ISP"
     },
     "266303": {
@@ -29837,7 +29837,7 @@
       "type": "Cable/DSL/ISP"
     },
     "52609": {
-      "name": "EVO Networks",
+      "name": "Brasil TecPar (EVO)",
       "type": "Cable/DSL/ISP"
     },
     "5582": {
@@ -30145,7 +30145,7 @@
       "type": "Unknown"
     },
     "265303": {
-      "name": "TV Alphaville Sistema de TV por Assinatura LTDA",
+      "name": "Brasil TecPar (TV Alphaville)",
       "type": "Cable/DSL/ISP"
     },
     "263172": {
@@ -32749,7 +32749,7 @@
       "type": "Cable/DSL/ISP"
     },
     "264367": {
-      "name": "L&J REDES DE TELECOMUNICACAO E INFORMATICA",
+      "name": "Brasil TecPar (CyberNet)",
       "type": "Cable/DSL/ISP"
     },
     "59127": {
@@ -33453,7 +33453,7 @@
       "type": "Route Server"
     },
     "52547": {
-      "name": "Primatec MT",
+      "name": "Brasil TecPar (Primatec MT)",
       "type": "Cable/DSL/ISP"
     },
     "59129": {
@@ -40429,7 +40429,7 @@
       "type": "Unknown"
     },
     "266130": {
-      "name": "REDE TJNET",
+      "name": "Brasil TecPar (TJ)",
       "type": "NSP"
     },
     "35539": {
@@ -42929,7 +42929,7 @@
       "type": "NSP"
     },
     "263985": {
-      "name": "DZ7 Telecomunicacoes Ltda",
+      "name": "Brasil TecPar (Dz7 Telecom)",
       "type": "Cable/DSL/ISP"
     },
     "39798": {
@@ -53469,7 +53469,7 @@
       "type": "Content"
     },
     "52682": {
-      "name": "W3 MEGA",
+      "name": "Brasil TecPar (W3)",
       "type": "Cable/DSL/ISP"
     },
     "267746": {
@@ -58329,7 +58329,7 @@
       "type": "Cable/DSL/ISP"
     },
     "61794": {
-      "name": "TW TELECOM JACIARA EIRELI",
+      "name": "Brasil TecPar (TW)",
       "type": "Cable/DSL/ISP"
     },
     "269079": {
@@ -67609,7 +67609,7 @@
       "type": "Unknown"
     },
     "267601": {
-      "name": "S. D. PROVEDOR E INFORMATICA LTDA ME",
+      "name": "Brasil TecPar (Primatec SD)",
       "type": "Cable/DSL/ISP"
     },
     "209062": {
@@ -72462,7 +72462,7 @@
     },
     "61604": {
       "name": "Benerofonte Networks",
-      "type": "Cable/DSL/ISP"
+      "type": "Network Services"
     },
     "136741": {
       "name": "Channel Wireless",
@@ -73914,7 +73914,7 @@
     },
     "212635": {
       "name": "AS212635",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "270013": {
       "name": "INFOFRACTAL",
@@ -82049,7 +82049,7 @@
       "type": "Enterprise"
     },
     "267147": {
-      "name": "Trend Sistemas e Consultoria",
+      "name": "Brasil TecPar (iVeloz/Trend)",
       "type": "Cable/DSL/ISP"
     },
     "399471": {
@@ -85585,7 +85585,7 @@
       "type": "Cable/DSL/ISP"
     },
     "271242": {
-      "name": "DYNAMICS TELECOM EIRELI",
+      "name": "Brasil TecPar (Dz7 Multimidia)",
       "type": "Cable/DSL/ISP"
     },
     "6945": {
@@ -109425,7 +109425,7 @@
       "type": "Unknown"
     },
     "266339": {
-      "name": "DD Telecom",
+      "name": "Grupo DDSAT",
       "type": "NSP"
     },
     "210165": {
@@ -109922,7 +109922,7 @@
     },
     "152180": {
       "name": "NETNAME-1CLIMITED-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "36844": {
       "name": "SAWS---SAN-ANTONIO-WATER-SYSTEM",
@@ -135378,7 +135378,7 @@
     },
     "402164": {
       "name": "ROFAEL-ASN-01",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "43641": {
       "name": "Sollutium-NL",
@@ -135389,7 +135389,7 @@
       "type": "NSP"
     },
     "28664": {
-      "name": "Brasil TecPar (Iveloz)",
+      "name": "Brasil TecPar (iVeloz T-Leste)",
       "type": "NSP"
     },
     "264074": {
@@ -135401,7 +135401,7 @@
       "type": "NSP"
     },
     "268193": {
-      "name": "Brasil TecPar (Hi Tecklink)",
+      "name": "Brasil TecPar (Hi Tecklink 2)",
       "type": "NSP"
     },
     "26396": {
@@ -135410,6 +135410,26 @@
     },
     "201853": {
       "name": "CatgirlCloud",
+      "type": "Unknown"
+    },
+    "135864": {
+      "name": "ELXIRECO-AS",
+      "type": "Unknown"
+    },
+    "28172": {
+      "name": "ASN28172",
+      "type": "Unknown"
+    },
+    "209722": {
+      "name": "Tryware",
+      "type": "Unknown"
+    },
+    "210739": {
+      "name": "neolinkgroup",
+      "type": "Unknown"
+    },
+    "2026": {
+      "name": "HELSINKI",
       "type": "Unknown"
     }
   }
