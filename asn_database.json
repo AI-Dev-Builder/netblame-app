@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-01T00:13:25.173Z",
+  "updated_at": "2026-02-02T00:12:34.638Z",
   "source": "PeeringDB",
-  "entry_count": 33857,
+  "entry_count": 33858,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -35049,8 +35049,8 @@
       "type": "Unknown"
     },
     "205932": {
-      "name": "TerraNet Ltd",
-      "type": "Unknown"
+      "name": "TerraNet UK",
+      "type": "Network Services"
     },
     "48648": {
       "name": "K-Link AS48648",
@@ -83913,8 +83913,8 @@
       "type": "Cable/DSL/ISP"
     },
     "134630": {
-      "name": "Palapa Global Nusantara",
-      "type": "NSP"
+      "name": "PALAPANET",
+      "type": "Cable/DSL/ISP"
     },
     "271101": {
       "name": "Comunick Telecom",
@@ -87041,7 +87041,7 @@
       "type": "Unknown"
     },
     "7480": {
-      "name": "SteveYi Network",
+      "name": "Tsung-Yi Yu",
       "type": "Unknown"
     },
     "148967": {
@@ -109418,7 +109418,7 @@
     },
     "19364": {
       "name": "Sebago Fiber & Wifi",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "329212": {
       "name": "Tirisan Tech Solutions",
@@ -128070,7 +128070,7 @@
     },
     "136815": {
       "name": "JBCP-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "55948": {
       "name": "ISP Limited / ISPCO - AS55948 - Dev ASN",
@@ -134468,10 +134468,6 @@
       "name": "I PLUS",
       "type": "Cable/DSL/ISP"
     },
-    "215110": {
-      "name": "ZeroTunnel",
-      "type": "Content"
-    },
     "266375": {
       "name": "R. N. Informatica Ltda - ME",
       "type": "Unknown"
@@ -134641,7 +134637,7 @@
       "type": "Cable/DSL/ISP"
     },
     "142192": {
-      "name": "RRRL NET",
+      "name": "RRRL NET AS142192",
       "type": "Cable/DSL/ISP"
     },
     "35704": {
@@ -134693,7 +134689,7 @@
       "type": "Cable/DSL/ISP"
     },
     "53902": {
-      "name": "FLUXORUSNETWORKS",
+      "name": "Fluxorus Networks",
       "type": "NSP"
     },
     "203168": {
@@ -135106,7 +135102,7 @@
     },
     "402127": {
       "name": "Project Takoyaki Technologies",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "204208": {
       "name": "Peravix",
@@ -135193,19 +135189,19 @@
       "type": "Unknown"
     },
     "399264": {
-      "name": "AS-DATACOM-CA",
+      "name": "DataCom Network Services Inc.",
       "type": "Network Services"
     },
     "216173": {
-      "name": "ULAYER-AS",
+      "name": "Guozhen Liu",
       "type": "Unknown"
     },
     "139638": {
-      "name": "ANTBOX1-AS-AP",
+      "name": "Antbox Networks Limited",
       "type": "Unknown"
     },
     "152358": {
-      "name": "IDNIC-THRIVE-AS-ID",
+      "name": "PT Gema Teknologi Cahaya Gemilang",
       "type": "Enterprise"
     },
     "21207": {
@@ -135213,15 +135209,15 @@
       "type": "Unknown"
     },
     "142220": {
-      "name": "IDNIC-CITALANGNET-AS-ID",
+      "name": "PT Citalang Digital Network",
       "type": "Cable/DSL/ISP"
     },
     "201988": {
-      "name": "VPSPay-ASN",
+      "name": "VPSPay Networks LTD",
       "type": "Unknown"
     },
     "212701": {
-      "name": "HOSTINUX-AS !",
+      "name": "Hostinux Limited",
       "type": "Unknown"
     },
     "142188": {
@@ -135245,19 +135241,19 @@
       "type": "Unknown"
     },
     "140210": {
-      "name": "CONNECTX-AS-AP",
+      "name": "ConnectX, ConnectX",
       "type": "Unknown"
     },
     "42740": {
-      "name": "BACKSTAGE-AS",
+      "name": "Backstage Ltd., BRAVO Telecom",
       "type": "Unknown"
     },
     "7257": {
-      "name": "JP-MARU-20250124",
-      "type": "Unknown"
+      "name": "MARU AS7257",
+      "type": "NSP"
     },
     "214587": {
-      "name": "Rulx-Philome-Alexis",
+      "name": "Rulx Alexis",
       "type": "Unknown"
     },
     "154475": {
@@ -135265,7 +135261,7 @@
       "type": "Cable/DSL/ISP"
     },
     "202059": {
-      "name": "MNSLP-AS",
+      "name": "Oyvind Monslop",
       "type": "Unknown"
     },
     "13405": {
@@ -135281,15 +135277,15 @@
       "type": "Cable/DSL/ISP"
     },
     "42345": {
-      "name": "GRANAROLO-AS",
+      "name": "Granarolo SpA",
       "type": "Unknown"
     },
     "269154": {
-      "name": "ASN269154",
+      "name": "TurboNet Fibras Ltda",
       "type": "Unknown"
     },
     "154448": {
-      "name": "IRINN-MOKLAV-AS-IN",
+      "name": "MOKLAV GLOBAL (OPC) PRIVATE LIMITED",
       "type": "Unknown"
     },
     "213586": {
@@ -135309,15 +135305,15 @@
       "type": "NSP"
     },
     "63760": {
-      "name": "AZDIGI-AS-VN",
+      "name": "AZDIGI Corporation",
       "type": "Unknown"
     },
     "153145": {
-      "name": "IDNIC-TOMIHONK-AS-ID",
+      "name": "PT Tomihonk Network Nusantara",
       "type": "Unknown"
     },
     "154252": {
-      "name": "IDNIC-SUPERLINKS-AS-ID",
+      "name": "PT Superlink Supratama Lintasnusa",
       "type": "Unknown"
     },
     "151546": {
@@ -135325,15 +135321,15 @@
       "type": "Cable/DSL/ISP"
     },
     "201943": {
-      "name": "fishbaby1011-net",
+      "name": "HSIEH HUAN-YU",
       "type": "Unknown"
     },
     "154146": {
-      "name": "IDNIC-GLOBALASTA-AS-ID",
+      "name": "PT Global Asta Systelematika",
       "type": "Unknown"
     },
     "15713": {
-      "name": "GCN-UA",
+      "name": "LLC Global-City-Net",
       "type": "Unknown"
     },
     "39557": {
@@ -135341,35 +135337,35 @@
       "type": "Unknown"
     },
     "153913": {
-      "name": "CPSTIL-AS-AP",
+      "name": "Check Point Software Technologies India PVT LTD., Check Point Software Technologies India PVT LTD.",
       "type": "Unknown"
     },
     "27501": {
-      "name": "ISPNET-AS",
+      "name": "isp.net",
       "type": "Unknown"
     },
     "30396": {
-      "name": "NORTH-AS",
+      "name": "North Nova Cable Ltd.",
       "type": "Unknown"
     },
     "12195": {
-      "name": "RFXVI-01",
+      "name": "RFX Inc",
       "type": "Unknown"
     },
     "56718": {
-      "name": "INTOUCH-BROADBAND",
+      "name": "Redshelf Ltd",
       "type": "Unknown"
     },
     "154014": {
-      "name": "NEXGEN2-AS-AP",
+      "name": "NEXGEN PVT (LTD), NEXGEN PVT (LTD)",
       "type": "Unknown"
     },
     "197184": {
-      "name": "Orbital-AS",
+      "name": "Orbital Ltd",
       "type": "Unknown"
     },
     "201823": {
-      "name": "Andrii-Kovtun",
+      "name": "Andrii Kovtun",
       "type": "Unknown"
     },
     "62392": {
@@ -135377,11 +135373,11 @@
       "type": "Unknown"
     },
     "402164": {
-      "name": "ROFAEL-ASN-01",
+      "name": "Rofael Aleezada, Sole Proprietorship",
       "type": "Educational/Research"
     },
     "43641": {
-      "name": "Sollutium-NL",
+      "name": "SOLLUTIUM EU Sp z.o.o.",
       "type": "Unknown"
     },
     "53208": {
@@ -135405,7 +135401,7 @@
       "type": "NSP"
     },
     "26396": {
-      "name": "MIDWAYNET-ASN",
+      "name": "MidwayNet, LLC.",
       "type": "Unknown"
     },
     "201853": {
@@ -135413,11 +135409,11 @@
       "type": "Unknown"
     },
     "135864": {
-      "name": "ELXIRECO-AS",
+      "name": "Elxire Communications Ltd.",
       "type": "Unknown"
     },
     "28172": {
-      "name": "ASN28172",
+      "name": "PROJESOM INTERNET LTDA",
       "type": "Unknown"
     },
     "209722": {
@@ -135430,6 +135426,14 @@
     },
     "2026": {
       "name": "HELSINKI",
+      "type": "Unknown"
+    },
+    "402157": {
+      "name": "Puppygirl Labs LLC",
+      "type": "Unknown"
+    },
+    "154208": {
+      "name": "PT GIRI DATA SOLUSINDO",
       "type": "Unknown"
     }
   }
