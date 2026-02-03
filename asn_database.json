@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-02T00:12:34.638Z",
+  "updated_at": "2026-02-03T00:13:29.134Z",
   "source": "PeeringDB",
-  "entry_count": 33858,
+  "entry_count": 33868,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -17946,7 +17946,7 @@
     },
     "264574": {
       "name": "ELITE BANDA LARGA",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "262369": {
       "name": "ok virtual provedor de internet ltda",
@@ -51469,7 +51469,7 @@
       "type": "Enterprise"
     },
     "61877": {
-      "name": "SELECT TELECOM E REDES",
+      "name": "MGX Telecom",
       "type": "Unknown"
     },
     "328327": {
@@ -53074,7 +53074,7 @@
     },
     "37563": {
       "name": "SOMTEL INTERNATIONAL",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "136759": {
       "name": "Cosmopolitan Communications",
@@ -85912,6 +85912,10 @@
       "name": "Digital Cloud Technologies",
       "type": "Unknown"
     },
+    "210738": {
+      "name": "Peng Chen",
+      "type": "Unknown"
+    },
     "197160": {
       "name": "Markus Vogt",
       "type": "Unknown"
@@ -86529,7 +86533,7 @@
       "type": "Cable/DSL/ISP"
     },
     "147173": {
-      "name": "IDNIC-DIPADATATELEKOMUNIKASI-ID",
+      "name": "PT Dipa Data Telekomunikasi",
       "type": "Cable/DSL/ISP"
     },
     "208203": {
@@ -93128,10 +93132,6 @@
       "name": "JK TELECOMUNICACOES",
       "type": "Unknown"
     },
-    "272697": {
-      "name": "B Host Brasil - Internet Datacenter",
-      "type": "Content"
-    },
     "141984": {
       "name": "PT Fajar Lestari Anugrah Sejati",
       "type": "Unknown"
@@ -95427,6 +95427,10 @@
     "32582": {
       "name": "600Amps Internet Services, Inc.",
       "type": "Network Services"
+    },
+    "203636": {
+      "name": "Robin Jung",
+      "type": "NSP"
     },
     "807": {
       "name": "Fork Systems",
@@ -97935,6 +97939,10 @@
     "268496": {
       "name": "VIANET WI-FI",
       "type": "Cable/DSL/ISP"
+    },
+    "201801": {
+      "name": "Christian Wittenberg trading as Zerospace Cloud",
+      "type": "Unknown"
     },
     "150173": {
       "name": "PoloCloud Computing HK",
@@ -121385,7 +121393,7 @@
       "type": "Cable/DSL/ISP"
     },
     "213866": {
-      "name": "VortexHosting",
+      "name": "Grupo Rojas Silva",
       "type": "Content"
     },
     "152760": {
@@ -128261,8 +128269,8 @@
       "type": "Cable/DSL/ISP"
     },
     "211626": {
-      "name": "ASRO",
-      "type": "Non-Profit"
+      "name": "ASRO 🍁",
+      "type": "Educational/Research"
     },
     "274063": {
       "name": "274063",
@@ -134468,6 +134476,10 @@
       "name": "I PLUS",
       "type": "Cable/DSL/ISP"
     },
+    "215110": {
+      "name": "ZeroTunnel",
+      "type": "Content"
+    },
     "266375": {
       "name": "R. N. Informatica Ltda - ME",
       "type": "Unknown"
@@ -135282,7 +135294,7 @@
     },
     "269154": {
       "name": "TurboNet Fibras Ltda",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "154448": {
       "name": "MOKLAV GLOBAL (OPC) PRIVATE LIMITED",
@@ -135326,7 +135338,7 @@
     },
     "154146": {
       "name": "PT Global Asta Systelematika",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "15713": {
       "name": "LLC Global-City-Net",
@@ -135434,6 +135446,34 @@
     },
     "154208": {
       "name": "PT GIRI DATA SOLUSINDO",
+      "type": "Unknown"
+    },
+    "400161": {
+      "name": "HAWAIIRESEARCH",
+      "type": "Unknown"
+    },
+    "329045": {
+      "name": "ORG-IIL4-AFRINIC",
+      "type": "Unknown"
+    },
+    "203138": {
+      "name": "VANBERKELLANDSCHAPENINFRA-AS",
+      "type": "Unknown"
+    },
+    "210622": {
+      "name": "Kicked-SRL",
+      "type": "Content"
+    },
+    "207621": {
+      "name": "AS_Solutions",
+      "type": "Unknown"
+    },
+    "274749": {
+      "name": "ASN274749",
+      "type": "Cable/DSL/ISP"
+    },
+    "26173": {
+      "name": "26173",
       "type": "Unknown"
     }
   }
