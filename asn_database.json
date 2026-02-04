@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-03T00:13:29.134Z",
+  "updated_at": "2026-02-04T00:10:57.874Z",
   "source": "PeeringDB",
-  "entry_count": 33868,
+  "entry_count": 33885,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -2661,7 +2661,7 @@
       "type": "NSP"
     },
     "13213": {
-      "name": "UK2Group",
+      "name": "THG Hosting",
       "type": "Content"
     },
     "25588": {
@@ -27658,7 +27658,7 @@
     },
     "262791": {
       "name": "EMI NET TELECOMUNICACOES LTDA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "45410": {
       "name": "ALLO, City Broadband Service",
@@ -67465,7 +67465,7 @@
       "type": "Cable/DSL/ISP"
     },
     "206215": {
-      "name": "Skidbladnir Labs, S.L.",
+      "name": "KAERU Labs, S.L.",
       "type": "Cable/DSL/ISP"
     },
     "138886": {
@@ -76836,10 +76836,6 @@
       "name": "ISS Facility Services Holding",
       "type": "Enterprise"
     },
-    "399114": {
-      "name": "ZestySolutions",
-      "type": "Enterprise"
-    },
     "207227": {
       "name": "Bootstrap",
       "type": "Cable/DSL/ISP"
@@ -80366,6 +80362,10 @@
     },
     "399446": {
       "name": "TheWorldIX",
+      "type": "Unknown"
+    },
+    "212336": {
+      "name": "AS212336",
       "type": "Unknown"
     },
     "268162": {
@@ -88249,8 +88249,8 @@
       "type": "Unknown"
     },
     "265410": {
-      "name": "JL INFORMATICA E TELECOM LTDA - ME",
-      "type": "Unknown"
+      "name": "REDE JL TELECOM",
+      "type": "Cable/DSL/ISP"
     },
     "210426": {
       "name": "Liang Zhu",
@@ -88519,10 +88519,6 @@
     "206310": {
       "name": "WAXX AS206310",
       "type": "Cable/DSL/ISP"
-    },
-    "400061": {
-      "name": "Ignero",
-      "type": "Unknown"
     },
     "210508": {
       "name": "Justifi Network",
@@ -93132,6 +93128,10 @@
       "name": "JK TELECOMUNICACOES",
       "type": "Unknown"
     },
+    "272697": {
+      "name": "B Host Brasil - Internet Datacenter",
+      "type": "Content"
+    },
     "141984": {
       "name": "PT Fajar Lestari Anugrah Sejati",
       "type": "Unknown"
@@ -94291,6 +94291,10 @@
     "196739": {
       "name": "Success",
       "type": "Cable/DSL/ISP"
+    },
+    "204214": {
+      "name": "Arpanet",
+      "type": "Enterprise"
     },
     "149617": {
       "name": "DIGIANA SPEED NET",
@@ -109957,7 +109961,7 @@
       "type": "Unknown"
     },
     "931": {
-      "name": "Krixe",
+      "name": "Hyonix",
       "type": "Content"
     },
     "51713": {
@@ -125098,7 +125102,7 @@
     },
     "140424": {
       "name": "IDNIC-DISKOMINFOSPSULSEL-AS-ID",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "393772": {
       "name": "THE-WRAPPER-COMPANY",
@@ -135086,7 +135090,7 @@
     },
     "154468": {
       "name": "LRDF INTERNET SERVICE PRIVATE LIMITED",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "204464": {
       "name": "NextSolutions",
@@ -135302,7 +135306,7 @@
     },
     "213586": {
       "name": "SMCONSULTINGSERVICES",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "207650": {
       "name": "Koen",
@@ -135374,7 +135378,7 @@
     },
     "197184": {
       "name": "Orbital Ltd",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "201823": {
       "name": "Andrii Kovtun",
@@ -135474,6 +135478,70 @@
     },
     "26173": {
       "name": "26173",
+      "type": "Unknown"
+    },
+    "201790": {
+      "name": "Respawnhost",
+      "type": "Unknown"
+    },
+    "154309": {
+      "name": "INTELLIGENT1-AS-AP",
+      "type": "Unknown"
+    },
+    "59195": {
+      "name": "IEX-AS",
+      "type": "Unknown"
+    },
+    "329694": {
+      "name": "ORG-URSB1-AFRINIC",
+      "type": "Unknown"
+    },
+    "149664": {
+      "name": "IDNIC-NKNET-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "154193": {
+      "name": "LINKWAY1-IN",
+      "type": "Unknown"
+    },
+    "142404": {
+      "name": "CHINANET-AS-AP",
+      "type": "Unknown"
+    },
+    "329676": {
+      "name": "ORG-CNSS1-AFRINIC",
+      "type": "Network Services"
+    },
+    "138233": {
+      "name": "PROTON-AS-IN",
+      "type": "NSP"
+    },
+    "37352": {
+      "name": "ORG-CHL2-AFRINIC",
+      "type": "NSP"
+    },
+    "205414": {
+      "name": "Nerdlab",
+      "type": "Unknown"
+    },
+    "142395": {
+      "name": "IDNIC-GII-GNET-AS-ID",
+      "type": "Unknown"
+    },
+    "215030": {
+      "name": "AspireHosting",
+      "type": "Unknown"
+    },
+    "401707": {
+      "name": "ARPHOST",
+      "type": "NSP"
+    },
+    "61623": {
+      "name": "ASN61623",
+      "type": "Unknown"
+    },
+    "204078": {
+      "name": "scylla",
       "type": "Unknown"
     }
   }
