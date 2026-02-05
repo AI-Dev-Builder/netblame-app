@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-04T00:10:57.874Z",
+  "updated_at": "2026-02-05T00:13:24.364Z",
   "source": "PeeringDB",
-  "entry_count": 33885,
+  "entry_count": 33898,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -31765,8 +31765,8 @@
       "type": "NSP"
     },
     "206226": {
-      "name": "LITTLEORBIT",
-      "type": "Unknown"
+      "name": "Little Orbit",
+      "type": "Enterprise"
     },
     "198682": {
       "name": "Eurofiber France - Netiwan",
@@ -36499,10 +36499,6 @@
     "205679": {
       "name": "AC Systemy Sp. z o. o.",
       "type": "Cable/DSL/ISP"
-    },
-    "61003": {
-      "name": "GTHost Europe",
-      "type": "Content"
     },
     "133647": {
       "name": "RGCM",
@@ -59880,6 +59876,10 @@
       "name": "Cisel Informatique",
       "type": "Unknown"
     },
+    "139601": {
+      "name": "Virnix",
+      "type": "Content"
+    },
     "36969": {
       "name": "Malawi Telecommunications",
       "type": "NSP"
@@ -74930,7 +74930,7 @@
     },
     "2639": {
       "name": "Zoho",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "141230": {
       "name": "Macquarie Govenrment Public Cloud Connect",
@@ -76835,6 +76835,10 @@
     "208766": {
       "name": "ISS Facility Services Holding",
       "type": "Enterprise"
+    },
+    "399114": {
+      "name": "Hyonix Edge",
+      "type": "Content"
     },
     "207227": {
       "name": "Bootstrap",
@@ -80365,7 +80369,7 @@
       "type": "Unknown"
     },
     "212336": {
-      "name": "AS212336",
+      "name": "ByteVirt LLC",
       "type": "Unknown"
     },
     "268162": {
@@ -85720,6 +85724,10 @@
       "name": "QualiSpace",
       "type": "Unknown"
     },
+    "147028": {
+      "name": "Queensland Capacity Network",
+      "type": "Unknown"
+    },
     "271369": {
       "name": "R&E TECNOLOGIA E SERVICOS",
       "type": "NSP"
@@ -88519,6 +88527,10 @@
     "206310": {
       "name": "WAXX AS206310",
       "type": "Cable/DSL/ISP"
+    },
+    "400061": {
+      "name": "Hyonix-40061",
+      "type": "Unknown"
     },
     "210508": {
       "name": "Justifi Network",
@@ -93129,7 +93141,7 @@
       "type": "Unknown"
     },
     "272697": {
-      "name": "B Host Brasil - Internet Datacenter",
+      "name": "B Host Brasil Internet LTDA",
       "type": "Content"
     },
     "141984": {
@@ -117586,7 +117598,7 @@
     },
     "214488": {
       "name": "Jajuli",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "152790": {
       "name": "CV Arunika Investama",
@@ -127369,7 +127381,7 @@
       "type": "Unknown"
     },
     "267789": {
-      "name": "267789",
+      "name": "TOP AS267789",
       "type": "Content"
     },
     "153824": {
@@ -133028,6 +133040,10 @@
       "name": "Netpoint Solutions",
       "type": "Cable/DSL/ISP"
     },
+    "154281": {
+      "name": "PT GLOBAL DIGITAL CORE",
+      "type": "Unknown"
+    },
     "205967": {
       "name": "Stryve AS",
       "type": "NSP"
@@ -134270,7 +134286,7 @@
     },
     "202934": {
       "name": "SINCITY HOSTING",
-      "type": "Unknown"
+      "type": "Content"
     },
     "64245": {
       "name": "AS-DIGITALFYRE",
@@ -135526,7 +135542,7 @@
     },
     "142395": {
       "name": "IDNIC-GII-GNET-AS-ID",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "215030": {
       "name": "AspireHosting",
@@ -135543,6 +135559,42 @@
     "204078": {
       "name": "scylla",
       "type": "Unknown"
+    },
+    "38731": {
+      "name": "VTDC-AS-VN",
+      "type": "Unknown"
+    },
+    "142198": {
+      "name": "IDNIC-GMNZ-ID",
+      "type": "Unknown"
+    },
+    "134585": {
+      "name": "DDNCOMMUNICATION-AS-AP",
+      "type": "Unknown"
+    },
+    "29684": {
+      "name": "NOURNET-ASN",
+      "type": "Unknown"
+    },
+    "400642": {
+      "name": "NX-EDGE-NETWORK-LLC",
+      "type": "Unknown"
+    },
+    "201687": {
+      "name": "DARKMATTER",
+      "type": "Unknown"
+    },
+    "400662": {
+      "name": "DOBSON-ASN-02",
+      "type": "Unknown"
+    },
+    "1415": {
+      "name": "CHNETWORK",
+      "type": "Unknown"
+    },
+    "201676": {
+      "name": "WAGHORN-CAPITAL-CO",
+      "type": "Network Services"
     }
   }
 }
