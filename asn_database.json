@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-06T00:10:35.046Z",
+  "updated_at": "2026-02-07T00:12:50.219Z",
   "source": "PeeringDB",
-  "entry_count": 33908,
+  "entry_count": 33922,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -9410,10 +9410,6 @@
     },
     "24028": {
       "name": "REDtone Engineering & Network Services",
-      "type": "Cable/DSL/ISP"
-    },
-    "55761": {
-      "name": "Colocation Hosting Sdn Bhd",
       "type": "Cable/DSL/ISP"
     },
     "25145": {
@@ -72098,7 +72094,7 @@
     },
     "12303": {
       "name": "Council of Hungarian Internet Providers",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "270554": {
       "name": "M. M. SERVIÇOS DE INFORMÁTICA",
@@ -114024,10 +114020,6 @@
       "name": "Ferrari-Networks SARL",
       "type": "Unknown"
     },
-    "215277": {
-      "name": "Zachary Tennant",
-      "type": "Educational/Research"
-    },
     "215128": {
       "name": "iONLINE ISP UK",
       "type": "Cable/DSL/ISP"
@@ -120229,7 +120221,7 @@
       "type": "Network Services"
     },
     "40271": {
-      "name": "SFMIX Services",
+      "name": "SFMIX Transit",
       "type": "NSP"
     },
     "214113": {
@@ -126734,7 +126726,7 @@
     },
     "209179": {
       "name": "AFRICLOUD",
-      "type": "Content"
+      "type": "NSP"
     },
     "211170": {
       "name": "Stromnetz Berlin GmbH",
@@ -135326,7 +135318,7 @@
     },
     "201943": {
       "name": "HSIEH HUAN-YU",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "154146": {
       "name": "PT Global Asta Systelematika",
@@ -135370,7 +135362,7 @@
     },
     "201823": {
       "name": "Andrii Kovtun",
-      "type": "Non-Profit"
+      "type": "Cable/DSL/ISP"
     },
     "62392": {
       "name": "FOSDEM",
@@ -135593,8 +135585,8 @@
       "type": "Unknown"
     },
     "201623": {
-      "name": "Quenten Thye Schoonderwoerd",
-      "type": "Unknown"
+      "name": "DutchEllie",
+      "type": "Educational/Research"
     },
     "266953": {
       "name": "Argo Provedor",
@@ -135626,7 +135618,7 @@
     },
     "201541": {
       "name": "WHITE-NETWORK-AS",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "11150": {
       "name": "Lightboard ★ Services",
@@ -135634,6 +135626,70 @@
     },
     "274729": {
       "name": "ASN274729",
+      "type": "Unknown"
+    },
+    "328259": {
+      "name": "WAW-TELECOM",
+      "type": "Cable/DSL/ISP"
+    },
+    "210788": {
+      "name": "BiX Infrastructure",
+      "type": "Non-Profit"
+    },
+    "201489": {
+      "name": "PTORBITZ",
+      "type": "Unknown"
+    },
+    "208286": {
+      "name": "MAXTV",
+      "type": "Unknown"
+    },
+    "210852": {
+      "name": "LAYER7-MSP",
+      "type": "Unknown"
+    },
+    "201423": {
+      "name": "LUNALIGHT",
+      "type": "Educational/Research"
+    },
+    "150490": {
+      "name": "IDNIC-GEMNET-AS-ID",
+      "type": "Unknown"
+    },
+    "22110": {
+      "name": "LIGTEL-COMMUNICATIONS",
+      "type": "Cable/DSL/ISP"
+    },
+    "402079": {
+      "name": "MCT-IX",
+      "type": "Unknown"
+    },
+    "201488": {
+      "name": "RIPE-HANIEF-IKHLASUL-AS-ID",
+      "type": "Unknown"
+    },
+    "201616": {
+      "name": "theoh-as",
+      "type": "Unknown"
+    },
+    "203284": {
+      "name": "ServerDale-AS",
+      "type": "Unknown"
+    },
+    "402153": {
+      "name": "QUICK-TECH-RESULTS-01",
+      "type": "Unknown"
+    },
+    "201371": {
+      "name": "ERHARDT-SYSTEMS",
+      "type": "Unknown"
+    },
+    "36471": {
+      "name": "KDSS-23-36471",
+      "type": "Unknown"
+    },
+    "51219": {
+      "name": "K2_INT",
       "type": "Unknown"
     }
   }
