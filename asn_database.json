@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-07T00:12:50.219Z",
+  "updated_at": "2026-02-08T00:17:19.323Z",
   "source": "PeeringDB",
-  "entry_count": 33922,
+  "entry_count": 33926,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -109146,7 +109146,7 @@
     },
     "63806": {
       "name": "MENHERA",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "151705": {
       "name": "Digital Network",
@@ -133834,7 +133834,7 @@
     },
     "273095": {
       "name": "NORTE NET E.A.S.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "205879": {
       "name": "EKO-LINE Sp. z o.o.",
@@ -134202,7 +134202,7 @@
     },
     "402104": {
       "name": "ZZNYJIDI",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "215990": {
       "name": "Jelle Leenaert",
@@ -134913,7 +134913,7 @@
       "type": "Unknown"
     },
     "202294": {
-      "name": "Netlojik",
+      "name": "Netlojik Bilgi Teknolojileri",
       "type": "Enterprise"
     },
     "142168": {
@@ -135691,6 +135691,22 @@
     "51219": {
       "name": "K2_INT",
       "type": "Unknown"
+    },
+    "154486": {
+      "name": "LESSISMORE-AS-AP",
+      "type": "Unknown"
+    },
+    "142201": {
+      "name": "IDNIC-AXINDO-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "201392": {
+      "name": "COZY-CRITTERS-SOCIETY",
+      "type": "Unknown"
+    },
+    "210693": {
+      "name": "KosovaNet",
+      "type": "Network Services"
     }
   }
 }
