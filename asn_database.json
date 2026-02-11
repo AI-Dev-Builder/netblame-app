@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-10T00:17:07.923Z",
+  "updated_at": "2026-02-11T00:17:27.985Z",
   "source": "PeeringDB",
-  "entry_count": 33946,
+  "entry_count": 33958,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -39812,10 +39812,6 @@
       "name": "Quitilipi Televisora Color",
       "type": "Cable/DSL/ISP"
     },
-    "50915": {
-      "name": "Asia-Unicom",
-      "type": "NSP"
-    },
     "64474": {
       "name": "M5i",
       "type": "Unknown"
@@ -46973,7 +46969,7 @@
       "type": "Cable/DSL/ISP"
     },
     "34854": {
-      "name": "Blahaj Cloud (Maria Merkel)",
+      "name": "Blahaj Cloud",
       "type": "NSP"
     },
     "23162": {
@@ -55540,10 +55536,6 @@
       "name": "INTERA COMUNICA  O MULTIMIDIA E INFORMATICA",
       "type": "NSP"
     },
-    "208485": {
-      "name": "Nese Mala",
-      "type": "Unknown"
-    },
     "265279": {
       "name": "Soft System Informatica",
       "type": "Cable/DSL/ISP"
@@ -56543,10 +56535,6 @@
     "208626": {
       "name": "Serv-Tech",
       "type": "Content"
-    },
-    "271022": {
-      "name": "UNIKA ISP SERVICOS DE COMUNICACAO",
-      "type": "Cable/DSL/ISP"
     },
     "328552": {
       "name": "STE MDICIS",
@@ -74112,10 +74100,6 @@
       "name": "Cobranet Limited",
       "type": "Cable/DSL/ISP"
     },
-    "201398": {
-      "name": "MADEBYKEIRAN",
-      "type": "Content"
-    },
     "327765": {
       "name": "Swazi MTN",
       "type": "Unknown"
@@ -90817,7 +90801,7 @@
       "type": "Unknown"
     },
     "37803": {
-      "name": "HUBSIX",
+      "name": "HUBSIX Route Servers",
       "type": "Cable/DSL/ISP"
     },
     "57718": {
@@ -99416,10 +99400,6 @@
       "name": "OHOLO",
       "type": "Unknown"
     },
-    "213915": {
-      "name": "Philipp-Moris-Trettin",
-      "type": "Educational/Research"
-    },
     "214549": {
       "name": "CRSYSTEMS Connectivity",
       "type": "Cable/DSL/ISP"
@@ -103006,7 +102986,7 @@
     },
     "142210": {
       "name": "GH NETWORK AND CYBER CAFE #41344",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "142168": {
       "name": "RACE IT",
@@ -103594,7 +103574,7 @@
     },
     "201666": {
       "name": "YSSOFT",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "208946": {
       "name": "Sirius-2014 LLC",
@@ -103670,11 +103650,11 @@
     },
     "402079": {
       "name": "MCT-IX",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "201488": {
       "name": "Ahmad Hanif Ihlasul Amal, AHIA",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "201616": {
       "name": "Theo Holroyd",
@@ -103740,17 +103720,9 @@
       "name": "teuto.net FFM",
       "type": "Content"
     },
-    "275644": {
-      "name": "Flame Host - Brasil LTDA",
-      "type": "NSP"
-    },
     "214773": {
       "name": "MOENETWORKS",
       "type": "Cable/DSL/ISP"
-    },
-    "14127": {
-      "name": "ILAND",
-      "type": "Unknown"
     },
     "142461": {
       "name": "ATCINFO-AS-IN",
@@ -103762,10 +103734,74 @@
     },
     "53026": {
       "name": "ASN53026",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "402196": {
       "name": "AJAX",
+      "type": "Cable/DSL/ISP"
+    },
+    "25623": {
+      "name": "CISN2 Enterprise Communications",
+      "type": "Enterprise"
+    },
+    "215327": {
+      "name": "Altare",
+      "type": "Unknown"
+    },
+    "22585": {
+      "name": "MVS-CLOUD",
+      "type": "Unknown"
+    },
+    "63865": {
+      "name": "IDNIC-MADC-AS-ID",
+      "type": "Unknown"
+    },
+    "152876": {
+      "name": "COMOTA",
+      "type": "Unknown"
+    },
+    "200998": {
+      "name": "FINAL-FRONTIER-AS",
+      "type": "Enterprise"
+    },
+    "136092": {
+      "name": "PT DAYA AKSES NUSANTARA AS136092",
+      "type": "Cable/DSL/ISP"
+    },
+    "39824": {
+      "name": "ALMANET-AS",
+      "type": "Unknown"
+    },
+    "204463": {
+      "name": "XINZHAO",
+      "type": "Unknown"
+    },
+    "204085": {
+      "name": "DisPaisy Enterprises",
+      "type": "Educational/Research"
+    },
+    "201349": {
+      "name": "YASH-GARG",
+      "type": "Unknown"
+    },
+    "201269": {
+      "name": "Ivans-Lavrentjevs",
+      "type": "Unknown"
+    },
+    "29886": {
+      "name": "ESVBA-ASN1",
+      "type": "Cable/DSL/ISP"
+    },
+    "272055": {
+      "name": "272055",
+      "type": "Cable/DSL/ISP"
+    },
+    "201279": {
+      "name": "AWAS-AS",
+      "type": "Unknown"
+    },
+    "48738": {
+      "name": "ELVIS-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -114173,7 +114209,7 @@
       "type": "NSP"
     },
     "49282": {
-      "name": "Ficolo",
+      "name": "Glesys AS49282",
       "type": "Content"
     },
     "49088": {
@@ -117913,7 +117949,7 @@
       "type": "Cable/DSL/ISP"
     },
     "135594": {
-      "name": "Kabayan Cable TV System, Inc.",
+      "name": "Kabayan Cable TV Systems, Inc.",
       "type": "Cable/DSL/ISP"
     },
     "51847": {
@@ -128064,6 +128100,10 @@
       "name": "GOMIX Ops",
       "type": "Network Services"
     },
+    "201398": {
+      "name": "MADEBYKEIRAN",
+      "type": "Content"
+    },
     "213241": {
       "name": "TechIT.be",
       "type": "Cable/DSL/ISP"
@@ -134740,10 +134780,6 @@
       "name": "VP InfoTech Co., Ltd. (VisperHost)",
       "type": "Enterprise"
     },
-    "266404": {
-      "name": "G7NET AS266404",
-      "type": "Cable/DSL/ISP"
-    },
     "268104": {
       "name": "G7NET AS268104",
       "type": "Cable/DSL/ISP"
@@ -135784,9 +135820,21 @@
       "name": "JULIANKUHN",
       "type": "Educational/Research"
     },
+    "275644": {
+      "name": "Flame Host - Brasil LTDA",
+      "type": "NSP"
+    },
     "201354": {
       "name": "LillySchramm",
       "type": "Content"
+    },
+    "14127": {
+      "name": "11:11 Systems",
+      "type": "NSP"
+    },
+    "329702": {
+      "name": "ORG-CSNL1-AFRINIC",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
