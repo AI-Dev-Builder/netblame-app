@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-11T00:17:27.985Z",
+  "updated_at": "2026-02-12T00:12:22.414Z",
   "source": "PeeringDB",
-  "entry_count": 33958,
+  "entry_count": 33975,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -8324,10 +8324,6 @@
       "name": "Proximus Luxembourg",
       "type": "Cable/DSL/ISP"
     },
-    "53018": {
-      "name": "INTERTEM",
-      "type": "Cable/DSL/ISP"
-    },
     "19169": {
       "name": "Telconet",
       "type": "Cable/DSL/ISP"
@@ -11541,7 +11537,7 @@
       "type": "Cable/DSL/ISP"
     },
     "22177": {
-      "name": "Transit do Brasil Ltda",
+      "name": "Transit do Brasil S.A",
       "type": "Cable/DSL/ISP"
     },
     "11081": {
@@ -68982,7 +68978,7 @@
     },
     "272104": {
       "name": "Latin Cable",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "265627": {
       "name": "NIDIX NETWORKS S.A. DE C.V.",
@@ -87153,7 +87149,7 @@
       "type": "Unknown"
     },
     "214803": {
-      "name": "Baran Cirak",
+      "name": "Brnchost Bilisim Teknolojileri",
       "type": "Content"
     },
     "401110": {
@@ -89479,10 +89475,6 @@
     "401164": {
       "name": "EPS",
       "type": "Educational/Research"
-    },
-    "32668": {
-      "name": "STEL Hosting LLC",
-      "type": "Network Services"
     },
     "31989": {
       "name": "Fiber Fast Homes",
@@ -97890,7 +97882,7 @@
     },
     "216139": {
       "name": "IRONHOST",
-      "type": "Unknown"
+      "type": "Content"
     },
     "206470": {
       "name": "Menzel IT GmbH",
@@ -99521,7 +99513,7 @@
       "type": "Unknown"
     },
     "152626": {
-      "name": "Cloudbase Co., Ltd",
+      "name": "Cloudbase Network",
       "type": "Cable/DSL/ISP"
     },
     "213476": {
@@ -103554,7 +103546,7 @@
     },
     "400662": {
       "name": "Dobson Technologies - Transport and Telecom Solutions, LLC",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "1415": {
       "name": "CHNETWORK",
@@ -103651,10 +103643,6 @@
     "402079": {
       "name": "MCT-IX",
       "type": "NSP"
-    },
-    "201488": {
-      "name": "Ahmad Hanif Ihlasul Amal, AHIA",
-      "type": "Educational/Research"
     },
     "201616": {
       "name": "Theo Holroyd",
@@ -103786,7 +103774,7 @@
     },
     "201269": {
       "name": "Ivans-Lavrentjevs",
-      "type": "Unknown"
+      "type": "Content"
     },
     "29886": {
       "name": "ESVBA-ASN1",
@@ -103797,11 +103785,79 @@
       "type": "Cable/DSL/ISP"
     },
     "201279": {
-      "name": "AWAS-AS",
+      "name": "AWAS",
       "type": "Unknown"
     },
     "48738": {
       "name": "ELVIS-AS",
+      "type": "Unknown"
+    },
+    "270972": {
+      "name": "ASN270972",
+      "type": "Unknown"
+    },
+    "267742": {
+      "name": "267742",
+      "type": "Unknown"
+    },
+    "131653": {
+      "name": "Cloudbase Connected",
+      "type": "Cable/DSL/ISP"
+    },
+    "268971": {
+      "name": "ASN268971",
+      "type": "Unknown"
+    },
+    "151560": {
+      "name": "IDNIC-MEDIAKERINCI-AS-ID",
+      "type": "Unknown"
+    },
+    "1996": {
+      "name": "ASN1",
+      "type": "Unknown"
+    },
+    "266051": {
+      "name": "ASN266051",
+      "type": "Cable/DSL/ISP"
+    },
+    "401339": {
+      "name": "YCL-US",
+      "type": "Unknown"
+    },
+    "59584": {
+      "name": "INDIKOM LLC",
+      "type": "NSP"
+    },
+    "52673": {
+      "name": "ASN52673",
+      "type": "Unknown"
+    },
+    "154414": {
+      "name": "PT Citratama Lintas Buana",
+      "type": "NSP"
+    },
+    "201251": {
+      "name": "HOSTZERO",
+      "type": "Unknown"
+    },
+    "402182": {
+      "name": "HAZEL-SUDZILOUSKI-NETWORKS",
+      "type": "Unknown"
+    },
+    "213513": {
+      "name": "COMPUTLE",
+      "type": "Content"
+    },
+    "211708": {
+      "name": "Callum_Cardy",
+      "type": "Unknown"
+    },
+    "201243": {
+      "name": "EdgeAlphix",
+      "type": "Unknown"
+    },
+    "398317": {
+      "name": "FIRE-FI",
       "type": "Unknown"
     },
     "22822": {
@@ -105334,6 +105390,10 @@
     },
     "50272": {
       "name": "AVUR",
+      "type": "Cable/DSL/ISP"
+    },
+    "53018": {
+      "name": "INTERTEM",
       "type": "Cable/DSL/ISP"
     },
     "43061": {
@@ -112161,7 +112221,7 @@
       "type": "Unknown"
     },
     "205344": {
-      "name": "Telerys Communication SAS",
+      "name": "Unixo",
       "type": "Cable/DSL/ISP"
     },
     "57111": {
@@ -133064,6 +133124,10 @@
       "name": "OPEN-MX",
       "type": "Content"
     },
+    "32668": {
+      "name": "STEL Hosting LLC",
+      "type": "Network Services"
+    },
     "151012": {
       "name": "BNNET",
       "type": "Cable/DSL/ISP"
@@ -134119,10 +134183,6 @@
     "213434": {
       "name": "GALACTIX",
       "type": "Enterprise"
-    },
-    "213430": {
-      "name": "Cloudbase Lab",
-      "type": "Educational/Research"
     },
     "213428": {
       "name": "Haco",
@@ -135806,10 +135866,14 @@
     },
     "201541": {
       "name": "Nedas Dozorec",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "201423": {
       "name": "Seojun Yun",
+      "type": "Educational/Research"
+    },
+    "201488": {
+      "name": "Ahmad Hanif Ihlasul Amal, AHIA",
       "type": "Educational/Research"
     },
     "142201": {
@@ -135834,6 +135898,10 @@
     },
     "329702": {
       "name": "ORG-CSNL1-AFRINIC",
+      "type": "Cable/DSL/ISP"
+    },
+    "271739": {
+      "name": "SMART TELECOMUNICAÇÕES",
       "type": "Cable/DSL/ISP"
     }
   }
