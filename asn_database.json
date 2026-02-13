@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-12T00:12:22.414Z",
+  "updated_at": "2026-02-13T00:14:30.792Z",
   "source": "PeeringDB",
-  "entry_count": 33975,
+  "entry_count": 33982,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -11124,10 +11124,6 @@
       "name": "Krakowski Internet",
       "type": "Cable/DSL/ISP"
     },
-    "262605": {
-      "name": "Brasil TecPar (LVT)",
-      "type": "Cable/DSL/ISP"
-    },
     "16363": {
       "name": "Axialys",
       "type": "Content"
@@ -11674,10 +11670,6 @@
     },
     "53597": {
       "name": "Hoyos Consulting",
-      "type": "NSP"
-    },
-    "262526": {
-      "name": "Brasil TecPar (Titania)",
       "type": "NSP"
     },
     "52751": {
@@ -18484,10 +18476,6 @@
       "name": "DIAMATRIX",
       "type": "Cable/DSL/ISP"
     },
-    "28635": {
-      "name": "Brasil TecPar (Titania/Younet)",
-      "type": "Cable/DSL/ISP"
-    },
     "44065": {
       "name": "NETAIR",
       "type": "Cable/DSL/ISP"
@@ -24384,10 +24372,6 @@
       "name": "Batelco",
       "type": "Cable/DSL/ISP"
     },
-    "52609": {
-      "name": "Brasil TecPar (EVO)",
-      "type": "Cable/DSL/ISP"
-    },
     "5582": {
       "name": "Województwo Lubelskie",
       "type": "Cable/DSL/ISP"
@@ -24631,10 +24615,6 @@
     "266459": {
       "name": "TECNOLOGY TELECOM",
       "type": "Unknown"
-    },
-    "265303": {
-      "name": "Brasil TecPar (TV Alphaville)",
-      "type": "Cable/DSL/ISP"
     },
     "263172": {
       "name": "HORAS LENIO ARIEL",
@@ -26628,10 +26608,6 @@
       "name": "AgniCorp",
       "type": "Cable/DSL/ISP"
     },
-    "264367": {
-      "name": "Brasil TecPar (CyberNet)",
-      "type": "Cable/DSL/ISP"
-    },
     "59127": {
       "name": "Newmedia Corporation",
       "type": "Cable/DSL/ISP"
@@ -28526,10 +28502,6 @@
     },
     "197898": {
       "name": "Integrated Digital Services Ltd",
-      "type": "Unknown"
-    },
-    "52674": {
-      "name": "Brasil TecPar (NeoGrid)",
       "type": "Unknown"
     },
     "4995": {
@@ -33933,7 +33905,7 @@
       "type": "Content"
     },
     "266713": {
-      "name": "INTERNET WMAX",
+      "name": "Wmax Spa",
       "type": "Cable/DSL/ISP"
     },
     "11042": {
@@ -51832,10 +51804,6 @@
       "name": "RPNET INFORMATICA LTDA - ME",
       "type": "Unknown"
     },
-    "267601": {
-      "name": "Brasil TecPar (Primatec SD)",
-      "type": "Cable/DSL/ISP"
-    },
     "209062": {
       "name": "airplusn",
       "type": "Unknown"
@@ -53496,10 +53464,6 @@
       "name": "ALCIONE DE SANTANA LIMA",
       "type": "NSP"
     },
-    "270728": {
-      "name": "UP TELECOMUNICAÇÕES DO BRASIL",
-      "type": "Cable/DSL/ISP"
-    },
     "26329": {
       "name": "InServer Networks",
       "type": "NSP"
@@ -53563,10 +53527,6 @@
     "270797": {
       "name": "Brasil Cloud Serviços de Computação em Nuvem",
       "type": "Unknown"
-    },
-    "206639": {
-      "name": "Gregory Falla",
-      "type": "Enterprise"
     },
     "62595": {
       "name": "NEO-IX Route Servers",
@@ -70248,10 +70208,6 @@
       "name": "BRUNO Y ASOCIADOS SERVICIOS TECNOLOGICOS",
       "type": "Unknown"
     },
-    "272632": {
-      "name": "Rbnet servicos e comunicacoes",
-      "type": "Unknown"
-    },
     "272435": {
       "name": "MEGA NET CATAGUASES PROVEDOR DE INTERNET TELECOM",
       "type": "Cable/DSL/ISP"
@@ -70459,10 +70415,6 @@
     "36228": {
       "name": "Lancaster Bible College",
       "type": "Unknown"
-    },
-    "272686": {
-      "name": "J R BARBOSA NETO",
-      "type": "Cable/DSL/ISP"
     },
     "205214": {
       "name": "Hrvoje Cavrak",
@@ -73824,6 +73776,10 @@
       "name": "TOFFS TECHNOLOGIES",
       "type": "Content"
     },
+    "201818": {
+      "name": "InitRD SASU",
+      "type": "Unknown"
+    },
     "208532": {
       "name": "FirstPoint",
       "type": "Enterprise"
@@ -74582,10 +74538,6 @@
     },
     "149344": {
       "name": "Dhoho ISP",
-      "type": "Cable/DSL/ISP"
-    },
-    "271764": {
-      "name": "Cerfox Telecom",
       "type": "Cable/DSL/ISP"
     },
     "149523": {
@@ -86552,10 +86504,6 @@
       "name": "NETHER-RESEARCH",
       "type": "Unknown"
     },
-    "214973": {
-      "name": "axst-io",
-      "type": "Content"
-    },
     "34797": {
       "name": "SYSTEM-NET",
       "type": "Unknown"
@@ -90163,10 +90111,6 @@
     "395673": {
       "name": "Alabama Lightwave",
       "type": "Cable/DSL/ISP"
-    },
-    "269811": {
-      "name": "269811",
-      "type": "Unknown"
     },
     "398872": {
       "name": "BIG-WIFI",
@@ -97005,7 +96949,7 @@
       "type": "Network Services"
     },
     "207113": {
-      "name": "Cyrus-Mbitao",
+      "name": "Wofbit Networks",
       "type": "Network Services"
     },
     "153233": {
@@ -103318,7 +103262,7 @@
     },
     "154252": {
       "name": "PT Superlink Supratama Lintasnusa",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "151546": {
       "name": "PT Asri Global Investama",
@@ -103388,16 +103332,8 @@
       "name": "Brasil TecPar (iVeloz T-Leste)",
       "type": "NSP"
     },
-    "264074": {
-      "name": "Brasil TecPar (Via)",
-      "type": "NSP"
-    },
     "264487": {
       "name": "Brasil TecPar (Speedbol)",
-      "type": "NSP"
-    },
-    "268193": {
-      "name": "Brasil TecPar (Hi Tecklink 2)",
       "type": "NSP"
     },
     "26396": {
@@ -103580,10 +103516,6 @@
       "name": "SABAONE",
       "type": "Unknown"
     },
-    "201623": {
-      "name": "DutchEllie",
-      "type": "Educational/Research"
-    },
     "152448": {
       "name": "Global Trading And IT Solution Pvt. Ltd.",
       "type": "Network Services"
@@ -103695,10 +103627,6 @@
     "206116": {
       "name": "Gate Communications LLC",
       "type": "Enterprise"
-    },
-    "41714": {
-      "name": "SpotNet_Ltd",
-      "type": "Unknown"
     },
     "8925": {
       "name": "teuto.net Bielefeld",
@@ -103859,6 +103787,54 @@
     "398317": {
       "name": "FIRE-FI",
       "type": "Unknown"
+    },
+    "40806": {
+      "name": "GrapheneOS",
+      "type": "Content"
+    },
+    "153933": {
+      "name": "XEVERASDNBHD-AS-AP",
+      "type": "Unknown"
+    },
+    "153134": {
+      "name": "IDNIC-RPNET-AS-ID",
+      "type": "Unknown"
+    },
+    "142219": {
+      "name": "PT MEDIA AKSES PRIMA - NET.ON",
+      "type": "Unknown"
+    },
+    "201238": {
+      "name": "KARBUST",
+      "type": "Unknown"
+    },
+    "142167": {
+      "name": "IDNIC-N-LINK-ID",
+      "type": "Unknown"
+    },
+    "201191": {
+      "name": "COBYTES",
+      "type": "Unknown"
+    },
+    "201212": {
+      "name": "KAUFMAN",
+      "type": "Unknown"
+    },
+    "262322": {
+      "name": "ASN262322",
+      "type": "Unknown"
+    },
+    "201132": {
+      "name": "MSCode",
+      "type": "Unknown"
+    },
+    "198121": {
+      "name": "DNS4EU",
+      "type": "Unknown"
+    },
+    "201158": {
+      "name": "VEX-IX RS",
+      "type": "Route Server"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -105996,6 +105972,10 @@
       "name": "NetWay Telecom",
       "type": "Cable/DSL/ISP"
     },
+    "262605": {
+      "name": "Brasil TecPar (LVT)",
+      "type": "NSP"
+    },
     "28158": {
       "name": "Ampernet Telecom",
       "type": "NSP"
@@ -106119,6 +106099,10 @@
     "9370": {
       "name": "SAKURA internet AS9370",
       "type": "Content"
+    },
+    "262526": {
+      "name": "Brasil TecPar (Titania)",
+      "type": "NSP"
     },
     "263444": {
       "name": "Open X Tecnologia Ltda",
@@ -107756,6 +107740,10 @@
       "name": "REDESUL TELECOM",
       "type": "Cable/DSL/ISP"
     },
+    "28635": {
+      "name": "Brasil TecPar (Titania/Younet)",
+      "type": "NSP"
+    },
     "36992": {
       "name": "ETISALAT MISR",
       "type": "NSP"
@@ -107882,7 +107870,7 @@
     },
     "52900": {
       "name": "Brasil TecPar (Hi Tecklink 1)",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "263833": {
       "name": "DIGITAL SAVIO",
@@ -108518,7 +108506,7 @@
     },
     "263427": {
       "name": "Carlos Henrique Santos de Oliveira ME",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "18840": {
       "name": "EQUIPOS Y SISTEMAS",
@@ -109312,6 +109300,10 @@
       "name": "Arte France SA",
       "type": "Unknown"
     },
+    "52609": {
+      "name": "Brasil TecPar (EVO)",
+      "type": "NSP"
+    },
     "264202": {
       "name": "Soares & Peruzzo",
       "type": "Cable/DSL/ISP"
@@ -109371,6 +109363,10 @@
     "37699": {
       "name": "DINX Route Servers",
       "type": "Route Server"
+    },
+    "265303": {
+      "name": "Brasil TecPar (TV Alphaville)",
+      "type": "NSP"
     },
     "37663": {
       "name": "CINX Operations/Route Collector",
@@ -109980,6 +109976,10 @@
       "name": "Arikinet Internet Ltda - EPP",
       "type": "Unknown"
     },
+    "264367": {
+      "name": "Brasil TecPar (CyberNet)",
+      "type": "NSP"
+    },
     "29571": {
       "name": "Orange Cote d'Ivoire",
       "type": "Cable/DSL/ISP"
@@ -110134,7 +110134,7 @@
     },
     "52547": {
       "name": "Brasil TecPar (Primatec MT)",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "205970": {
       "name": "OpenBGPD Research",
@@ -110514,6 +110514,10 @@
     },
     "53231": {
       "name": "Grupo Host LTDA",
+      "type": "NSP"
+    },
+    "52674": {
+      "name": "Brasil TecPar (NeoGrid)",
       "type": "NSP"
     },
     "395657": {
@@ -115618,7 +115622,7 @@
     },
     "52682": {
       "name": "Brasil TecPar (W3)",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "206723": {
       "name": "Carnsore Broadband Limited",
@@ -119631,6 +119635,10 @@
     "268710": {
       "name": "YES FIBRA TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
+    },
+    "267601": {
+      "name": "Brasil TecPar (Primatec SD)",
+      "type": "NSP"
     },
     "398230": {
       "name": "RTEBB-NET1",
@@ -128012,10 +128020,6 @@
       "name": "Fatickchari Communication Network-FCN",
       "type": "Cable/DSL/ISP"
     },
-    "201818": {
-      "name": "InitRD SASU",
-      "type": "Unknown"
-    },
     "149659": {
       "name": "Chaldal",
       "type": "Enterprise"
@@ -130744,10 +130748,6 @@
       "name": "Devcat",
       "type": "Content"
     },
-    "216174": {
-      "name": "INDIA-01",
-      "type": "Cable/DSL/ISP"
-    },
     "216190": {
       "name": "OCASDEV",
       "type": "Network Services"
@@ -130886,7 +130886,7 @@
     },
     "216084": {
       "name": "Kerem Uluboy",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "151674": {
       "name": "Huangyu Network",
@@ -132288,6 +132288,10 @@
       "name": "PIT DOMINICANO - Transit",
       "type": "NSP"
     },
+    "214973": {
+      "name": "axst-io",
+      "type": "Content"
+    },
     "40463": {
       "name": "Alabama Fiber Network",
       "type": "NSP"
@@ -133323,6 +133327,10 @@
     "328846": {
       "name": "First Basics Technologies Limited",
       "type": "Cable/DSL/ISP"
+    },
+    "269811": {
+      "name": "269811",
+      "type": "Unknown"
     },
     "215704": {
       "name": "NGN CZ s.r.o.",
@@ -135848,6 +135856,14 @@
       "name": "Rofael Aleezada, Sole Proprietorship",
       "type": "Educational/Research"
     },
+    "264074": {
+      "name": "Brasil TecPar (Via)",
+      "type": "NSP"
+    },
+    "268193": {
+      "name": "Brasil TecPar (Hi Tecklink 2)",
+      "type": "NSP"
+    },
     "135864": {
       "name": "Elxire Communications Ltd.",
       "type": "Unknown"
@@ -135855,6 +135871,10 @@
     "203138": {
       "name": "Van Berkel Landschap & Infra B.V.",
       "type": "Unknown"
+    },
+    "201623": {
+      "name": "DutchEllie",
+      "type": "Educational/Research"
     },
     "266953": {
       "name": "Argo Provedor",
@@ -135880,6 +135900,10 @@
       "name": "PT Axindo Infinitas Network",
       "type": "Cable/DSL/ISP"
     },
+    "41714": {
+      "name": "SpotNet_Ltd",
+      "type": "Cable/DSL/ISP"
+    },
     "210235": {
       "name": "JULIANKUHN",
       "type": "Educational/Research"
@@ -135903,6 +135927,10 @@
     "271739": {
       "name": "SMART TELECOMUNICAÇÕES",
       "type": "Cable/DSL/ISP"
+    },
+    "402194": {
+      "name": "AS-MGNETWORKS",
+      "type": "Enterprise"
     }
   }
 }
