@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-14T00:13:16.834Z",
+  "updated_at": "2026-02-15T00:12:59.373Z",
   "source": "PeeringDB",
-  "entry_count": 33995,
+  "entry_count": 33999,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -103432,10 +103432,6 @@
       "name": "CloudAfrica Hosting (PTY) LTD",
       "type": "NSP"
     },
-    "205414": {
-      "name": "Nerdlab",
-      "type": "Unknown"
-    },
     "142395": {
       "name": "PT Global Internet Indonesia",
       "type": "Cable/DSL/ISP"
@@ -103866,6 +103862,22 @@
     },
     "201033": {
       "name": "DEV-NULL",
+      "type": "Unknown"
+    },
+    "397312": {
+      "name": "LAKE-LINX",
+      "type": "Unknown"
+    },
+    "154479": {
+      "name": "IDNIC-SYNETRIX-AS-ID",
+      "type": "Unknown"
+    },
+    "142639": {
+      "name": "IDNIC-QCNET-ID",
+      "type": "Unknown"
+    },
+    "51469": {
+      "name": "Petiak",
       "type": "Unknown"
     },
     "22822": {
@@ -104801,7 +104813,7 @@
       "type": "NSP"
     },
     "49867": {
-      "name": "B00B Collective",
+      "name": "Suisei Network",
       "type": "Educational/Research"
     },
     "39636": {
@@ -127973,8 +127985,8 @@
       "type": "Enterprise"
     },
     "202076": {
-      "name": "Optua Telecommunications Limited",
-      "type": "Network Services"
+      "name": "Optua",
+      "type": "Cable/DSL/ISP"
     },
     "35657": {
       "name": "WLANcloud",
@@ -135910,6 +135922,10 @@
     },
     "203138": {
       "name": "Van Berkel Landschap & Infra B.V.",
+      "type": "Unknown"
+    },
+    "205414": {
+      "name": "Nerdlab",
       "type": "Unknown"
     },
     "201623": {
