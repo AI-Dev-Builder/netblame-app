@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-15T00:12:59.373Z",
+  "updated_at": "2026-02-16T00:13:10.362Z",
   "source": "PeeringDB",
   "entry_count": 33999,
   "entries": {
@@ -27233,8 +27233,8 @@
       "type": "Cable/DSL/ISP"
     },
     "203939": {
-      "name": "Mosaic Data Services",
-      "type": "NSP"
+      "name": "Mosaic Data Services, Inc.",
+      "type": "Content"
     },
     "46641": {
       "name": "Niagara Catholic District School Board",
@@ -40621,7 +40621,7 @@
       "type": "Cable/DSL/ISP"
     },
     "38913": {
-      "name": "Infra Blocks",
+      "name": "Serveo",
       "type": "NSP"
     },
     "50": {
@@ -53151,10 +53151,6 @@
     "266853": {
       "name": "Comunicaciones Metropolitanas METROCOM",
       "type": "Cable/DSL/ISP"
-    },
-    "267937": {
-      "name": "LJ FELEX",
-      "type": "Unknown"
     },
     "207335": {
       "name": "i-Community",
@@ -89396,10 +89392,6 @@
       "name": "NMJ Service Oy",
       "type": "Unknown"
     },
-    "264136": {
-      "name": "LT2 TELECOMUNICACOES LTDA - EPP",
-      "type": "Unknown"
-    },
     "214307": {
       "name": "Ivx",
       "type": "NSP"
@@ -102016,10 +102008,6 @@
       "name": "Marshall Telecom",
       "type": "Cable/DSL/ISP"
     },
-    "212811": {
-      "name": "REPIERRE",
-      "type": "Unknown"
-    },
     "14450": {
       "name": "GEICO",
       "type": "Enterprise"
@@ -102373,7 +102361,7 @@
       "type": "Unknown"
     },
     "213975": {
-      "name": "Warwick Ward-Cox",
+      "name": "Computer Power",
       "type": "Unknown"
     },
     "203778": {
@@ -103824,10 +103812,6 @@
       "name": "VEX-IX RS",
       "type": "Route Server"
     },
-    "35941": {
-      "name": "Mosaic Data Services, Inc.",
-      "type": "Content"
-    },
     "402193": {
       "name": "UINT8",
       "type": "Unknown"
@@ -103878,6 +103862,18 @@
     },
     "51469": {
       "name": "Petiak",
+      "type": "Unknown"
+    },
+    "153367": {
+      "name": "XCIPL-AS-AP",
+      "type": "Enterprise"
+    },
+    "142577": {
+      "name": "MAHERINTERNATIONAL-AS-AP",
+      "type": "Unknown"
+    },
+    "46651": {
+      "name": "OMD3",
       "type": "Unknown"
     },
     "22822": {
@@ -135711,6 +135707,10 @@
     "19388": {
       "name": "Team Cymru Labs",
       "type": "Educational/Research"
+    },
+    "212811": {
+      "name": "REPIERRE",
+      "type": "Unknown"
     },
     "138528": {
       "name": "EMPIRE TECH",
