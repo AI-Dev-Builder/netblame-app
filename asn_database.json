@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-16T00:13:10.362Z",
+  "updated_at": "2026-02-17T00:13:43.535Z",
   "source": "PeeringDB",
-  "entry_count": 33999,
+  "entry_count": 34012,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -753,7 +753,7 @@
       "type": "Educational/Research"
     },
     "12902": {
-      "name": "Luna.nl B.V.",
+      "name": "Ekco B.V.",
       "type": "Cable/DSL/ISP"
     },
     "4716": {
@@ -14364,6 +14364,10 @@
       "name": "Zain KSA",
       "type": "NSP"
     },
+    "201061": {
+      "name": "GITC",
+      "type": "Unknown"
+    },
     "63931": {
       "name": "GNET Communications PTY LTD",
       "type": "Cable/DSL/ISP"
@@ -22478,7 +22482,7 @@
     },
     "6528": {
       "name": "SOUTH ARKANSAS TELEPHONE COMPANY",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "395379": {
       "name": "SCIREMC",
@@ -23694,10 +23698,6 @@
     },
     "134743": {
       "name": "Beam Internet",
-      "type": "Cable/DSL/ISP"
-    },
-    "265427": {
-      "name": "Brasil TecPar (Selko)",
       "type": "Cable/DSL/ISP"
     },
     "197099": {
@@ -44229,7 +44229,7 @@
       "type": "Cable/DSL/ISP"
     },
     "208959": {
-      "name": "SlashN Services",
+      "name": "SlashN Services Pte. Ltd.",
       "type": "Unknown"
     },
     "264954": {
@@ -68312,10 +68312,6 @@
       "name": "Vobiss Solutions",
       "type": "Unknown"
     },
-    "208420": {
-      "name": "Link Connectivity",
-      "type": "Unknown"
-    },
     "272215": {
       "name": "Tribunal Regional do Trabalho da 18 Regiao",
       "type": "Unknown"
@@ -75301,7 +75297,7 @@
       "type": "Unknown"
     },
     "212177": {
-      "name": "Airbytes - AS212177",
+      "name": "Airbytes (UK)",
       "type": "NSP"
     },
     "19418": {
@@ -82825,7 +82821,7 @@
       "type": "Unknown"
     },
     "21647": {
-      "name": "Lightboard ★",
+      "name": "Lightboard ★ AS21647",
       "type": "NSP"
     },
     "59637": {
@@ -89305,7 +89301,7 @@
       "type": "Cable/DSL/ISP"
     },
     "214340": {
-      "name": "24racks Cloud",
+      "name": "24racks Cloud S.L.",
       "type": "Cable/DSL/ISP"
     },
     "270316": {
@@ -94957,11 +94953,11 @@
       "type": "Unknown"
     },
     "198373": {
-      "name": "Airbytes - AS198373",
+      "name": "Airbytes (Europe)",
       "type": "NSP"
     },
     "401275": {
-      "name": "Airbytes - AS401275",
+      "name": "Airbytes (US)",
       "type": "NSP"
     },
     "28136": {
@@ -97918,7 +97914,7 @@
     },
     "329580": {
       "name": "ORG-TCNL1-AFRINIC",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "200858": {
       "name": "RACKONE",
@@ -99517,8 +99513,8 @@
       "type": "Unknown"
     },
     "211281": {
-      "name": "NEOHOST SRL",
-      "type": "Network Services"
+      "name": "NeoHost",
+      "type": "Enterprise"
     },
     "201999": {
       "name": "Fanavari Serverpars Argham Gostar Company Ltd.",
@@ -101652,10 +101648,6 @@
       "name": "ScaleBit",
       "type": "Unknown"
     },
-    "209510": {
-      "name": "NAMESHIELDGRP",
-      "type": "Unknown"
-    },
     "399906": {
       "name": "Sacred Ship Technologies",
       "type": "Unknown"
@@ -103048,10 +103040,6 @@
       "name": "MCSWEEN",
       "type": "Unknown"
     },
-    "204464": {
-      "name": "NextSolutions",
-      "type": "NSP"
-    },
     "133147": {
       "name": "UNIVERSAL DATA PTY LTD, TechPath Pty Ltd",
       "type": "Unknown"
@@ -103478,7 +103466,7 @@
     },
     "142397": {
       "name": "Politeknik Negeri Bali",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "400381": {
       "name": "Centric Fiber Texas, LLC",
@@ -103521,7 +103509,7 @@
       "type": "Unknown"
     },
     "11150": {
-      "name": "Lightboard ★ SPFDMA Route Servers",
+      "name": "American IX ★ SPFDMA Route Servers",
       "type": "Network Services"
     },
     "274729": {
@@ -103854,7 +103842,7 @@
     },
     "154479": {
       "name": "IDNIC-SYNETRIX-AS-ID",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "142639": {
       "name": "IDNIC-QCNET-ID",
@@ -103875,6 +103863,58 @@
     "46651": {
       "name": "OMD3",
       "type": "Unknown"
+    },
+    "152884": {
+      "name": "NEP Australia",
+      "type": "Content"
+    },
+    "142581": {
+      "name": "MCT-AS-AP",
+      "type": "Unknown"
+    },
+    "270161": {
+      "name": "270161",
+      "type": "Unknown"
+    },
+    "154192": {
+      "name": "IRINN-NXGWEB-AS-IN",
+      "type": "Unknown"
+    },
+    "152498": {
+      "name": "UBSPL-AS-IN",
+      "type": "Unknown"
+    },
+    "56653": {
+      "name": "TV-COM-AG",
+      "type": "Cable/DSL/ISP"
+    },
+    "201815": {
+      "name": "Megaditta",
+      "type": "Enterprise"
+    },
+    "17267": {
+      "name": "VGI-TECHNOLOGY",
+      "type": "Cable/DSL/ISP"
+    },
+    "402062": {
+      "name": "AUTOMATION EXCHANGE",
+      "type": "Unknown"
+    },
+    "329123": {
+      "name": "ORG-RPNL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "43272": {
+      "name": "DOTNET-AS",
+      "type": "Unknown"
+    },
+    "274258": {
+      "name": "274258",
+      "type": "Unknown"
+    },
+    "5096": {
+      "name": "Lightboard ★ AS5069",
+      "type": "Network Services"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -109190,6 +109230,10 @@
     },
     "328003": {
       "name": "Standard Telecom Congo",
+      "type": "Cable/DSL/ISP"
+    },
+    "265427": {
+      "name": "Brasil TecPar (Selko)",
       "type": "Cable/DSL/ISP"
     },
     "266303": {
@@ -135676,6 +135720,10 @@
       "name": "Airnetz Broadband Services Private Limited",
       "type": "Cable/DSL/ISP"
     },
+    "209510": {
+      "name": "Nameshield Group",
+      "type": "Enterprise"
+    },
     "207303": {
       "name": "Xilin Xie",
       "type": "Non-Profit"
@@ -135998,6 +136046,10 @@
     },
     "402194": {
       "name": "AS-MGNETWORKS",
+      "type": "Enterprise"
+    },
+    "20756": {
+      "name": "Nameshield",
       "type": "Enterprise"
     }
   }
