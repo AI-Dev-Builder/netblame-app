@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-19T00:13:32.909Z",
+  "updated_at": "2026-02-20T00:11:57.210Z",
   "source": "PeeringDB",
-  "entry_count": 34021,
+  "entry_count": 34031,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -31654,7 +31654,7 @@
     },
     "267670": {
       "name": "NetLink Telecom",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "50015": {
       "name": "Oleksandr Butenko",
@@ -42264,10 +42264,6 @@
       "name": "Gilberto Leandro Peron e Cia Ltda",
       "type": "Cable/DSL/ISP"
     },
-    "48303": {
-      "name": "OVIS IT Consulting",
-      "type": "Cable/DSL/ISP"
-    },
     "29900": {
       "name": "GLENWOOD TELEPHONE",
       "type": "Unknown"
@@ -50853,7 +50849,7 @@
       "type": "Unknown"
     },
     "205638": {
-      "name": "T-Mobile",
+      "name": "T-Mob",
       "type": "Enterprise"
     },
     "19990": {
@@ -67259,10 +67255,6 @@
     "141654": {
       "name": "Optima Wiyata Nusantara",
       "type": "Unknown"
-    },
-    "37649": {
-      "name": "SAGA AFRICA",
-      "type": "Cable/DSL/ISP"
     },
     "271007": {
       "name": "FRANCINE TALLIS LOURENZONI RIBEIRO INFORMATICA",
@@ -84737,7 +84729,7 @@
       "type": "Unknown"
     },
     "215359": {
-      "name": "Romain-neil",
+      "name": "NR Consulting SAS",
       "type": "Content"
     },
     "329409": {
@@ -94918,7 +94910,7 @@
     },
     "214256": {
       "name": "valvea-as",
-      "type": "Unknown"
+      "type": "Content"
     },
     "37552": {
       "name": "ORG-CGL1-AFRINIC",
@@ -95995,10 +95987,6 @@
     "216180": {
       "name": "hosting.com SYD1",
       "type": "Unknown"
-    },
-    "216198": {
-      "name": "Aoter Networks",
-      "type": "Educational/Research"
     },
     "200974": {
       "name": "JSW IT SYSTEMS sp. z o.o.",
@@ -99178,7 +99166,7 @@
     },
     "154153": {
       "name": "PT Bimanet Media Nusantara",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "214955": {
       "name": "LaunchPad Network",
@@ -99406,10 +99394,6 @@
     },
     "15257": {
       "name": "NBT Labs, LLC",
-      "type": "Unknown"
-    },
-    "154201": {
-      "name": "PT GIGA NETWORK INDONESIA",
       "type": "Unknown"
     },
     "30905": {
@@ -103005,7 +102989,7 @@
       "type": "Unknown"
     },
     "207620": {
-      "name": "KentWifi-FlixNet",
+      "name": "KentWifi-PlayNet",
       "type": "Cable/DSL/ISP"
     },
     "329458": {
@@ -103402,7 +103386,7 @@
     },
     "208946": {
       "name": "Sirius-2014 LLC",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "201640": {
       "name": "psHost.pl",
@@ -103865,8 +103849,8 @@
       "type": "Educational/Research"
     },
     "11600": {
-      "name": "PARALLAX-NET",
-      "type": "Unknown"
+      "name": "Parallax Services LLC",
+      "type": "NSP"
     },
     "204048": {
       "name": "VFT-AS",
@@ -103876,13 +103860,9 @@
       "name": "IDNIC-BI-NET-AS-ID",
       "type": "Unknown"
     },
-    "209373": {
-      "name": "SWISSNET-AS",
-      "type": "Unknown"
-    },
     "63477": {
       "name": "CONIFER-EDGE",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "1358": {
       "name": "HNSNET-AS",
@@ -103890,7 +103870,7 @@
     },
     "274804": {
       "name": "ASN274804",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "401640": {
       "name": "BULKVM",
@@ -103914,6 +103894,46 @@
     },
     "215388": {
       "name": "Clevotec",
+      "type": "Unknown"
+    },
+    "329705": {
+      "name": "ORG-SIS2-AFRINIC",
+      "type": "Unknown"
+    },
+    "200878": {
+      "name": "CHRISP",
+      "type": "Unknown"
+    },
+    "201070": {
+      "name": "AS3VHOSTING",
+      "type": "Unknown"
+    },
+    "329017": {
+      "name": "ORG-SRNS1-AFRINIC",
+      "type": "Unknown"
+    },
+    "269681": {
+      "name": "ASN269681",
+      "type": "Unknown"
+    },
+    "201164": {
+      "name": "Cool-Studio",
+      "type": "Unknown"
+    },
+    "270641": {
+      "name": "ASN270641",
+      "type": "Unknown"
+    },
+    "200913": {
+      "name": "ALLAY-STUDIOS-MNT",
+      "type": "Network Services"
+    },
+    "6343": {
+      "name": "OMEGASYS-DC1",
+      "type": "Unknown"
+    },
+    "19572": {
+      "name": "OMEGASYS-HQ",
       "type": "Unknown"
     },
     "22822": {
@@ -115960,6 +115980,10 @@
       "name": "ADMINISTRADORA DE SERVICIOS Y SISTEMAS AUTOMATIZADOS FALABELLA",
       "type": "Content"
     },
+    "48303": {
+      "name": "OVIS IT Consulting",
+      "type": "Cable/DSL/ISP"
+    },
     "18655": {
       "name": "CANIX Ottawa Route Servers",
       "type": "Route Server"
@@ -117537,7 +117561,7 @@
       "type": "NSP"
     },
     "61901": {
-      "name": "RMR Assessoria Técnica em Teleinformática",
+      "name": "RMR Fibra",
       "type": "Cable/DSL/ISP"
     },
     "266927": {
@@ -125922,6 +125946,10 @@
     },
     "52715": {
       "name": "SCORPION TELECOMUNICAÇÃO RIBEIRÃO PRETO LTDA - ME",
+      "type": "Cable/DSL/ISP"
+    },
+    "37649": {
+      "name": "SAGA AFRICA",
       "type": "Cable/DSL/ISP"
     },
     "37438": {
@@ -134732,6 +134760,10 @@
       "name": "Kitsune Hosting",
       "type": "Network Services"
     },
+    "216198": {
+      "name": "Aoter Networks",
+      "type": "Educational/Research"
+    },
     "153822": {
       "name": "PT Emlima Koneksi Nusantara",
       "type": "Cable/DSL/ISP"
@@ -135355,6 +135387,10 @@
     "212316": {
       "name": "Melmasti Global (Gibraltar) Limited",
       "type": "Unknown"
+    },
+    "154201": {
+      "name": "PT GIGA NETWORK INDONESIA",
+      "type": "Network Services"
     },
     "273472": {
       "name": "Connect Fibra Telecom",
@@ -136001,7 +136037,7 @@
       "type": "Unknown"
     },
     "201541": {
-      "name": "White Network",
+      "name": "Nedas Dozorec",
       "type": "Content"
     },
     "11150": {
@@ -136087,6 +136123,10 @@
     "270165": {
       "name": "Servicios Best CTC S.A. de C.V.",
       "type": "NSP"
+    },
+    "209373": {
+      "name": "SWISSNET-AS",
+      "type": "Network Services"
     }
   }
 }
