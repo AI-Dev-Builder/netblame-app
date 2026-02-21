@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-20T00:11:57.210Z",
+  "updated_at": "2026-02-21T00:12:22.272Z",
   "source": "PeeringDB",
-  "entry_count": 34031,
+  "entry_count": 34037,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -26876,10 +26876,6 @@
       "name": "Internet Xpress",
       "type": "Unknown"
     },
-    "20710": {
-      "name": "Digital Realty Spain",
-      "type": "Unknown"
-    },
     "21057": {
       "name": "Servicios Audiovisuales Overon",
       "type": "Content"
@@ -27821,7 +27817,7 @@
       "type": "Cable/DSL/ISP"
     },
     "199244": {
-      "name": "Altus IT",
+      "name": "Digital Realty - Zagreb (ZAG1)",
       "type": "NSP"
     },
     "2590": {
@@ -41740,10 +41736,6 @@
       "name": "macroIS",
       "type": "NSP"
     },
-    "36243": {
-      "name": "BPS Networks",
-      "type": "Cable/DSL/ISP"
-    },
     "57512": {
       "name": "SPORTMASTER Network",
       "type": "Enterprise"
@@ -50667,10 +50659,6 @@
     "207394": {
       "name": "commonroute.net",
       "type": "Unknown"
-    },
-    "207574": {
-      "name": "MikeNetworks LTD",
-      "type": "Enterprise"
     },
     "270368": {
       "name": "TR TELECOMUNICACOES",
@@ -76101,7 +76089,7 @@
       "type": "Cable/DSL/ISP"
     },
     "199839": {
-      "name": "MikeNetworks BV",
+      "name": "MikeNetworks S.à r.l.-S.",
       "type": "Content"
     },
     "140224": {
@@ -79251,14 +79239,6 @@
     "142341": {
       "name": "ALOI",
       "type": "Cable/DSL/ISP"
-    },
-    "212541": {
-      "name": "MikeNetworks Management Ltd.",
-      "type": "Enterprise"
-    },
-    "205267": {
-      "name": "NovaLink Networks",
-      "type": "Unknown"
     },
     "212290": {
       "name": "ON DIGITAL GmbH & Co. KG",
@@ -84466,10 +84446,6 @@
     },
     "398148": {
       "name": "MOATIT",
-      "type": "Unknown"
-    },
-    "328628": {
-      "name": "Wanderport Swaziland",
       "type": "Unknown"
     },
     "215443": {
@@ -92748,6 +92724,10 @@
       "name": "Alpha Internet",
       "type": "Unknown"
     },
+    "213641": {
+      "name": "AS213641",
+      "type": "Content"
+    },
     "131611": {
       "name": "San Da Cable TV",
       "type": "Cable/DSL/ISP"
@@ -96101,7 +96081,7 @@
       "type": "Unknown"
     },
     "401714": {
-      "name": "OpenIX Route Server",
+      "name": "OpenIX Route Server (Legacy)",
       "type": "Route Server"
     },
     "152037": {
@@ -96205,7 +96185,7 @@
       "type": "Cable/DSL/ISP"
     },
     "401732": {
-      "name": "OpenIX Route Collectors",
+      "name": "OpenIX Route Collectors (legacy)",
       "type": "Route Collector"
     },
     "401731": {
@@ -103066,7 +103046,7 @@
     },
     "209532": {
       "name": "INFORMATIQUE MAINTENANCE SERVICES SAS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "201944": {
       "name": "Pysio Next Networks",
@@ -103448,20 +103428,12 @@
       "name": "Ligtel Communications, Inc.",
       "type": "Cable/DSL/ISP"
     },
-    "402079": {
-      "name": "MCT-IX",
-      "type": "Route Server"
-    },
     "203284": {
       "name": "ServerDale",
       "type": "Content"
     },
     "402153": {
       "name": "Quick Tech Results LLC",
-      "type": "Unknown"
-    },
-    "201371": {
-      "name": "Lars Peter Werner Erhardt",
       "type": "Unknown"
     },
     "36471": {
@@ -103880,14 +103852,6 @@
       "name": "HOSTINGOXYGEN-AS-AP",
       "type": "Unknown"
     },
-    "5116": {
-      "name": "OPENPIPES-CHICAGO",
-      "type": "Unknown"
-    },
-    "7079": {
-      "name": "Open Pipes Transpeering",
-      "type": "Unknown"
-    },
     "395765": {
       "name": "NP-ASN-1",
       "type": "Unknown"
@@ -103935,6 +103899,42 @@
     "19572": {
       "name": "OMEGASYS-HQ",
       "type": "Unknown"
+    },
+    "61272": {
+      "name": "IST-AS",
+      "type": "Unknown"
+    },
+    "149595": {
+      "name": "PNPL2022-AS-IN",
+      "type": "Cable/DSL/ISP"
+    },
+    "215584": {
+      "name": "IT-NS",
+      "type": "Unknown"
+    },
+    "8097": {
+      "name": "OpenIX Route Collectors",
+      "type": "Route Collector"
+    },
+    "141212": {
+      "name": "MYNET1-AS-AP",
+      "type": "Unknown"
+    },
+    "4969": {
+      "name": "OpenIX Route Servers",
+      "type": "Route Server"
+    },
+    "200749": {
+      "name": "ITDATA-TELECOM",
+      "type": "Unknown"
+    },
+    "32245": {
+      "name": "BC-LIFELABS-CCB",
+      "type": "Unknown"
+    },
+    "213496": {
+      "name": "Telic-Technologies",
+      "type": "Enterprise"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -115796,6 +115796,10 @@
       "name": "FERNANDES INFORNET",
       "type": "Cable/DSL/ISP"
     },
+    "36243": {
+      "name": "BPS Networks",
+      "type": "Cable/DSL/ISP"
+    },
     "266933": {
       "name": "ACTEC Tecnologia de Comunicação",
       "type": "Cable/DSL/ISP"
@@ -116433,8 +116437,8 @@
       "type": "Cable/DSL/ISP"
     },
     "263496": {
-      "name": "Netpeu tecnologia e internet ltda",
-      "type": "NSP"
+      "name": "Netpeu Internet",
+      "type": "Cable/DSL/ISP"
     },
     "209075": {
       "name": "Klara Modin",
@@ -131768,6 +131772,10 @@
       "name": "KISSGROUP SAS",
       "type": "Cable/DSL/ISP"
     },
+    "328628": {
+      "name": "Wanderport Swaziland",
+      "type": "Unknown"
+    },
     "152473": {
       "name": "Dash Internet Provider",
       "type": "Cable/DSL/ISP"
@@ -134100,10 +134108,6 @@
       "name": "Florent Duval",
       "type": "Educational/Research"
     },
-    "213641": {
-      "name": "AS213641",
-      "type": "Content"
-    },
     "135474": {
       "name": "PT. Hafiz Jaya Infotama",
       "type": "Cable/DSL/ISP"
@@ -136038,7 +136042,7 @@
     },
     "201541": {
       "name": "Nedas Dozorec",
-      "type": "Content"
+      "type": "Educational/Research"
     },
     "11150": {
       "name": "American IX ★ SPFDMA Route Servers",
@@ -136048,6 +136052,10 @@
       "name": "Seojun Yun",
       "type": "Educational/Research"
     },
+    "402079": {
+      "name": "MCT-IX",
+      "type": "Route Server"
+    },
     "201488": {
       "name": "Ahmad Hanif Ihlasul Amal, AHIA",
       "type": "Educational/Research"
@@ -136055,6 +136063,10 @@
     "201616": {
       "name": "Theo Holroyd",
       "type": "Educational/Research"
+    },
+    "201371": {
+      "name": "Lars Peter Werner Erhardt",
+      "type": "Network Services"
     },
     "142201": {
       "name": "PT Axindo Infinitas Network",
@@ -136127,6 +136139,18 @@
     "209373": {
       "name": "SWISSNET-AS",
       "type": "Network Services"
+    },
+    "5116": {
+      "name": "Open Pipes Transpeering",
+      "type": "Unknown"
+    },
+    "7079": {
+      "name": "Open Pipes Chicago Route Servers",
+      "type": "Unknown"
+    },
+    "200819": {
+      "name": "Expanda",
+      "type": "Enterprise"
     }
   }
 }
