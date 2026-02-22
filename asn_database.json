@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-21T00:12:22.272Z",
+  "updated_at": "2026-02-22T00:12:20.591Z",
   "source": "PeeringDB",
-  "entry_count": 34037,
+  "entry_count": 34038,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -56196,10 +56196,6 @@
       "name": "Dot Enterprise Co.,Ltd.",
       "type": "Enterprise"
     },
-    "271183": {
-      "name": "DIGITAL TERRA ROXA INTERNET EIRELI",
-      "type": "Cable/DSL/ISP"
-    },
     "270853": {
       "name": "STAYBOX SERVICOS DE HOSPEDAGEM NA INTERNET LTDA",
       "type": "Content"
@@ -62808,10 +62804,6 @@
       "name": "Virtual Spot Internet",
       "type": "Cable/DSL/ISP"
     },
-    "212720": {
-      "name": "Cyberprotect",
-      "type": "Unknown"
-    },
     "394116": {
       "name": "Axiom Technologies, Chebeague LLC",
       "type": "Cable/DSL/ISP"
@@ -63301,7 +63293,7 @@
       "type": "Unknown"
     },
     "211209": {
-      "name": "EE-IX Route Servers",
+      "name": "European Edge IX - Route Servers",
       "type": "Route Server"
     },
     "42275": {
@@ -64414,10 +64406,6 @@
     },
     "210924": {
       "name": "ssd networks",
-      "type": "Unknown"
-    },
-    "142635": {
-      "name": "Whisper Services",
       "type": "Unknown"
     },
     "134093": {
@@ -73718,7 +73706,7 @@
     },
     "201818": {
       "name": "InitRD SASU",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "208532": {
       "name": "FirstPoint",
@@ -100881,7 +100869,7 @@
       "type": "Unknown"
     },
     "210699": {
-      "name": "🌐 INFRAWIRE - AS210699",
+      "name": "WEDEPLOY SAS",
       "type": "Network Services"
     },
     "152648": {
@@ -102457,7 +102445,7 @@
       "type": "Unknown"
     },
     "209601": {
-      "name": "XiaoYuan Networks",
+      "name": "XiaoYuan Networks Limited",
       "type": "Cable/DSL/ISP"
     },
     "136203": {
@@ -103708,10 +103696,6 @@
       "name": "TRENDNET TELEKOMUNIKASYON BILISIM HIZMETLERI TICARET LIMITED SIRKETI",
       "type": "Cable/DSL/ISP"
     },
-    "201033": {
-      "name": "DEV-NULL",
-      "type": "Content"
-    },
     "397312": {
       "name": "Lake Linx, Inc.",
       "type": "Unknown"
@@ -103910,7 +103894,7 @@
     },
     "215584": {
       "name": "IT-NS",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "8097": {
       "name": "OpenIX Route Collectors",
@@ -103935,6 +103919,22 @@
     "213496": {
       "name": "Telic-Technologies",
       "type": "Enterprise"
+    },
+    "200790": {
+      "name": "BYTEFIZZ",
+      "type": "Unknown"
+    },
+    "200720": {
+      "name": "YICHENSHI",
+      "type": "Unknown"
+    },
+    "329703": {
+      "name": "Wekkitech",
+      "type": "Unknown"
+    },
+    "4158": {
+      "name": "CITYUNI-AS-AP",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -136112,6 +136112,10 @@
       "name": "14097335 Canada inc",
       "type": "Enterprise"
     },
+    "201033": {
+      "name": "DEV-NULL",
+      "type": "Content"
+    },
     "142639": {
       "name": "PT Qalby Cahaya Network",
       "type": "Cable/DSL/ISP"
@@ -136146,11 +136150,11 @@
     },
     "7079": {
       "name": "Open Pipes Chicago Route Servers",
-      "type": "Unknown"
+      "type": "Route Server"
     },
     "200819": {
       "name": "Expanda",
-      "type": "Enterprise"
+      "type": "Educational/Research"
     }
   }
 }
