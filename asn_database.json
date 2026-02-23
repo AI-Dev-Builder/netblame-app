@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-22T00:12:20.591Z",
+  "updated_at": "2026-02-23T00:12:47.667Z",
   "source": "PeeringDB",
-  "entry_count": 34038,
+  "entry_count": 34040,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -81010,7 +81010,7 @@
     },
     "3920": {
       "name": "PUSHPKT-OU",
-      "type": "Enterprise"
+      "type": "NSP"
     },
     "198990": {
       "name": "Pine Hosting",
@@ -103920,21 +103920,25 @@
       "name": "Telic-Technologies",
       "type": "Enterprise"
     },
-    "200790": {
-      "name": "BYTEFIZZ",
-      "type": "Unknown"
-    },
     "200720": {
       "name": "YICHENSHI",
       "type": "Unknown"
     },
     "329703": {
       "name": "Wekkitech",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "4158": {
       "name": "CITYUNI-AS-AP",
       "type": "Unknown"
+    },
+    "141656": {
+      "name": "IDNIC-KAROKAB-AS-ID",
+      "type": "Government"
+    },
+    "200772": {
+      "name": "neburst",
+      "type": "Enterprise"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -128282,7 +128286,7 @@
     },
     "201398": {
       "name": "MADEBYKEIRAN",
-      "type": "Content"
+      "type": "NSP"
     },
     "213241": {
       "name": "TechIT.be",
@@ -133653,7 +133657,7 @@
       "type": "NSP"
     },
     "26954": {
-      "name": "NETZR",
+      "name": "AS26954",
       "type": "Enterprise"
     },
     "200200": {
@@ -136155,6 +136159,10 @@
     "200819": {
       "name": "Expanda",
       "type": "Educational/Research"
+    },
+    "200790": {
+      "name": "ByteFizz",
+      "type": "Network Services"
     }
   }
 }
