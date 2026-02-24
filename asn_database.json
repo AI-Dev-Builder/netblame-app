@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-23T00:12:47.667Z",
+  "updated_at": "2026-02-24T00:13:42.118Z",
   "source": "PeeringDB",
-  "entry_count": 34040,
+  "entry_count": 34053,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -3745,8 +3745,8 @@
       "type": "Cable/DSL/ISP"
     },
     "44259": {
-      "name": "TransQuality",
-      "type": "NSP"
+      "name": "ULTAHOST-AP-AS",
+      "type": "Unknown"
     },
     "50857": {
       "name": "Citymesh - Mac Telecom",
@@ -31844,10 +31844,6 @@
       "name": "King Abdul Aziz City for Science and Technology",
       "type": "Unknown"
     },
-    "201950": {
-      "name": "Alexander Bork",
-      "type": "Educational/Research"
-    },
     "3682": {
       "name": "CRACIN",
       "type": "Unknown"
@@ -44617,7 +44613,7 @@
       "type": "Cable/DSL/ISP"
     },
     "208753": {
-      "name": "Marco d'Angelo",
+      "name": "6Project Networks",
       "type": "Non-Profit"
     },
     "268281": {
@@ -79402,7 +79398,7 @@
     },
     "262312": {
       "name": "VEX TELECOM SERVIÇOS DE TELECOMUNICAÇÃO LTDA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "23457": {
       "name": "City of Brampton",
@@ -92712,10 +92708,6 @@
       "name": "Alpha Internet",
       "type": "Unknown"
     },
-    "213641": {
-      "name": "AS213641",
-      "type": "Content"
-    },
     "131611": {
       "name": "San Da Cable TV",
       "type": "Cable/DSL/ISP"
@@ -97117,7 +97109,7 @@
       "type": "Cable/DSL/ISP"
     },
     "153997": {
-      "name": "PROJECT ELIV",
+      "name": "PROJECT ELIV (Legacy)",
       "type": "Content"
     },
     "266702": {
@@ -100978,7 +100970,7 @@
     },
     "202445": {
       "name": "helpful sp. z o.o.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "268527": {
       "name": "FIBER FAST PROVEDOR DE INTERNET E SERVICOS LTDA",
@@ -102230,7 +102222,7 @@
     },
     "213975": {
       "name": "Computer Power",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "203778": {
       "name": "SPEED-NET Arkadiusz Broniecki",
@@ -103726,7 +103718,7 @@
     },
     "142581": {
       "name": "Mambulao Cable Television",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "270161": {
       "name": "Television Internacional, S.A. de C.V.",
@@ -103809,23 +103801,23 @@
       "type": "NSP"
     },
     "204048": {
-      "name": "VFT-AS",
+      "name": "Joint Stock Volga Shipping",
       "type": "Unknown"
     },
     "152840": {
-      "name": "IDNIC-BI-NET-AS-ID",
+      "name": "PT Bening Artha Lintas Data",
       "type": "Unknown"
     },
     "63477": {
-      "name": "CONIFER-EDGE",
+      "name": "Anrai Systems LLC",
       "type": "Educational/Research"
     },
     "1358": {
-      "name": "HNSNET-AS",
+      "name": "Hughes Network Systems, LLC",
       "type": "Unknown"
     },
     "274804": {
-      "name": "ASN274804",
+      "name": "WIGOLD LTDA",
       "type": "Cable/DSL/ISP"
     },
     "401640": {
@@ -103833,11 +103825,7 @@
       "type": "Unknown"
     },
     "154109": {
-      "name": "HOSTINGOXYGEN-AS-AP",
-      "type": "Unknown"
-    },
-    "395765": {
-      "name": "NP-ASN-1",
+      "name": "Hosting Oxygen, Hosting Oxygen",
       "type": "Unknown"
     },
     "215388": {
@@ -103845,7 +103833,7 @@
       "type": "Unknown"
     },
     "329705": {
-      "name": "ORG-SIS2-AFRINIC",
+      "name": "Simplicity Internet Solutions",
       "type": "Unknown"
     },
     "200878": {
@@ -103853,47 +103841,47 @@
       "type": "Unknown"
     },
     "201070": {
-      "name": "AS3VHOSTING",
+      "name": "Bondarenko Oksana Volodymyrivna",
       "type": "Unknown"
     },
     "329017": {
-      "name": "ORG-SRNS1-AFRINIC",
+      "name": "RAGA NET SARL",
       "type": "Unknown"
     },
     "269681": {
-      "name": "ASN269681",
+      "name": "BEAM TELECOM IMP EXP LTDA",
       "type": "Unknown"
     },
     "201164": {
-      "name": "Cool-Studio",
+      "name": "Cool Studio Limited",
       "type": "Unknown"
     },
     "270641": {
-      "name": "ASN270641",
+      "name": "YAS TELECOMUNICACOES EIRELI",
       "type": "Unknown"
     },
     "200913": {
-      "name": "ALLAY-STUDIOS-MNT",
+      "name": "Allay Studios LLC",
       "type": "Network Services"
     },
     "6343": {
-      "name": "OMEGASYS-DC1",
+      "name": "Omega Systems Consultants, LLC",
       "type": "Unknown"
     },
     "19572": {
-      "name": "OMEGASYS-HQ",
+      "name": "Omega Systems Consultants",
       "type": "Unknown"
     },
     "61272": {
-      "name": "IST-AS",
+      "name": "Informacines sistemos ir technologijos, UAB",
       "type": "Unknown"
     },
     "149595": {
-      "name": "PNPL2022-AS-IN",
+      "name": "Pacelink Network Private Limited",
       "type": "Cable/DSL/ISP"
     },
     "215584": {
-      "name": "IT-NS",
+      "name": "IT-NS LLC",
       "type": "Enterprise"
     },
     "8097": {
@@ -103901,7 +103889,7 @@
       "type": "Route Collector"
     },
     "141212": {
-      "name": "MYNET1-AS-AP",
+      "name": "MyNet Broadband (Pvt.) Ltd",
       "type": "Unknown"
     },
     "4969": {
@@ -103909,15 +103897,15 @@
       "type": "Route Server"
     },
     "200749": {
-      "name": "ITDATA-TELECOM",
+      "name": "ITDATA TELECOM SRL",
       "type": "Unknown"
     },
     "32245": {
-      "name": "BC-LIFELABS-CCB",
+      "name": "LifeLabs Medical Laboratory Services",
       "type": "Unknown"
     },
     "213496": {
-      "name": "Telic-Technologies",
+      "name": "TELIC TECHNOLOGIES SOLUCOES EM REDES E TI LTDA",
       "type": "Enterprise"
     },
     "200720": {
@@ -103929,16 +103917,56 @@
       "type": "Cable/DSL/ISP"
     },
     "4158": {
-      "name": "CITYUNI-AS-AP",
+      "name": "City University of Hong Kong",
       "type": "Unknown"
     },
     "141656": {
-      "name": "IDNIC-KAROKAB-AS-ID",
+      "name": "Pemerintah Daerah Kabupaten Karo",
       "type": "Government"
     },
     "200772": {
-      "name": "neburst",
+      "name": "Neburst Limited",
       "type": "Enterprise"
+    },
+    "137856": {
+      "name": "Thai Network Information Center Foundation",
+      "type": "Unknown"
+    },
+    "142238": {
+      "name": "PT Josu Global Teknologi",
+      "type": "Unknown"
+    },
+    "329685": {
+      "name": "MONIEPOINT MICROFINANCE BANK LIMITED",
+      "type": "Unknown"
+    },
+    "269244": {
+      "name": "DEAN MURILO GONCALVES OLIVEIRA - ME",
+      "type": "Unknown"
+    },
+    "43626": {
+      "name": "GEONET SOFT SRL",
+      "type": "Content"
+    },
+    "41627": {
+      "name": "ASPICKUPNET",
+      "type": "Unknown"
+    },
+    "200840": {
+      "name": "Chronara AI Ltd",
+      "type": "NSP"
+    },
+    "46082": {
+      "name": "Voltage Park",
+      "type": "Unknown"
+    },
+    "208997": {
+      "name": "ICN",
+      "type": "Unknown"
+    },
+    "400287": {
+      "name": "TEAMPHARR-ASN",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -109956,6 +109984,10 @@
       "name": "DIRECT INFO SERVICE",
       "type": "NSP"
     },
+    "201379": {
+      "name": "Christian Hofstede-Kuhn",
+      "type": "Non-Profit"
+    },
     "49697": {
       "name": "Joey-Network",
       "type": "Educational/Research"
@@ -111519,6 +111551,10 @@
     "34422": {
       "name": "LPG HC",
       "type": "Content"
+    },
+    "201950": {
+      "name": "Alexander Bork",
+      "type": "Educational/Research"
     },
     "266414": {
       "name": "EXPRESS NETWORK",
@@ -126149,7 +126185,7 @@
       "type": "Cable/DSL/ISP"
     },
     "211588": {
-      "name": "Xyphen IT",
+      "name": "Innovation Harbor B.V.",
       "type": "NSP"
     },
     "213052": {
@@ -127231,6 +127267,10 @@
     "61756": {
       "name": "NETPONTAL PROVEDOR DE INTERNET",
       "type": "Cable/DSL/ISP"
+    },
+    "210546": {
+      "name": "Miglovets Egor Andreevich",
+      "type": "Unknown"
     },
     "132430": {
       "name": "Adelaide Venue",
@@ -129431,6 +129471,10 @@
     "329099": {
       "name": "MANGONET INTEGRATED",
       "type": "Cable/DSL/ISP"
+    },
+    "135120": {
+      "name": "PROJECT ELIV",
+      "type": "Content"
     },
     "199439": {
       "name": "Dreamlink sp. z o.o.",
@@ -134112,6 +134156,10 @@
       "name": "Florent Duval",
       "type": "Educational/Research"
     },
+    "213641": {
+      "name": "AS213641",
+      "type": "Content"
+    },
     "135474": {
       "name": "PT. Hafiz Jaya Infotama",
       "type": "Cable/DSL/ISP"
@@ -136145,7 +136193,7 @@
       "type": "NSP"
     },
     "209373": {
-      "name": "SWISSNET-AS",
+      "name": "SWISSNET LLC",
       "type": "Network Services"
     },
     "5116": {
@@ -136155,6 +136203,10 @@
     "7079": {
       "name": "Open Pipes Chicago Route Servers",
       "type": "Route Server"
+    },
+    "395765": {
+      "name": "Nullpoint Inc.",
+      "type": "Unknown"
     },
     "200819": {
       "name": "Expanda",
