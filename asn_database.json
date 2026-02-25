@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-24T00:13:42.118Z",
+  "updated_at": "2026-02-25T00:14:56.319Z",
   "source": "PeeringDB",
-  "entry_count": 34053,
+  "entry_count": 34055,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -6202,7 +6202,7 @@
     },
     "50763": {
       "name": "MCKAYCOM",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "5606": {
       "name": "GTS Telecom",
@@ -7423,6 +7423,10 @@
     "51269": {
       "name": "Hexatom",
       "type": "NSP"
+    },
+    "56662": {
+      "name": "e-utp.net",
+      "type": "Non-Profit"
     },
     "32586": {
       "name": "NWIC",
@@ -11837,7 +11841,7 @@
       "type": "Cable/DSL/ISP"
     },
     "55293": {
-      "name": "A2 Hosting, Inc.",
+      "name": "hosting.com",
       "type": "Content"
     },
     "32421": {
@@ -19497,11 +19501,11 @@
       "type": "Unknown"
     },
     "49673": {
-      "name": "Truenetwork RU",
+      "name": "Truenetwork Infrastructure",
       "type": "NSP"
     },
     "57822": {
-      "name": "Truenetwork Russia End-users",
+      "name": "OTT Russia End-users",
       "type": "Unknown"
     },
     "59954": {
@@ -32836,10 +32840,6 @@
       "name": "Cirrostratus Networks",
       "type": "Cable/DSL/ISP"
     },
-    "136977": {
-      "name": "Buzz Telco",
-      "type": "Unknown"
-    },
     "62412": {
       "name": "Borecom",
       "type": "Unknown"
@@ -41544,6 +41544,10 @@
       "name": "LBN CO",
       "type": "Unknown"
     },
+    "201785": {
+      "name": "MegaIX DE Services",
+      "type": "Content"
+    },
     "210096": {
       "name": "Stem Connect",
       "type": "Cable/DSL/ISP"
@@ -45745,7 +45749,7 @@
       "type": "Unknown"
     },
     "136499": {
-      "name": "Tech Management Group",
+      "name": "Cloudland Limited AK01/SY01",
       "type": "Enterprise"
     },
     "26389": {
@@ -53101,7 +53105,7 @@
       "type": "NSP"
     },
     "266853": {
-      "name": "Comunicaciones Metropolitanas METROCOM",
+      "name": "METROCOM CR",
       "type": "Cable/DSL/ISP"
     },
     "207335": {
@@ -56578,7 +56582,7 @@
     },
     "328238": {
       "name": "INFOSET SARL",
-      "type": "Unknown"
+      "type": "Content"
     },
     "11946": {
       "name": "EchoWireless-Midwest",
@@ -57964,18 +57968,6 @@
       "name": "MARTON",
       "type": "Cable/DSL/ISP"
     },
-    "28785": {
-      "name": "Asseco Data Systems",
-      "type": "Enterprise"
-    },
-    "34530": {
-      "name": "Asseco Data Systems AS34530",
-      "type": "Enterprise"
-    },
-    "197265": {
-      "name": "Asseco Data Systems AS197265",
-      "type": "Unknown"
-    },
     "202126": {
       "name": "Macrosat",
       "type": "Unknown"
@@ -58727,10 +58719,6 @@
     "36363": {
       "name": "AISO.Net",
       "type": "Unknown"
-    },
-    "136918": {
-      "name": "James Ledger Network",
-      "type": "Educational/Research"
     },
     "140191": {
       "name": "Vande Mahamaya Cable Network",
@@ -61924,10 +61912,6 @@
       "name": "NEXT LEVEL INTERNET",
       "type": "Unknown"
     },
-    "142039": {
-      "name": "KiKi Network",
-      "type": "Unknown"
-    },
     "399628": {
       "name": "Internet Measurement Research",
       "type": "Unknown"
@@ -63390,10 +63374,6 @@
     },
     "399741": {
       "name": "BAE Networks",
-      "type": "Unknown"
-    },
-    "137520": {
-      "name": "OPTIX",
       "type": "Unknown"
     },
     "328888": {
@@ -65879,10 +65859,6 @@
     "269141": {
       "name": "B3 TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
-    },
-    "142632": {
-      "name": "Nasulex",
-      "type": "Content"
     },
     "400181": {
       "name": "Sigyn Systems",
@@ -78472,10 +78448,6 @@
       "name": "Air Force Systems Networking AS65",
       "type": "Unknown"
     },
-    "268109": {
-      "name": "PRO TELECOM SERVIÇOS DE COMUNICAÇÃO M. LTDA",
-      "type": "Unknown"
-    },
     "205732": {
       "name": "A.M.1 Srl",
       "type": "Unknown"
@@ -86662,10 +86634,6 @@
     },
     "140456": {
       "name": "PT Era Awan Digital",
-      "type": "Unknown"
-    },
-    "136399": {
-      "name": "Netstream Pty Ltd",
       "type": "Unknown"
     },
     "401065": {
@@ -97953,7 +97921,7 @@
       "type": "Cable/DSL/ISP"
     },
     "20914": {
-      "name": "CCC-RHEINTAL-AS",
+      "name": "CCC Rheintal",
       "type": "NSP"
     },
     "270418": {
@@ -98105,8 +98073,8 @@
       "type": "NSP"
     },
     "133976": {
-      "name": "UIPL-AS-IN",
-      "type": "Unknown"
+      "name": "Ubixe Infotech Private Limited",
+      "type": "Enterprise"
     },
     "214714": {
       "name": "SIGNALX CLOUD COMMUNICATIONS",
@@ -99689,7 +99657,7 @@
       "type": "NSP"
     },
     "205064": {
-      "name": "rockawayx",
+      "name": "rockawayx-uae",
       "type": "Unknown"
     },
     "41694": {
@@ -100274,7 +100242,7 @@
     },
     "329631": {
       "name": "YETOCOM",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "152874": {
       "name": "JONET",
@@ -103968,6 +103936,58 @@
       "name": "TEAMPHARR-ASN",
       "type": "Unknown"
     },
+    "209857": {
+      "name": "WGC-Systems",
+      "type": "Unknown"
+    },
+    "152893": {
+      "name": "FIBOSSPTYLTD-AS-AP",
+      "type": "Unknown"
+    },
+    "5651": {
+      "name": "GMLL-AS",
+      "type": "Unknown"
+    },
+    "54197": {
+      "name": "TGS4",
+      "type": "Unknown"
+    },
+    "142205": {
+      "name": "NETOZPTYLTD-AS-AP",
+      "type": "Unknown"
+    },
+    "139649": {
+      "name": "DIGITIZEPTYLTD-AS-AP",
+      "type": "Unknown"
+    },
+    "142264": {
+      "name": "IDNIC-SKYBASE-ID",
+      "type": "Unknown"
+    },
+    "151805": {
+      "name": "XIAOFEIXU-AS-AP",
+      "type": "Educational/Research"
+    },
+    "152542": {
+      "name": "MEGAPRIM-AS-IN",
+      "type": "Unknown"
+    },
+    "214769": {
+      "name": "NetworkSupport",
+      "type": "Unknown"
+    },
+    "393483": {
+      "name": "YEO-YEO",
+      "type": "Unknown"
+    },
+    "209057": {
+      "name": "LICENNETWORK-AS",
+      "type": "Educational/Research"
+    },
+    "152900": {
+      "name": "ONIDEL-AS-AP",
+      "type": "Unknown"
+    },
     "22822": {
       "name": "Edgio - AS22822",
       "type": "Content"
@@ -105336,10 +105356,6 @@
       "name": "JSC TimeWeb",
       "type": "NSP"
     },
-    "56662": {
-      "name": "e-utp.net",
-      "type": "Non-Profit"
-    },
     "50304": {
       "name": "Blix Solutions AS",
       "type": "NSP"
@@ -105418,7 +105434,7 @@
     },
     "30998": {
       "name": "Netcom Africa",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "20853": {
       "name": "ETOP Sp z o.o.",
@@ -113286,7 +113302,7 @@
     },
     "266603": {
       "name": "NEXT FIBRA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "267443": {
       "name": "SPECTRUMNET TECNOLOGIA INTEGRADA",
@@ -115751,10 +115767,6 @@
     "37130": {
       "name": "SITA Network",
       "type": "Unknown"
-    },
-    "201785": {
-      "name": "MegaIX DE Services",
-      "type": "Content"
     },
     "262504": {
       "name": "Brasil TecPar (Nova Rede)",
@@ -122808,10 +122820,6 @@
       "name": "H&R Block",
       "type": "Enterprise"
     },
-    "141702": {
-      "name": "Pyramids Internet Exchange",
-      "type": "Route Server"
-    },
     "56588": {
       "name": "CERT-EE",
       "type": "Unknown"
@@ -127267,10 +127275,6 @@
     "61756": {
       "name": "NETPONTAL PROVEDOR DE INTERNET",
       "type": "Cable/DSL/ISP"
-    },
-    "210546": {
-      "name": "Miglovets Egor Andreevich",
-      "type": "Unknown"
     },
     "132430": {
       "name": "Adelaide Venue",
@@ -134817,7 +134821,7 @@
       "type": "Network Services"
     },
     "216198": {
-      "name": "Aoter Networks",
+      "name": "LIN ZE YANG",
       "type": "Educational/Research"
     },
     "153822": {
@@ -136181,7 +136185,7 @@
       "type": "Cable/DSL/ISP"
     },
     "5096": {
-      "name": "Lightboard ★ AS5069",
+      "name": "Lightboard Services ★ AS5069",
       "type": "Network Services"
     },
     "268036": {
@@ -136205,7 +136209,7 @@
       "type": "Route Server"
     },
     "395765": {
-      "name": "Nullpoint Inc.",
+      "name": "Nullpoint Inc. AS395765",
       "type": "Unknown"
     },
     "200819": {
@@ -136214,6 +136218,10 @@
     },
     "200790": {
       "name": "ByteFizz",
+      "type": "Network Services"
+    },
+    "213529": {
+      "name": "SCULK-AS",
       "type": "Network Services"
     }
   }
