@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-02-25T00:14:56.319Z",
+  "updated_at": "2026-02-26T00:11:59.213Z",
   "source": "PeeringDB",
-  "entry_count": 34055,
+  "entry_count": 34056,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -103988,6 +103988,10 @@
       "name": "ONIDEL-AS-AP",
       "type": "Unknown"
     },
+    "141945": {
+      "name": "IDNIC-HYDRA-AS-ID",
+      "type": "Unknown"
+    },
     "22822": {
       "name": "Edgio - AS22822",
       "type": "Content"
@@ -135137,7 +135141,7 @@
       "type": "Educational/Research"
     },
     "215652": {
-      "name": "JB-PL-ROUTE",
+      "name": "Jakub Artur Bald",
       "type": "Enterprise"
     },
     "214271": {
