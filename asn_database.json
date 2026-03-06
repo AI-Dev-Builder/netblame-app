@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-05T00:13:10.353Z",
+  "updated_at": "2026-03-06T00:17:45.712Z",
   "source": "PeeringDB",
-  "entry_count": 34108,
+  "entry_count": 34117,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -37270,7 +37270,7 @@
     },
     "137936": {
       "name": "RDTECH",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "137295": {
       "name": "JKT-IX Route Servers",
@@ -44666,10 +44666,6 @@
     },
     "269037": {
       "name": "L2M TELECOMUNICAÇÕES EIRELI",
-      "type": "Cable/DSL/ISP"
-    },
-    "268297": {
-      "name": "SPEED SOLUÇÕES WIRELESS E INFORMÁTICA LTDA ME",
       "type": "Cable/DSL/ISP"
     },
     "268633": {
@@ -57648,10 +57644,6 @@
       "name": "Xpedite",
       "type": "Cable/DSL/ISP"
     },
-    "25500": {
-      "name": "Igor Sikorsky Kyiv Polytechnic Institute",
-      "type": "Educational/Research"
-    },
     "140954": {
       "name": "CENTURY LINK NETWORK",
       "type": "Unknown"
@@ -61907,10 +61899,6 @@
     "43099": {
       "name": "Curie Point AB",
       "type": "Educational/Research"
-    },
-    "139426": {
-      "name": "Rinjani Citra Solusi",
-      "type": "Unknown"
     },
     "59942": {
       "name": "Omega TV",
@@ -98580,10 +98568,6 @@
       "name": "movity-AS",
       "type": "Unknown"
     },
-    "153729": {
-      "name": "PT Tekno Indo Jaya",
-      "type": "Unknown"
-    },
     "154020": {
       "name": "SAM MOUK MO",
       "type": "NSP"
@@ -99196,10 +99180,6 @@
       "name": "LCH Holdings LLC",
       "type": "Unknown"
     },
-    "215017": {
-      "name": "MYDILATELECOM",
-      "type": "Unknown"
-    },
     "152626": {
       "name": "Cloudbase Network",
       "type": "Cable/DSL/ISP"
@@ -99491,6 +99471,10 @@
     "150967": {
       "name": "Buana Menara Indonesia - BUANANET",
       "type": "Cable/DSL/ISP"
+    },
+    "215760": {
+      "name": "DISPAISY-AS",
+      "type": "Educational/Research"
     },
     "210008": {
       "name": "Webbing_LTD",
@@ -100694,7 +100678,7 @@
     },
     "398244": {
       "name": "EchoNet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "139187": {
       "name": "TWOTENNET",
@@ -103280,10 +103264,6 @@
       "name": "Kratos Defense & Security Solutions, Inc.",
       "type": "Unknown"
     },
-    "51219": {
-      "name": "K2 Integration JSC",
-      "type": "Unknown"
-    },
     "154486": {
       "name": "lessismore",
       "type": "Non-Profit"
@@ -104058,7 +104038,7 @@
     },
     "275664": {
       "name": "ASN275664",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "39043": {
       "name": "ICENTER-AS",
@@ -104077,11 +104057,47 @@
       "type": "Unknown"
     },
     "200378": {
-      "name": "KITSUNET",
+      "name": "Aria Wegrzyn",
       "type": "Unknown"
     },
     "133624": {
-      "name": "EVOLUTIONSYSTEMS-AS-AP",
+      "name": "EVOLUTION SYSTEMS PTY LIMITED",
+      "type": "Unknown"
+    },
+    "200386": {
+      "name": "Igor Iamolov",
+      "type": "Unknown"
+    },
+    "200398": {
+      "name": "Adelia",
+      "type": "Unknown"
+    },
+    "39307": {
+      "name": "OLLCOM",
+      "type": "Unknown"
+    },
+    "17826": {
+      "name": "SATATANET-ID",
+      "type": "Network Services"
+    },
+    "329709": {
+      "name": "MetroReach Limited",
+      "type": "Unknown"
+    },
+    "200332": {
+      "name": "FOLFY-ASN",
+      "type": "Unknown"
+    },
+    "142544": {
+      "name": "PT Data net Support",
+      "type": "Cable/DSL/ISP"
+    },
+    "205489": {
+      "name": "CODEASSET",
+      "type": "Content"
+    },
+    "272894": {
+      "name": "272894",
       "type": "Unknown"
     },
     "22822": {
@@ -117180,6 +117196,10 @@
       "name": "PT. SaranaInsan MudaSelaras",
       "type": "Cable/DSL/ISP"
     },
+    "268297": {
+      "name": "SPEED SOLUÇÕES WIRELESS E INFORMÁTICA LTDA ME",
+      "type": "Cable/DSL/ISP"
+    },
     "269053": {
       "name": "FRANCISCO FABIO FERNANDES DAVID",
       "type": "Cable/DSL/ISP"
@@ -122292,6 +122312,10 @@
       "name": "Leko Internet Individual",
       "type": "Unknown"
     },
+    "25500": {
+      "name": "Igor Sikorsky Kyiv Polytechnic Institute",
+      "type": "Educational/Research"
+    },
     "203417": {
       "name": "LHPL",
       "type": "Content"
@@ -124007,6 +124031,10 @@
     "47753": {
       "name": "ONIT AS",
       "type": "Cable/DSL/ISP"
+    },
+    "139426": {
+      "name": "Rinjani Citra Solusi",
+      "type": "Unknown"
     },
     "328482": {
       "name": "SKY TREND NETWORKS",
@@ -135480,6 +135508,10 @@
       "name": "ZELLATECH",
       "type": "NSP"
     },
+    "153729": {
+      "name": "PT Tekno Indo Jaya",
+      "type": "Cable/DSL/ISP"
+    },
     "8143": {
       "name": "Neburst Networks",
       "type": "Enterprise"
@@ -135604,6 +135636,10 @@
       "name": "IDNIC-ERATELINDO-AS-ID",
       "type": "Cable/DSL/ISP"
     },
+    "215017": {
+      "name": "MYDILATELECOM",
+      "type": "Unknown"
+    },
     "212316": {
       "name": "Melmasti Global (Gibraltar) Limited",
       "type": "Unknown"
@@ -135635,10 +135671,6 @@
     "402005": {
       "name": "CORELOCATED GLOBAL",
       "type": "NSP"
-    },
-    "215760": {
-      "name": "DISPAISY-AS",
-      "type": "Educational/Research"
     },
     "154174": {
       "name": "AMITYGGN-IN",
@@ -136299,6 +136331,10 @@
     "201371": {
       "name": "Lars Peter Werner Erhardt",
       "type": "Network Services"
+    },
+    "51219": {
+      "name": "K2 Cloud",
+      "type": "Enterprise"
     },
     "142201": {
       "name": "PT Axindo Infinitas Network",
