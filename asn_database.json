@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-06T00:17:45.712Z",
+  "updated_at": "2026-03-07T00:12:06.590Z",
   "source": "PeeringDB",
-  "entry_count": 34117,
+  "entry_count": 34136,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -19620,6 +19620,10 @@
       "name": "Beck's Superior Hybrids",
       "type": "Enterprise"
     },
+    "200623": {
+      "name": "NetBlazer Ltd",
+      "type": "Enterprise"
+    },
     "45382": {
       "name": "EhostICT",
       "type": "Unknown"
@@ -31974,6 +31978,10 @@
     },
     "206291": {
       "name": "Klixa",
+      "type": "NSP"
+    },
+    "40217": {
+      "name": "DACS-NX",
       "type": "NSP"
     },
     "5401": {
@@ -46281,7 +46289,7 @@
       "type": "Cable/DSL/ISP"
     },
     "269245": {
-      "name": "Cabo Fibra Telecom",
+      "name": "Maralink Fibra",
       "type": "Cable/DSL/ISP"
     },
     "16616": {
@@ -51476,6 +51484,10 @@
       "name": "Deloitte DE",
       "type": "Enterprise"
     },
+    "6515": {
+      "name": "DACS-IX East Route Servers",
+      "type": "Route Server"
+    },
     "22006": {
       "name": "Pulk & Co.",
       "type": "Unknown"
@@ -51527,6 +51539,10 @@
     "25176": {
       "name": "AC-Net Externservice",
       "type": "Unknown"
+    },
+    "29785": {
+      "name": "DACS-IX Central Route Servers",
+      "type": "Route Server"
     },
     "269898": {
       "name": "Speedmax Telecom",
@@ -54027,6 +54043,14 @@
     "264759": {
       "name": "PERGAMINO CELP INFRACOM S.A.",
       "type": "Cable/DSL/ISP"
+    },
+    "398454": {
+      "name": "DACS-IX West Route Servers",
+      "type": "Route Server"
+    },
+    "40592": {
+      "name": "DACS Cloud #23775",
+      "type": "Enterprise"
     },
     "269220": {
       "name": "Vamos Internet Telecom",
@@ -69852,10 +69876,6 @@
       "name": "Orange Business Services - Galerie",
       "type": "NSP"
     },
-    "266599": {
-      "name": "VARJAONET",
-      "type": "Cable/DSL/ISP"
-    },
     "272697": {
       "name": "B Host Brasil Internet LTDA",
       "type": "Content"
@@ -77870,7 +77890,7 @@
     },
     "150221": {
       "name": "Smartlink Multimedia Network",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "262513": {
       "name": "SERMA ASSOC DOS USUARIOS DE QUIP DE PROCESS DE DAD",
@@ -78466,7 +78486,7 @@
     },
     "28435": {
       "name": "JAVIER TAMAYO GARCIA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "272558": {
       "name": "PowerNet Soluções Integradas em Telecomunicações",
@@ -80495,10 +80515,6 @@
     "211207": {
       "name": "Lewin Steiner",
       "type": "Unknown"
-    },
-    "57328": {
-      "name": "DD-IX Route Servers",
-      "type": "Route Server"
     },
     "197768": {
       "name": "SIBSTRIN",
@@ -85297,7 +85313,7 @@
       "type": "Unknown"
     },
     "215470": {
-      "name": "Lazco Corporation",
+      "name": "Lazco (UK)",
       "type": "NSP"
     },
     "263109": {
@@ -87626,7 +87642,7 @@
     },
     "3855": {
       "name": "LOGIC-3855",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "273157": {
       "name": "CORPORACIÓN DE COMUNICACIONES Y TELEFONÍA TURÍSTICA JUANILLO, S.A.",
@@ -92941,7 +92957,7 @@
       "type": "Unknown"
     },
     "213571": {
-      "name": "Codebotz",
+      "name": "David Zelder",
       "type": "Unknown"
     },
     "21406": {
@@ -94353,7 +94369,7 @@
       "type": "Unknown"
     },
     "213922": {
-      "name": "NXA",
+      "name": "Volta",
       "type": "Content"
     },
     "20285": {
@@ -99332,10 +99348,6 @@
       "name": "ISS S.R.L.S.",
       "type": "NSP"
     },
-    "198020": {
-      "name": "Verda Cloud",
-      "type": "Unknown"
-    },
     "202956": {
       "name": "CAM IT Solutions BV",
       "type": "Unknown"
@@ -99998,7 +100010,7 @@
     },
     "273145": {
       "name": "GRUPO SERVINET S.A.S.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "153257": {
       "name": "ARCLOUD-AS-IN",
@@ -100322,7 +100334,7 @@
     },
     "208449": {
       "name": "beecloudynet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "398859": {
       "name": "KOMOPLAY",
@@ -103205,7 +103217,7 @@
       "type": "Network Services"
     },
     "201539": {
-      "name": "ENC NUSANTARA",
+      "name": "PT EGIDITYA NETWORK CENTER",
       "type": "Cable/DSL/ISP"
     },
     "201726": {
@@ -103932,10 +103944,6 @@
       "name": "CSD-KGP-PL-AS",
       "type": "Unknown"
     },
-    "154181": {
-      "name": "ROYAL-IN",
-      "type": "Unknown"
-    },
     "200658": {
       "name": "CoreCloud",
       "type": "Unknown"
@@ -104070,7 +104078,7 @@
     },
     "200398": {
       "name": "Adelia",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "39307": {
       "name": "OLLCOM",
@@ -104098,6 +104106,58 @@
     },
     "272894": {
       "name": "272894",
+      "type": "Unknown"
+    },
+    "46780": {
+      "name": "SJUCSB-AS",
+      "type": "Unknown"
+    },
+    "402230": {
+      "name": "Strato Labs Inc",
+      "type": "Unknown"
+    },
+    "274398": {
+      "name": "ANY DIGITAL MEXICO, S. de R.L. de C.V.",
+      "type": "Unknown"
+    },
+    "141579": {
+      "name": "PT Pundi Mas Berjaya",
+      "type": "Unknown"
+    },
+    "209734": {
+      "name": "STARFALL",
+      "type": "Unknown"
+    },
+    "210436": {
+      "name": "IT Globe s.r.o.",
+      "type": "Unknown"
+    },
+    "206069": {
+      "name": "Cornseed Limited",
+      "type": "Unknown"
+    },
+    "197214": {
+      "name": "Electrostroy Ltd.",
+      "type": "NSP"
+    },
+    "39599": {
+      "name": "TALEX-AS",
+      "type": "Unknown"
+    },
+    "135667": {
+      "name": "IRINN-SGTNPLIN-AS-IN",
+      "type": "Cable/DSL/ISP"
+    },
+    "11135": {
+      "name": "CROSS-DEVELOPMENT-MONTGOMERY",
+      "type": "Unknown"
+    },
+    "200279": {
+      "name": "DOUWES-NET",
+      "type": "Unknown"
+    },
+    "396250": {
+      "name": "CATAWBA-ASN",
       "type": "Unknown"
     },
     "22822": {
@@ -105101,8 +105161,8 @@
       "type": "Cable/DSL/ISP"
     },
     "19148": {
-      "name": "LeaseWeb USA #2832",
-      "type": "Unknown"
+      "name": "LEASEWEB USA / PHX 01",
+      "type": "Content"
     },
     "39626": {
       "name": "SMILE-IXP Route Servers",
@@ -108386,10 +108446,6 @@
     },
     "395033": {
       "name": "fiberdrop",
-      "type": "Unknown"
-    },
-    "200623": {
-      "name": "NetBlazer Ltd",
       "type": "Unknown"
     },
     "52838": {
@@ -115909,7 +115965,7 @@
       "type": "Content"
     },
     "268563": {
-      "name": "LIGNET SERVICOS DE COMUNICACAO MULTIMIDIA",
+      "name": "LINKPLANET SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
       "type": "Cable/DSL/ISP"
     },
     "19523": {
@@ -120641,7 +120697,7 @@
       "type": "NSP"
     },
     "131630": {
-      "name": "Lazco",
+      "name": "Lazco (TW)",
       "type": "NSP"
     },
     "263096": {
@@ -127248,6 +127304,10 @@
       "name": "Emery Telcom",
       "type": "Cable/DSL/ISP"
     },
+    "266599": {
+      "name": "CR TECHNOLOGIE",
+      "type": "Cable/DSL/ISP"
+    },
     "262909": {
       "name": "JK TELECOMUNICACOES",
       "type": "Unknown"
@@ -130739,6 +130799,10 @@
     "151653": {
       "name": "General Telephone System",
       "type": "Cable/DSL/ISP"
+    },
+    "57328": {
+      "name": "DD-IX Route Servers",
+      "type": "Route Server"
     },
     "58349": {
       "name": "INNETRA",
@@ -135656,6 +135720,10 @@
       "name": "Activline",
       "type": "Cable/DSL/ISP"
     },
+    "198020": {
+      "name": "Verda Cloud",
+      "type": "Unknown"
+    },
     "149940": {
       "name": "AS149940_PREFIXES",
       "type": "Cable/DSL/ISP"
@@ -136305,8 +136373,8 @@
       "type": "Unknown"
     },
     "201541": {
-      "name": "Nedas Dozorec",
-      "type": "Educational/Research"
+      "name": "SKYFOREST-AS",
+      "type": "Non-Profit"
     },
     "11150": {
       "name": "American IX ★ SPFDMA Route Servers",
@@ -136464,12 +136532,20 @@
       "name": "Sculk Ltd",
       "type": "Network Services"
     },
+    "154181": {
+      "name": "ROYAL-IN",
+      "type": "Cable/DSL/ISP"
+    },
     "154503": {
       "name": "TrimafaNet",
       "type": "NSP"
     },
     "215981": {
       "name": "X-Fibre",
+      "type": "Cable/DSL/ISP"
+    },
+    "149901": {
+      "name": "IDNIC-SUPERLINK-AS-ID",
       "type": "Cable/DSL/ISP"
     }
   }
