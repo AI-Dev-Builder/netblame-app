@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-07T00:12:06.590Z",
+  "updated_at": "2026-03-08T00:12:13.004Z",
   "source": "PeeringDB",
-  "entry_count": 34136,
+  "entry_count": 34139,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -72714,7 +72714,7 @@
     },
     "202732": {
       "name": "Monogon",
-      "type": "Unknown"
+      "type": "Content"
     },
     "29010": {
       "name": "asknet Solutions",
@@ -91144,10 +91144,6 @@
       "name": "LOG INFORMATICA LTDA",
       "type": "Cable/DSL/ISP"
     },
-    "213948": {
-      "name": "Vincent LOPEZ",
-      "type": "Non-Profit"
-    },
     "2004": {
       "name": "TNO",
       "type": "Unknown"
@@ -92954,10 +92950,6 @@
     },
     "134228": {
       "name": "AXNONLINE-AS-AP",
-      "type": "Unknown"
-    },
-    "213571": {
-      "name": "David Zelder",
       "type": "Unknown"
     },
     "21406": {
@@ -100748,10 +100740,6 @@
       "name": "MITIGATED NETWORK",
       "type": "Unknown"
     },
-    "63356": {
-      "name": "Tinuum Networks",
-      "type": "Cable/DSL/ISP"
-    },
     "154261": {
       "name": "Walastik Internet",
       "type": "Cable/DSL/ISP"
@@ -102518,7 +102506,7 @@
     },
     "202335": {
       "name": "Haima Network",
-      "type": "Educational/Research"
+      "type": "NSP"
     },
     "7468": {
       "name": "Superhub Ltd., Cyber Express Communication Ltd.",
@@ -103842,7 +103830,7 @@
     },
     "152900": {
       "name": "Onidel Pty Ltd",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "141945": {
       "name": "PT Hydra Media Indonesia",
@@ -104072,10 +104060,6 @@
       "name": "EVOLUTION SYSTEMS PTY LIMITED",
       "type": "Unknown"
     },
-    "200386": {
-      "name": "Igor Iamolov",
-      "type": "Unknown"
-    },
     "200398": {
       "name": "Adelia",
       "type": "Enterprise"
@@ -104097,7 +104081,7 @@
       "type": "Unknown"
     },
     "142544": {
-      "name": "PT Data net Support",
+      "name": "PT DataNet Support",
       "type": "Cable/DSL/ISP"
     },
     "205489": {
@@ -104158,6 +104142,14 @@
     },
     "396250": {
       "name": "CATAWBA-ASN",
+      "type": "Unknown"
+    },
+    "402256": {
+      "name": "SEAN-LAB-01",
+      "type": "Unknown"
+    },
+    "274191": {
+      "name": "274191",
       "type": "Unknown"
     },
     "22822": {
@@ -134116,6 +134108,10 @@
       "name": "Elcro Digital Group",
       "type": "Content"
     },
+    "213948": {
+      "name": "Vincent LOPEZ",
+      "type": "Non-Profit"
+    },
     "152063": {
       "name": "ILIX",
       "type": "Route Server"
@@ -134472,6 +134468,10 @@
       "name": "COLOCATAIRES",
       "type": "Content"
     },
+    "213571": {
+      "name": "David Zelder",
+      "type": "Unknown"
+    },
     "61159": {
       "name": "GIGANET-C",
       "type": "Network Services"
@@ -134525,7 +134525,7 @@
       "type": "Cable/DSL/ISP"
     },
     "214079": {
-      "name": "LENDNODES",
+      "name": "LendNodes",
       "type": "Content"
     },
     "135659": {
@@ -135988,6 +135988,10 @@
       "name": "RackByte LLC",
       "type": "Content"
     },
+    "63356": {
+      "name": "Tinuum Networks",
+      "type": "Cable/DSL/ISP"
+    },
     "154335": {
       "name": "NAYSWAN NETWORK AND DATA SOLUTION",
       "type": "Cable/DSL/ISP"
@@ -136544,8 +136548,16 @@
       "name": "X-Fibre",
       "type": "Cable/DSL/ISP"
     },
+    "200386": {
+      "name": "Igor Iamolov",
+      "type": "Educational/Research"
+    },
     "149901": {
       "name": "IDNIC-SUPERLINK-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "267972": {
+      "name": "ASN267972",
       "type": "Cable/DSL/ISP"
     }
   }
