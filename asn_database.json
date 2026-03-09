@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-08T00:12:13.004Z",
+  "updated_at": "2026-03-09T00:12:07.073Z",
   "source": "PeeringDB",
-  "entry_count": 34139,
+  "entry_count": 34145,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -37030,7 +37030,7 @@
     },
     "48065": {
       "name": "Syriatel Mobile Telecom",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "48067": {
       "name": "Distinct New Media",
@@ -86641,7 +86641,7 @@
       "type": "Unknown"
     },
     "401082": {
-      "name": "SPICYTRADE LLC",
+      "name": "TITANIA R+D",
       "type": "Unknown"
     },
     "204860": {
@@ -103841,11 +103841,11 @@
       "type": "Cable/DSL/ISP"
     },
     "136717": {
-      "name": "Megasoft-AS",
+      "name": "Megasoft Computer Sales And Services",
       "type": "Unknown"
     },
     "142230": {
-      "name": "IDNIC-BAHARINET-AS-ID",
+      "name": "PT Bahari Nusantara Network",
       "type": "NSP"
     },
     "213848": {
@@ -103869,11 +103869,11 @@
       "type": "Unknown"
     },
     "213876": {
-      "name": "LangYa-SG-AS",
+      "name": "Qiyuan Chen",
       "type": "Cable/DSL/ISP"
     },
     "154443": {
-      "name": "KISC-AS-AP",
+      "name": "Kmhars IT Solutions Corporation, Kmhars IT Solutions Corporation",
       "type": "Unknown"
     },
     "213661": {
@@ -103897,7 +103897,7 @@
       "type": "Unknown"
     },
     "52390": {
-      "name": "52390",
+      "name": "Administradora de Redes, S.A.",
       "type": "Unknown"
     },
     "400848": {
@@ -103905,7 +103905,7 @@
       "type": "Content"
     },
     "203991": {
-      "name": "AS20473",
+      "name": "Hainan Jinzhao Biotechnology Co. Ltd.",
       "type": "Educational/Research"
     },
     "154523": {
@@ -103917,7 +103917,7 @@
       "type": "Unknown"
     },
     "274024": {
-      "name": "274024",
+      "name": "COOPERATIVA DE SERVICIOS DE TELECOMUNICACIONES Y TECNOLOGÍA LIMITADA",
       "type": "Unknown"
     },
     "402238": {
@@ -103929,7 +103929,7 @@
       "type": "Unknown"
     },
     "198704": {
-      "name": "CSD-KGP-PL-AS",
+      "name": "Komenda Glowna Policji, Biuro Lacznosci i Informatyki",
       "type": "Unknown"
     },
     "200658": {
@@ -103937,7 +103937,7 @@
       "type": "Unknown"
     },
     "201487": {
-      "name": "nsmnet",
+      "name": "Nathan Morgan",
       "type": "Unknown"
     },
     "204261": {
@@ -103945,7 +103945,7 @@
       "type": "Unknown"
     },
     "402226": {
-      "name": "ONLYSCANS",
+      "name": "OnlyScans LLC",
       "type": "Unknown"
     },
     "154458": {
@@ -103953,19 +103953,19 @@
       "type": "Unknown"
     },
     "152301": {
-      "name": "DPDCCL-AS-AP",
+      "name": "DAUN PENH DATA CENTER CO., LTD., DAUN PENH DATA CENTER CO., LTD.",
       "type": "Unknown"
     },
     "139630": {
-      "name": "TSI-AS-AP",
+      "name": "Telectronic Systems Inc., Telectronic Systems Inc.",
       "type": "Unknown"
     },
     "151691": {
-      "name": "AMITEL-AS-IN",
+      "name": "AMITEL INDIA PRIVATE LIMITED",
       "type": "Unknown"
     },
     "200464": {
-      "name": "PAULO-AS",
+      "name": "PAULO HENRIQUE SILVA DE OLIVEIRA",
       "type": "Unknown"
     },
     "215464": {
@@ -103973,7 +103973,7 @@
       "type": "Unknown"
     },
     "264599": {
-      "name": "ASN264599",
+      "name": "SYNCONTEL TELECOMUNICAÇÕES LTDA",
       "type": "Unknown"
     },
     "402247": {
@@ -103985,7 +103985,7 @@
       "type": "Unknown"
     },
     "151578": {
-      "name": "IDNIC-DISKOMINFOTIKMERANTI-AS-ID",
+      "name": "Dinas Komunikasi Informatika Statistik dan Persandian Kabupaten Kepulauan Meranti",
       "type": "Unknown"
     },
     "201667": {
@@ -103993,11 +103993,11 @@
       "type": "Unknown"
     },
     "135338": {
-      "name": "STARCLOUD-AS-AP",
+      "name": "STARCLOUD INFORMATION LIMITED, STARCLOUD INFORMATION LIMITED",
       "type": "Unknown"
     },
     "272446": {
-      "name": "ASN272446",
+      "name": "Dinasoft Design Grafico e Sistema de Informática L",
       "type": "Unknown"
     },
     "44521": {
@@ -104005,7 +104005,7 @@
       "type": "Unknown"
     },
     "200426": {
-      "name": "SEBASTIAN-M",
+      "name": "Sebastian Marines Alvarez",
       "type": "Unknown"
     },
     "54785": {
@@ -104021,11 +104021,11 @@
       "type": "Content"
     },
     "401711": {
-      "name": "BRYANLABS-US",
+      "name": "Bryanlabs, LLC",
       "type": "Unknown"
     },
     "147236": {
-      "name": "SSICON-AS-IN",
+      "name": "SSICON SYSTEMS PRIVATE LIMITED",
       "type": "Unknown"
     },
     "199696": {
@@ -104033,19 +104033,19 @@
       "type": "Unknown"
     },
     "275664": {
-      "name": "ASN275664",
+      "name": "EDUARDO BEZERRA DA SILVA SERVIÇOS DE INFORMATICA",
       "type": "Cable/DSL/ISP"
     },
     "39043": {
-      "name": "ICENTER-AS",
+      "name": "PP Info-Center",
       "type": "Unknown"
     },
     "274006": {
-      "name": "274006",
+      "name": "DATA TRUST, SOCIEDAD ANONIMA DE CAPITAL VARIABLE",
       "type": "Unknown"
     },
     "1048": {
-      "name": "MERLIN-02",
+      "name": "MERLIN",
       "type": "Educational/Research"
     },
     "21390": {
@@ -104065,11 +104065,11 @@
       "type": "Enterprise"
     },
     "39307": {
-      "name": "OLLCOM",
+      "name": "Yankovich Yaroslav Yosifovych",
       "type": "Unknown"
     },
     "17826": {
-      "name": "SATATANET-ID",
+      "name": "SATNET India",
       "type": "Network Services"
     },
     "329709": {
@@ -104077,8 +104077,8 @@
       "type": "Unknown"
     },
     "200332": {
-      "name": "FOLFY-ASN",
-      "type": "Unknown"
+      "name": "Nolan Trapp",
+      "type": "Educational/Research"
     },
     "142544": {
       "name": "PT DataNet Support",
@@ -104089,11 +104089,11 @@
       "type": "Content"
     },
     "272894": {
-      "name": "272894",
+      "name": "MISTICOM FIBRA OPTICA S.A.C.",
       "type": "Unknown"
     },
     "46780": {
-      "name": "SJUCSB-AS",
+      "name": "Saint John's University - College of Saint Benedict",
       "type": "Unknown"
     },
     "402230": {
@@ -104109,7 +104109,7 @@
       "type": "Unknown"
     },
     "209734": {
-      "name": "STARFALL",
+      "name": "STARFALL DISTRIBUTION LTD",
       "type": "Unknown"
     },
     "210436": {
@@ -104125,19 +104125,19 @@
       "type": "NSP"
     },
     "39599": {
-      "name": "TALEX-AS",
+      "name": "Talex S.A., ul. Karpia 27d",
       "type": "Unknown"
     },
     "135667": {
-      "name": "IRINN-SGTNPLIN-AS-IN",
+      "name": "SPEEDGLOBAL TELECOM NETWORK PVT LTD",
       "type": "Cable/DSL/ISP"
     },
     "11135": {
-      "name": "CROSS-DEVELOPMENT-MONTGOMERY",
+      "name": "Cross Development/Montgomery LP",
       "type": "Unknown"
     },
     "200279": {
-      "name": "DOUWES-NET",
+      "name": "Thomas Douwes",
       "type": "Unknown"
     },
     "396250": {
@@ -104145,11 +104145,23 @@
       "type": "Unknown"
     },
     "402256": {
-      "name": "SEAN-LAB-01",
+      "name": "Sean Johns, Sole Proprietorship",
       "type": "Unknown"
     },
     "274191": {
-      "name": "274191",
+      "name": "CUSATO VICENTE EZEQUIEL (TELERED VGG)",
+      "type": "Unknown"
+    },
+    "154531": {
+      "name": "Bright People Network and Power Solutions Inc, Bright People Network and Power Solutions Inc",
+      "type": "Unknown"
+    },
+    "214034": {
+      "name": "kirielabs",
+      "type": "Unknown"
+    },
+    "13847": {
+      "name": "Luna Networks",
       "type": "Unknown"
     },
     "22822": {
@@ -122488,6 +122500,10 @@
       "name": "ZODIAK",
       "type": "Cable/DSL/ISP"
     },
+    "28785": {
+      "name": "Asseco Cloud Sp. z o. o. AS28785",
+      "type": "Unknown"
+    },
     "34530": {
       "name": "Asseco Cloud Sp. z o. o.",
       "type": "Unknown"
@@ -124662,6 +124678,10 @@
     },
     "206276": {
       "name": "Citelia",
+      "type": "Unknown"
+    },
+    "211209": {
+      "name": "AIRBYTES COMMUNICATIONS S.R.L.",
       "type": "Unknown"
     },
     "328855": {
@@ -127508,6 +127528,10 @@
       "name": "NETPONTAL PROVEDOR DE INTERNET",
       "type": "Cable/DSL/ISP"
     },
+    "210546": {
+      "name": "CHSL ONE LTD",
+      "type": "Unknown"
+    },
     "132430": {
       "name": "Adelaide Venue",
       "type": "Enterprise"
@@ -128169,7 +128193,7 @@
       "type": "Enterprise"
     },
     "150191": {
-      "name": "Sarana Intimedia Telematika",
+      "name": "INTIMEDIA",
       "type": "NSP"
     },
     "149670": {
@@ -136537,7 +136561,7 @@
       "type": "Network Services"
     },
     "154181": {
-      "name": "ROYAL-IN",
+      "name": "ROYAL INTERNET ACCESS PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
     },
     "154503": {
@@ -136553,11 +136577,11 @@
       "type": "Educational/Research"
     },
     "149901": {
-      "name": "IDNIC-SUPERLINK-AS-ID",
+      "name": "PT Garuda Super Link",
       "type": "Cable/DSL/ISP"
     },
     "267972": {
-      "name": "ASN267972",
+      "name": "Alagoinhas net",
       "type": "Cable/DSL/ISP"
     }
   }
