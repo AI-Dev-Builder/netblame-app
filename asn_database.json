@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-09T00:12:07.073Z",
+  "updated_at": "2026-03-10T00:10:05.491Z",
   "source": "PeeringDB",
-  "entry_count": 34145,
+  "entry_count": 34152,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -19868,10 +19868,6 @@
       "name": "HYPER NET TELECOMUNICACOES",
       "type": "Cable/DSL/ISP"
     },
-    "63090": {
-      "name": "VoiceCall",
-      "type": "Unknown"
-    },
     "263484": {
       "name": "JE Provedor de Rede de Comunicação",
       "type": "Cable/DSL/ISP"
@@ -21686,6 +21682,10 @@
     },
     "264316": {
       "name": "IZAZ Processamento de Dados",
+      "type": "Cable/DSL/ISP"
+    },
+    "11385": {
+      "name": "Luna Networks - AS11385",
       "type": "Cable/DSL/ISP"
     },
     "64415": {
@@ -27779,10 +27779,6 @@
     "37479": {
       "name": "Telviva (Pty) Ltd",
       "type": "NSP"
-    },
-    "14509": {
-      "name": "AMC Theatres",
-      "type": "Unknown"
     },
     "40216": {
       "name": "DSTIP Networks",
@@ -34871,10 +34867,6 @@
     "131927": {
       "name": "TV Matsumoto Cablevision",
       "type": "Cable/DSL/ISP"
-    },
-    "395681": {
-      "name": "Wave 7",
-      "type": "Content"
     },
     "203261": {
       "name": "ASCOR",
@@ -53344,10 +53336,6 @@
       "name": "Woolo Comunicaciones S.L.",
       "type": "Unknown"
     },
-    "265400": {
-      "name": "VALE VERDE TECNOLOGIA INTEGRADA",
-      "type": "Cable/DSL/ISP"
-    },
     "207459": {
       "name": "TEKNOSOS BILISIM HIZMETLERI",
       "type": "Enterprise"
@@ -56266,6 +56254,10 @@
     },
     "271794": {
       "name": "UNITY NETWORK",
+      "type": "Unknown"
+    },
+    "8003": {
+      "name": "Luna Networks - AS8003",
       "type": "Unknown"
     },
     "270076": {
@@ -60023,10 +60015,6 @@
     "211713": {
       "name": "Connectium",
       "type": "Content"
-    },
-    "211696": {
-      "name": "Jae Lo Presti",
-      "type": "Educational/Research"
     },
     "206080": {
       "name": "inovex",
@@ -63955,6 +63943,10 @@
     "26321": {
       "name": "TSX",
       "type": "Enterprise"
+    },
+    "210881": {
+      "name": "LEO-SCHERR",
+      "type": "Unknown"
     },
     "36811": {
       "name": "Wiztech Internet",
@@ -77368,10 +77360,6 @@
       "name": "StylenTech",
       "type": "Unknown"
     },
-    "271694": {
-      "name": "MANALINK PROVEDOR DE INTERNET",
-      "type": "Cable/DSL/ISP"
-    },
     "131866": {
       "name": "Digital Edge Korea Internet Access",
       "type": "NSP"
@@ -86552,10 +86540,6 @@
       "name": "PT Era Awan Digital",
       "type": "Unknown"
     },
-    "401065": {
-      "name": "Tandy-Networks",
-      "type": "Cable/DSL/ISP"
-    },
     "214882": {
       "name": "ArenHost",
       "type": "Network Services"
@@ -88647,10 +88631,6 @@
     "51314": {
       "name": "TEVIANT",
       "type": "Unknown"
-    },
-    "30433": {
-      "name": "Packet Group, Inc.",
-      "type": "Content"
     },
     "35723": {
       "name": "Transport Telecommunication Company LLC",
@@ -96993,7 +96973,7 @@
       "type": "Cable/DSL/ISP"
     },
     "274063": {
-      "name": "274063",
+      "name": "RIMTEL S.A.",
       "type": "Unknown"
     },
     "207513": {
@@ -102270,7 +102250,7 @@
     },
     "152612": {
       "name": "Aoter Networks Co., Ltd",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "401060": {
       "name": "Gigaion, LLC",
@@ -102786,7 +102766,7 @@
     },
     "215501": {
       "name": "Hingshabti LLC",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "51230": {
       "name": "Cifrabar",
@@ -103914,7 +103894,7 @@
     },
     "47427": {
       "name": "DTNETWORK",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "274024": {
       "name": "COOPERATIVA DE SERVICIOS DE TELECOMUNICACIONES Y TECNOLOGÍA LIMITADA",
@@ -103962,7 +103942,7 @@
     },
     "151691": {
       "name": "AMITEL INDIA PRIVATE LIMITED",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "200464": {
       "name": "PAULO HENRIQUE SILVA DE OLIVEIRA",
@@ -104118,7 +104098,7 @@
     },
     "206069": {
       "name": "Cornseed Limited",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "197214": {
       "name": "Electrostroy Ltd.",
@@ -104138,7 +104118,7 @@
     },
     "200279": {
       "name": "Thomas Douwes",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "396250": {
       "name": "CATAWBA-ASN",
@@ -104153,15 +104133,63 @@
       "type": "Unknown"
     },
     "154531": {
-      "name": "Bright People Network and Power Solutions Inc, Bright People Network and Power Solutions Inc",
+      "name": "Bright People Network and Power Solutions Inc",
       "type": "Unknown"
     },
     "214034": {
-      "name": "kirielabs",
+      "name": "KirieLABS CommV",
       "type": "Unknown"
     },
     "13847": {
       "name": "Luna Networks",
+      "type": "Unknown"
+    },
+    "154536": {
+      "name": "PT Zaiad Network Nusantara",
+      "type": "Unknown"
+    },
+    "62704": {
+      "name": "DCLOUD9",
+      "type": "Unknown"
+    },
+    "213904": {
+      "name": "BU-HR",
+      "type": "Enterprise"
+    },
+    "61953": {
+      "name": "AS61953",
+      "type": "Network Services"
+    },
+    "270759": {
+      "name": "ASN270759",
+      "type": "Cable/DSL/ISP"
+    },
+    "212173": {
+      "name": "XP",
+      "type": "Unknown"
+    },
+    "263006": {
+      "name": "ASN263006",
+      "type": "Unknown"
+    },
+    "153458": {
+      "name": "HARUZAKURA-AS-AP",
+      "type": "Educational/Research"
+    },
+    "401956": {
+      "name": "FMI-AS-1",
+      "type": "Unknown"
+    },
+    "200261": {
+      "name": "ELSOUL-LABO",
+      "type": "Unknown"
+    },
+    "202071": {
+      "name": "xDaemonLV",
+      "type": "Unknown"
+    },
+    "210355": {
+      "name": "Firestar-Services",
       "type": "Unknown"
     },
     "22822": {
@@ -104305,7 +104333,7 @@
       "type": "Cable/DSL/ISP"
     },
     "2119": {
-      "name": "Telenor (Norway/Sweden)",
+      "name": "Telenor Norway",
       "type": "Cable/DSL/ISP"
     },
     "24098": {
@@ -105165,7 +105193,7 @@
       "type": "Cable/DSL/ISP"
     },
     "19148": {
-      "name": "LEASEWEB USA / PHX 01",
+      "name": "LeaseWeb / PHX-01",
       "type": "Content"
     },
     "39626": {
@@ -106829,7 +106857,7 @@
       "type": "Cable/DSL/ISP"
     },
     "24088": {
-      "name": "Hanoi Telecom",
+      "name": "HITC",
       "type": "Cable/DSL/ISP"
     },
     "24226": {
@@ -120165,7 +120193,7 @@
       "type": "Non-Profit"
     },
     "270600": {
-      "name": "BL PROVEDOR DE ACESSO A INTERNET LTDA",
+      "name": "Bl Fibra",
       "type": "Cable/DSL/ISP"
     },
     "135030": {
@@ -120851,10 +120879,6 @@
     "14694": {
       "name": "BVIX Services",
       "type": "Network Services"
-    },
-    "398418": {
-      "name": "Arenal Group Corporate",
-      "type": "Enterprise"
     },
     "202421": {
       "name": "Wimaz",
@@ -124988,10 +125012,6 @@
       "name": "Yuze Zhang",
       "type": "Unknown"
     },
-    "210881": {
-      "name": "LEO-SCHERR",
-      "type": "Unknown"
-    },
     "203432": {
       "name": "FAImaison",
       "type": "Unknown"
@@ -128852,6 +128872,10 @@
       "name": "Internet Keluarga Indonesia",
       "type": "Cable/DSL/ISP"
     },
+    "200795": {
+      "name": "HELCON",
+      "type": "Unknown"
+    },
     "50666": {
       "name": "ligaT Telecom",
       "type": "Cable/DSL/ISP"
@@ -129731,6 +129755,10 @@
     "272863": {
       "name": "Cable Familia",
       "type": "Unknown"
+    },
+    "271694": {
+      "name": "Manalink Solucoes em Internet",
+      "type": "Cable/DSL/ISP"
     },
     "41494": {
       "name": "Asociația Interlan",
