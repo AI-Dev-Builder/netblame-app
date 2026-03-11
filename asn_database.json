@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-10T00:10:05.491Z",
+  "updated_at": "2026-03-11T00:10:42.180Z",
   "source": "PeeringDB",
-  "entry_count": 34152,
+  "entry_count": 34165,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -27041,7 +27041,7 @@
       "type": "Cable/DSL/ISP"
     },
     "201053": {
-      "name": "Stowarzyszenie na Rzecz Rozwoju Spoleczenstwa Informacyjnego e-Poludnie",
+      "name": "EPIX.Transit",
       "type": "Unknown"
     },
     "201746": {
@@ -37744,6 +37744,10 @@
       "name": "Zaklad Instalacji",
       "type": "Cable/DSL/ISP"
     },
+    "39335": {
+      "name": "June Slater",
+      "type": "Cable/DSL/ISP"
+    },
     "54198": {
       "name": "ViaNetTV",
       "type": "Cable/DSL/ISP"
@@ -46281,7 +46285,7 @@
       "type": "Cable/DSL/ISP"
     },
     "269245": {
-      "name": "Maralink Fibra",
+      "name": "Cabo Fibra Telecom",
       "type": "Cable/DSL/ISP"
     },
     "16616": {
@@ -63148,6 +63152,10 @@
       "name": "Live Line Network Technology Pvt Ltd",
       "type": "Cable/DSL/ISP"
     },
+    "207320": {
+      "name": "KOMPLEKS-MEDIA-AS",
+      "type": "Unknown"
+    },
     "17563": {
       "name": "Nexlinx",
       "type": "Unknown"
@@ -74344,10 +74352,6 @@
       "name": "SmartCiti Fiber",
       "type": "Cable/DSL/ISP"
     },
-    "10750": {
-      "name": "Mark Twain Rural Telephone",
-      "type": "Cable/DSL/ISP"
-    },
     "150200": {
       "name": "SWAINET",
       "type": "Cable/DSL/ISP"
@@ -74485,7 +74489,7 @@
       "type": "NSP"
     },
     "201421": {
-      "name": "muehlbachler.io",
+      "name": "AS201421",
       "type": "Educational/Research"
     },
     "43612": {
@@ -87992,6 +87996,10 @@
       "name": "ESpanix",
       "type": "NSP"
     },
+    "214630": {
+      "name": "Kyberorg-IT-AS",
+      "type": "Unknown"
+    },
     "205068": {
       "name": "ADVCOM",
       "type": "Content"
@@ -92327,10 +92335,6 @@
     "141429": {
       "name": "AGATHA-AS-AP",
       "type": "Educational/Research"
-    },
-    "268295": {
-      "name": "ASN268295",
-      "type": "Cable/DSL/ISP"
     },
     "396354": {
       "name": "SPECTRUMVOIP-ISP-DAL",
@@ -102866,7 +102870,7 @@
     },
     "140210": {
       "name": "ConnectX, ConnectX",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "42740": {
       "name": "Backstage Ltd., BRAVO Telecom",
@@ -103333,7 +103337,7 @@
       "type": "Unknown"
     },
     "204463": {
-      "name": "XINZHAO",
+      "name": "XINZHAO Net",
       "type": "Educational/Research"
     },
     "204085": {
@@ -103862,7 +103866,7 @@
     },
     "267298": {
       "name": "SILVESTRE EVANGELISTA ALVES ME",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "606": {
       "name": "SCHAT",
@@ -104061,7 +104065,7 @@
       "type": "Educational/Research"
     },
     "142544": {
-      "name": "PT DataNet Support",
+      "name": "DNS Indonesia",
       "type": "Cable/DSL/ISP"
     },
     "205489": {
@@ -104145,7 +104149,7 @@
       "type": "Unknown"
     },
     "154536": {
-      "name": "PT Zaiad Network Nusantara",
+      "name": "PT Zaaid Network Nusantara",
       "type": "Unknown"
     },
     "62704": {
@@ -104181,7 +104185,7 @@
       "type": "Unknown"
     },
     "200261": {
-      "name": "ELSOUL-LABO",
+      "name": "ELSOUL LABO B.V.",
       "type": "Unknown"
     },
     "202071": {
@@ -104190,6 +104194,46 @@
     },
     "210355": {
       "name": "Firestar-Services",
+      "type": "Unknown"
+    },
+    "211573": {
+      "name": "quimian",
+      "type": "Unknown"
+    },
+    "203807": {
+      "name": "LUNOID-AS",
+      "type": "Unknown"
+    },
+    "142189": {
+      "name": "IDNIC-TBA-AS-ID",
+      "type": "Unknown"
+    },
+    "211141": {
+      "name": "pinkbear",
+      "type": "Unknown"
+    },
+    "202419": {
+      "name": "inflexum",
+      "type": "Unknown"
+    },
+    "402275": {
+      "name": "AS-BITBOUCHER",
+      "type": "Unknown"
+    },
+    "153910": {
+      "name": "IDNIC-RDN-AS-ID",
+      "type": "Unknown"
+    },
+    "152307": {
+      "name": "DWPL-AS-AP",
+      "type": "Unknown"
+    },
+    "209111": {
+      "name": "PEOPLECERT-ORG",
+      "type": "Unknown"
+    },
+    "29696": {
+      "name": "ECARTHAGE",
       "type": "Unknown"
     },
     "22822": {
@@ -110466,7 +110510,7 @@
     },
     "196954": {
       "name": "epcan",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "197071": {
       "name": "active-servers.com",
@@ -116993,7 +117037,7 @@
       "type": "NSP"
     },
     "208907": {
-      "name": "Chris Lawrence",
+      "name": "Rising Bridge Technology Ltd",
       "type": "Educational/Research"
     },
     "268508": {
@@ -124465,7 +124509,7 @@
       "type": "Cable/DSL/ISP"
     },
     "264886": {
-      "name": "GD NET SOLUTION",
+      "name": "Gd Net Solution",
       "type": "Cable/DSL/ISP"
     },
     "134428": {
@@ -128820,6 +128864,10 @@
       "name": "Jiaxian He",
       "type": "Non-Profit"
     },
+    "10750": {
+      "name": "Mark Twain Rural Telephone",
+      "type": "Cable/DSL/ISP"
+    },
     "262742": {
       "name": "UFABC",
       "type": "Educational/Research"
@@ -131957,7 +132005,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273350": {
-      "name": "GNS TELECOM",
+      "name": "Gns Telecom",
       "type": "Cable/DSL/ISP"
     },
     "215592": {
@@ -134408,6 +134456,10 @@
       "name": "273821",
       "type": "Cable/DSL/ISP"
     },
+    "268295": {
+      "name": "Big Bazar Net",
+      "type": "Cable/DSL/ISP"
+    },
     "273656": {
       "name": "ASN273656",
       "type": "Cable/DSL/ISP"
@@ -135762,7 +135814,7 @@
     },
     "154201": {
       "name": "PT GIGA NETWORK INDONESIA",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "273472": {
       "name": "Connect Fibra Telecom",
