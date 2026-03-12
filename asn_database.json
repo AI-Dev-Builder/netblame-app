@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-11T00:10:42.180Z",
+  "updated_at": "2026-03-12T00:11:19.028Z",
   "source": "PeeringDB",
-  "entry_count": 34165,
+  "entry_count": 34174,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -24654,7 +24654,7 @@
     },
     "59432": {
       "name": "GINERNET",
-      "type": "Cable/DSL/ISP"
+      "type": "Enterprise"
     },
     "30132": {
       "name": "ISC F-ROOT AMS1",
@@ -38620,10 +38620,6 @@
       "name": "BURITINET TELECOM",
       "type": "Cable/DSL/ISP"
     },
-    "132996": {
-      "name": "Threesa Infoway",
-      "type": "Unknown"
-    },
     "328360": {
       "name": "Huge Connect",
       "type": "Unknown"
@@ -48037,8 +48033,8 @@
       "type": "Cable/DSL/ISP"
     },
     "37073": {
-      "name": "CBF1",
-      "type": "Unknown"
+      "name": "Internet Puissance Plus",
+      "type": "Cable/DSL/ISP"
     },
     "268217": {
       "name": "PATRICIO LEMOS ALVES MANT COMP INF - ME",
@@ -64158,7 +64154,7 @@
     },
     "271298": {
       "name": "Oaris Network",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "328894": {
       "name": "C. Steinweg Bridge",
@@ -65311,10 +65307,6 @@
     "20902": {
       "name": "DegNet",
       "type": "NSP"
-    },
-    "47930": {
-      "name": "PRISMA BILISIM DANISMANLIK",
-      "type": "Unknown"
     },
     "7483": {
       "name": "Skycloud Computing",
@@ -75834,7 +75826,7 @@
     },
     "40021": {
       "name": "Nubes",
-      "type": "Unknown"
+      "type": "Content"
     },
     "208175": {
       "name": "TeamViewer EU",
@@ -87996,10 +87988,6 @@
       "name": "ESpanix",
       "type": "NSP"
     },
-    "214630": {
-      "name": "Kyberorg-IT-AS",
-      "type": "Unknown"
-    },
     "205068": {
       "name": "ADVCOM",
       "type": "Content"
@@ -93352,10 +93340,6 @@
       "name": "TPCHEL-AS",
       "type": "Unknown"
     },
-    "32697": {
-      "name": "NMFN",
-      "type": "Unknown"
-    },
     "132060": {
       "name": "HANTHAR NET",
       "type": "Network Services"
@@ -94326,7 +94310,7 @@
     },
     "57300": {
       "name": "Comuni Riuniti XL s.r.l.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "272881": {
       "name": "GLOBAL NET TV ZOMAC S.A.S",
@@ -98982,7 +98966,7 @@
     },
     "214955": {
       "name": "LaunchPad Network",
-      "type": "Non-Profit"
+      "type": "Network Services"
     },
     "215246": {
       "name": "Nicolas Paparusso",
@@ -103910,7 +103894,7 @@
     },
     "7361": {
       "name": "DATAZONE",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "198704": {
       "name": "Komenda Glowna Policji, Biuro Lacznosci i Informatyki",
@@ -103959,10 +103943,6 @@
     "264599": {
       "name": "SYNCONTEL TELECOMUNICAÇÕES LTDA",
       "type": "Unknown"
-    },
-    "402247": {
-      "name": "flew",
-      "type": "Content"
     },
     "402240": {
       "name": "WAYFIRE TECHNOLOGIES LLC",
@@ -104034,10 +104014,6 @@
     },
     "21390": {
       "name": "WNET !",
-      "type": "Unknown"
-    },
-    "200378": {
-      "name": "Aria Wegrzyn",
       "type": "Unknown"
     },
     "133624": {
@@ -104125,7 +104101,7 @@
       "type": "Educational/Research"
     },
     "396250": {
-      "name": "CATAWBA-ASN",
+      "name": "550 Montgomery Investments, LLC",
       "type": "Unknown"
     },
     "402256": {
@@ -104157,31 +104133,31 @@
       "type": "Unknown"
     },
     "213904": {
-      "name": "BU-HR",
+      "name": "BUBA USLUGE d.o.o., BUBA USLUGE d.o.o. - Cloud services",
       "type": "Enterprise"
     },
     "61953": {
-      "name": "AS61953",
+      "name": "CLOUDEUS SL",
       "type": "Network Services"
     },
     "270759": {
-      "name": "ASN270759",
+      "name": "Freedom Network",
       "type": "Cable/DSL/ISP"
     },
     "212173": {
-      "name": "XP",
+      "name": "XP Cloud Establishment",
       "type": "Unknown"
     },
     "263006": {
-      "name": "ASN263006",
+      "name": "Interone Telecom Ltda",
       "type": "Unknown"
     },
     "153458": {
-      "name": "HARUZAKURA-AS-AP",
+      "name": "Haruzakura Cloud, Haruzakura Cloud",
       "type": "Educational/Research"
     },
     "401956": {
-      "name": "FMI-AS-1",
+      "name": "Federated Mutual Insurance Company",
       "type": "Unknown"
     },
     "200261": {
@@ -104189,11 +104165,11 @@
       "type": "Unknown"
     },
     "202071": {
-      "name": "xDaemonLV",
+      "name": "xDaemon SIA",
       "type": "Unknown"
     },
     "210355": {
-      "name": "Firestar-Services",
+      "name": "Jelle Mulder",
       "type": "Unknown"
     },
     "211573": {
@@ -104201,12 +104177,12 @@
       "type": "Unknown"
     },
     "203807": {
-      "name": "LUNOID-AS",
+      "name": "Wouter Goyen",
       "type": "Unknown"
     },
     "142189": {
-      "name": "IDNIC-TBA-AS-ID",
-      "type": "Unknown"
+      "name": "PT Teja Bala Abadi",
+      "type": "Cable/DSL/ISP"
     },
     "211141": {
       "name": "pinkbear",
@@ -104217,23 +104193,59 @@
       "type": "Unknown"
     },
     "402275": {
-      "name": "AS-BITBOUCHER",
+      "name": "BITBOUCHER LLC",
       "type": "Unknown"
     },
     "153910": {
-      "name": "IDNIC-RDN-AS-ID",
-      "type": "Unknown"
+      "name": "PT Ryza Data Nusantara",
+      "type": "Cable/DSL/ISP"
     },
     "152307": {
-      "name": "DWPL-AS-AP",
+      "name": "DataWorld",
       "type": "Unknown"
     },
     "209111": {
-      "name": "PEOPLECERT-ORG",
+      "name": "PEOPLECERT GLOBAL SERVICES AE",
       "type": "Unknown"
     },
     "29696": {
       "name": "ECARTHAGE",
+      "type": "Unknown"
+    },
+    "137848": {
+      "name": "Mitztianpc Wired Internet Services",
+      "type": "Unknown"
+    },
+    "154424": {
+      "name": "JREVIT-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "207745": {
+      "name": "Vincent Morvan",
+      "type": "Unknown"
+    },
+    "204604": {
+      "name": "WeixelbaumEDV",
+      "type": "Unknown"
+    },
+    "402280": {
+      "name": "BWRSD",
+      "type": "Educational/Research"
+    },
+    "329475": {
+      "name": "ORG-KDNL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "263835": {
+      "name": "263835",
+      "type": "Unknown"
+    },
+    "208112": {
+      "name": "ROMAN-EMPIRE",
+      "type": "Unknown"
+    },
+    "18849": {
+      "name": "RICHESIN-ENG",
       "type": "Unknown"
     },
     "22822": {
@@ -114791,6 +114803,10 @@
     "33320": {
       "name": "SJIX Route Servers",
       "type": "Route Server"
+    },
+    "132996": {
+      "name": "Threesa Infoway",
+      "type": "Unknown"
     },
     "200356": {
       "name": "Iguane Solutions PAR8",
@@ -125608,6 +125624,10 @@
       "name": "Virgo Communication",
       "type": "Network Services"
     },
+    "47930": {
+      "name": "BRANDEFENSE BİLİŞİM DANIŞMANLIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+      "type": "Enterprise"
+    },
     "398334": {
       "name": "Vocinity",
       "type": "Network Services"
@@ -130828,10 +130848,6 @@
       "name": "Léwan P.",
       "type": "Educational/Research"
     },
-    "216394": {
-      "name": "Netlen Internet Hizmetleri Ltd. Sti.",
-      "type": "Network Services"
-    },
     "151770": {
       "name": "Nexflo Communications",
       "type": "Cable/DSL/ISP"
@@ -133304,6 +133320,10 @@
       "name": "BRESSENDEN-AS",
       "type": "Unknown"
     },
+    "214630": {
+      "name": "Kyberorg IT",
+      "type": "Enterprise"
+    },
     "273123": {
       "name": "CRAMCOMNET S.A",
       "type": "NSP"
@@ -134687,6 +134707,10 @@
     "264623": {
       "name": "264623",
       "type": "Content"
+    },
+    "32697": {
+      "name": "NMFN",
+      "type": "Unknown"
     },
     "153144": {
       "name": "PT Bena Bentala Services",
@@ -136648,9 +136672,17 @@
       "name": "TrimafaNet",
       "type": "NSP"
     },
+    "402247": {
+      "name": "flew",
+      "type": "Content"
+    },
     "215981": {
       "name": "X-Fibre",
       "type": "Cable/DSL/ISP"
+    },
+    "200378": {
+      "name": "kitsunet",
+      "type": "Non-Profit"
     },
     "200386": {
       "name": "Igor Iamolov",
@@ -136662,6 +136694,10 @@
     },
     "267972": {
       "name": "Alagoinhas net",
+      "type": "Cable/DSL/ISP"
+    },
+    "154524": {
+      "name": "FTI-AS-AP",
       "type": "Cable/DSL/ISP"
     }
   }
