@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-12T00:11:19.028Z",
+  "updated_at": "2026-03-13T00:12:33.301Z",
   "source": "PeeringDB",
-  "entry_count": 34174,
+  "entry_count": 34171,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -6292,10 +6292,6 @@
       "name": "Infosat Telecom",
       "type": "Unknown"
     },
-    "1200": {
-      "name": "Amsterdam Internet Exchange BV",
-      "type": "Non-Profit"
-    },
     "37084": {
       "name": "SimbaNET Tanzania",
       "type": "Cable/DSL/ISP"
@@ -9375,10 +9371,6 @@
     "1120": {
       "name": "Vienna Internet eXchange & ACOnet services",
       "type": "Non-Profit"
-    },
-    "51406": {
-      "name": "Infonas Limited",
-      "type": "NSP"
     },
     "393233": {
       "name": "Aon eSolutions",
@@ -21420,10 +21412,6 @@
       "name": "Wellnet",
       "type": "Cable/DSL/ISP"
     },
-    "199267": {
-      "name": "Net-Style Atarim LTD",
-      "type": "Unknown"
-    },
     "203348": {
       "name": "Hellenic Telecommunications and Post Commission",
       "type": "Unknown"
@@ -21898,10 +21886,6 @@
     },
     "395570": {
       "name": "FibreStream",
-      "type": "Cable/DSL/ISP"
-    },
-    "262527": {
-      "name": "MTCASEMOD COMERCIO DE PROD. DE INFOR. E SERV.",
       "type": "Cable/DSL/ISP"
     },
     "262968": {
@@ -26504,10 +26488,6 @@
       "name": "NFON AG",
       "type": "NSP"
     },
-    "52670": {
-      "name": "Digital Provedor de Internet Ltda",
-      "type": "Cable/DSL/ISP"
-    },
     "23169": {
       "name": "Ohio IX Route Servers",
       "type": "Route Server"
@@ -31052,10 +31032,6 @@
       "name": "RED PARAGUAYA DE TELECOMUNICACIONES SA",
       "type": "Cable/DSL/ISP"
     },
-    "267533": {
-      "name": "Optcom",
-      "type": "Unknown"
-    },
     "136565": {
       "name": "CyberWorld",
       "type": "NSP"
@@ -31609,7 +31585,7 @@
       "type": "NSP"
     },
     "267582": {
-      "name": "Simple Services Tecnologia",
+      "name": "Simple Services Tecnologia Ltda - ME",
       "type": "Cable/DSL/ISP"
     },
     "263998": {
@@ -38493,7 +38469,7 @@
       "type": "Unknown"
     },
     "134143": {
-      "name": "Professional Data Kinetics",
+      "name": "Kinetix Networks - Australia",
       "type": "Cable/DSL/ISP"
     },
     "268423": {
@@ -51300,10 +51276,6 @@
       "name": "4TELECOM",
       "type": "Unknown"
     },
-    "268523": {
-      "name": "NETTFACIL HUMAITA TECNOLOGIA E SERVIÇOS",
-      "type": "NSP"
-    },
     "270512": {
       "name": "Nw3 telecomunicações",
       "type": "Cable/DSL/ISP"
@@ -62385,7 +62357,7 @@
       "type": "Unknown"
     },
     "271080": {
-      "name": "LEANDRO DINIZ DA COSTA",
+      "name": "SPACE NET ISP",
       "type": "Cable/DSL/ISP"
     },
     "203650": {
@@ -62439,10 +62411,6 @@
     "264880": {
       "name": "RF Connect",
       "type": "Cable/DSL/ISP"
-    },
-    "211272": {
-      "name": "exchange.ax (Route Server)",
-      "type": "Route Server"
     },
     "19625": {
       "name": "ZTVI",
@@ -75825,7 +75793,7 @@
       "type": "Unknown"
     },
     "40021": {
-      "name": "Nubes",
+      "name": "Contabo USA",
       "type": "Content"
     },
     "208175": {
@@ -79978,7 +79946,7 @@
     },
     "47778": {
       "name": "Sunoaki Network Backbone",
-      "type": "Non-Profit"
+      "type": "NSP"
     },
     "265124": {
       "name": "M.K TELECOMUNICAÇÕES LTDA-ME",
@@ -83548,10 +83516,6 @@
       "name": "Rhode Island Telephone, Inc.",
       "type": "Unknown"
     },
-    "215660": {
-      "name": "FNL - FOG NETWORKS LTD",
-      "type": "Network Services"
-    },
     "3112": {
       "name": "OARnet Internet2 Research",
       "type": "Educational/Research"
@@ -84448,10 +84412,6 @@
       "name": "Stacks Inc Global",
       "type": "Cable/DSL/ISP"
     },
-    "215390": {
-      "name": "Harlan Hough",
-      "type": "Educational/Research"
-    },
     "215494": {
       "name": "Jason Bercher",
       "type": "Educational/Research"
@@ -84758,10 +84718,6 @@
     },
     "151555": {
       "name": "PT Jawara Lintas Data Nusantara",
-      "type": "Unknown"
-    },
-    "215325": {
-      "name": "Amar Dugonja",
       "type": "Unknown"
     },
     "271642": {
@@ -89944,10 +89900,6 @@
       "name": "LIBATECH-AS",
       "type": "Cable/DSL/ISP"
     },
-    "214131": {
-      "name": "NRTN",
-      "type": "Unknown"
-    },
     "214285": {
       "name": "ABOVEBAR",
       "type": "Network Services"
@@ -91901,8 +91853,8 @@
       "type": "NSP"
     },
     "18040": {
-      "name": "Leyun-GlobalRoute",
-      "type": "Enterprise"
+      "name": "Aoter Networks (Transit)",
+      "type": "Cable/DSL/ISP"
     },
     "329448": {
       "name": "ORG-AML1-AFRINIC",
@@ -100438,7 +100390,7 @@
     },
     "397978": {
       "name": "SOUTH 3RD VENTURES, LLC",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "139698": {
       "name": "IKONEK NETWORK TELECOM INC.",
@@ -100791,10 +100743,6 @@
     "202445": {
       "name": "helpful sp. z o.o.",
       "type": "Cable/DSL/ISP"
-    },
-    "268527": {
-      "name": "FIBER FAST PROVEDOR DE INTERNET E SERVICOS LTDA",
-      "type": "Unknown"
     },
     "206369": {
       "name": "ASTELEKOM",
@@ -102237,8 +102185,8 @@
       "type": "Unknown"
     },
     "152612": {
-      "name": "Aoter Networks Co., Ltd",
-      "type": "Cable/DSL/ISP"
+      "name": "Aoter Networks (Cloud Services)",
+      "type": "Enterprise"
     },
     "401060": {
       "name": "Gigaion, LLC",
@@ -103220,6 +103168,10 @@
       "name": "Ligtel Communications, Inc.",
       "type": "Cable/DSL/ISP"
     },
+    "201616": {
+      "name": "Theo Holroyd",
+      "type": "Educational/Research"
+    },
     "203284": {
       "name": "ServerDale",
       "type": "Content"
@@ -104170,7 +104122,7 @@
     },
     "210355": {
       "name": "Jelle Mulder",
-      "type": "Unknown"
+      "type": "Content"
     },
     "211573": {
       "name": "quimian",
@@ -104220,6 +104172,10 @@
       "name": "JREVIT-AS-AP",
       "type": "Cable/DSL/ISP"
     },
+    "59122": {
+      "name": "Ranger-Systems Co., Ltd.",
+      "type": "Unknown"
+    },
     "207745": {
       "name": "Vincent Morvan",
       "type": "Unknown"
@@ -104233,20 +104189,56 @@
       "type": "Educational/Research"
     },
     "329475": {
-      "name": "ORG-KDNL1-AFRINIC",
+      "name": "KONNECT DATA NETWORKS LTD",
       "type": "Unknown"
     },
     "263835": {
-      "name": "263835",
+      "name": "Devetel S.A.",
       "type": "Unknown"
     },
     "208112": {
-      "name": "ROMAN-EMPIRE",
+      "name": "ROMAN EMPIRE BV",
       "type": "Unknown"
     },
     "18849": {
       "name": "RICHESIN-ENG",
       "type": "Unknown"
+    },
+    "142565": {
+      "name": "Bangmod Cloud Pte. Ltd.",
+      "type": "Unknown"
+    },
+    "7497": {
+      "name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)",
+      "type": "Unknown"
+    },
+    "20695": {
+      "name": "C1UK",
+      "type": "Unknown"
+    },
+    "62804": {
+      "name": "PHOTOSHELTER-NYC",
+      "type": "Unknown"
+    },
+    "207237": {
+      "name": "Sibiz",
+      "type": "Unknown"
+    },
+    "211389": {
+      "name": "briantbroadband",
+      "type": "Unknown"
+    },
+    "265744": {
+      "name": "265744",
+      "type": "Cable/DSL/ISP"
+    },
+    "271702": {
+      "name": "ASN271702",
+      "type": "Unknown"
+    },
+    "209182": {
+      "name": "Jason Ruhittel",
+      "type": "NSP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -105411,6 +105403,10 @@
     "6772": {
       "name": "ImproWare",
       "type": "Cable/DSL/ISP"
+    },
+    "1200": {
+      "name": "Amsterdam Internet Exchange BV",
+      "type": "Non-Profit"
     },
     "55536": {
       "name": "Pacswitch Global Telecom Limited",
@@ -115960,10 +115956,6 @@
       "name": "Shadow US",
       "type": "Content"
     },
-    "209933": {
-      "name": "DANDRI",
-      "type": "Unknown"
-    },
     "267129": {
       "name": "NET+ TELECOM",
       "type": "Cable/DSL/ISP"
@@ -116843,10 +116835,6 @@
     "268397": {
       "name": "REINALDO DE JESUS",
       "type": "Cable/DSL/ISP"
-    },
-    "48325": {
-      "name": "BazTel Ltd",
-      "type": "NSP"
     },
     "209624": {
       "name": "COMMON NET S.r.l.",
@@ -120593,7 +120581,7 @@
       "type": "NSP"
     },
     "270684": {
-      "name": "WEB KONECT TELECOM DE FRUTAL LTDA",
+      "name": "SOLUCOES SOUZA WEB LTDA",
       "type": "NSP"
     },
     "270635": {
@@ -125733,8 +125721,8 @@
       "type": "Cable/DSL/ISP"
     },
     "271410": {
-      "name": "Smart Serviços de Internet",
-      "type": "Unknown"
+      "name": "Smart Connecting People",
+      "type": "Cable/DSL/ISP"
     },
     "271499": {
       "name": "YOU NET SERV E COMERCIO DE TELECOMUNICACOES",
@@ -131120,10 +131108,6 @@
       "name": "STIX Route Servers",
       "type": "Route Server"
     },
-    "216305": {
-      "name": "Cong Zhang",
-      "type": "Educational/Research"
-    },
     "26042": {
       "name": "FIBERSTATE",
       "type": "Content"
@@ -132110,7 +132094,7 @@
     },
     "63008": {
       "name": "SIMPLE CLOUD SOLUTION LLC",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "51396": {
       "name": "Pfcloud UG",
@@ -136136,6 +136120,10 @@
       "name": "CellNet Communications",
       "type": "Educational/Research"
     },
+    "268527": {
+      "name": "FIBER FAST PROVEDOR DE INTERNET E SERVICOS LTDA",
+      "type": "Cable/DSL/ISP"
+    },
     "274348": {
       "name": "Datasec Projetos e Servicos de Tecnologia e Seguranca Cibernetica LTDA",
       "type": "Enterprise"
@@ -136425,7 +136413,7 @@
       "type": "Cable/DSL/ISP"
     },
     "204464": {
-      "name": "NextSolutions",
+      "name": "NextHost",
       "type": "Enterprise"
     },
     "203534": {
@@ -136522,10 +136510,6 @@
     },
     "201488": {
       "name": "Ahmad Hanif Ihlasul Amal, AHIA",
-      "type": "Educational/Research"
-    },
-    "201616": {
-      "name": "Theo Holroyd",
       "type": "Educational/Research"
     },
     "201371": {
@@ -136699,6 +136683,10 @@
     "154524": {
       "name": "FTI-AS-AP",
       "type": "Cable/DSL/ISP"
+    },
+    "23161": {
+      "name": "PHOTOSHELTER-LON",
+      "type": "Content"
     }
   }
 }
