@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-13T00:12:33.301Z",
+  "updated_at": "2026-03-14T00:12:53.801Z",
   "source": "PeeringDB",
-  "entry_count": 34171,
+  "entry_count": 34178,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -773,7 +773,7 @@
       "type": "Content"
     },
     "7908": {
-      "name": "BT LatAm",
+      "name": "Sencinet LatAm",
       "type": "NSP"
     },
     "16245": {
@@ -26041,7 +26041,7 @@
       "type": "Cable/DSL/ISP"
     },
     "11271": {
-      "name": "BT Latam Brasil",
+      "name": "Sencinet Latam Brasil",
       "type": "Unknown"
     },
     "52640": {
@@ -67090,7 +67090,7 @@
     },
     "267335": {
       "name": "MUNDIAL TELECOMUNICACAO",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "131694": {
       "name": "Jabikha Teknologi Indonesia",
@@ -75931,10 +75931,6 @@
     "133112": {
       "name": "Spectra Technologies Limited",
       "type": "Cable/DSL/ISP"
-    },
-    "199839": {
-      "name": "MikeNetworks S.à r.l.-S.",
-      "type": "Content"
     },
     "140224": {
       "name": "Nebula Global",
@@ -89844,10 +89840,6 @@
       "name": "Konzola",
       "type": "Educational/Research"
     },
-    "7403": {
-      "name": "COLBANET",
-      "type": "NSP"
-    },
     "4632": {
       "name": "Telstra City West (Telstra Corporation Ltd)",
       "type": "Unknown"
@@ -98130,7 +98122,7 @@
     },
     "131452": {
       "name": "COREMARTLTD-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "7201": {
       "name": "Network Edge LLC",
@@ -104166,7 +104158,7 @@
     },
     "137848": {
       "name": "Mitztianpc Wired Internet Services",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "154424": {
       "name": "JREVIT-AS-AP",
@@ -104182,7 +104174,7 @@
     },
     "204604": {
       "name": "WeixelbaumEDV",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "402280": {
       "name": "BWRSD",
@@ -104198,7 +104190,7 @@
     },
     "208112": {
       "name": "ROMAN EMPIRE BV",
-      "type": "Unknown"
+      "type": "Content"
     },
     "18849": {
       "name": "RICHESIN-ENG",
@@ -104221,11 +104213,11 @@
       "type": "Unknown"
     },
     "207237": {
-      "name": "Sibiz",
+      "name": "Sibiz S.R.L",
       "type": "Unknown"
     },
     "211389": {
-      "name": "briantbroadband",
+      "name": "Briant Broadband Limited",
       "type": "Unknown"
     },
     "265744": {
@@ -104239,6 +104231,34 @@
     "209182": {
       "name": "Jason Ruhittel",
       "type": "NSP"
+    },
+    "276": {
+      "name": "OTS-AS-276",
+      "type": "Unknown"
+    },
+    "36375": {
+      "name": "UMICH-AS-5",
+      "type": "Unknown"
+    },
+    "200116": {
+      "name": "VAHIX-INFRASTRUCTURE",
+      "type": "Unknown"
+    },
+    "275647": {
+      "name": "AS275647",
+      "type": "Cable/DSL/ISP"
+    },
+    "200074": {
+      "name": "SN WHITE HOSTING",
+      "type": "Unknown"
+    },
+    "402298": {
+      "name": "HYWG-BACKBONE-AS",
+      "type": "Unknown"
+    },
+    "274861": {
+      "name": "Jhonet Solution",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -115021,7 +115041,7 @@
       "type": "Unknown"
     },
     "132146": {
-      "name": "Rich Top EC",
+      "name": "Rich Top EC Limited",
       "type": "Content"
     },
     "267111": {
@@ -129396,6 +129416,10 @@
       "name": "Speedobits Internet Private Limited",
       "type": "Cable/DSL/ISP"
     },
+    "199839": {
+      "name": "MikeNetworks S.à r.l.-S.",
+      "type": "Content"
+    },
     "149509": {
       "name": "XFINITI",
       "type": "Network Services"
@@ -131498,10 +131522,6 @@
     },
     "203847": {
       "name": "Marconi Solutions Srls",
-      "type": "Cable/DSL/ISP"
-    },
-    "273100": {
-      "name": "QXN CUSTOMERS SOCIETY",
       "type": "Cable/DSL/ISP"
     },
     "215953": {
@@ -133856,6 +133876,10 @@
       "name": "Austin Hadley",
       "type": "Educational/Research"
     },
+    "7403": {
+      "name": "COLBANET",
+      "type": "NSP"
+    },
     "214145": {
       "name": "SPMZT",
       "type": "Unknown"
@@ -134573,7 +134597,7 @@
       "type": "Route Server"
     },
     "401604": {
-      "name": "COLOCATAIRES",
+      "name": "Colocataires",
       "type": "Content"
     },
     "213571": {
@@ -136687,6 +136711,10 @@
     "23161": {
       "name": "PHOTOSHELTER-LON",
       "type": "Content"
+    },
+    "200140": {
+      "name": "Hanseung-Kim",
+      "type": "Unknown"
     }
   }
 }
