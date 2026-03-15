@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-14T00:12:53.801Z",
+  "updated_at": "2026-03-15T00:15:05.222Z",
   "source": "PeeringDB",
-  "entry_count": 34178,
+  "entry_count": 34177,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -71394,7 +71394,7 @@
     },
     "203738": {
       "name": "Adrien Chabod",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "265440": {
       "name": "Telnet Sistemas e Comunicações",
@@ -84782,7 +84782,7 @@
     },
     "273018": {
       "name": "Red Optica Peruana",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "2024": {
       "name": "Eversource Energy",
@@ -99388,10 +99388,6 @@
       "name": "Buana Menara Indonesia - BUANANET",
       "type": "Cable/DSL/ISP"
     },
-    "215760": {
-      "name": "DISPAISY-AS",
-      "type": "Educational/Research"
-    },
     "210008": {
       "name": "Webbing_LTD",
       "type": "Unknown"
@@ -101984,10 +101980,6 @@
       "name": "SPEED-NET Arkadiusz Broniecki",
       "type": "Cable/DSL/ISP"
     },
-    "9442": {
-      "name": "NIXI, De-cix Interwire Internet Services Private Limited",
-      "type": "Unknown"
-    },
     "132295": {
       "name": "Jahid Communication",
       "type": "Cable/DSL/ISP"
@@ -102663,6 +102655,10 @@
     "60712": {
       "name": "MCSWEEN",
       "type": "Unknown"
+    },
+    "204464": {
+      "name": "NextHost",
+      "type": "Enterprise"
     },
     "133147": {
       "name": "UNIVERSAL DATA PTY LTD, TechPath Pty Ltd",
@@ -104259,6 +104255,10 @@
     "274861": {
       "name": "Jhonet Solution",
       "type": "Cable/DSL/ISP"
+    },
+    "16581": {
+      "name": "DEEPINFRA-01",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -135386,7 +135386,7 @@
     },
     "196898": {
       "name": "SARNET",
-      "type": "NSP"
+      "type": "Content"
     },
     "212591": {
       "name": "PLTFRMS",
@@ -136435,10 +136435,6 @@
     "154468": {
       "name": "LRDF INTERNET SERVICE PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
-    },
-    "204464": {
-      "name": "NextHost",
-      "type": "Enterprise"
     },
     "203534": {
       "name": "On1x",
