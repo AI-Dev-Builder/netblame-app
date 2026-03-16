@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-15T00:15:05.222Z",
+  "updated_at": "2026-03-16T00:14:55.244Z",
   "source": "PeeringDB",
   "entry_count": 34177,
   "entries": {
@@ -35912,10 +35912,6 @@
       "name": "M-Tech Systems Ltd",
       "type": "Cable/DSL/ISP"
     },
-    "61590": {
-      "name": "DNS TELECOMUNICACOES E SOLUCOES EM INFORMATICA EIR",
-      "type": "Unknown"
-    },
     "25995": {
       "name": "CALTELEHEALTHNET",
       "type": "Unknown"
@@ -63174,6 +63170,10 @@
     },
     "271064": {
       "name": "POWERFLIX TELECOM",
+      "type": "Unknown"
+    },
+    "211209": {
+      "name": "European Edge IX - Routes Server",
       "type": "Unknown"
     },
     "42275": {
@@ -93142,7 +93142,7 @@
     },
     "135325": {
       "name": "EWS Fiber",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "57770": {
       "name": "Echo Internet",
@@ -99388,6 +99388,10 @@
       "name": "Buana Menara Indonesia - BUANANET",
       "type": "Cable/DSL/ISP"
     },
+    "215760": {
+      "name": "DISPAISY-AS",
+      "type": "Educational/Research"
+    },
     "210008": {
       "name": "Webbing_LTD",
       "type": "Unknown"
@@ -102832,10 +102836,6 @@
       "name": "TurboNet Fibras Ltda",
       "type": "NSP"
     },
-    "154448": {
-      "name": "MOKLAV GLOBAL (OPC) PRIVATE LIMITED",
-      "type": "Unknown"
-    },
     "213586": {
       "name": "SMCONSULTINGSERVICES",
       "type": "Non-Profit"
@@ -104258,6 +104258,14 @@
     },
     "16581": {
       "name": "DEEPINFRA-01",
+      "type": "Unknown"
+    },
+    "25125": {
+      "name": "ISRAEL-LCL-NET-AS",
+      "type": "Unknown"
+    },
+    "19577": {
+      "name": "CASTRO-TELECOM",
       "type": "Unknown"
     },
     "22822": {
@@ -118660,10 +118668,6 @@
       "name": "Point of Trade Co.",
       "type": "Network Services"
     },
-    "208364": {
-      "name": "SERVADA (old AS208364)",
-      "type": "Content"
-    },
     "269347": {
       "name": "R.E. DUTRA PROVEDOR DE INTERNET",
       "type": "Cable/DSL/ISP"
@@ -124770,10 +124774,6 @@
     },
     "206276": {
       "name": "Citelia",
-      "type": "Unknown"
-    },
-    "211209": {
-      "name": "AIRBYTES COMMUNICATIONS S.R.L.",
       "type": "Unknown"
     },
     "328855": {
@@ -131434,7 +131434,7 @@
     },
     "44822": {
       "name": "GXT Network",
-      "type": "Unknown"
+      "type": "Content"
     },
     "44817": {
       "name": "M Alhuda",
