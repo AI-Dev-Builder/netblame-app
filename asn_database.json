@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-16T00:14:55.244Z",
+  "updated_at": "2026-03-17T00:13:39.114Z",
   "source": "PeeringDB",
-  "entry_count": 34177,
+  "entry_count": 34188,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1651,10 +1651,6 @@
     "41012": {
       "name": "The Cloud Networks",
       "type": "Cable/DSL/ISP"
-    },
-    "35189": {
-      "name": "Association Kazar",
-      "type": "Content"
     },
     "20917": {
       "name": "Fiducial Cloud Network",
@@ -12845,7 +12841,7 @@
       "type": "Content"
     },
     "28368": {
-      "name": "SOBRALNET SERVIÇOS E TELECOMUNICACOES LTDA - ME",
+      "name": "SOBRAL TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
     },
     "10733": {
@@ -38297,7 +38293,7 @@
       "type": "Unknown"
     },
     "262507": {
-      "name": "Global Osi Brasil Telecomunicações e Conectividade",
+      "name": "OSI CONNECT TELECOMUNICACOES E SERVICOS LTDA",
       "type": "Cable/DSL/ISP"
     },
     "52745": {
@@ -66852,6 +66848,10 @@
       "name": "NET WIL",
       "type": "NSP"
     },
+    "18178": {
+      "name": "Pittqiao Network Information Co.,Ltd",
+      "type": "Enterprise"
+    },
     "210384": {
       "name": "KUDOS",
       "type": "Educational/Research"
@@ -75093,7 +75093,7 @@
       "type": "Unknown"
     },
     "212177": {
-      "name": "Airbytes (UK)",
+      "name": "Airbytes (AS212177) - Legacy",
       "type": "NSP"
     },
     "19418": {
@@ -83651,10 +83651,6 @@
     "8796": {
       "name": "Fast Data",
       "type": "Network Services"
-    },
-    "141994": {
-      "name": "OWCPC-AS-AP",
-      "type": "Cable/DSL/ISP"
     },
     "58350": {
       "name": "PHU Classcom Sp. z o.o.",
@@ -98784,10 +98780,6 @@
       "name": "Pysio Networks Asia",
       "type": "Educational/Research"
     },
-    "208259": {
-      "name": "AVENSTORE",
-      "type": "Enterprise"
-    },
     "210536": {
       "name": "XetNET",
       "type": "Content"
@@ -99387,10 +99379,6 @@
     "150967": {
       "name": "Buana Menara Indonesia - BUANANET",
       "type": "Cable/DSL/ISP"
-    },
-    "215760": {
-      "name": "DISPAISY-AS",
-      "type": "Educational/Research"
     },
     "210008": {
       "name": "Webbing_LTD",
@@ -101698,7 +101686,7 @@
     },
     "13199": {
       "name": "Jaroslav Doubrava",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "274549": {
       "name": "HEAVEN SYSTEM",
@@ -102166,10 +102154,6 @@
     },
     "213928": {
       "name": "INSIDENETWORKS",
-      "type": "Unknown"
-    },
-    "271660": {
-      "name": "Planície Net Telecom Eireli",
       "type": "Unknown"
     },
     "152612": {
@@ -102824,10 +102808,6 @@
       "name": "VENTURES-DC-VERI-MERKEZI-HIZMETLERI",
       "type": "Unknown"
     },
-    "210892": {
-      "name": "Lightspeed Networks Ltd",
-      "type": "Cable/DSL/ISP"
-    },
     "42345": {
       "name": "Granarolo SpA",
       "type": "Unknown"
@@ -102835,6 +102815,10 @@
     "269154": {
       "name": "TurboNet Fibras Ltda",
       "type": "NSP"
+    },
+    "154448": {
+      "name": "MOKLAV GLOBAL (OPC) PRIVATE LIMITED",
+      "type": "Cable/DSL/ISP"
     },
     "213586": {
       "name": "SMCONSULTINGSERVICES",
@@ -103724,10 +103708,6 @@
       "name": "MEGAPRIME NETWORK PVT LTD",
       "type": "Cable/DSL/ISP"
     },
-    "214769": {
-      "name": "Kennedy Matos Carvalho",
-      "type": "Unknown"
-    },
     "393483": {
       "name": "Yeo & Yeo CPAs & Business Consultants",
       "type": "Enterprise"
@@ -104025,7 +104005,7 @@
       "type": "NSP"
     },
     "39599": {
-      "name": "Talex S.A., ul. Karpia 27d",
+      "name": "Talex S.A.",
       "type": "Unknown"
     },
     "135667": {
@@ -104266,6 +104246,46 @@
     },
     "19577": {
       "name": "CASTRO-TELECOM",
+      "type": "Unknown"
+    },
+    "4577": {
+      "name": "WISPOTO-01",
+      "type": "Unknown"
+    },
+    "151784": {
+      "name": "GRIDMCLOUDPVTLTD-AS-AP",
+      "type": "Enterprise"
+    },
+    "268650": {
+      "name": "ASN268650",
+      "type": "Unknown"
+    },
+    "39420": {
+      "name": "Airbytes (AS39420)",
+      "type": "NSP"
+    },
+    "39159": {
+      "name": "NV-RL",
+      "type": "Unknown"
+    },
+    "394680": {
+      "name": "ESSEXTEL",
+      "type": "Unknown"
+    },
+    "27897": {
+      "name": "27897",
+      "type": "Unknown"
+    },
+    "329664": {
+      "name": "ORG-AESL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "54869": {
+      "name": "ROCKCOM-CO",
+      "type": "Unknown"
+    },
+    "200859": {
+      "name": "IDONCLOUD",
       "type": "Unknown"
     },
     "22822": {
@@ -104587,6 +104607,10 @@
     "24953": {
       "name": "NETPLANET GmbH",
       "type": "NSP"
+    },
+    "35189": {
+      "name": "Xavier Beaudouin",
+      "type": "Unknown"
     },
     "39122": {
       "name": "Blacknight Internet Solutions",
@@ -107301,7 +107325,7 @@
       "type": "Cable/DSL/ISP"
     },
     "53173": {
-      "name": "SOBRALNET SERVICOS E TELECOMUNICACOES",
+      "name": "SOBRALNET",
       "type": "Cable/DSL/ISP"
     },
     "34450": {
@@ -109923,6 +109947,10 @@
     "38571": {
       "name": "Star Broadband Services (I) Pvt. Ltd.",
       "type": "Cable/DSL/ISP"
+    },
+    "203482": {
+      "name": "Policia Judiciaria",
+      "type": "Unknown"
     },
     "52617": {
       "name": "DIGITAL.COM TELECOMUNICACOES LTDA",
@@ -122141,7 +122169,7 @@
       "type": "Network Services"
     },
     "19366": {
-      "name": "Managed Network Solutions",
+      "name": "FIBERTOWN",
       "type": "NSP"
     },
     "39526": {
@@ -126258,10 +126286,6 @@
     },
     "56488": {
       "name": "Eis S.r.l.",
-      "type": "Enterprise"
-    },
-    "18178": {
-      "name": "Pittqiao Network Information Co.,Ltd",
       "type": "Enterprise"
     },
     "271324": {
@@ -131952,6 +131976,10 @@
       "name": "PT. AwanBit Data Indonesia",
       "type": "NSP"
     },
+    "141994": {
+      "name": "OWCPC-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
     "62925": {
       "name": "CRE Network LLC",
       "type": "Network Services"
@@ -135788,6 +135816,10 @@
       "name": "GlobalConnect AS6797",
       "type": "NSP"
     },
+    "208259": {
+      "name": "AVENSTORE",
+      "type": "NSP"
+    },
     "154137": {
       "name": "HLINK",
       "type": "Cable/DSL/ISP"
@@ -135875,6 +135907,10 @@
     "402005": {
       "name": "CORELOCATED GLOBAL",
       "type": "NSP"
+    },
+    "215760": {
+      "name": "DISPAISY-AS",
+      "type": "Educational/Research"
     },
     "154174": {
       "name": "AMITYGGN-IN",
@@ -136348,6 +136384,10 @@
       "name": "ZeroTunnel",
       "type": "Content"
     },
+    "271660": {
+      "name": "Planície Net Telecom Eireli",
+      "type": "NSP"
+    },
     "202554": {
       "name": "1-PL",
       "type": "Route Server"
@@ -136394,7 +136434,7 @@
     },
     "208674": {
       "name": "EIOTTMANN",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "202358": {
       "name": "MVNET SOLUTIONS",
@@ -136467,6 +136507,10 @@
     "201190": {
       "name": "VOXBEE-SERVICES",
       "type": "Unknown"
+    },
+    "210892": {
+      "name": "Lightspeed Networks Ltd",
+      "type": "Cable/DSL/ISP"
     },
     "153145": {
       "name": "PT Tomihonk Network Nusantara",
