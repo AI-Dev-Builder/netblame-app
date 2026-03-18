@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-17T00:13:39.114Z",
+  "updated_at": "2026-03-18T00:14:38.101Z",
   "source": "PeeringDB",
-  "entry_count": 34188,
+  "entry_count": 34201,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -18297,8 +18297,8 @@
       "type": "Unknown"
     },
     "62172": {
-      "name": "Neonix",
-      "type": "Content"
+      "name": "Airbytes (AS62172)",
+      "type": "NSP"
     },
     "198722": {
       "name": "TxRx Communications",
@@ -59102,7 +59102,7 @@
     },
     "141539": {
       "name": "MX-IX Route Servers",
-      "type": "Unknown"
+      "type": "Route Server"
     },
     "211915": {
       "name": "Nikitin Kirill Sergeevich",
@@ -89585,7 +89585,7 @@
       "type": "Cable/DSL/ISP"
     },
     "274629": {
-      "name": "ASN274629",
+      "name": "CITY TECNOLOGIA DA INFORMAÇÃO LTDA",
       "type": "NSP"
     },
     "266962": {
@@ -103708,6 +103708,10 @@
       "name": "MEGAPRIME NETWORK PVT LTD",
       "type": "Cable/DSL/ISP"
     },
+    "214769": {
+      "name": "Kennedy Matos Carvalho",
+      "type": "Unknown"
+    },
     "393483": {
       "name": "Yeo & Yeo CPAs & Business Consultants",
       "type": "Enterprise"
@@ -104241,11 +104245,11 @@
       "type": "Unknown"
     },
     "25125": {
-      "name": "ISRAEL-LCL-NET-AS",
+      "name": "One City IT Ltd.",
       "type": "Unknown"
     },
     "19577": {
-      "name": "CASTRO-TELECOM",
+      "name": "CASTRO TELECOM LLC",
       "type": "Unknown"
     },
     "4577": {
@@ -104253,11 +104257,11 @@
       "type": "Unknown"
     },
     "151784": {
-      "name": "GRIDMCLOUDPVTLTD-AS-AP",
+      "name": "GRIDM CLOUD PVT LTD",
       "type": "Enterprise"
     },
     "268650": {
-      "name": "ASN268650",
+      "name": "WIGVAN ROGERIO OLIVEIRA SANTANA EIRELI ME",
       "type": "Unknown"
     },
     "39420": {
@@ -104287,6 +104291,54 @@
     "200859": {
       "name": "IDONCLOUD",
       "type": "Unknown"
+    },
+    "275676": {
+      "name": "ASN275676",
+      "type": "Unknown"
+    },
+    "141210": {
+      "name": "GRAND-AS-AP",
+      "type": "Unknown"
+    },
+    "209565": {
+      "name": "JIANYUELAB-STAFF",
+      "type": "Unknown"
+    },
+    "152877": {
+      "name": "NIN",
+      "type": "Unknown"
+    },
+    "401910": {
+      "name": "NSCIX-01",
+      "type": "Unknown"
+    },
+    "215337": {
+      "name": "IT-CONNECTO",
+      "type": "Unknown"
+    },
+    "18919": {
+      "name": "STT-GLOBAL",
+      "type": "Unknown"
+    },
+    "401121": {
+      "name": "HenNet",
+      "type": "Government"
+    },
+    "20330": {
+      "name": "NYS-UNIFIED-COURTS",
+      "type": "Unknown"
+    },
+    "273144": {
+      "name": "273144",
+      "type": "Unknown"
+    },
+    "329562": {
+      "name": "ORG-SSL7-AFRINIC",
+      "type": "Cable/DSL/ISP"
+    },
+    "273889": {
+      "name": "273889",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -104609,8 +104661,8 @@
       "type": "NSP"
     },
     "35189": {
-      "name": "Xavier Beaudouin",
-      "type": "Unknown"
+      "name": "EuroRhine-IX Route Servers",
+      "type": "Route Server"
     },
     "39122": {
       "name": "Blacknight Internet Solutions",
@@ -131978,7 +132030,7 @@
     },
     "141994": {
       "name": "OWCPC-AS-AP",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "62925": {
       "name": "CRE Network LLC",
