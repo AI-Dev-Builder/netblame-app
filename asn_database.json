@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-18T00:14:38.101Z",
+  "updated_at": "2026-03-19T00:13:58.628Z",
   "source": "PeeringDB",
-  "entry_count": 34201,
+  "entry_count": 34193,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -11396,10 +11396,6 @@
       "name": "Parsec Data Management, Inc",
       "type": "NSP"
     },
-    "199659": {
-      "name": "Suretec Systems Ltd.",
-      "type": "NSP"
-    },
     "39608": {
       "name": "Lanet Network",
       "type": "Cable/DSL/ISP"
@@ -16445,7 +16441,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263569": {
-      "name": "Direct WiFi Telecom",
+      "name": "Direct Internet Ltda",
       "type": "Cable/DSL/ISP"
     },
     "264427": {
@@ -16973,7 +16969,7 @@
       "type": "Cable/DSL/ISP"
     },
     "393941": {
-      "name": "Flying Man Studio",
+      "name": "AS393941",
       "type": "NSP"
     },
     "198710": {
@@ -19486,7 +19482,7 @@
     },
     "59954": {
       "name": "KEYPOINT-SPB",
-      "type": "Route Server"
+      "type": "Content"
     },
     "134555": {
       "name": "Encoo",
@@ -21131,10 +21127,6 @@
     "202540": {
       "name": "Christopher Stephens",
       "type": "Unknown"
-    },
-    "31304": {
-      "name": "Espol",
-      "type": "Cable/DSL/ISP"
     },
     "36902": {
       "name": "Intelvision",
@@ -29336,10 +29328,6 @@
       "name": "TAPAD-NJ1",
       "type": "Unknown"
     },
-    "45033": {
-      "name": "TelcoSwitch",
-      "type": "Network Services"
-    },
     "55002": {
       "name": "Defense.Net",
       "type": "NSP"
@@ -31949,7 +31937,7 @@
       "type": "NSP"
     },
     "40217": {
-      "name": "DACS-NX",
+      "name": "DACS-NX Legacy Network",
       "type": "NSP"
     },
     "5401": {
@@ -38816,10 +38804,6 @@
       "name": "Novotelecom (NTK)",
       "type": "Unknown"
     },
-    "132685": {
-      "name": "TouchPal HK",
-      "type": "Unknown"
-    },
     "37520": {
       "name": "Rhodes University",
       "type": "Educational/Research"
@@ -40877,12 +40861,12 @@
       "type": "Cable/DSL/ISP"
     },
     "131111": {
-      "name": "PT Ekamas Mora Republik Tbk | PT Mora Telematika Indonesia Tbk - Domestic",
-      "type": "NSP"
+      "name": "PT Mora Telematika Indonesia Tbk - Domestic",
+      "type": "Cable/DSL/ISP"
     },
     "46038": {
-      "name": "PT Ekamas Mora Republik Tbk | PT Mora Telematika Indonesia Tbk - CepatNet",
-      "type": "Unknown"
+      "name": "PT Mora Telematika Indonesia Tbk - CepatNet",
+      "type": "Cable/DSL/ISP"
     },
     "5080": {
       "name": "ARAMCO Network",
@@ -40983,10 +40967,6 @@
     "138527": {
       "name": "ADC Group Network",
       "type": "Unknown"
-    },
-    "210122": {
-      "name": "ZCHKH-AS",
-      "type": "Educational/Research"
     },
     "268086": {
       "name": "WD TELECOM SOLUCOES EM TELECOM E SEGURANCA",
@@ -46964,10 +46944,6 @@
       "name": "WANDOOR Multiventures",
       "type": "Cable/DSL/ISP"
     },
-    "208114": {
-      "name": "Lorenzo",
-      "type": "Unknown"
-    },
     "208152": {
       "name": "CLNW",
       "type": "Unknown"
@@ -51441,7 +51417,7 @@
       "type": "Enterprise"
     },
     "6515": {
-      "name": "DACS-IX East Route Servers",
+      "name": "DACS NX",
       "type": "Route Server"
     },
     "22006": {
@@ -51497,7 +51473,7 @@
       "type": "Unknown"
     },
     "29785": {
-      "name": "DACS-IX Central Route Servers",
+      "name": "DACS SCE",
       "type": "Route Server"
     },
     "269898": {
@@ -53997,11 +53973,11 @@
       "type": "Cable/DSL/ISP"
     },
     "398454": {
-      "name": "DACS-IX West Route Servers",
+      "name": "DACS IX Route Collectors",
       "type": "Route Server"
     },
     "40592": {
-      "name": "DACS Cloud #23775",
+      "name": "DACS IX Route Servers",
       "type": "Enterprise"
     },
     "269220": {
@@ -67684,10 +67660,6 @@
       "name": "Jr Informatica Ltda",
       "type": "Cable/DSL/ISP"
     },
-    "210397": {
-      "name": "WOLKEN",
-      "type": "Unknown"
-    },
     "264078": {
       "name": "KAITIANA FERREIRA DOS SANTOS",
       "type": "Unknown"
@@ -74516,6 +74488,10 @@
       "name": "RETE internet",
       "type": "Cable/DSL/ISP"
     },
+    "200558": {
+      "name": "Core Network Services FZE",
+      "type": "NSP"
+    },
     "138727": {
       "name": "Indian Center For E-governance",
       "type": "Unknown"
@@ -78956,6 +78932,10 @@
       "name": "Avacon Connect",
       "type": "Unknown"
     },
+    "200262": {
+      "name": "GRIESHOFER-AS",
+      "type": "Educational/Research"
+    },
     "200267": {
       "name": "Yiping Zhao",
       "type": "Educational/Research"
@@ -79543,10 +79523,6 @@
     "267913": {
       "name": "IFRANET",
       "type": "Cable/DSL/ISP"
-    },
-    "197820": {
-      "name": "Ariana Rydzkowski",
-      "type": "Unknown"
     },
     "266938": {
       "name": "LT SOLUCOES",
@@ -82140,10 +82116,6 @@
       "name": "DATA-FORTRESS",
       "type": "Unknown"
     },
-    "151806": {
-      "name": "SLS",
-      "type": "Enterprise"
-    },
     "197891": {
       "name": "CONGREGAZIONE CRISTIANA DEI TESTIMONI DI GEOVA",
       "type": "Unknown"
@@ -84271,10 +84243,6 @@
     "215444": {
       "name": "MOA",
       "type": "Enterprise"
-    },
-    "215436": {
-      "name": "Whitelabel Networks",
-      "type": "Content"
     },
     "215514": {
       "name": "KempNet Przemyslaw Kempa",
@@ -88654,7 +88622,7 @@
     },
     "62624": {
       "name": "NUCLEUS",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "152069": {
       "name": "PT Nusantara Star Connect",
@@ -92355,10 +92323,6 @@
     "213697": {
       "name": "KERNZEN",
       "type": "Content"
-    },
-    "204918": {
-      "name": "ARINET",
-      "type": "Unknown"
     },
     "206882": {
       "name": "WIFILINKS",
@@ -96922,7 +96886,7 @@
     },
     "57388": {
       "name": "IBC-AS",
-      "type": "Unknown"
+      "type": "Route Server"
     },
     "262687": {
       "name": "ASN262687",
@@ -98829,7 +98793,7 @@
       "type": "Cable/DSL/ISP"
     },
     "153573": {
-      "name": "IDNIC-BAYUMULTIMEDIATELEKOMUNIKASI-ID",
+      "name": "PT Bayu Multimedia Telekomunikasi",
       "type": "NSP"
     },
     "329570": {
@@ -99449,7 +99413,7 @@
       "type": "Unknown"
     },
     "207217": {
-      "name": "Hawe Telekom MIX",
+      "name": "HAWE CDN",
       "type": "NSP"
     },
     "205064": {
@@ -102644,10 +102608,6 @@
       "name": "MCSWEEN",
       "type": "Unknown"
     },
-    "204464": {
-      "name": "NextHost",
-      "type": "Enterprise"
-    },
     "133147": {
       "name": "UNIVERSAL DATA PTY LTD, TechPath Pty Ltd",
       "type": "Unknown"
@@ -103566,7 +103526,7 @@
     },
     "329017": {
       "name": "RAGA NET SARL",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "269681": {
       "name": "BEAM TELECOM IMP EXP LTDA",
@@ -103710,7 +103670,7 @@
     },
     "214769": {
       "name": "Kennedy Matos Carvalho",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "393483": {
       "name": "Yeo & Yeo CPAs & Business Consultants",
@@ -104290,14 +104250,14 @@
     },
     "200859": {
       "name": "IDONCLOUD",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "275676": {
       "name": "ASN275676",
       "type": "Unknown"
     },
     "141210": {
-      "name": "GRAND-AS-AP",
+      "name": "Grand Unicom Corp",
       "type": "Unknown"
     },
     "209565": {
@@ -104305,7 +104265,7 @@
       "type": "Unknown"
     },
     "152877": {
-      "name": "NIN",
+      "name": "Nintendo Co., Ltd",
       "type": "Unknown"
     },
     "401910": {
@@ -104313,11 +104273,11 @@
       "type": "Unknown"
     },
     "215337": {
-      "name": "IT-CONNECTO",
+      "name": "Connecto s.r.l.",
       "type": "Unknown"
     },
     "18919": {
-      "name": "STT-GLOBAL",
+      "name": "smartTrade Technologies",
       "type": "Unknown"
     },
     "401121": {
@@ -104329,7 +104289,7 @@
       "type": "Unknown"
     },
     "273144": {
-      "name": "273144",
+      "name": "PC SERVICE PLUS NET,C.A",
       "type": "Unknown"
     },
     "329562": {
@@ -104339,6 +104299,18 @@
     "273889": {
       "name": "273889",
       "type": "Cable/DSL/ISP"
+    },
+    "133198": {
+      "name": "iOne Resources, Inc.",
+      "type": "Unknown"
+    },
+    "267050": {
+      "name": "PLENA SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
+      "type": "Unknown"
+    },
+    "19948": {
+      "name": "RES19948",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -108285,7 +108257,7 @@
       "type": "NSP"
     },
     "131702": {
-      "name": "PT Ekamas Mora Republik Tbk | PT Mora Telematika Indonesia Tbk - Mora-IXP",
+      "name": "PT Mora Telematika Indonesia Tbk - Mora-IXP",
       "type": "Content"
     },
     "263629": {
@@ -109195,10 +109167,6 @@
     "60129": {
       "name": "CSTI",
       "type": "Content"
-    },
-    "49344": {
-      "name": "Ziron Limited",
-      "type": "NSP"
     },
     "61466": {
       "name": "Tv Cable Loncomilla S.A",
@@ -111237,7 +111205,7 @@
       "type": "Cable/DSL/ISP"
     },
     "42739": {
-      "name": "Hawe Telekom",
+      "name": "HAWE TELEKOM",
       "type": "NSP"
     },
     "205603": {
@@ -118096,10 +118064,6 @@
       "name": "Royal Connect Solutions",
       "type": "Cable/DSL/ISP"
     },
-    "208385": {
-      "name": "ALERTAB",
-      "type": "Unknown"
-    },
     "132169": {
       "name": "KBZ ONLINE",
       "type": "Cable/DSL/ISP"
@@ -118567,10 +118531,6 @@
     "269424": {
       "name": "M dos santos rodrigues",
       "type": "Cable/DSL/ISP"
-    },
-    "139709": {
-      "name": "EZSVS SINGAPORE",
-      "type": "Enterprise"
     },
     "205103": {
       "name": "Telegraph42",
@@ -119639,6 +119599,10 @@
     "45658": {
       "name": "SURYACITRA",
       "type": "Enterprise"
+    },
+    "135323": {
+      "name": "SENTINEL365-AS-AP",
+      "type": "Unknown"
     },
     "37783": {
       "name": "AMS-IX Lagos Route Servers",
@@ -121999,10 +121963,6 @@
     "208974": {
       "name": "Benedikt Neuffer",
       "type": "Unknown"
-    },
-    "212912": {
-      "name": "Dynamik Cloud & Telecom",
-      "type": "Content"
     },
     "270795": {
       "name": "LD telecom",
@@ -128964,6 +128924,10 @@
       "name": "CNDM",
       "type": "Cable/DSL/ISP"
     },
+    "200882": {
+      "name": "DC_INNOVATIONS_BV",
+      "type": "Network Services"
+    },
     "212164": {
       "name": "Jiaxian He",
       "type": "Non-Profit"
@@ -130740,6 +130704,10 @@
       "name": "VANVIK",
       "type": "NSP"
     },
+    "49592": {
+      "name": "Pipe Networks LTD",
+      "type": "Unknown"
+    },
     "151507": {
       "name": "AGUNGNET",
       "type": "Cable/DSL/ISP"
@@ -131047,10 +131015,6 @@
     "53471": {
       "name": "NETSKRTSYSTEMS-USA",
       "type": "Content"
-    },
-    "216342": {
-      "name": "Marionic Personal Network",
-      "type": "Enterprise"
     },
     "149398": {
       "name": "PT Jaringan Multimedia Global",
@@ -134232,10 +134196,6 @@
       "name": "WAP.AC LLC",
       "type": "Cable/DSL/ISP"
     },
-    "213955": {
-      "name": "FORKLESS-INNOVATIONS",
-      "type": "Content"
-    },
     "401441": {
       "name": "GOOSEWORKS",
       "type": "Enterprise"
@@ -136528,6 +136488,10 @@
       "name": "LRDF INTERNET SERVICE PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
     },
+    "204464": {
+      "name": "NextHost",
+      "type": "Enterprise"
+    },
     "203534": {
       "name": "On1x",
       "type": "Content"
@@ -136806,6 +136770,10 @@
     },
     "200140": {
       "name": "Hanseung-Kim",
+      "type": "Unknown"
+    },
+    "12183": {
+      "name": "Talkie Communications",
       "type": "Unknown"
     }
   }
