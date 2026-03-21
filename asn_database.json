@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-20T00:13:52.368Z",
+  "updated_at": "2026-03-21T00:12:04.010Z",
   "source": "PeeringDB",
-  "entry_count": 34206,
+  "entry_count": 34218,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -14683,6 +14683,10 @@
     "47998": {
       "name": "Oscar Music & Media",
       "type": "Content"
+    },
+    "199863": {
+      "name": "CORCELINK",
+      "type": "Unknown"
     },
     "61950": {
       "name": "Nossa Telecom",
@@ -68569,7 +68573,7 @@
       "type": "Content"
     },
     "49584": {
-      "name": "Dataxion Global",
+      "name": "EASYTEAM (ex DATAXION)",
       "type": "NSP"
     },
     "328744": {
@@ -72277,7 +72281,7 @@
       "type": "Unknown"
     },
     "203023": {
-      "name": "Kawaii Networks E&R",
+      "name": "Kawaii IX Route Server",
       "type": "Educational/Research"
     },
     "31441": {
@@ -78926,7 +78930,7 @@
     },
     "200262": {
       "name": "GRIESHOFER-AS",
-      "type": "Educational/Research"
+      "type": "NSP"
     },
     "200267": {
       "name": "Yiping Zhao",
@@ -86878,7 +86882,7 @@
     },
     "214781": {
       "name": "RAPID",
-      "type": "Unknown"
+      "type": "Content"
     },
     "262431": {
       "name": "Liq Corp",
@@ -94880,10 +94884,6 @@
       "name": "Tiger Network AS211121",
       "type": "Unknown"
     },
-    "212628": {
-      "name": "ARTRUBY",
-      "type": "Content"
-    },
     "30079": {
       "name": "IQUID",
       "type": "Unknown"
@@ -96873,7 +96873,7 @@
       "type": "Unknown"
     },
     "57388": {
-      "name": "IBC-AS",
+      "name": "I.B.C-TELECOM",
       "type": "Route Server"
     },
     "262687": {
@@ -103822,7 +103822,7 @@
     },
     "402240": {
       "name": "WAYFIRE TECHNOLOGIES LLC",
-      "type": "Unknown"
+      "type": "Content"
     },
     "151578": {
       "name": "Dinas Komunikasi Informatika Statistik dan Persandian Kabupaten Kepulauan Meranti",
@@ -104233,7 +104233,7 @@
       "type": "Unknown"
     },
     "329664": {
-      "name": "ORG-AESL1-AFRINIC",
+      "name": "AGAPETECH",
       "type": "Unknown"
     },
     "54869": {
@@ -104329,19 +104329,19 @@
       "type": "Unknown"
     },
     "199870": {
-      "name": "ERA-IX Route Servers Soon™",
+      "name": "ERA-IX Route Servers Paris",
       "type": "Route Server"
     },
     "199874": {
-      "name": "BEPROIT",
+      "name": "Pedro Antonio Collado Fernandez",
       "type": "Unknown"
     },
     "4907": {
-      "name": "BGPNETPTELTD-AS-AP",
+      "name": "BGPNET PTE. LTD.",
       "type": "Unknown"
     },
     "54555": {
-      "name": "HOSTDUPLEX",
+      "name": "Host Duplex, LLC",
       "type": "Unknown"
     },
     "152614": {
@@ -104349,7 +104349,7 @@
       "type": "Unknown"
     },
     "151724": {
-      "name": "AKTEL1-AS-IN",
+      "name": "Aktel Fiber Private Limited",
       "type": "Unknown"
     },
     "269166": {
@@ -104365,7 +104365,51 @@
       "type": "Unknown"
     },
     "212311": {
-      "name": "LANCELOT",
+      "name": "Lancelot BV",
+      "type": "Unknown"
+    },
+    "199868": {
+      "name": "Leandro",
+      "type": "Educational/Research"
+    },
+    "273011": {
+      "name": "DATAVOIP, C.A",
+      "type": "Unknown"
+    },
+    "214640": {
+      "name": "HOSTUP",
+      "type": "Unknown"
+    },
+    "200135": {
+      "name": "PTPabrikGula",
+      "type": "Unknown"
+    },
+    "203012": {
+      "name": "gestioniza",
+      "type": "Unknown"
+    },
+    "200029": {
+      "name": "AS-HELSLINK",
+      "type": "Unknown"
+    },
+    "264055": {
+      "name": "ASN264055",
+      "type": "Unknown"
+    },
+    "199794": {
+      "name": "EMO-AS",
+      "type": "Unknown"
+    },
+    "199817": {
+      "name": "TNY-AS",
+      "type": "Unknown"
+    },
+    "199892": {
+      "name": "AKMAL-H",
+      "type": "Unknown"
+    },
+    "275670": {
+      "name": "ASN275670",
       "type": "Unknown"
     },
     "22822": {
@@ -130130,7 +130174,7 @@
     },
     "329239": {
       "name": "Xcobean Systems Limited",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "270175": {
       "name": "ICENTRAL SISTEMAS Y COMUNICACIONES",
@@ -135151,6 +135195,10 @@
     "212513": {
       "name": "OSNET TELEKOM",
       "type": "Network Services"
+    },
+    "212628": {
+      "name": "ARTRUBY",
+      "type": "Content"
     },
     "56926": {
       "name": "KOMNET",
