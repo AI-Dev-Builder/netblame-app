@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-21T00:12:04.010Z",
+  "updated_at": "2026-03-22T00:13:12.825Z",
   "source": "PeeringDB",
-  "entry_count": 34218,
+  "entry_count": 34219,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -17393,7 +17393,7 @@
       "type": "Cable/DSL/ISP"
     },
     "327984": {
-      "name": "Fibrestream ZA",
+      "name": "THE RG ZA",
       "type": "Cable/DSL/ISP"
     },
     "262753": {
@@ -50832,10 +50832,6 @@
       "name": "NTS HARLINGEN",
       "type": "Unknown"
     },
-    "199941": {
-      "name": "EasyConn",
-      "type": "Unknown"
-    },
     "40460": {
       "name": "WeConnect",
       "type": "Cable/DSL/ISP"
@@ -54679,10 +54675,6 @@
     "207616": {
       "name": "ALTROSKY",
       "type": "Content"
-    },
-    "270979": {
-      "name": "Giptelecom Telecomunicacao E Tecnologia Da Informa",
-      "type": "Unknown"
     },
     "268882": {
       "name": "Mais Rede Telecom",
@@ -78928,10 +78920,6 @@
       "name": "Avacon Connect",
       "type": "Unknown"
     },
-    "200262": {
-      "name": "GRIESHOFER-AS",
-      "type": "NSP"
-    },
     "200267": {
       "name": "Yiping Zhao",
       "type": "Educational/Research"
@@ -92516,10 +92504,6 @@
       "name": "City Net Communication",
       "type": "Cable/DSL/ISP"
     },
-    "213993": {
-      "name": "Femboy Proxy Solutions",
-      "type": "Unknown"
-    },
     "214758": {
       "name": "Quinnect",
       "type": "Cable/DSL/ISP"
@@ -103002,7 +102986,7 @@
     },
     "201687": {
       "name": "DARKMATTER",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "400662": {
       "name": "Dobson Technologies - Transport and Telecom Solutions, LLC",
@@ -104262,7 +104246,7 @@
     },
     "401910": {
       "name": "NSCIX-01",
-      "type": "Unknown"
+      "type": "Route Server"
     },
     "215337": {
       "name": "Connecto s.r.l.",
@@ -104333,7 +104317,7 @@
       "type": "Route Server"
     },
     "199874": {
-      "name": "Pedro Antonio Collado Fernandez",
+      "name": "BeProIT Solutions",
       "type": "Unknown"
     },
     "4907": {
@@ -104362,10 +104346,6 @@
     },
     "22218": {
       "name": "MARLINK - AS22218",
-      "type": "Unknown"
-    },
-    "212311": {
-      "name": "Lancelot BV",
       "type": "Unknown"
     },
     "199868": {
@@ -104411,6 +104391,22 @@
     "275670": {
       "name": "ASN275670",
       "type": "Unknown"
+    },
+    "199911": {
+      "name": "RegPEX",
+      "type": "Unknown"
+    },
+    "274461": {
+      "name": "ASN274461",
+      "type": "Unknown"
+    },
+    "204197": {
+      "name": "jdgroup-as1",
+      "type": "Unknown"
+    },
+    "4885": {
+      "name": "KAWAII GLOBAL",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -129089,7 +129085,7 @@
       "type": "Unknown"
     },
     "50666": {
-      "name": "ligaT Telecom",
+      "name": "LigaT Telecom",
       "type": "Cable/DSL/ISP"
     },
     "149057": {
@@ -130475,6 +130471,10 @@
     "30002": {
       "name": "NULOOP CANADA",
       "type": "Enterprise"
+    },
+    "200262": {
+      "name": "GRIESHOFER-AS",
+      "type": "Educational/Research"
     },
     "265580": {
       "name": "Digitcenter de México, S.A. de C.V.",
@@ -136875,6 +136875,10 @@
     "12183": {
       "name": "Talkie Communications",
       "type": "Unknown"
+    },
+    "212311": {
+      "name": "Lancelot BV",
+      "type": "Network Services"
     }
   }
 }
