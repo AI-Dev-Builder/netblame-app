@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-22T00:13:12.825Z",
+  "updated_at": "2026-03-23T00:14:52.629Z",
   "source": "PeeringDB",
-  "entry_count": 34219,
+  "entry_count": 34224,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -75298,7 +75298,7 @@
     },
     "200209": {
       "name": "Axima Networks GmbH",
-      "type": "Content"
+      "type": "Network Services"
     },
     "207415": {
       "name": "Nicepeopleatwork, S.L.",
@@ -75325,7 +75325,7 @@
       "type": "NSP"
     },
     "1000": {
-      "name": "Internet Tool & Die Company",
+      "name": "CORIX NETWORKS AS1000",
       "type": "Unknown"
     },
     "141467": {
@@ -75683,6 +75683,10 @@
     "270278": {
       "name": "AllaNet - Internet Services",
       "type": "Unknown"
+    },
+    "199972": {
+      "name": "DCNET",
+      "type": "Network Services"
     },
     "266095": {
       "name": "Zetek Telecom",
@@ -79511,6 +79515,10 @@
     "266938": {
       "name": "LT SOLUCOES",
       "type": "Unknown"
+    },
+    "48231": {
+      "name": "CRE Network, LLC",
+      "type": "Network Services"
     },
     "273794": {
       "name": "TERA CORPORATION TELECOMUNICACOES EIRELI",
@@ -97556,6 +97564,10 @@
       "name": "Imtech Solution and Data Providers",
       "type": "Cable/DSL/ISP"
     },
+    "215685": {
+      "name": "Dotnet",
+      "type": "Content"
+    },
     "34696": {
       "name": "Mismelink Networks",
       "type": "NSP"
@@ -103110,11 +103122,11 @@
     },
     "203662": {
       "name": "3K33 sp. z o.o.",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "141409": {
-      "name": "3K33 sp. z o.o., 3K33 sp. z o.o.",
-      "type": "Unknown"
+      "name": "3K33 sp. z o.o. APAC",
+      "type": "Enterprise"
     },
     "206116": {
       "name": "Gate Communications LLC",
@@ -103499,10 +103511,6 @@
     "201070": {
       "name": "Bondarenko Oksana Volodymyrivna",
       "type": "Unknown"
-    },
-    "329017": {
-      "name": "RAGA NET SARL",
-      "type": "Enterprise"
     },
     "269681": {
       "name": "BEAM TELECOM IMP EXP LTDA",
@@ -104308,10 +104316,6 @@
       "name": "MINHNG99",
       "type": "Unknown"
     },
-    "199920": {
-      "name": "Vincenzo Di Salvo",
-      "type": "Unknown"
-    },
     "199870": {
       "name": "ERA-IX Route Servers Paris",
       "type": "Route Server"
@@ -104407,6 +104411,18 @@
     "4885": {
       "name": "KAWAII GLOBAL",
       "type": "Cable/DSL/ISP"
+    },
+    "215727": {
+      "name": "ASNSWORLDWIDE",
+      "type": "Cable/DSL/ISP"
+    },
+    "201345": {
+      "name": "Shuma-Watanabe",
+      "type": "Unknown"
+    },
+    "200085": {
+      "name": "WEILNET",
+      "type": "Educational/Research"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -130724,10 +130740,6 @@
       "name": "BENWELL",
       "type": "Unknown"
     },
-    "48231": {
-      "name": "CRE Network, LLC",
-      "type": "Network Services"
-    },
     "1734": {
       "name": "DeLong Consulting",
       "type": "Unknown"
@@ -134674,7 +134686,7 @@
     },
     "213641": {
       "name": "AS213641",
-      "type": "Content"
+      "type": "Unknown"
     },
     "135474": {
       "name": "PT. Hafiz Jaya Infotama",
@@ -135698,10 +135710,6 @@
     },
     "197712": {
       "name": "CDmon",
-      "type": "Content"
-    },
-    "215685": {
-      "name": "Dotnet",
       "type": "Content"
     },
     "401688": {
@@ -136800,6 +136808,10 @@
       "name": "Nullpoint Inc. AS395765",
       "type": "Unknown"
     },
+    "329017": {
+      "name": "RAGA NET SARL",
+      "type": "Enterprise"
+    },
     "200819": {
       "name": "Expanda Network",
       "type": "Educational/Research"
@@ -136876,9 +136888,17 @@
       "name": "Talkie Communications",
       "type": "Unknown"
     },
+    "199920": {
+      "name": "Velix",
+      "type": "Cable/DSL/ISP"
+    },
     "212311": {
       "name": "Lancelot BV",
       "type": "Network Services"
+    },
+    "199854": {
+      "name": "ITBYPASSION",
+      "type": "Educational/Research"
     }
   }
 }
