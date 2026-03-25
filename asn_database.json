@@ -1,13 +1,9 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-24T00:12:44.473Z",
-  "source": "PeeringDB + RIPE NCC RIS",
-  "entry_count": 34225,
+  "updated_at": "2026-03-25T00:14:17.992Z",
+  "source": "PeeringDB",
+  "entry_count": 34230,
   "entries": {
-    "originating": {
-      "name": "ASoriginating",
-      "type": "Unknown"
-    },
     "4436": {
       "name": "GTT Communications (AS4436)",
       "type": "NSP"
@@ -1143,6 +1139,10 @@
     "8844": {
       "name": "CI-Net Limited",
       "type": "Cable/DSL/ISP"
+    },
+    "65536": {
+      "name": "PeeringDB Example 32-bit Network",
+      "type": "Unknown"
     },
     "2686": {
       "name": "AT&T EMEA",
@@ -4413,7 +4413,7 @@
       "type": "Cable/DSL/ISP"
     },
     "44980": {
-      "name": "as44980",
+      "name": "Paul Cairney",
       "type": "Non-Profit"
     },
     "14282": {
@@ -5165,7 +5165,7 @@
       "type": "NSP"
     },
     "42973": {
-      "name": "Metronet UK Ltd",
+      "name": "Metronet UK",
       "type": "NSP"
     },
     "48971": {
@@ -6409,7 +6409,7 @@
       "type": "NSP"
     },
     "28283": {
-      "name": "Adyl Telecom - AS28283",
+      "name": "Adylnet Telecom - AS28283",
       "type": "NSP"
     },
     "28267": {
@@ -8897,7 +8897,7 @@
       "type": "Cable/DSL/ISP"
     },
     "54444": {
-      "name": "AS54444",
+      "name": "AS54444 s.r.o.",
       "type": "Content"
     },
     "198792": {
@@ -10141,7 +10141,7 @@
       "type": "NSP"
     },
     "52610": {
-      "name": "Adyl Telecom - AS52610",
+      "name": "Adylnet Telecom - AS52610",
       "type": "Cable/DSL/ISP"
     },
     "25255": {
@@ -11919,10 +11919,6 @@
     "16798": {
       "name": "Ask.com (IAC Search & Media)",
       "type": "Content"
-    },
-    "62972": {
-      "name": "AMS-IX USA Route Servers",
-      "type": "Route Server"
     },
     "262500": {
       "name": "BS2 Sistemas para Internet Ltda",
@@ -16977,7 +16973,7 @@
       "type": "Cable/DSL/ISP"
     },
     "393941": {
-      "name": "AS393941",
+      "name": "AS393941, LLC",
       "type": "NSP"
     },
     "198710": {
@@ -29188,10 +29184,6 @@
       "name": "F J S LESSA - ME",
       "type": "Cable/DSL/ISP"
     },
-    "199246": {
-      "name": "TopHost",
-      "type": "Content"
-    },
     "264668": {
       "name": "Ufinet Ecuador",
       "type": "Cable/DSL/ISP"
@@ -30293,7 +30285,7 @@
       "type": "Cable/DSL/ISP"
     },
     "4138": {
-      "name": "FN-205-4138",
+      "name": "FAL Networks",
       "type": "Unknown"
     },
     "27935": {
@@ -33921,7 +33913,7 @@
       "type": "Cable/DSL/ISP"
     },
     "61686": {
-      "name": "AS61686",
+      "name": "A.J.D da Silva Manutenção de Micro",
       "type": "Unknown"
     },
     "205488": {
@@ -34111,6 +34103,10 @@
     "19320": {
       "name": "FLEX-WDF",
       "type": "Unknown"
+    },
+    "204858": {
+      "name": "VOIPMINIC",
+      "type": "Cable/DSL/ISP"
     },
     "53486": {
       "name": "NRBN",
@@ -35897,7 +35893,7 @@
       "type": "Cable/DSL/ISP"
     },
     "61590": {
-      "name": "ASN61590",
+      "name": "LIDER INTERNET LTDA",
       "type": "Cable/DSL/ISP"
     },
     "25995": {
@@ -41485,7 +41481,7 @@
       "type": "Unknown"
     },
     "265151": {
-      "name": "Adyl Telecom - AS265151",
+      "name": "Adylnet Telecom - AS265151",
       "type": "Cable/DSL/ISP"
     },
     "209762": {
@@ -41507,10 +41503,6 @@
     "263446": {
       "name": "AZULNET INFORMATICA",
       "type": "Cable/DSL/ISP"
-    },
-    "262576": {
-      "name": "INFORMATICA JUVENILIA COMERCIO E SERVIÇOS",
-      "type": "NSP"
     },
     "265157": {
       "name": "MICROTELL (MELL)..",
@@ -50188,10 +50180,6 @@
       "name": "Anexia AS40979",
       "type": "Unknown"
     },
-    "207881": {
-      "name": "Optimus Telecom",
-      "type": "NSP"
-    },
     "263592": {
       "name": "MarquesInfo.NET",
       "type": "Cable/DSL/ISP"
@@ -51949,7 +51937,7 @@
       "type": "NSP"
     },
     "2886": {
-      "name": "EC-813-2886",
+      "name": "EDGEMICRO CORP.",
       "type": "Unknown"
     },
     "139808": {
@@ -53125,7 +53113,7 @@
       "type": "Content"
     },
     "213136": {
-      "name": "AS213136",
+      "name": "Ryan So",
       "type": "Unknown"
     },
     "327746": {
@@ -56205,7 +56193,7 @@
       "type": "Enterprise"
     },
     "212635": {
-      "name": "AS212635",
+      "name": "AS212635 Network",
       "type": "NSP"
     },
     "270013": {
@@ -60276,10 +60264,6 @@
       "name": "Softnet Digital Cable",
       "type": "Cable/DSL/ISP"
     },
-    "211679": {
-      "name": "Yichao Qi",
-      "type": "Unknown"
-    },
     "139832": {
       "name": "Sylhet-Net Broadband",
       "type": "Unknown"
@@ -63192,10 +63176,6 @@
       "name": "Northwestel",
       "type": "NSP"
     },
-    "271561": {
-      "name": "TECH FIBERS",
-      "type": "NSP"
-    },
     "270748": {
       "name": "INTERV TELECOM",
       "type": "Unknown"
@@ -63535,10 +63515,6 @@
     "271909": {
       "name": "TELECOMUNICACIONES, MANTENIMIENTO Y SERVICIOS P&C, C.A.",
       "type": "NSP"
-    },
-    "211051": {
-      "name": "Dazhong",
-      "type": "Unknown"
     },
     "58690": {
       "name": "Internet East Co.",
@@ -66365,7 +66341,7 @@
       "type": "Cable/DSL/ISP"
     },
     "207788": {
-      "name": "Sjur Fredriksen",
+      "name": "YOLO COLO AS",
       "type": "Unknown"
     },
     "210400": {
@@ -68960,10 +68936,6 @@
       "name": "PT. Kreatif Pasific",
       "type": "Unknown"
     },
-    "64512": {
-      "name": "dummy 64512",
-      "type": "Unknown"
-    },
     "268892": {
       "name": "DBS TELECOM",
       "type": "Unknown"
@@ -69642,7 +69614,7 @@
     },
     "210834": {
       "name": "LU-CIX IT",
-      "type": "Enterprise"
+      "type": "Network Services"
     },
     "211186": {
       "name": "FastTelecomGR",
@@ -71613,7 +71585,7 @@
       "type": "Cable/DSL/ISP"
     },
     "46553": {
-      "name": "AS46553",
+      "name": "AS46553 s.r.o.",
       "type": "Non-Profit"
     },
     "212483": {
@@ -72301,7 +72273,7 @@
       "type": "Unknown"
     },
     "44445": {
-      "name": "AS44445",
+      "name": "AS44445 LTD",
       "type": "Content"
     },
     "19413": {
@@ -74250,7 +74222,7 @@
     },
     "200912": {
       "name": "Joel Krause",
-      "type": "Unknown"
+      "type": "Content"
     },
     "52984": {
       "name": "CS-NET Informática e Tecnologia",
@@ -74413,7 +74385,7 @@
       "type": "NSP"
     },
     "201421": {
-      "name": "AS201421",
+      "name": "Muehlbachler",
       "type": "Educational/Research"
     },
     "43612": {
@@ -75569,7 +75541,7 @@
       "type": "Cable/DSL/ISP"
     },
     "11938": {
-      "name": "AS11938",
+      "name": "ABANTU",
       "type": "Unknown"
     },
     "328310": {
@@ -75867,6 +75839,10 @@
     "399029": {
       "name": "IX-Denver Tenant",
       "type": "Network Services"
+    },
+    "64496": {
+      "name": "PeeringDB Example 16-bit Network",
+      "type": "Unknown"
     },
     "928": {
       "name": "GVV.ME",
@@ -78386,7 +78362,7 @@
     },
     "23481": {
       "name": "Hill Country Telephone Cooperative, Inc.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "33760": {
       "name": "UwUnet",
@@ -79178,10 +79154,6 @@
     },
     "62256": {
       "name": "Samuel Betrisey",
-      "type": "Unknown"
-    },
-    "198100": {
-      "name": "WAP.AC",
       "type": "Unknown"
     },
     "23368": {
@@ -85077,11 +85049,11 @@
       "type": "Unknown"
     },
     "141891": {
-      "name": "AS141891",
+      "name": "PT Lima Satu Tiga Global Tel-Access",
       "type": "NSP"
     },
     "272985": {
-      "name": "272985",
+      "name": "INVERSIONES SOINPRO, S.R.L.",
       "type": "Unknown"
     },
     "202855": {
@@ -85121,7 +85093,7 @@
       "type": "Cable/DSL/ISP"
     },
     "272906": {
-      "name": "272906",
+      "name": "LIBERTY TECHNOLOGY SRL",
       "type": "Unknown"
     },
     "89": {
@@ -85253,7 +85225,7 @@
       "type": "Educational/Research"
     },
     "262222": {
-      "name": "262222",
+      "name": "Oficina Provincial de Tecnologias de la Información (O.P.T.I.C.)",
       "type": "Unknown"
     },
     "215423": {
@@ -85265,7 +85237,7 @@
       "type": "Network Services"
     },
     "52321": {
-      "name": "52321",
+      "name": "Fideicomiso de Administración Datacenter Capitalinas",
       "type": "Unknown"
     },
     "400960": {
@@ -85325,7 +85297,7 @@
       "type": "Unknown"
     },
     "272937": {
-      "name": "272937",
+      "name": "TUNORTETV TELECOMUNICACIONES S.A.S.",
       "type": "Unknown"
     },
     "215154": {
@@ -85373,7 +85345,7 @@
       "type": "Cable/DSL/ISP"
     },
     "215131": {
-      "name": "AS215131",
+      "name": "Bram van de Burgt",
       "type": "Educational/Research"
     },
     "29582": {
@@ -85813,7 +85785,7 @@
       "type": "Network Services"
     },
     "264609": {
-      "name": "264609",
+      "name": "TECOMUNICA NICARAGUA",
       "type": "Cable/DSL/ISP"
     },
     "268644": {
@@ -86029,7 +86001,7 @@
       "type": "NSP"
     },
     "263806": {
-      "name": "263806",
+      "name": "GALAXY ENTERTAINMENT DE VENEZUELA, S.C.A.",
       "type": "Unknown"
     },
     "273497": {
@@ -86405,7 +86377,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273063": {
-      "name": "273063",
+      "name": "DAHMER MARIANO ROBERTO ADRIANO",
       "type": "Cable/DSL/ISP"
     },
     "214911": {
@@ -86541,7 +86513,7 @@
       "type": "Unknown"
     },
     "273223": {
-      "name": "273223",
+      "name": "INGENIERÍA EN INFORMÁTICA MADENET SPA",
       "type": "Unknown"
     },
     "270092": {
@@ -86625,7 +86597,7 @@
       "type": "Cable/DSL/ISP"
     },
     "267834": {
-      "name": "267834",
+      "name": "SERVYCOM COLOMBIA S.A.S",
       "type": "Cable/DSL/ISP"
     },
     "10104": {
@@ -86649,7 +86621,7 @@
       "type": "Unknown"
     },
     "267704": {
-      "name": "267704",
+      "name": "SAMISTRARO BAMBERG DANGELO DANIEL",
       "type": "Unknown"
     },
     "206260": {
@@ -86685,7 +86657,7 @@
       "type": "Educational/Research"
     },
     "265694": {
-      "name": "265694",
+      "name": "Nicolas Lagunas Turczyn(MACROHOSTING)",
       "type": "Enterprise"
     },
     "150606": {
@@ -86873,7 +86845,7 @@
       "type": "Unknown"
     },
     "215248": {
-      "name": "AS215248",
+      "name": "Bastiaan Mathijs Brink",
       "type": "Unknown"
     },
     "202108": {
@@ -86941,7 +86913,7 @@
       "type": "Cable/DSL/ISP"
     },
     "267795": {
-      "name": "267795",
+      "name": "PRIETO TELLES ALEXANDRE(F1NET TELECOM PY)",
       "type": "Unknown"
     },
     "273453": {
@@ -87197,7 +87169,7 @@
       "type": "Unknown"
     },
     "264851": {
-      "name": "264851",
+      "name": "IFOTONCORP S.A.",
       "type": "Unknown"
     },
     "269581": {
@@ -87473,7 +87445,7 @@
       "type": "Cable/DSL/ISP"
     },
     "272925": {
-      "name": "272925",
+      "name": "SAN JUAN INNOVA S.E.",
       "type": "Unknown"
     },
     "214633": {
@@ -87709,11 +87681,11 @@
       "type": "Unknown"
     },
     "273231": {
-      "name": "273231",
+      "name": "SIMPLYNET SRL",
       "type": "Unknown"
     },
     "270157": {
-      "name": "270157",
+      "name": "ECCONETWORK S.A.S. DE C.V.",
       "type": "Cable/DSL/ISP"
     },
     "133585": {
@@ -87729,7 +87701,7 @@
       "type": "Enterprise"
     },
     "272040": {
-      "name": "272040",
+      "name": "SERVICIOS NUÑEZ EIRL",
       "type": "Unknown"
     },
     "214565": {
@@ -87737,11 +87709,11 @@
       "type": "Unknown"
     },
     "273154": {
-      "name": "273154",
+      "name": "MULTICANAL LA SEÑAL DIGITAL, C.A.",
       "type": "Unknown"
     },
     "273070": {
-      "name": "273070",
+      "name": "HELLOFIBRA SERVICES PEÑA, S.R.L.",
       "type": "Cable/DSL/ISP"
     },
     "216141": {
@@ -88721,7 +88693,7 @@
       "type": "Network Services"
     },
     "273765": {
-      "name": "ASN273765",
+      "name": "RedLink Fibra",
       "type": "Unknown"
     },
     "273564": {
@@ -88845,7 +88817,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273026": {
-      "name": "273026",
+      "name": "NEXSATEL SOCIEDAD ANONIMA CERRADA - NEXSATEL S.A.C.",
       "type": "Unknown"
     },
     "400540": {
@@ -88877,7 +88849,7 @@
       "type": "Content"
     },
     "270448": {
-      "name": "ASN270448",
+      "name": "MV NET",
       "type": "Unknown"
     },
     "395475": {
@@ -88901,7 +88873,7 @@
       "type": "Unknown"
     },
     "266373": {
-      "name": "ASN266373",
+      "name": "Justica Federal de Primeiro Grau em Santa Catarina",
       "type": "Government"
     },
     "48924": {
@@ -88909,7 +88881,7 @@
       "type": "Enterprise"
     },
     "273051": {
-      "name": "273051",
+      "name": "ANDINA TELECOMUNICACIONES DEL PERU S.A.C.",
       "type": "Unknown"
     },
     "215180": {
@@ -88953,7 +88925,7 @@
       "type": "Unknown"
     },
     "329259": {
-      "name": "ORG-OIL1-AFRINIC",
+      "name": "Omicron IT (Pty) Ltd",
       "type": "Unknown"
     },
     "137718": {
@@ -88977,7 +88949,7 @@
       "type": "Unknown"
     },
     "268565": {
-      "name": "ASN268565",
+      "name": "InfinityON",
       "type": "Unknown"
     },
     "266218": {
@@ -88989,7 +88961,7 @@
       "type": "Unknown"
     },
     "61830": {
-      "name": "ASN61830",
+      "name": "NETTRON TELECOMUNICACOES LTDA - ME",
       "type": "Cable/DSL/ISP"
     },
     "396189": {
@@ -89013,7 +88985,7 @@
       "type": "Unknown"
     },
     "273132": {
-      "name": "273132",
+      "name": "VALLE ISP S.A.S.",
       "type": "Cable/DSL/ISP"
     },
     "270936": {
@@ -89041,7 +89013,7 @@
       "type": "Content"
     },
     "269170": {
-      "name": "ASN269170",
+      "name": "Sp-link Telecom Comunicacao Multimidia - Scm LTDA",
       "type": "Unknown"
     },
     "272405": {
@@ -89051,10 +89023,6 @@
     "214353": {
       "name": "NMJ Service Oy",
       "type": "Unknown"
-    },
-    "214307": {
-      "name": "Ivx",
-      "type": "NSP"
     },
     "273172": {
       "name": "INTERCARIBE TV S.A.S.",
@@ -89093,7 +89061,7 @@
       "type": "Unknown"
     },
     "269419": {
-      "name": "ASN269419",
+      "name": "WWN Redes e Comunicações Ltda.",
       "type": "Cable/DSL/ISP"
     },
     "149615": {
@@ -89117,7 +89085,7 @@
       "type": "Unknown"
     },
     "273644": {
-      "name": "ASN273644",
+      "name": "Multi Connect Fibra LTDA",
       "type": "Cable/DSL/ISP"
     },
     "141873": {
@@ -89213,7 +89181,7 @@
       "type": "Unknown"
     },
     "268735": {
-      "name": "ASN268735",
+      "name": "MARCOS LUIZ DE ALMEIDA ME",
       "type": "Unknown"
     },
     "271093": {
@@ -89269,7 +89237,7 @@
       "type": "Unknown"
     },
     "265907": {
-      "name": "ASN265907",
+      "name": "DAL MORA & CIA LTDA - EPP",
       "type": "Cable/DSL/ISP"
     },
     "266319": {
@@ -89301,7 +89269,7 @@
       "type": "Unknown"
     },
     "270528": {
-      "name": "ASN270528",
+      "name": "B.L.I NETWORK TELECOMUNICACAO LTDA",
       "type": "Unknown"
     },
     "214763": {
@@ -89341,7 +89309,7 @@
       "type": "Cable/DSL/ISP"
     },
     "37524": {
-      "name": "ORG-AG1-AFRINIC",
+      "name": "Africell Gambia",
       "type": "Unknown"
     },
     "399856": {
@@ -89349,15 +89317,15 @@
       "type": "Unknown"
     },
     "262616": {
-      "name": "ASN262616",
+      "name": "Virtual Slice Telecom Ltda",
       "type": "Unknown"
     },
     "264573": {
-      "name": "ASN264573",
+      "name": "GNEX LTDA",
       "type": "Cable/DSL/ISP"
     },
     "273793": {
-      "name": "ASN273793",
+      "name": "INFOPOINT TELECOM LTDA",
       "type": "Cable/DSL/ISP"
     },
     "153191": {
@@ -89381,7 +89349,7 @@
       "type": "Unknown"
     },
     "61698": {
-      "name": "ASN61698",
+      "name": "WINQ ULTRANET",
       "type": "Cable/DSL/ISP"
     },
     "207739": {
@@ -89409,7 +89377,7 @@
       "type": "Unknown"
     },
     "267851": {
-      "name": "267851",
+      "name": "SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).",
       "type": "Cable/DSL/ISP"
     },
     "400503": {
@@ -89489,11 +89457,11 @@
       "type": "Unknown"
     },
     "268841": {
-      "name": "ASN268841",
+      "name": "INFINITY NET",
       "type": "NSP"
     },
     "264584": {
-      "name": "ASN264584",
+      "name": "CAWEB INFORMATICA LTDA",
       "type": "Unknown"
     },
     "268842": {
@@ -89509,11 +89477,11 @@
       "type": "Unknown"
     },
     "265985": {
-      "name": "ASN265985",
+      "name": "MELNET PROVEDOR",
       "type": "Cable/DSL/ISP"
     },
     "269138": {
-      "name": "ASN269138",
+      "name": "MOV TELECOM",
       "type": "Unknown"
     },
     "153053": {
@@ -89525,7 +89493,7 @@
       "type": "Cable/DSL/ISP"
     },
     "272279": {
-      "name": "ASN272279",
+      "name": "NGX NETWORKS SERVICES LTDA",
       "type": "Unknown"
     },
     "214343": {
@@ -89537,7 +89505,7 @@
       "type": "Unknown"
     },
     "274614": {
-      "name": "ASN274614",
+      "name": "VELOX NETWORK SOLUCOES TECNOLOGICAS LTDA",
       "type": "Cable/DSL/ISP"
     },
     "56600": {
@@ -89549,7 +89517,7 @@
       "type": "NSP"
     },
     "266962": {
-      "name": "ASN266962",
+      "name": "G M DA COSTA INTERNET",
       "type": "Cable/DSL/ISP"
     },
     "262714": {
@@ -89613,7 +89581,7 @@
       "type": "Unknown"
     },
     "329433": {
-      "name": "ORG-DNL1-AFRINIC",
+      "name": "Develop Net (PTY) LTD",
       "type": "Unknown"
     },
     "150856": {
@@ -89633,7 +89601,7 @@
       "type": "Unknown"
     },
     "270251": {
-      "name": "ASN270251",
+      "name": "Ghost Telecom",
       "type": "Unknown"
     },
     "401147": {
@@ -89665,15 +89633,15 @@
       "type": "Unknown"
     },
     "270785": {
-      "name": "ASN270785",
+      "name": "PRNET PROVEDOR DE INTERNET LTDA",
       "type": "Unknown"
     },
     "268312": {
-      "name": "ASN268312",
+      "name": "PROREDES INTERNET SERVICOS DE INFORMATICA LTDA - M",
       "type": "Cable/DSL/ISP"
     },
     "274616": {
-      "name": "ASN274616",
+      "name": "DEEP CONNECT TELECOM LTDA",
       "type": "Cable/DSL/ISP"
     },
     "206519": {
@@ -89693,7 +89661,7 @@
       "type": "Cable/DSL/ISP"
     },
     "37594": {
-      "name": "ORG-MSS2-AFRINIC",
+      "name": "MTN South Sudan",
       "type": "Unknown"
     },
     "51505": {
@@ -89713,11 +89681,11 @@
       "type": "Unknown"
     },
     "267473": {
-      "name": "ASN267473",
+      "name": "TEC NET SERVICOS DE COMU MULTIMIDIA SCM LTDA ME",
       "type": "Cable/DSL/ISP"
     },
     "265162": {
-      "name": "ASN265162",
+      "name": "JOSE RENATO COSTA DOS SANTOS DE NOVA SOURE - ME",
       "type": "Unknown"
     },
     "62343": {
@@ -89737,7 +89705,7 @@
       "type": "Cable/DSL/ISP"
     },
     "272401": {
-      "name": "272401",
+      "name": "FIBRIT TELECOM",
       "type": "Network Services"
     },
     "152771": {
@@ -89749,7 +89717,7 @@
       "type": "Network Services"
     },
     "270642": {
-      "name": "ASN270642",
+      "name": "AGILITY TELECOM PARACURU",
       "type": "Cable/DSL/ISP"
     },
     "272369": {
@@ -89789,7 +89757,7 @@
       "type": "Network Services"
     },
     "274600": {
-      "name": "ASN274600",
+      "name": "Massa Telecomunicacoes Ltda",
       "type": "Unknown"
     },
     "59449": {
@@ -89829,7 +89797,7 @@
       "type": "Cable/DSL/ISP"
     },
     "271103": {
-      "name": "ASN271103",
+      "name": "Antonio Weslley Ximenes Farias EIRELI",
       "type": "Unknown"
     },
     "152823": {
@@ -89877,7 +89845,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273514": {
-      "name": "ASN273514",
+      "name": "AMPLE SOLUCOES TECNOLOGICAS LTDA",
       "type": "NSP"
     },
     "215481": {
@@ -89885,7 +89853,7 @@
       "type": "Content"
     },
     "269628": {
-      "name": "ASN269628",
+      "name": "Matheus dos santos",
       "type": "Unknown"
     },
     "152816": {
@@ -89901,7 +89869,7 @@
       "type": "Network Services"
     },
     "273937": {
-      "name": "273937",
+      "name": "SERVICIOS TECNOLOGICOS PABLO MELLA MORALES SRL",
       "type": "Network Services"
     },
     "137527": {
@@ -89929,7 +89897,7 @@
       "type": "Unknown"
     },
     "264403": {
-      "name": "ASN264403",
+      "name": "CMTECH Com.e Serv.de Informatica Ltda",
       "type": "Unknown"
     },
     "136805": {
@@ -89953,11 +89921,11 @@
       "type": "NSP"
     },
     "61707": {
-      "name": "ASN61707",
+      "name": "SYSVOIP TELECOMUNICAÇÕES LTDA - ME",
       "type": "Unknown"
     },
     "264324": {
-      "name": "ASN264324",
+      "name": "GMAES TELECOM LTDA",
       "type": "NSP"
     },
     "204267": {
@@ -89989,7 +89957,7 @@
       "type": "Unknown"
     },
     "266777": {
-      "name": "266777",
+      "name": "DOVAL MANUEL ANGEL (INETGAMING)",
       "type": "Content"
     },
     "401362": {
@@ -90049,11 +90017,11 @@
       "type": "Enterprise"
     },
     "329487": {
-      "name": "ORG-FBL6-AFRINIC",
+      "name": "Fibernet Broadband Ltd",
       "type": "Cable/DSL/ISP"
     },
     "272006": {
-      "name": "272006",
+      "name": "DOVA SRL",
       "type": "Cable/DSL/ISP"
     },
     "36065": {
@@ -90073,7 +90041,7 @@
       "type": "Enterprise"
     },
     "268940": {
-      "name": "ASN268940",
+      "name": "Kayros Link",
       "type": "Unknown"
     },
     "153058": {
@@ -90093,7 +90061,7 @@
       "type": "Unknown"
     },
     "274619": {
-      "name": "ASN274619",
+      "name": "ALA TELECOM LTDA",
       "type": "Unknown"
     },
     "152781": {
@@ -90117,7 +90085,7 @@
       "type": "Unknown"
     },
     "273779": {
-      "name": "ASN273779",
+      "name": "Costa e Sodré Comunicação LTDA",
       "type": "Cable/DSL/ISP"
     },
     "401357": {
@@ -90153,7 +90121,7 @@
       "type": "Unknown"
     },
     "273881": {
-      "name": "273881",
+      "name": "ISP PERU IX E.I.R.L.",
       "type": "Content"
     },
     "16823": {
@@ -90161,7 +90129,7 @@
       "type": "Unknown"
     },
     "263886": {
-      "name": "ASN263886",
+      "name": "oliveira santos telecomunicacoes ltda",
       "type": "Cable/DSL/ISP"
     },
     "273909": {
@@ -90169,7 +90137,7 @@
       "type": "Cable/DSL/ISP"
     },
     "272029": {
-      "name": "272029",
+      "name": "FIBER CABLE E.I.R.L.",
       "type": "Cable/DSL/ISP"
     },
     "153355": {
@@ -90197,7 +90165,7 @@
       "type": "Cable/DSL/ISP"
     },
     "269436": {
-      "name": "ASN269436",
+      "name": "Out Service Telecom Serviços Ltda",
       "type": "Unknown"
     },
     "59533": {
@@ -90285,7 +90253,7 @@
       "type": "Educational/Research"
     },
     "37230": {
-      "name": "ORG-SL76-AFRINIC",
+      "name": "Swifttalk Limited",
       "type": "Unknown"
     },
     "329178": {
@@ -90329,7 +90297,7 @@
       "type": "Unknown"
     },
     "263116": {
-      "name": "ASN263116",
+      "name": "HELP NET TELECOM E INFORMÁTICA LTDA - ME",
       "type": "Unknown"
     },
     "47064": {
@@ -90413,11 +90381,11 @@
       "type": "Non-Profit"
     },
     "329502": {
-      "name": "ORG-IMSL1-AFRINIC",
+      "name": "Verifier",
       "type": "Unknown"
     },
     "273335": {
-      "name": "ASN273335",
+      "name": "Johnny Frank Varas ME",
       "type": "Cable/DSL/ISP"
     },
     "62255": {
@@ -90481,7 +90449,7 @@
       "type": "Cable/DSL/ISP"
     },
     "271704": {
-      "name": "ASN271704",
+      "name": "MSFIBRA",
       "type": "Cable/DSL/ISP"
     },
     "46941": {
@@ -90489,7 +90457,7 @@
       "type": "Unknown"
     },
     "273960": {
-      "name": "273960",
+      "name": "TELECABLE INTERNACIONAL TAMBORIL SRL",
       "type": "Unknown"
     },
     "213998": {
@@ -90597,11 +90565,11 @@
       "type": "Unknown"
     },
     "274667": {
-      "name": "ASN274667",
+      "name": "O3CLOUD",
       "type": "Unknown"
     },
     "273380": {
-      "name": "ASN273380",
+      "name": "I3 NET TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "151583": {
@@ -90609,7 +90577,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329317": {
-      "name": "ORG-ML15-AFRINIC",
+      "name": "Minntech (Pty) Limited",
       "type": "Unknown"
     },
     "888": {
@@ -90645,7 +90613,7 @@
       "type": "Unknown"
     },
     "267455": {
-      "name": "ASN267455",
+      "name": "FIBRACOM TELECOMUNICACOES E SERVICOS EIRELI - ME",
       "type": "NSP"
     },
     "215026": {
@@ -90729,7 +90697,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329367": {
-      "name": "ORG-TNL6-AFRINIC",
+      "name": "Tawala Networks Limited",
       "type": "Unknown"
     },
     "32316": {
@@ -90737,11 +90705,11 @@
       "type": "Unknown"
     },
     "271673": {
-      "name": "ASN271673",
+      "name": "ST NET TELECOM",
       "type": "NSP"
     },
     "273801": {
-      "name": "ASN273801",
+      "name": "Treinatec Telecom",
       "type": "NSP"
     },
     "152539": {
@@ -90757,7 +90725,7 @@
       "type": "Unknown"
     },
     "273254": {
-      "name": "273254",
+      "name": "SIGLO REDES DE MEXICO SAPI DE C.V",
       "type": "Unknown"
     },
     "215518": {
@@ -90781,11 +90749,11 @@
       "type": "Cable/DSL/ISP"
     },
     "328997": {
-      "name": "ORG-RA11-AFRINIC",
+      "name": "RIMATEL-SA",
       "type": "NSP"
     },
     "273740": {
-      "name": "ASN273740",
+      "name": "ULTRA LINK  LTDA",
       "type": "NSP"
     },
     "201532": {
@@ -90801,7 +90769,7 @@
       "type": "NSP"
     },
     "272739": {
-      "name": "ASN272739",
+      "name": "Lider Fibra",
       "type": "NSP"
     },
     "263322": {
@@ -90813,7 +90781,7 @@
       "type": "Unknown"
     },
     "270741": {
-      "name": "ASN270741",
+      "name": "NossaNeT Fortaleza",
       "type": "Unknown"
     },
     "395898": {
@@ -90825,7 +90793,7 @@
       "type": "Network Services"
     },
     "265040": {
-      "name": "ASN265040",
+      "name": "ALAN CHARLES ALVES LEITE ME",
       "type": "Unknown"
     },
     "274640": {
@@ -91009,7 +90977,7 @@
       "type": "Unknown"
     },
     "328679": {
-      "name": "ORG-SDCS1-AFRINIC",
+      "name": "SOCIETE DIGITAL COM SA/AG",
       "type": "Unknown"
     },
     "211158": {
@@ -91045,11 +91013,11 @@
       "type": "Route Server"
     },
     "266814": {
-      "name": "266814",
+      "name": "Masternet Telecomunicaciones",
       "type": "Unknown"
     },
     "272769": {
-      "name": "ASN272769",
+      "name": "M.E.G REGATIERI - ME",
       "type": "Unknown"
     },
     "213886": {
@@ -91181,7 +91149,7 @@
       "type": "Cable/DSL/ISP"
     },
     "269667": {
-      "name": "ASN269667",
+      "name": "Ronaldo Souza Correia -ME",
       "type": "Unknown"
     },
     "152372": {
@@ -91193,7 +91161,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273550": {
-      "name": "ASN273550",
+      "name": "RIZZI SERVICOS EM TELECOM E TECNOLOGIA LTDA",
       "type": "NSP"
     },
     "213842": {
@@ -91201,7 +91169,7 @@
       "type": "Content"
     },
     "267883": {
-      "name": "267883",
+      "name": "RODRIGUEZ PAEZ HUGO HERNAN (TELNET PARAGUAY)",
       "type": "Unknown"
     },
     "398020": {
@@ -91265,7 +91233,7 @@
       "type": "Unknown"
     },
     "273097": {
-      "name": "273097",
+      "name": "NETFULL FIBRA SpA",
       "type": "Cable/DSL/ISP"
     },
     "32945": {
@@ -91337,7 +91305,7 @@
       "type": "Cable/DSL/ISP"
     },
     "268220": {
-      "name": "ASN268220",
+      "name": "SECRETARIA EXECUTIVA DE FAZENDA",
       "type": "Unknown"
     },
     "25052": {
@@ -91361,7 +91329,7 @@
       "type": "NSP"
     },
     "273685": {
-      "name": "ASN273685",
+      "name": "Teknetsp telecomunicacoes Eirelli",
       "type": "Cable/DSL/ISP"
     },
     "47376": {
@@ -91377,7 +91345,7 @@
       "type": "Unknown"
     },
     "269265": {
-      "name": "ASN269265",
+      "name": "Cyber Link",
       "type": "Cable/DSL/ISP"
     },
     "10497": {
@@ -91401,7 +91369,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329435": {
-      "name": "ORG-AALL1-AFRINIC",
+      "name": "Aljuman Aljadeed Limited Liability company",
       "type": "Cable/DSL/ISP"
     },
     "28959": {
@@ -91417,7 +91385,7 @@
       "type": "Unknown"
     },
     "329263": {
-      "name": "ORG-LSFI1-AFRINIC",
+      "name": "Libyan Spider for IT LTD.",
       "type": "Unknown"
     },
     "152049": {
@@ -91433,7 +91401,7 @@
       "type": "Unknown"
     },
     "270464": {
-      "name": "ASN270464",
+      "name": "NewFast Telecom",
       "type": "Unknown"
     },
     "214043": {
@@ -91445,7 +91413,7 @@
       "type": "Unknown"
     },
     "274610": {
-      "name": "ASN274610",
+      "name": "NEXT BRASIL TELECOM LTDA",
       "type": "Cable/DSL/ISP"
     },
     "401483": {
@@ -91465,7 +91433,7 @@
       "type": "Unknown"
     },
     "265310": {
-      "name": "ASN265310",
+      "name": "RETIS - REDES, TI E SEGURANCA LTDA - ME",
       "type": "Unknown"
     },
     "146946": {
@@ -91573,7 +91541,7 @@
       "type": "Cable/DSL/ISP"
     },
     "328653": {
-      "name": "ORG-UA4-AFRINIC",
+      "name": "Universite Abomey-Calavi",
       "type": "Unknown"
     },
     "57443": {
@@ -91629,7 +91597,7 @@
       "type": "Cable/DSL/ISP"
     },
     "265005": {
-      "name": "ASN265005",
+      "name": "IPWORKS SISTEMAS LTDA ME",
       "type": "Unknown"
     },
     "22976": {
@@ -91693,7 +91661,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273859": {
-      "name": "273859",
+      "name": "REDES LITORALES, S.A. DE C.V.",
       "type": "Unknown"
     },
     "149414": {
@@ -91729,7 +91697,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273495": {
-      "name": "ASN273495",
+      "name": "JS TELECOM LTDA",
       "type": "Unknown"
     },
     "51": {
@@ -91737,7 +91705,7 @@
       "type": "Unknown"
     },
     "274690": {
-      "name": "ASN274690",
+      "name": "SOFTPOLLUS GESTAO EMPRESARIAL LTDA",
       "type": "Cable/DSL/ISP"
     },
     "204104": {
@@ -91769,7 +91737,7 @@
       "type": "Unknown"
     },
     "273697": {
-      "name": "ASN273697",
+      "name": "TO HOST DATACENTERS LTDA",
       "type": "Unknown"
     },
     "38943": {
@@ -91785,7 +91753,7 @@
       "type": "Unknown"
     },
     "53182": {
-      "name": "ASN53182",
+      "name": "lazernet.com.br ltda me",
       "type": "Cable/DSL/ISP"
     },
     "401485": {
@@ -91805,7 +91773,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329448": {
-      "name": "ORG-AML1-AFRINIC",
+      "name": "AZAM MEDIA LIMITED",
       "type": "Unknown"
     },
     "139029": {
@@ -91901,7 +91869,7 @@
       "type": "Cable/DSL/ISP"
     },
     "266122": {
-      "name": "ASN266122",
+      "name": "Banco da Amazonia S/A",
       "type": "Unknown"
     },
     "34605": {
@@ -91929,7 +91897,7 @@
       "type": "Cable/DSL/ISP"
     },
     "270819": {
-      "name": "ASN270819",
+      "name": "SOS Internet",
       "type": "Unknown"
     },
     "211450": {
@@ -91985,7 +91953,7 @@
       "type": "Route Server"
     },
     "269675": {
-      "name": "ASN269675",
+      "name": "SOFTEN INFORMATICA LTDA",
       "type": "Unknown"
     },
     "23932": {
@@ -92217,7 +92185,7 @@
       "type": "Enterprise"
     },
     "273486": {
-      "name": "ASN273486",
+      "name": "jvn telecom ltda",
       "type": "Cable/DSL/ISP"
     },
     "141429": {
@@ -92500,10 +92468,6 @@
       "name": "LF73",
       "type": "Unknown"
     },
-    "214579": {
-      "name": "Hala Networks Limited",
-      "type": "Unknown"
-    },
     "398839": {
       "name": "ALLIANCE TELECOM",
       "type": "Cable/DSL/ISP"
@@ -92549,7 +92513,7 @@
       "type": "Unknown"
     },
     "53021": {
-      "name": "ASN53021",
+      "name": "GAVEA INVESTIMENTOS LTDA",
       "type": "Unknown"
     },
     "21564": {
@@ -92605,7 +92569,7 @@
       "type": "Enterprise"
     },
     "272601": {
-      "name": "ASN272601",
+      "name": "GNET TELECOMUNICACOES",
       "type": "Cable/DSL/ISP"
     },
     "213708": {
@@ -92625,7 +92589,7 @@
       "type": "NSP"
     },
     "27872": {
-      "name": "27872",
+      "name": "URBE - Universidad Dr. Rafael Belloso",
       "type": "Unknown"
     },
     "211423": {
@@ -92645,7 +92609,7 @@
       "type": "Content"
     },
     "329457": {
-      "name": "ORG-CCS1-AFRINIC",
+      "name": "CONNECTION CAMEROON S.A",
       "type": "Cable/DSL/ISP"
     },
     "39368": {
@@ -92677,7 +92641,7 @@
       "type": "Unknown"
     },
     "328708": {
-      "name": "ORG-DAL3-AFRINIC",
+      "name": "DishNet Africa Limited",
       "type": "Cable/DSL/ISP"
     },
     "41954": {
@@ -92701,7 +92665,7 @@
       "type": "Cable/DSL/ISP"
     },
     "266638": {
-      "name": "ASN266638",
+      "name": "Giga Telecom LTDA ME",
       "type": "Cable/DSL/ISP"
     },
     "213593": {
@@ -92737,7 +92701,7 @@
       "type": "Unknown"
     },
     "328769": {
-      "name": "ORG-ANSL3-AFRINIC",
+      "name": "ARROW NETWORK SYSTEMS LIMITED",
       "type": "NSP"
     },
     "135032": {
@@ -92833,11 +92797,11 @@
       "type": "Enterprise"
     },
     "28609": {
-      "name": "ASN28609",
+      "name": "Instituto Nupef",
       "type": "Unknown"
     },
     "273061": {
-      "name": "273061",
+      "name": "VOZ Y TELEVISON SAC",
       "type": "Unknown"
     },
     "213772": {
@@ -92893,7 +92857,7 @@
       "type": "Unknown"
     },
     "267412": {
-      "name": "ASN267412",
+      "name": "Linknet-Wifi Informática e telecomunicações",
       "type": "NSP"
     },
     "400941": {
@@ -92941,7 +92905,7 @@
       "type": "Cable/DSL/ISP"
     },
     "274615": {
-      "name": "ASN274615",
+      "name": "Green Fiber",
       "type": "Cable/DSL/ISP"
     },
     "198594": {
@@ -92993,7 +92957,7 @@
       "type": "Cable/DSL/ISP"
     },
     "274742": {
-      "name": "ASN274742",
+      "name": "Ello Tecnology LTDA",
       "type": "Cable/DSL/ISP"
     },
     "53942": {
@@ -93005,7 +92969,7 @@
       "type": "Unknown"
     },
     "273473": {
-      "name": "ASN273473",
+      "name": "FLASHNET TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
     },
     "213570": {
@@ -93029,7 +92993,7 @@
       "type": "Unknown"
     },
     "273082": {
-      "name": "273082",
+      "name": "COMERCIALIZADORA ENTRETENIMIENTO Y COMUNICACIONES S.A.S.",
       "type": "Unknown"
     },
     "401609": {
@@ -93045,7 +93009,7 @@
       "type": "Unknown"
     },
     "329281": {
-      "name": "ORG-CEDC1-AFRINIC",
+      "name": "CAIXA ECONOMICA DE CABO VERDE, S. A.",
       "type": "Unknown"
     },
     "18799": {
@@ -93101,7 +93065,7 @@
       "type": "Content"
     },
     "262278": {
-      "name": "ASN262278",
+      "name": "CROSS CONECTION PROVEDOR DE INTERNET LTDA",
       "type": "Unknown"
     },
     "396993": {
@@ -93137,7 +93101,7 @@
       "type": "Unknown"
     },
     "272791": {
-      "name": "ASN272791",
+      "name": "Riann Martins de Oliveira - ME",
       "type": "Unknown"
     },
     "274039": {
@@ -93165,7 +93129,7 @@
       "type": "Unknown"
     },
     "329465": {
-      "name": "ORG-BT4-AFRINIC",
+      "name": "Betta Technologies",
       "type": "Unknown"
     },
     "206286": {
@@ -93197,11 +93161,11 @@
       "type": "Network Services"
     },
     "268705": {
-      "name": "ASN268705",
+      "name": "TURBONET.NETWORK LTDA",
       "type": "Unknown"
     },
     "273719": {
-      "name": "ASN273719",
+      "name": "Teletrica Tecnologia Ltda - ME",
       "type": "NSP"
     },
     "400596": {
@@ -93217,11 +93181,11 @@
       "type": "Unknown"
     },
     "37376": {
-      "name": "ORG-ZSS1-AFRINIC",
+      "name": "Zain South Sudan",
       "type": "Unknown"
     },
     "329314": {
-      "name": "ORG-SA72-AFRINIC",
+      "name": "STELLAR-IX",
       "type": "Unknown"
     },
     "1936": {
@@ -93257,7 +93221,7 @@
       "type": "Cable/DSL/ISP"
     },
     "274026": {
-      "name": "274026",
+      "name": "MAPLENET COMUNICACIONES S.A.",
       "type": "Unknown"
     },
     "263247": {
@@ -93269,7 +93233,7 @@
       "type": "Unknown"
     },
     "329506": {
-      "name": "ORG-MSL4-AFRINIC",
+      "name": "MSBYTE-SOLUTION,LIMITADA",
       "type": "Unknown"
     },
     "153490": {
@@ -93293,7 +93257,7 @@
       "type": "Unknown"
     },
     "270142": {
-      "name": "270142",
+      "name": "Castor Networks Mexico",
       "type": "Content"
     },
     "149788": {
@@ -93361,7 +93325,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273222": {
-      "name": "273222",
+      "name": "INVERSIONES CABLENET E.I.R.L.",
       "type": "Unknown"
     },
     "273599": {
@@ -93385,7 +93349,7 @@
       "type": "Unknown"
     },
     "27948": {
-      "name": "27948",
+      "name": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
       "type": "Unknown"
     },
     "213431": {
@@ -93393,7 +93357,7 @@
       "type": "Unknown"
     },
     "64119": {
-      "name": "64119",
+      "name": "AUTORIDAD DE REGULACIÓN Y FISCALIZACIÓN DE TELECOMUNICACIONES Y TRANSPORTES",
       "type": "Unknown"
     },
     "29987": {
@@ -93441,11 +93405,11 @@
       "type": "Route Collector"
     },
     "329130": {
-      "name": "ORG-TACF1-AFRINIC",
+      "name": "TAQNYAT ALJEEL COMPANY FOR COMMUNICATION AND INFORMATION TECHNOLOGY LTD",
       "type": "Cable/DSL/ISP"
     },
     "272252": {
-      "name": "ASN272252",
+      "name": "BRASIL ANTENAS",
       "type": "Cable/DSL/ISP"
     },
     "213436": {
@@ -93461,7 +93425,7 @@
       "type": "Cable/DSL/ISP"
     },
     "274621": {
-      "name": "ASN274621",
+      "name": "TOP INFORMATICA LTDA",
       "type": "Cable/DSL/ISP"
     },
     "401619": {
@@ -93549,7 +93513,7 @@
       "type": "NSP"
     },
     "273970": {
-      "name": "273970",
+      "name": "SCHRAMM CRISTIAN SAMUEL (Samuel-SI Internet)",
       "type": "Unknown"
     },
     "153118": {
@@ -93565,7 +93529,7 @@
       "type": "Unknown"
     },
     "28104": {
-      "name": "28104",
+      "name": "Eutel N.V.",
       "type": "Unknown"
     },
     "213243": {
@@ -93617,7 +93581,7 @@
       "type": "Enterprise"
     },
     "213449": {
-      "name": "AS213449",
+      "name": "JOW",
       "type": "Content"
     },
     "212770": {
@@ -93661,7 +93625,7 @@
       "type": "Unknown"
     },
     "270724": {
-      "name": "ASN270724",
+      "name": "CLIENT.CO SERVIÇOS E TELECOMUNICAÇÕES LTDA",
       "type": "Unknown"
     },
     "400860": {
@@ -93673,7 +93637,7 @@
       "type": "Unknown"
     },
     "273259": {
-      "name": "273259",
+      "name": "ZEGANET",
       "type": "Unknown"
     },
     "46176": {
@@ -93697,19 +93661,15 @@
       "type": "Network Services"
     },
     "263341": {
-      "name": "ASN263341",
+      "name": "FABIO DOS SANTOS GUERINO INFORMATICA - ME",
       "type": "Cable/DSL/ISP"
-    },
-    "33756": {
-      "name": "CHC-IPV6-A",
-      "type": "Enterprise"
     },
     "49181": {
       "name": "GCX-AS",
       "type": "Unknown"
     },
     "272928": {
-      "name": "272928",
+      "name": "P&C ON LINE S.R.L.",
       "type": "Network Services"
     },
     "48942": {
@@ -93753,7 +93713,7 @@
       "type": "Cable/DSL/ISP"
     },
     "265225": {
-      "name": "ASN265225",
+      "name": "XINGU TELECOM LTDA",
       "type": "Unknown"
     },
     "149946": {
@@ -93777,7 +93737,7 @@
       "type": "Unknown"
     },
     "273772": {
-      "name": "ASN273772",
+      "name": "VNO Telecom LTDA",
       "type": "Unknown"
     },
     "212388": {
@@ -93785,7 +93745,7 @@
       "type": "Educational/Research"
     },
     "274061": {
-      "name": "274061",
+      "name": "Fibergo",
       "type": "Cable/DSL/ISP"
     },
     "542": {
@@ -93833,7 +93793,7 @@
       "type": "Unknown"
     },
     "267003": {
-      "name": "ASN267003",
+      "name": "ScmEvolutt",
       "type": "Cable/DSL/ISP"
     },
     "57546": {
@@ -93861,7 +93821,7 @@
       "type": "Cable/DSL/ISP"
     },
     "272882": {
-      "name": "272882",
+      "name": "BITNET DOMINICANA, S.R.L.",
       "type": "Cable/DSL/ISP"
     },
     "5758": {
@@ -93869,7 +93829,7 @@
       "type": "Unknown"
     },
     "269751": {
-      "name": "269751",
+      "name": "INTERMAX S.A.C.",
       "type": "Unknown"
     },
     "153375": {
@@ -93889,7 +93849,7 @@
       "type": "Unknown"
     },
     "28358": {
-      "name": "ASN28358",
+      "name": "INTERTELCO TELECOMUNICAÇÕES MULTIMÍDIA LTDA",
       "type": "Unknown"
     },
     "62359": {
@@ -93905,7 +93865,7 @@
       "type": "Unknown"
     },
     "270168": {
-      "name": "270168",
+      "name": "AMTech",
       "type": "Unknown"
     },
     "33067": {
@@ -94217,7 +94177,7 @@
       "type": "Unknown"
     },
     "1231": {
-      "name": "ORG-UP1-AFRINIC",
+      "name": "TENET (The UNINET Project)",
       "type": "Unknown"
     },
     "213922": {
@@ -94401,7 +94361,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329361": {
-      "name": "ORG-NTL6-AFRINIC",
+      "name": "Nisi Technologies Ltd",
       "type": "Unknown"
     },
     "4848": {
@@ -94421,7 +94381,7 @@
       "type": "Unknown"
     },
     "270446": {
-      "name": "ASN270446",
+      "name": "VOALLE PARTICIPACOES LTDA",
       "type": "Unknown"
     },
     "20335": {
@@ -94437,7 +94397,7 @@
       "type": "Unknown"
     },
     "266500": {
-      "name": "ASN266500",
+      "name": "SURF TELECOM S.A.",
       "type": "NSP"
     },
     "27602": {
@@ -94473,11 +94433,11 @@
       "type": "Cable/DSL/ISP"
     },
     "268351": {
-      "name": "ASN268351",
+      "name": "CONEXAO VM LTDA",
       "type": "Cable/DSL/ISP"
     },
     "274743": {
-      "name": "ASN274743",
+      "name": "FASTWEB TELECOMUNICACOES",
       "type": "Cable/DSL/ISP"
     },
     "13753": {
@@ -94533,7 +94493,7 @@
       "type": "Educational/Research"
     },
     "271280": {
-      "name": "ASN271280",
+      "name": "CDL COMUNICACAO E TECNOLOGIA",
       "type": "Unknown"
     },
     "151584": {
@@ -94581,7 +94541,7 @@
       "type": "NSP"
     },
     "28136": {
-      "name": "ASN28136",
+      "name": "SPACnet - Projetos Avançados em Computação",
       "type": "Unknown"
     },
     "30155": {
@@ -94609,7 +94569,7 @@
       "type": "Content"
     },
     "37552": {
-      "name": "ORG-CGL1-AFRINIC",
+      "name": "Comium Gambia Ltd.",
       "type": "Unknown"
     },
     "213599": {
@@ -94641,7 +94601,7 @@
       "type": "Route Server"
     },
     "265267": {
-      "name": "ASN265267",
+      "name": "NITRONET LTDA - ME",
       "type": "Unknown"
     },
     "25693": {
@@ -94649,7 +94609,7 @@
       "type": "Cable/DSL/ISP"
     },
     "270654": {
-      "name": "ASN270654",
+      "name": "CONECTA GOLD PROVEDORES DE ACESSO LTDA",
       "type": "Unknown"
     },
     "153759": {
@@ -94685,7 +94645,7 @@
       "type": "Enterprise"
     },
     "274792": {
-      "name": "ASN274792",
+      "name": "Goias MP Procuradoria Geral de Justiça",
       "type": "Unknown"
     },
     "62472": {
@@ -94785,7 +94745,7 @@
       "type": "Unknown"
     },
     "37056": {
-      "name": "ORG-ZBP1-AFRINIC",
+      "name": "Zenith Bank PLC",
       "type": "Unknown"
     },
     "213939": {
@@ -94793,7 +94753,7 @@
       "type": "Cable/DSL/ISP"
     },
     "270946": {
-      "name": "ASN270946",
+      "name": "ULTRANET PROVEDOR CUSTODIA LTDA",
       "type": "Unknown"
     },
     "139084": {
@@ -94873,7 +94833,7 @@
       "type": "Unknown"
     },
     "266828": {
-      "name": "266828",
+      "name": "DBS NETWORK, S.A.",
       "type": "Unknown"
     },
     "211121": {
@@ -94893,7 +94853,7 @@
       "type": "Enterprise"
     },
     "272678": {
-      "name": "ASN272678",
+      "name": "INFOX BM LTDA - ME",
       "type": "Unknown"
     },
     "150946": {
@@ -94929,35 +94889,35 @@
       "type": "Route Server"
     },
     "32046": {
-      "name": "32046",
+      "name": "SULLCROM",
       "type": "Unknown"
     },
     "32047": {
-      "name": "32047",
+      "name": "SULLCROM (AS32047)",
       "type": "Unknown"
     },
     "32048": {
-      "name": "32048",
+      "name": "SULLCROM (AS32048)",
       "type": "Unknown"
     },
     "32049": {
-      "name": "32049",
+      "name": "SULLCROM (AS32049)",
       "type": "Unknown"
     },
     "32050": {
-      "name": "32050",
+      "name": "SULLCROM (AS32050)",
       "type": "Unknown"
     },
     "32051": {
-      "name": "32051",
+      "name": "SULLCROM (AS32051)",
       "type": "Unknown"
     },
     "32052": {
-      "name": "32052",
+      "name": "SULLCROM (AS32052)",
       "type": "Unknown"
     },
     "32053": {
-      "name": "32053",
+      "name": "SULLCROM (AS32053)",
       "type": "Unknown"
     },
     "153768": {
@@ -94993,11 +94953,11 @@
       "type": "Unknown"
     },
     "265148": {
-      "name": "ASN265148",
+      "name": "Pontonet Computadores e Redes Ltda Epp",
       "type": "Unknown"
     },
     "273506": {
-      "name": "ASN273506",
+      "name": "CNX Projetos e  Tecnologia LTDA",
       "type": "Unknown"
     },
     "153": {
@@ -95025,7 +94985,7 @@
       "type": "Unknown"
     },
     "274786": {
-      "name": "ASN274786",
+      "name": "TF TELECOM LTDA",
       "type": "Cable/DSL/ISP"
     },
     "153787": {
@@ -95053,7 +95013,7 @@
       "type": "Educational/Research"
     },
     "210361": {
-      "name": "AS66350",
+      "name": "DU jiarui",
       "type": "Unknown"
     },
     "138244": {
@@ -95097,11 +95057,11 @@
       "type": "Cable/DSL/ISP"
     },
     "270416": {
-      "name": "ASN270416",
+      "name": "T2 FIBRA PROVEDOR DE INTERNET LTDA",
       "type": "Unknown"
     },
     "274796": {
-      "name": "ASN274796",
+      "name": "ONENET TELECOMUNICACOES LTDA",
       "type": "Unknown"
     },
     "136996": {
@@ -95117,11 +95077,11 @@
       "type": "Unknown"
     },
     "271757": {
-      "name": "ASN271757",
+      "name": "VIA PROVEDOR - SERVICOS MULTIMIDIA - EIRELI",
       "type": "Unknown"
     },
     "271808": {
-      "name": "271808",
+      "name": "MONTECRISTI CABLE VISION, SRL",
       "type": "Cable/DSL/ISP"
     },
     "40662": {
@@ -95141,7 +95101,7 @@
       "type": "Unknown"
     },
     "273533": {
-      "name": "ASN273533",
+      "name": "FibraRede Gestao e Serviços de Infraestrutura Ltda",
       "type": "Unknown"
     },
     "54416": {
@@ -95165,11 +95125,11 @@
       "type": "Unknown"
     },
     "267372": {
-      "name": "ASN267372",
+      "name": "TRINDADEWEB PROVEDOR",
       "type": "Cable/DSL/ISP"
     },
     "37233": {
-      "name": "ORG-ON2-AFRINIC",
+      "name": "Zamani Telecom Niger SA",
       "type": "Unknown"
     },
     "19944": {
@@ -95213,7 +95173,7 @@
       "type": "Unknown"
     },
     "262622": {
-      "name": "ASN262622",
+      "name": "DAVOI ISP-PROVEDOR DE SOL.E ACESSO A INTERNET-LTDA",
       "type": "Cable/DSL/ISP"
     },
     "54419": {
@@ -95221,7 +95181,7 @@
       "type": "Unknown"
     },
     "272666": {
-      "name": "ASN272666",
+      "name": "Dconekte Multimidia LTDA",
       "type": "Unknown"
     },
     "394637": {
@@ -95301,11 +95261,11 @@
       "type": "Network Services"
     },
     "273487": {
-      "name": "ASN273487",
+      "name": "TARVOS FIBRAS",
       "type": "Unknown"
     },
     "274768": {
-      "name": "ASN274768",
+      "name": "ULTRANET VALE DO RIBEIRA LTDA",
       "type": "Cable/DSL/ISP"
     },
     "153789": {
@@ -95361,7 +95321,7 @@
       "type": "Unknown"
     },
     "264458": {
-      "name": "ASN264458",
+      "name": "SMA Networks Informatica LTDA-ME",
       "type": "Unknown"
     },
     "62654": {
@@ -95393,7 +95353,7 @@
       "type": "Unknown"
     },
     "273311": {
-      "name": "ASN273311",
+      "name": "PAULO FERREIRA DE SOUZA",
       "type": "NSP"
     },
     "398090": {
@@ -95493,11 +95453,11 @@
       "type": "Unknown"
     },
     "265548": {
-      "name": "265548",
+      "name": "WCD, S.A. DE C.V.",
       "type": "Unknown"
     },
     "269544": {
-      "name": "ASN269544",
+      "name": "TWISTNET TELECOMUNICACOES LTDA",
       "type": "Unknown"
     },
     "214442": {
@@ -95509,15 +95469,15 @@
       "type": "Unknown"
     },
     "265612": {
-      "name": "265612",
+      "name": "Miguel Amado Escobar",
       "type": "Unknown"
     },
     "28447": {
-      "name": "28447",
+      "name": "ONFIBER SA DE CV",
       "type": "Cable/DSL/ISP"
     },
     "273192": {
-      "name": "273192",
+      "name": "ALFIBER TELECOMUNICACIONES S.A.C.",
       "type": "Unknown"
     },
     "153664": {
@@ -95725,7 +95685,7 @@
       "type": "Cable/DSL/ISP"
     },
     "267678": {
-      "name": "267678",
+      "name": "AYA RADIOCOMUNICACIONES SAS",
       "type": "Unknown"
     },
     "153833": {
@@ -95881,7 +95841,7 @@
       "type": "Educational/Research"
     },
     "212594": {
-      "name": "AS212594",
+      "name": "DIEMO",
       "type": "Unknown"
     },
     "150616": {
@@ -95889,11 +95849,11 @@
       "type": "Cable/DSL/ISP"
     },
     "263095": {
-      "name": "ASN263095",
+      "name": "Mineração Curimbaba Ltda.",
       "type": "Unknown"
     },
     "271060": {
-      "name": "ASN271060",
+      "name": "INOVAIP TELECOM LTDA",
       "type": "Cable/DSL/ISP"
     },
     "401732": {
@@ -95953,7 +95913,7 @@
       "type": "Unknown"
     },
     "273034": {
-      "name": "273034",
+      "name": "COMPAÑIA DE TELECOMUNICACIONES LEON & RODAS LR-COMPTEL S.A.",
       "type": "Cable/DSL/ISP"
     },
     "131380": {
@@ -96129,7 +96089,7 @@
       "type": "Unknown"
     },
     "273134": {
-      "name": "273134",
+      "name": "HOLA TELECOMUNICACINES COLOMBIA S.A.S",
       "type": "Unknown"
     },
     "2371": {
@@ -96185,11 +96145,11 @@
       "type": "Unknown"
     },
     "148000": {
-      "name": "Indian-Public-DNS",
+      "name": "1.10.10.10 - Indian Public DNS (AS148000)",
       "type": "Network Services"
     },
     "274688": {
-      "name": "ASN274688",
+      "name": "ST SOLUCOES EM TECNOLOGIA LTDA - ME",
       "type": "NSP"
     },
     "23371": {
@@ -96201,7 +96161,7 @@
       "type": "Government"
     },
     "267608": {
-      "name": "ASN267608",
+      "name": "Micheleto Internet Eireli",
       "type": "NSP"
     },
     "207682": {
@@ -96225,7 +96185,7 @@
       "type": "Content"
     },
     "274089": {
-      "name": "274089",
+      "name": "AlfaServi, S.R.L",
       "type": "Unknown"
     },
     "36938": {
@@ -96265,7 +96225,7 @@
       "type": "Unknown"
     },
     "329348": {
-      "name": "ORG-CM1-AFRINIC",
+      "name": "Calmex Mobile",
       "type": "Unknown"
     },
     "214077": {
@@ -96273,7 +96233,7 @@
       "type": "Enterprise"
     },
     "269405": {
-      "name": "ASN269405",
+      "name": "CONECT TEC TELECOMUNICACOES LTDA",
       "type": "Unknown"
     },
     "33306": {
@@ -96345,7 +96305,7 @@
       "type": "Cable/DSL/ISP"
     },
     "53227": {
-      "name": "ASN53227",
+      "name": "M.V. Martin & Cia Ltda.",
       "type": "Unknown"
     },
     "41765": {
@@ -96377,7 +96337,7 @@
       "type": "Unknown"
     },
     "274826": {
-      "name": "ASN274826",
+      "name": "EASY NET TELECOM LTDA ME",
       "type": "Cable/DSL/ISP"
     },
     "138199": {
@@ -96473,11 +96433,11 @@
       "type": "Cable/DSL/ISP"
     },
     "272935": {
-      "name": "272935",
+      "name": "GB TELECORP DOMINICANA, S.R.L",
       "type": "Cable/DSL/ISP"
     },
     "269731": {
-      "name": "269731",
+      "name": "Liz Carolina Zavala Martinez (Link Telecomunicaciones)",
       "type": "Unknown"
     },
     "46890": {
@@ -96493,7 +96453,7 @@
       "type": "Unknown"
     },
     "274834": {
-      "name": "ASN274834",
+      "name": "V10 Internet",
       "type": "Cable/DSL/ISP"
     },
     "397170": {
@@ -96565,7 +96525,7 @@
       "type": "Enterprise"
     },
     "270460": {
-      "name": "ASN270460",
+      "name": "LIVENET NETWORKS LTDA",
       "type": "Cable/DSL/ISP"
     },
     "153922": {
@@ -96657,7 +96617,7 @@
       "type": "Network Services"
     },
     "274838": {
-      "name": "ASN274838",
+      "name": "GCN SOLUÇÕES DE TECNOLOGIA E CLOUD HOSTING",
       "type": "Unknown"
     },
     "396450": {
@@ -96681,7 +96641,7 @@
       "type": "NSP"
     },
     "269418": {
-      "name": "ASN269418",
+      "name": "POWER CONNECT LTDA - ME",
       "type": "Unknown"
     },
     "64170": {
@@ -96705,7 +96665,7 @@
       "type": "Unknown"
     },
     "268269": {
-      "name": "ASN268269",
+      "name": "Prado S & Cia Ltda",
       "type": "Unknown"
     },
     "214409": {
@@ -96757,7 +96717,7 @@
       "type": "Unknown"
     },
     "274033": {
-      "name": "274033",
+      "name": "DEVEL SECURITY, S.A.",
       "type": "Unknown"
     },
     "265728": {
@@ -96769,7 +96729,7 @@
       "type": "NSP"
     },
     "328307": {
-      "name": "ORG-UA7-AFRINIC",
+      "name": "UNIPACK",
       "type": "Enterprise"
     },
     "132954": {
@@ -96777,7 +96737,7 @@
       "type": "Unknown"
     },
     "274827": {
-      "name": "ASN274827",
+      "name": "Akahosting do Brasil",
       "type": "Enterprise"
     },
     "208220": {
@@ -96825,7 +96785,7 @@
       "type": "Unknown"
     },
     "274685": {
-      "name": "ASN274685",
+      "name": "HS TELECOMUNICACAO E TECNOLOGIA LTDA",
       "type": "Cable/DSL/ISP"
     },
     "272118": {
@@ -96837,7 +96797,7 @@
       "type": "Unknown"
     },
     "273824": {
-      "name": "273824",
+      "name": "NEXERCOM SRL",
       "type": "Cable/DSL/ISP"
     },
     "153997": {
@@ -96845,7 +96805,7 @@
       "type": "Content"
     },
     "266702": {
-      "name": "266702",
+      "name": "MEGALINK S.R.L.",
       "type": "Cable/DSL/ISP"
     },
     "274063": {
@@ -96857,7 +96817,7 @@
       "type": "Network Services"
     },
     "274020": {
-      "name": "274020",
+      "name": "FADANET SPA",
       "type": "Unknown"
     },
     "8801": {
@@ -96873,7 +96833,7 @@
       "type": "Route Server"
     },
     "262687": {
-      "name": "ASN262687",
+      "name": "Screen Saver Informática LTDA",
       "type": "NSP"
     },
     "2223": {
@@ -96901,11 +96861,11 @@
       "type": "Cable/DSL/ISP"
     },
     "329104": {
-      "name": "ORG-AL14-AFRINIC",
+      "name": "AOS LTD",
       "type": "Unknown"
     },
     "273277": {
-      "name": "273277",
+      "name": "SUPER CABLE DEL SURESTE",
       "type": "Unknown"
     },
     "216094": {
@@ -96933,7 +96893,7 @@
       "type": "Cable/DSL/ISP"
     },
     "265661": {
-      "name": "265661",
+      "name": "FIBERNET TELECOM (AS265661)",
       "type": "Unknown"
     },
     "63785": {
@@ -96985,11 +96945,11 @@
       "type": "Unknown"
     },
     "274831": {
-      "name": "ASN274831",
+      "name": "Hope Telecom LTDA",
       "type": "Unknown"
     },
     "59830": {
-      "name": "AS59830",
+      "name": "EPEX SPOT S.E. (AS59830)",
       "type": "Unknown"
     },
     "140723": {
@@ -97025,15 +96985,15 @@
       "type": "Unknown"
     },
     "273098": {
-      "name": "273098",
+      "name": "BARREIRO MENENDEZ SILVIA BEATRIZ (CABLE HOGAR)",
       "type": "Cable/DSL/ISP"
     },
     "329536": {
-      "name": "ORG-ADTE1-AFRINIC",
+      "name": "ACEL DIGITAL - TECNOLOGIA E SERVIÇOS, LIMITADA",
       "type": "Unknown"
     },
     "273371": {
-      "name": "ASN273371",
+      "name": "TOP GIGA TELECOM",
       "type": "Unknown"
     },
     "154011": {
@@ -97057,7 +97017,7 @@
       "type": "Unknown"
     },
     "263104": {
-      "name": "ASN263104",
+      "name": "Net Rápida Brasil LTDA",
       "type": "Unknown"
     },
     "58182": {
@@ -97097,7 +97057,7 @@
       "type": "Enterprise"
     },
     "269092": {
-      "name": "ASN269092",
+      "name": "JPNET SERVICOS DE INFORMATICA E TELECOMUNICACOES L",
       "type": "Unknown"
     },
     "401649": {
@@ -97137,7 +97097,7 @@
       "type": "Unknown"
     },
     "329500": {
-      "name": "ORG-ONS1-AFRINIC",
+      "name": "OPTIMIZED NETWORKS SARL",
       "type": "Network Services"
     },
     "150663": {
@@ -97149,7 +97109,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329559": {
-      "name": "ORG-ATT3-AFRINIC",
+      "name": "ACE TELECOMMUNICATIONS TECHNOLOGY",
       "type": "Unknown"
     },
     "203274": {
@@ -97157,7 +97117,7 @@
       "type": "Content"
     },
     "262171": {
-      "name": "262171",
+      "name": "Telecom Logistics S.A.",
       "type": "Unknown"
     },
     "133214": {
@@ -97165,7 +97125,7 @@
       "type": "Cable/DSL/ISP"
     },
     "50049": {
-      "name": "RedSwitches",
+      "name": "RedSwitches EU",
       "type": "Content"
     },
     "207643": {
@@ -97173,7 +97133,7 @@
       "type": "Unknown"
     },
     "272859": {
-      "name": "272859",
+      "name": "WAYIRA NET S.A.S.",
       "type": "Cable/DSL/ISP"
     },
     "401709": {
@@ -97189,11 +97149,11 @@
       "type": "Unknown"
     },
     "329564": {
-      "name": "ORG-ANDP2-AFRINIC",
+      "name": "Agencia Nacional de Pertoleo, Gas e Biocombustiveis",
       "type": "Unknown"
     },
     "272961": {
-      "name": "272961",
+      "name": "JANZEN WIENS RALF DONALD",
       "type": "Unknown"
     },
     "150811": {
@@ -97205,7 +97165,7 @@
       "type": "Cable/DSL/ISP"
     },
     "264541": {
-      "name": "ASN264541",
+      "name": "NET SET TELECOMUNICAÇÕES LTDA - ME",
       "type": "Unknown"
     },
     "154034": {
@@ -97241,7 +97201,7 @@
       "type": "Unknown"
     },
     "328345": {
-      "name": "ORG-DFAL1-AFRINIC",
+      "name": "Dark Fibre Africa (Pty) Ltd",
       "type": "Unknown"
     },
     "8234": {
@@ -97249,7 +97209,7 @@
       "type": "Unknown"
     },
     "265455": {
-      "name": "ASN265455",
+      "name": "SKYNET TELECOM EIRELI",
       "type": "Unknown"
     },
     "54807": {
@@ -97261,7 +97221,7 @@
       "type": "Unknown"
     },
     "264869": {
-      "name": "ASN264869",
+      "name": "SPEED MAX TELECOMUNICAÇÕES LTDA ME",
       "type": "Unknown"
     },
     "213556": {
@@ -97269,7 +97229,7 @@
       "type": "Unknown"
     },
     "273205": {
-      "name": "AS273205",
+      "name": "Wlink Telecom",
       "type": "Cable/DSL/ISP"
     },
     "153856": {
@@ -97373,7 +97333,7 @@
       "type": "Unknown"
     },
     "274481": {
-      "name": "ASN274481",
+      "name": "SAGE LINK PROVEDOR DE INTERNET LTDA",
       "type": "Unknown"
     },
     "154003": {
@@ -97389,7 +97349,7 @@
       "type": "Cable/DSL/ISP"
     },
     "271455": {
-      "name": "ASN271455",
+      "name": "G4 Conectividade SVA Eireli",
       "type": "Unknown"
     },
     "139373": {
@@ -97433,7 +97393,7 @@
       "type": "Cable/DSL/ISP"
     },
     "270311": {
-      "name": "ASN270311",
+      "name": "BSB Link Fibra",
       "type": "Unknown"
     },
     "211124": {
@@ -97469,7 +97429,7 @@
       "type": "Enterprise"
     },
     "266145": {
-      "name": "ASN266145",
+      "name": "NOVA TECNOLOGIA",
       "type": "Unknown"
     },
     "210100": {
@@ -97485,7 +97445,7 @@
       "type": "Cable/DSL/ISP"
     },
     "266401": {
-      "name": "ASN266401",
+      "name": "CNANET",
       "type": "Cable/DSL/ISP"
     },
     "301": {
@@ -97493,7 +97453,7 @@
       "type": "Unknown"
     },
     "270498": {
-      "name": "ASN270498",
+      "name": "ACCONECT TELECOM LTDA - ME",
       "type": "NSP"
     },
     "149843": {
@@ -97517,7 +97477,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329580": {
-      "name": "ORG-TCNL1-AFRINIC",
+      "name": "The Cloud Network Limited",
       "type": "NSP"
     },
     "200858": {
@@ -97585,7 +97545,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329525": {
-      "name": "ORG-GI1-AFRINIC",
+      "name": "Gonetwork Inc",
       "type": "Unknown"
     },
     "394869": {
@@ -97597,11 +97557,11 @@
       "type": "Unknown"
     },
     "142501": {
-      "name": "AS142501",
+      "name": "1.10.10.10 - Indian Public DNS  (AS142501)",
       "type": "Content"
     },
     "142502": {
-      "name": "AS142502",
+      "name": "1.10.10.10 - Indian Public DNS (AS142502)",
       "type": "Content"
     },
     "58087": {
@@ -97633,7 +97593,7 @@
       "type": "NSP"
     },
     "269708": {
-      "name": "ASN269708",
+      "name": "EMENET",
       "type": "Unknown"
     },
     "274469": {
@@ -97689,7 +97649,7 @@
       "type": "NSP"
     },
     "270418": {
-      "name": "ASN270418",
+      "name": "BOA TELECOMUNICACOES LTDA",
       "type": "Unknown"
     },
     "38266": {
@@ -97697,11 +97657,11 @@
       "type": "Unknown"
     },
     "274818": {
-      "name": "ASN274818",
+      "name": "CONEXAO MAIS EMPRESA DE TELECOMUNICAÇÕES LTDA",
       "type": "Unknown"
     },
     "270000": {
-      "name": "270000",
+      "name": "OSORIO CARMEN ROSARIO",
       "type": "Unknown"
     },
     "154071": {
@@ -97709,23 +97669,23 @@
       "type": "Unknown"
     },
     "142500": {
-      "name": "ASN142500",
+      "name": "1.10.10.10 - Indian Public DNS (AS142500)",
       "type": "Content"
     },
     "58899": {
-      "name": "AS58899",
+      "name": "1.10.10.10 - Indian Public DNS (AS58899)",
       "type": "Content"
     },
     "59181": {
-      "name": "AS59181",
+      "name": "1.10.10.10 - Indian Public DNS (AS59181)",
       "type": "Content"
     },
     "59182": {
-      "name": "AS59182",
+      "name": "1.10.10.10 - Indian Public DNS (AS59182)",
       "type": "Content"
     },
     "148001": {
-      "name": "ASN148001",
+      "name": "1.10.10.10 - Indian Public DNS (AS148001)",
       "type": "Content"
     },
     "23506": {
@@ -97753,7 +97713,7 @@
       "type": "Non-Profit"
     },
     "268588": {
-      "name": "ASN268588",
+      "name": "J.LP FONSECA TELECOM",
       "type": "Unknown"
     },
     "132778": {
@@ -97769,7 +97729,7 @@
       "type": "Unknown"
     },
     "264004": {
-      "name": "ASN264004",
+      "name": "Matek Soluções de Informatica Ltda",
       "type": "Unknown"
     },
     "153844": {
@@ -97777,11 +97737,11 @@
       "type": "Unknown"
     },
     "274032": {
-      "name": "274032",
+      "name": "SERVICIOS FEMAROCA TV SOCIEDAD ANONIMA",
       "type": "Cable/DSL/ISP"
     },
     "274167": {
-      "name": "274167",
+      "name": "DOMINICANA INTERNET EXCHANGE, DOIX",
       "type": "Unknown"
     },
     "203153": {
@@ -97789,7 +97749,7 @@
       "type": "Non-Profit"
     },
     "269422": {
-      "name": "ASN269422",
+      "name": "GKG NET TELECON LTDA",
       "type": "Cable/DSL/ISP"
     },
     "401859": {
@@ -97797,11 +97757,11 @@
       "type": "Enterprise"
     },
     "274496": {
-      "name": "ASN274496",
+      "name": "GIGANET TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
     },
     "270369": {
-      "name": "ASN270369",
+      "name": "Naveganet Comercio e Serviço LTDA",
       "type": "Unknown"
     },
     "401866": {
@@ -97809,7 +97769,7 @@
       "type": "Content"
     },
     "329424": {
-      "name": "ORG-HTL8-AFRINIC",
+      "name": "Hynfra Technologies Ltd",
       "type": "Unknown"
     },
     "393658": {
@@ -97896,6 +97856,10 @@
       "name": "iSHACK",
       "type": "Unknown"
     },
+    "205901": {
+      "name": "Rusk Networks",
+      "type": "Educational/Research"
+    },
     "206938": {
       "name": "NESILDC",
       "type": "Unknown"
@@ -97937,7 +97901,7 @@
       "type": "Unknown"
     },
     "263545": {
-      "name": "ASN263545",
+      "name": "BETINI NET TELECOM LTDA",
       "type": "Unknown"
     },
     "131112": {
@@ -97957,7 +97921,7 @@
       "type": "Cable/DSL/ISP"
     },
     "272563": {
-      "name": "ASN272563",
+      "name": "Z & D INFORMATICA LTDA",
       "type": "Unknown"
     },
     "401894": {
@@ -98001,7 +97965,7 @@
       "type": "Unknown"
     },
     "272878": {
-      "name": "272878",
+      "name": "MAHMUD FEDERICO GABRIEL (CEM COMUNICACIONES)",
       "type": "Cable/DSL/ISP"
     },
     "61345": {
@@ -98101,7 +98065,7 @@
       "type": "NSP"
     },
     "264139": {
-      "name": "ASN264139",
+      "name": "WORLDXAMBIOA INFORMATICA LTDA-ME",
       "type": "Unknown"
     },
     "131159": {
@@ -98145,7 +98109,7 @@
       "type": "Network Services"
     },
     "274000": {
-      "name": "274000",
+      "name": "CYBEWARD CL SPA",
       "type": "NSP"
     },
     "216155": {
@@ -98193,7 +98157,7 @@
       "type": "Unknown"
     },
     "329097": {
-      "name": "ORG-SFL1-AFRINIC",
+      "name": "SI Futures (Pty) Ltd",
       "type": "Network Services"
     },
     "135671": {
@@ -98253,7 +98217,7 @@
       "type": "Unknown"
     },
     "274511": {
-      "name": "ASN274511",
+      "name": "IPNETWORK TELECOMUNICACOES E SOLUCOES LTDA",
       "type": "Unknown"
     },
     "138160": {
@@ -98269,7 +98233,7 @@
       "type": "Unknown"
     },
     "274512": {
-      "name": "ASN274512",
+      "name": "V MIX DESENVOLVIMENTO DE SOFTWARE LTDA",
       "type": "Unknown"
     },
     "137183": {
@@ -98281,7 +98245,7 @@
       "type": "Enterprise"
     },
     "273074": {
-      "name": "273074",
+      "name": "BUHO NETWORK S.A.S",
       "type": "Unknown"
     },
     "152796": {
@@ -98333,7 +98297,7 @@
       "type": "Unknown"
     },
     "273491": {
-      "name": "ASN273491",
+      "name": "ISP RW NET INFORMATICA LTDA",
       "type": "Unknown"
     },
     "205563": {
@@ -98341,7 +98305,7 @@
       "type": "Non-Profit"
     },
     "265004": {
-      "name": "ASN265004",
+      "name": "F.P.J. COMUNICAÇÕES LTDA",
       "type": "Unknown"
     },
     "60325": {
@@ -98349,7 +98313,7 @@
       "type": "Unknown"
     },
     "329556": {
-      "name": "ORG-NL16-AFRINIC",
+      "name": "Newworks Limited",
       "type": "Unknown"
     },
     "213292": {
@@ -98389,7 +98353,7 @@
       "type": "Unknown"
     },
     "272396": {
-      "name": "272396",
+      "name": "EDGAR MANUEL MARISCAL PATIÑO",
       "type": "Unknown"
     },
     "213791": {
@@ -98445,11 +98409,11 @@
       "type": "Content"
     },
     "274186": {
-      "name": "274186",
+      "name": "DSOL INTERNET S.A.S.",
       "type": "Unknown"
     },
     "37556": {
-      "name": "ORG-CS9-AFRINIC",
+      "name": "Cilix Software",
       "type": "Unknown"
     },
     "205397": {
@@ -98465,7 +98429,7 @@
       "type": "Cable/DSL/ISP"
     },
     "274714": {
-      "name": "ASN274714",
+      "name": "Net-Agro Serviços de Comunicação LTDA",
       "type": "Cable/DSL/ISP"
     },
     "205280": {
@@ -98497,7 +98461,7 @@
       "type": "Unknown"
     },
     "329557": {
-      "name": "ORG-RTL2-AFRINIC",
+      "name": "RISE TELECOMMS (PTY) LTD",
       "type": "Unknown"
     },
     "198519": {
@@ -98509,7 +98473,7 @@
       "type": "Cable/DSL/ISP"
     },
     "274188": {
-      "name": "274188",
+      "name": "CONSORCIO ECUATORIANO DE REDES Y SATELITES CONREDSAT S.A",
       "type": "Unknown"
     },
     "40157": {
@@ -98573,7 +98537,7 @@
       "type": "Unknown"
     },
     "31810": {
-      "name": "ORG-ETL7-AFRINIC",
+      "name": "ECHOTEL TANZANIA LIMITED",
       "type": "NSP"
     },
     "214660": {
@@ -98589,7 +98553,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273363": {
-      "name": "ASN273363",
+      "name": "DG Telecom",
       "type": "Cable/DSL/ISP"
     },
     "205624": {
@@ -98705,7 +98669,7 @@
       "type": "NSP"
     },
     "269339": {
-      "name": "ASN269339",
+      "name": "CONEXAO WEB TELECOM LTDA",
       "type": "Unknown"
     },
     "211237": {
@@ -98785,7 +98749,7 @@
       "type": "NSP"
     },
     "329570": {
-      "name": "ORG-CCL4-AFRINIC",
+      "name": "CCD Couriers (Pty) Ltd",
       "type": "Enterprise"
     },
     "274085": {
@@ -99257,7 +99221,7 @@
       "type": "Unknown"
     },
     "329115": {
-      "name": "ORG-AOL3-AFRINIC",
+      "name": "Africa Online (Africa) (Pty) Ltd",
       "type": "Cable/DSL/ISP"
     },
     "267965": {
@@ -99266,10 +99230,10 @@
     },
     "273474": {
       "name": "TODA SOLUCAO WEB",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "273244": {
-      "name": "273244",
+      "name": "EXPERTOS EN TECNOLOGIA Y TELECOMUNICACIONES S.A.S",
       "type": "Unknown"
     },
     "209503": {
@@ -99289,7 +99253,7 @@
       "type": "Government"
     },
     "328269": {
-      "name": "ORG-IAL3-AFRINIC",
+      "name": "IT Anywhere (Private) Limited",
       "type": "Unknown"
     },
     "13334": {
@@ -99341,7 +99305,7 @@
       "type": "Unknown"
     },
     "11676": {
-      "name": "AS11676",
+      "name": "Conduent Business Services, LLC",
       "type": "Unknown"
     },
     "153888": {
@@ -99353,7 +99317,7 @@
       "type": "Unknown"
     },
     "272163": {
-      "name": "ASN272163",
+      "name": "PARAISO FIBRA",
       "type": "Cable/DSL/ISP"
     },
     "14434": {
@@ -99361,7 +99325,7 @@
       "type": "Unknown"
     },
     "274490": {
-      "name": "ASN274490",
+      "name": "FACHINELI COMUNICACAO LTDA",
       "type": "Unknown"
     },
     "210101": {
@@ -99381,7 +99345,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329542": {
-      "name": "ORG-MA34-AFRINIC",
+      "name": "MAGE",
       "type": "Unknown"
     },
     "214639": {
@@ -99389,7 +99353,7 @@
       "type": "NSP"
     },
     "266113": {
-      "name": "ASN266113",
+      "name": "FELTEN & QUADROS TELEFONIA E INTERNET LTDA",
       "type": "Cable/DSL/ISP"
     },
     "214341": {
@@ -99397,7 +99361,7 @@
       "type": "Unknown"
     },
     "270118": {
-      "name": "270118",
+      "name": "SOLUCIONES, ANALITICOS Y SERVICIOS TEAM",
       "type": "Cable/DSL/ISP"
     },
     "399291": {
@@ -99421,7 +99385,7 @@
       "type": "Unknown"
     },
     "268738": {
-      "name": "ASN268738",
+      "name": "M3 Net Fibra",
       "type": "Cable/DSL/ISP"
     },
     "270818": {
@@ -99497,7 +99461,7 @@
       "type": "Educational/Research"
     },
     "265783": {
-      "name": "265783",
+      "name": "COOP. LTDA. DE ELCTRICIDAD, OTROS SERVICIOS PÚBLICOS DE TACURAL",
       "type": "Unknown"
     },
     "204599": {
@@ -99513,7 +99477,7 @@
       "type": "Enterprise"
     },
     "273966": {
-      "name": "273966",
+      "name": "FIBERGO-TELECOM S.A.",
       "type": "Unknown"
     },
     "149822": {
@@ -99561,7 +99525,7 @@
       "type": "Cable/DSL/ISP"
     },
     "401984": {
-      "name": "AS401984",
+      "name": "Tomorin Network",
       "type": "Enterprise"
     },
     "396516": {
@@ -99605,7 +99569,7 @@
       "type": "Unknown"
     },
     "53076": {
-      "name": "ASN53076",
+      "name": "INTERPIRA INTERNET SERVICE PROVIDER LTDA",
       "type": "Unknown"
     },
     "401973": {
@@ -99661,7 +99625,7 @@
       "type": "Unknown"
     },
     "28419": {
-      "name": "28419",
+      "name": "Señal Interactiva, S.A De C.V",
       "type": "Unknown"
     },
     "9878": {
@@ -99693,7 +99657,7 @@
       "type": "Unknown"
     },
     "401988": {
-      "name": "AS5005",
+      "name": "5005 LLC",
       "type": "Enterprise"
     },
     "14965": {
@@ -99737,7 +99701,7 @@
       "type": "Unknown"
     },
     "264315": {
-      "name": "ASN264315",
+      "name": "CICLO TECNOLOGIA DA INFORMACAO LTDA - - ME",
       "type": "Unknown"
     },
     "154267": {
@@ -99753,7 +99717,7 @@
       "type": "Unknown"
     },
     "274489": {
-      "name": "ASN274489",
+      "name": "PlanetaNet Telecom",
       "type": "Cable/DSL/ISP"
     },
     "401947": {
@@ -100069,7 +100033,7 @@
       "type": "Cable/DSL/ISP"
     },
     "274193": {
-      "name": "274193",
+      "name": "ELASTICSERVER.CO S.A.S.",
       "type": "Cable/DSL/ISP"
     },
     "151569": {
@@ -100077,7 +100041,7 @@
       "type": "Unknown"
     },
     "394856": {
-      "name": "394856",
+      "name": "Infinity Insurance Company",
       "type": "Unknown"
     },
     "153583": {
@@ -100089,11 +100053,11 @@
       "type": "Enterprise"
     },
     "274559": {
-      "name": "ASN274559",
+      "name": "LINK FIBRA",
       "type": "Unknown"
     },
     "272982": {
-      "name": "272982",
+      "name": "COOPERATIVA CAINGUAS DE ELECTRICIDAD DE PROVISION Y DE SERVICIOS VARIOS LIMITADA",
       "type": "Unknown"
     },
     "204580": {
@@ -100133,11 +100097,11 @@
       "type": "Cable/DSL/ISP"
     },
     "264523": {
-      "name": "ASN264523",
+      "name": "Kinema da Ilha Informática e Tecnologia Ltda.",
       "type": "Cable/DSL/ISP"
     },
     "273481": {
-      "name": "ASN273481",
+      "name": "NC SERVICOS E TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
     },
     "401946": {
@@ -100389,7 +100353,7 @@
       "type": "Unknown"
     },
     "269483": {
-      "name": "ASN269483",
+      "name": "CN Telecom",
       "type": "Unknown"
     },
     "213799": {
@@ -100501,7 +100465,7 @@
       "type": "Unknown"
     },
     "274556": {
-      "name": "ASN274556",
+      "name": "CENTRO TELECOMUNICACAO",
       "type": "Unknown"
     },
     "204024": {
@@ -100845,7 +100809,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329624": {
-      "name": "ORG-MA35-AFRINIC",
+      "name": "MONINET",
       "type": "Unknown"
     },
     "210187": {
@@ -100853,7 +100817,7 @@
       "type": "Unknown"
     },
     "272877": {
-      "name": "272877",
+      "name": "TVDATOS",
       "type": "Unknown"
     },
     "197640": {
@@ -101868,6 +101832,10 @@
       "name": "Mtserver",
       "type": "Unknown"
     },
+    "203753": {
+      "name": "CLOUDPROTECT",
+      "type": "Content"
+    },
     "27640": {
       "name": "GIGAS HOSTING USA",
       "type": "Enterprise"
@@ -102473,7 +102441,7 @@
       "type": "Unknown"
     },
     "264042": {
-      "name": "ASN264042",
+      "name": "CRISPIM E GOMES TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "274812": {
@@ -103516,10 +103484,6 @@
       "name": "Bondarenko Oksana Volodymyrivna",
       "type": "Unknown"
     },
-    "269681": {
-      "name": "BEAM TELECOM IMP EXP LTDA",
-      "type": "Unknown"
-    },
     "201164": {
       "name": "Cool Studio Limited",
       "type": "Unknown"
@@ -104089,7 +104053,7 @@
       "type": "Cable/DSL/ISP"
     },
     "154424": {
-      "name": "JREVIT-AS-AP",
+      "name": "Jrev IT Solutions",
       "type": "Cable/DSL/ISP"
     },
     "59122": {
@@ -104101,11 +104065,11 @@
       "type": "Unknown"
     },
     "204604": {
-      "name": "WeixelbaumEDV",
+      "name": "Marcel Noah Weixelbaum",
       "type": "NSP"
     },
     "402280": {
-      "name": "BWRSD",
+      "name": "Bristol Warren Regional School District",
       "type": "Educational/Research"
     },
     "329475": {
@@ -104121,7 +104085,7 @@
       "type": "Content"
     },
     "18849": {
-      "name": "RICHESIN-ENG",
+      "name": "Richesin Engineering, LLC",
       "type": "Unknown"
     },
     "142565": {
@@ -104137,7 +104101,7 @@
       "type": "Unknown"
     },
     "62804": {
-      "name": "PHOTOSHELTER-NYC",
+      "name": "PhotoShelter, Inc. AS62804",
       "type": "Unknown"
     },
     "207237": {
@@ -104149,11 +104113,11 @@
       "type": "Unknown"
     },
     "265744": {
-      "name": "265744",
+      "name": "COOPERATIVA DE PROVISIÓN DE SERVICIOS PÚBLICOS DE FREYRE LTDA.",
       "type": "Cable/DSL/ISP"
     },
     "271702": {
-      "name": "ASN271702",
+      "name": "DELTA INTERNET E TELECOMUNICACOES EIRELI ME",
       "type": "Unknown"
     },
     "209182": {
@@ -104161,19 +104125,19 @@
       "type": "NSP"
     },
     "276": {
-      "name": "OTS-AS-276",
+      "name": "University of Texas System",
       "type": "Unknown"
     },
     "36375": {
-      "name": "UMICH-AS-5",
+      "name": "University of Michigan",
       "type": "Unknown"
     },
     "200116": {
-      "name": "VAHIX-INFRASTRUCTURE",
+      "name": "ABBASI Vahid",
       "type": "Unknown"
     },
     "275647": {
-      "name": "AS275647",
+      "name": "CASTILHOS PROVEDOR DE INTERNET LTDA",
       "type": "Cable/DSL/ISP"
     },
     "200074": {
@@ -104189,7 +104153,7 @@
       "type": "Cable/DSL/ISP"
     },
     "16581": {
-      "name": "DEEPINFRA-01",
+      "name": "Deep Infra Inc.",
       "type": "Unknown"
     },
     "25125": {
@@ -104201,7 +104165,7 @@
       "type": "Unknown"
     },
     "4577": {
-      "name": "WISPOTO-01",
+      "name": "Wispoto, LLC",
       "type": "Unknown"
     },
     "151784": {
@@ -104217,15 +104181,15 @@
       "type": "NSP"
     },
     "39159": {
-      "name": "NV-RL",
-      "type": "Unknown"
+      "name": "R.L Internet and Networks Ltd.",
+      "type": "NSP"
     },
     "394680": {
-      "name": "ESSEXTEL",
+      "name": "EssexTel, Inc.",
       "type": "Unknown"
     },
     "27897": {
-      "name": "27897",
+      "name": "UNIVERSIDAD DE SANTIAGO DE CHILE",
       "type": "Unknown"
     },
     "329664": {
@@ -104233,7 +104197,7 @@
       "type": "Unknown"
     },
     "54869": {
-      "name": "ROCKCOM-CO",
+      "name": "Rockman Communications, Inc.",
       "type": "Unknown"
     },
     "200859": {
@@ -104241,7 +104205,7 @@
       "type": "NSP"
     },
     "275676": {
-      "name": "ASN275676",
+      "name": "itaconnect provedor e comercio ltda",
       "type": "Unknown"
     },
     "141210": {
@@ -104249,7 +104213,7 @@
       "type": "Unknown"
     },
     "209565": {
-      "name": "JIANYUELAB-STAFF",
+      "name": "JIANYUELAB LLC",
       "type": "Unknown"
     },
     "152877": {
@@ -104257,7 +104221,7 @@
       "type": "Unknown"
     },
     "401910": {
-      "name": "NSCIX-01",
+      "name": "Natural State Community Internet Exchange",
       "type": "Route Server"
     },
     "215337": {
@@ -104269,11 +104233,11 @@
       "type": "Unknown"
     },
     "401121": {
-      "name": "HenNet",
+      "name": "Hennepin County",
       "type": "Government"
     },
     "20330": {
-      "name": "NYS-UNIFIED-COURTS",
+      "name": "New York State Unified Court System",
       "type": "Unknown"
     },
     "273144": {
@@ -104281,11 +104245,11 @@
       "type": "Unknown"
     },
     "329562": {
-      "name": "ORG-SSL7-AFRINIC",
+      "name": "SERVERLINK SOLUTIONS LIMITED",
       "type": "Cable/DSL/ISP"
     },
     "273889": {
-      "name": "273889",
+      "name": "WISPER INTERNET INALAMBRICO S.A.S",
       "type": "Cable/DSL/ISP"
     },
     "133198": {
@@ -104301,11 +104265,11 @@
       "type": "Unknown"
     },
     "395648": {
-      "name": "CARBONNETWORKSOLUTIONS",
+      "name": "Carbon Network Solutions LLC",
       "type": "Unknown"
     },
     "206058": {
-      "name": "Dalchandra-Sharma",
+      "name": "Dalchandra Sharma, 5582249",
       "type": "Unknown"
     },
     "11421": {
@@ -104317,7 +104281,7 @@
       "type": "Unknown"
     },
     "199890": {
-      "name": "MINHNG99",
+      "name": "Nguyen Quang Minh",
       "type": "Unknown"
     },
     "199870": {
@@ -104337,7 +104301,7 @@
       "type": "Unknown"
     },
     "152614": {
-      "name": "ISTVC-EX-TW",
+      "name": "IMPROVE SYSTEM TECHNOLOGY CO., LTD.",
       "type": "Unknown"
     },
     "151724": {
@@ -104345,7 +104309,7 @@
       "type": "Unknown"
     },
     "269166": {
-      "name": "ASN269166",
+      "name": "EBRANET COMERCIO E SERVICOS DE COMUNICACAO LTDA",
       "type": "Cable/DSL/ISP"
     },
     "14549": {
@@ -104365,68 +104329,136 @@
       "type": "Unknown"
     },
     "214640": {
-      "name": "HOSTUP",
+      "name": "Hostup AB, HOSTUP",
       "type": "Unknown"
     },
     "200135": {
-      "name": "PTPabrikGula",
+      "name": "PT Pabrik Gula Rajawali II",
       "type": "Unknown"
     },
     "203012": {
-      "name": "gestioniza",
+      "name": "FIBRITEL TELECOMUNICACIONES SL",
       "type": "Unknown"
     },
     "200029": {
-      "name": "AS-HELSLINK",
+      "name": "HELSLINK",
       "type": "Unknown"
     },
     "264055": {
-      "name": "ASN264055",
+      "name": "WOOMER REIS DE LACERDA -ME",
       "type": "Unknown"
     },
     "199794": {
-      "name": "EMO-AS",
-      "type": "Unknown"
+      "name": "EMOCLOUD LTD",
+      "type": "Educational/Research"
     },
     "199817": {
-      "name": "TNY-AS",
+      "name": "TANG NAIYUAN",
       "type": "Unknown"
     },
     "199892": {
-      "name": "AKMAL-H",
+      "name": "Muhammad Akmal Hazim Bin Hafizul Rasydan",
       "type": "Unknown"
     },
     "275670": {
-      "name": "ASN275670",
+      "name": "ASSOCIACAO EDUCACIONAL DOM BOSCO",
       "type": "Unknown"
     },
     "199911": {
-      "name": "RegPEX",
+      "name": "3C1B Telekomunikasyon ve Internet Hiz. San. ve Tic. A.S.",
       "type": "Unknown"
     },
     "274461": {
-      "name": "ASN274461",
+      "name": "Dazsoft Desenvolvimento de Softwares Ltda ME",
       "type": "Unknown"
     },
     "204197": {
-      "name": "jdgroup-as1",
-      "type": "Unknown"
+      "name": "JD Invest GmbH",
+      "type": "NSP"
     },
     "4885": {
-      "name": "KAWAII GLOBAL",
+      "name": "Kawaii Networks LLC",
       "type": "Cable/DSL/ISP"
     },
     "215727": {
-      "name": "ASNSWORLDWIDE",
+      "name": "NS Worldwide SA",
       "type": "Cable/DSL/ISP"
     },
     "201345": {
-      "name": "Shuma-Watanabe",
+      "name": "Shuma Watanabe",
       "type": "Unknown"
     },
     "200085": {
-      "name": "WEILNET",
+      "name": "WeilNet, LLC",
       "type": "Educational/Research"
+    },
+    "402169": {
+      "name": "Uscloud Inc",
+      "type": "Unknown"
+    },
+    "272082": {
+      "name": "JARM TELECOMUNICACIONES SRL",
+      "type": "Unknown"
+    },
+    "214267": {
+      "name": "serversistemleri",
+      "type": "Unknown"
+    },
+    "202521": {
+      "name": "Liquid Web B.V.",
+      "type": "Unknown"
+    },
+    "19067": {
+      "name": "Vail Systems, Inc.",
+      "type": "Unknown"
+    },
+    "36903": {
+      "name": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+      "type": "Unknown"
+    },
+    "402028": {
+      "name": "Zephyr Broadband, LLC",
+      "type": "Unknown"
+    },
+    "200677": {
+      "name": "HACK-DV",
+      "type": "Network Services"
+    },
+    "39896": {
+      "name": "Fiber Telecom (AS39896)",
+      "type": "Network Services"
+    },
+    "209264": {
+      "name": "IVX !",
+      "type": "Unknown"
+    },
+    "131651": {
+      "name": "Lazco (TW-DEV)",
+      "type": "Unknown"
+    },
+    "133375": {
+      "name": "CKICL-AS-AP",
+      "type": "Unknown"
+    },
+    "201028": {
+      "name": "VexSHIELD",
+      "type": "NSP"
+    },
+    "329511": {
+      "name": "TeleWyz",
+      "type": "Unknown"
+    },
+    "36545": {
+      "name": "BLEDSOE",
+      "type": "Unknown"
+    },
+    "269038": {
+      "name": "IDX DATA CENTERS & IT SERVICES",
+      "type": "Unknown"
+    },
+    "271985": {
+      "name": "MEDINA VARGAS JOSE ALEJANDRO (LIRYC)",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -104609,7 +104641,7 @@
       "type": "NSP"
     },
     "9009": {
-      "name": "M247",
+      "name": "M247 Global",
       "type": "NSP"
     },
     "137": {
@@ -104749,7 +104781,7 @@
       "type": "NSP"
     },
     "35189": {
-      "name": "EuroRhine-IX Route Servers",
+      "name": "EuroRhine-IX RS",
       "type": "Route Server"
     },
     "39122": {
@@ -107777,7 +107809,7 @@
       "type": "Cable/DSL/ISP"
     },
     "52936": {
-      "name": "AS52936",
+      "name": "ONCABO LTDA",
       "type": "Cable/DSL/ISP"
     },
     "132167": {
@@ -109113,7 +109145,7 @@
       "type": "Educational/Research"
     },
     "200625": {
-      "name": "AS200625",
+      "name": "MA-P-NET",
       "type": "Non-Profit"
     },
     "134022": {
@@ -111189,7 +111221,7 @@
       "type": "Cable/DSL/ISP"
     },
     "266228": {
-      "name": "AS266228",
+      "name": "ONCABO",
       "type": "Cable/DSL/ISP"
     },
     "205777": {
@@ -112029,7 +112061,7 @@
       "type": "Unknown"
     },
     "206946": {
-      "name": "AS206946",
+      "name": "Kai Siering",
       "type": "Educational/Research"
     },
     "206740": {
@@ -112914,10 +112946,6 @@
     },
     "265066": {
       "name": "Conect Provedor de Acesso a Internet",
-      "type": "Cable/DSL/ISP"
-    },
-    "204858": {
-      "name": "VOIPMINIC",
       "type": "Cable/DSL/ISP"
     },
     "12824": {
@@ -115211,10 +115239,6 @@
     "137158": {
       "name": "A-net Communication India",
       "type": "Unknown"
-    },
-    "132146": {
-      "name": "Rich Top EC Limited",
-      "type": "Content"
     },
     "267111": {
       "name": "SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC",
@@ -119689,7 +119713,7 @@
       "type": "Cable/DSL/ISP"
     },
     "16247": {
-      "name": "M247 Ltd",
+      "name": "M247 UK",
       "type": "Content"
     },
     "207419": {
@@ -126289,7 +126313,7 @@
       "type": "Cable/DSL/ISP"
     },
     "48707": {
-      "name": "AS48707",
+      "name": "AS48707 OPS PL SP. Z O.O.",
       "type": "Content"
     },
     "271626": {
@@ -130632,10 +130656,6 @@
       "name": "Elysia Network",
       "type": "Educational/Research"
     },
-    "62981": {
-      "name": "AMS-IX USA Native Router",
-      "type": "Unknown"
-    },
     "54657": {
       "name": "Systec Computer Process",
       "type": "Network Services"
@@ -132861,7 +132881,7 @@
       "type": "Enterprise"
     },
     "272946": {
-      "name": "272946",
+      "name": "MAR FIX, C.A",
       "type": "Cable/DSL/ISP"
     },
     "49044": {
@@ -133721,7 +133741,7 @@
       "type": "Content"
     },
     "271355": {
-      "name": "ASN271355",
+      "name": "NEOTECH PROVEDOR DE INTERNET LTDA",
       "type": "Cable/DSL/ISP"
     },
     "329451": {
@@ -133733,11 +133753,11 @@
       "type": "Content"
     },
     "273139": {
-      "name": "273139",
+      "name": "RED Y COMUNICACIONES REYCOM DEL SUR SOCIEDAD ANONIMA",
       "type": "Cable/DSL/ISP"
     },
     "272833": {
-      "name": "272833",
+      "name": "VULCAN-AREQUIPA SOCIEDAD ANONIMA CERRADA",
       "type": "Unknown"
     },
     "214354": {
@@ -133781,7 +133801,7 @@
       "type": "Content"
     },
     "50766": {
-      "name": "AS50766",
+      "name": "ROMAN EDUARDOVICH ZAMKOV",
       "type": "Content"
     },
     "214331": {
@@ -133797,7 +133817,7 @@
       "type": "Content"
     },
     "274607": {
-      "name": "ASN274607",
+      "name": "GHT Telecom",
       "type": "NSP"
     },
     "135512": {
@@ -133869,7 +133889,7 @@
       "type": "Content"
     },
     "11097": {
-      "name": "ASN11097",
+      "name": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA",
       "type": "Educational/Research"
     },
     "207638": {
@@ -133949,7 +133969,7 @@
       "type": "Cable/DSL/ISP"
     },
     "28465": {
-      "name": "28465",
+      "name": "IX-NN Sociedad Anónima de Capital Variable",
       "type": "Non-Profit"
     },
     "215523": {
@@ -133989,7 +134009,7 @@
       "type": "Cable/DSL/ISP"
     },
     "61620": {
-      "name": "ASN61620",
+      "name": "flowspec solutions ltda",
       "type": "NSP"
     },
     "138558": {
@@ -134001,7 +134021,7 @@
       "type": "Cable/DSL/ISP"
     },
     "267994": {
-      "name": "ASN267994",
+      "name": "MAIS INTERNET COMERCIO SERVICOS E TELEC LTDA",
       "type": "Cable/DSL/ISP"
     },
     "214172": {
@@ -134021,7 +134041,7 @@
       "type": "Cable/DSL/ISP"
     },
     "269811": {
-      "name": "269811",
+      "name": "IMPORTACIONES Y EXPORTACIONES C.L.K. S.A.C",
       "type": "Unknown"
     },
     "215704": {
@@ -134225,7 +134245,7 @@
       "type": "NSP"
     },
     "26954": {
-      "name": "AS26954",
+      "name": "AS26954 Network",
       "type": "Enterprise"
     },
     "200200": {
@@ -134237,7 +134257,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273616": {
-      "name": "ASN273616",
+      "name": "ELITE TELECOMUNICAÇÕES LTDA - ME",
       "type": "Unknown"
     },
     "401414": {
@@ -134329,7 +134349,7 @@
       "type": "Unknown"
     },
     "329478": {
-      "name": "ORG-ST8-AFRINIC",
+      "name": "Skyworks Telecoms",
       "type": "Cable/DSL/ISP"
     },
     "139934": {
@@ -134349,7 +134369,7 @@
       "type": "NSP"
     },
     "270681": {
-      "name": "ASN270681",
+      "name": "Tribunal de Justiça do Estado da Paraíba",
       "type": "Government"
     },
     "202509": {
@@ -134365,7 +134385,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273203": {
-      "name": "273203",
+      "name": "CABLE PAR, C.A.",
       "type": "Cable/DSL/ISP"
     },
     "152831": {
@@ -134429,7 +134449,7 @@
       "type": "NSP"
     },
     "273077": {
-      "name": "273077",
+      "name": "GONZALEZ BERTRAND ANIBAL JOSE MARIA (OVEVE NET)",
       "type": "Cable/DSL/ISP"
     },
     "151512": {
@@ -134481,7 +134501,7 @@
       "type": "Unknown"
     },
     "328098": {
-      "name": "ORG-JS2-AFRINIC",
+      "name": "JENY SAS",
       "type": "Cable/DSL/ISP"
     },
     "153251": {
@@ -134489,7 +134509,7 @@
       "type": "Cable/DSL/ISP"
     },
     "153466": {
-      "name": "AS153466",
+      "name": "Counterfate",
       "type": "Educational/Research"
     },
     "152841": {
@@ -134569,7 +134589,7 @@
       "type": "Cable/DSL/ISP"
     },
     "268122": {
-      "name": "ASN268122",
+      "name": "Link Net Telecomunicações Ltda - ME",
       "type": "Network Services"
     },
     "400945": {
@@ -134577,7 +134597,7 @@
       "type": "Cable/DSL/ISP"
     },
     "52827": {
-      "name": "ASN52827",
+      "name": "ERSC BANDA LARGA",
       "type": "Cable/DSL/ISP"
     },
     "131666": {
@@ -134621,7 +134641,7 @@
       "type": "Route Server"
     },
     "35100": {
-      "name": "AS35100",
+      "name": "Connect2IP",
       "type": "Cable/DSL/ISP"
     },
     "271900": {
@@ -134637,7 +134657,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273821": {
-      "name": "273821",
+      "name": "TOTAL BAND COMUNICACIONES SAS",
       "type": "Cable/DSL/ISP"
     },
     "268295": {
@@ -134645,7 +134665,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273656": {
-      "name": "ASN273656",
+      "name": "OAC TECNOLOGIA LTDA",
       "type": "Cable/DSL/ISP"
     },
     "62294": {
@@ -134684,13 +134704,9 @@
       "name": "VNTT",
       "type": "Cable/DSL/ISP"
     },
-    "213647": {
-      "name": "Florent Duval",
-      "type": "Educational/Research"
-    },
     "213641": {
-      "name": "AS213641",
-      "type": "Unknown"
+      "name": "AS213641 Network",
+      "type": "Content"
     },
     "135474": {
       "name": "PT. Hafiz Jaya Infotama",
@@ -134777,7 +134793,7 @@
       "type": "Unknown"
     },
     "52641": {
-      "name": "ASN52641",
+      "name": "RONNET",
       "type": "Unknown"
     },
     "213550": {
@@ -134825,7 +134841,7 @@
       "type": "Content"
     },
     "328256": {
-      "name": "ORG-SINL1-AFRINIC",
+      "name": "Skymax Integrated Network Ltd",
       "type": "Cable/DSL/ISP"
     },
     "141997": {
@@ -134833,7 +134849,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273043": {
-      "name": "273043",
+      "name": "TV CABLE COM CA",
       "type": "Cable/DSL/ISP"
     },
     "213484": {
@@ -134845,7 +134861,7 @@
       "type": "Educational/Research"
     },
     "274689": {
-      "name": "274689",
+      "name": "SuperMaisLink",
       "type": "Cable/DSL/ISP"
     },
     "213605": {
@@ -134869,7 +134885,7 @@
       "type": "Cable/DSL/ISP"
     },
     "264623": {
-      "name": "264623",
+      "name": "CRUCERO DEL NORTE SRL",
       "type": "Content"
     },
     "32697": {
@@ -134975,6 +134991,10 @@
     "274048": {
       "name": "VARGAS JAMPOL TELECOMUNICACIONES SRL",
       "type": "Cable/DSL/ISP"
+    },
+    "33756": {
+      "name": "CHC-IPV6-A",
+      "type": "Enterprise"
     },
     "11967": {
       "name": "Hop179",
@@ -135197,7 +135217,7 @@
       "type": "NSP"
     },
     "271706": {
-      "name": "ASN271706",
+      "name": "MASTERLINK INTERNET LTDA",
       "type": "Cable/DSL/ISP"
     },
     "213452": {
@@ -135537,7 +135557,7 @@
       "type": "Educational/Research"
     },
     "267384": {
-      "name": "ASN267384",
+      "name": "G7 BSB TELECOM LTDA",
       "type": "Cable/DSL/ISP"
     },
     "214958": {
@@ -135593,7 +135613,7 @@
       "type": "NSP"
     },
     "273774": {
-      "name": "ASN273774",
+      "name": "MAXDATA SISTEMAS LTDA",
       "type": "Content"
     },
     "132082": {
@@ -135601,7 +135621,7 @@
       "type": "Cable/DSL/ISP"
     },
     "274468": {
-      "name": "ASN274468",
+      "name": "ENTEC SERVICOS DE TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
     },
     "329535": {
@@ -135637,7 +135657,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329530": {
-      "name": "ORG-SFL5-AFRINIC",
+      "name": "Savanna Fibre (Tanzania) Ltd",
       "type": "Unknown"
     },
     "56743": {
@@ -135763,10 +135783,6 @@
     "205941": {
       "name": "Lungu Stefan",
       "type": "NSP"
-    },
-    "205901": {
-      "name": "Rusk Networks",
-      "type": "Educational/Research"
     },
     "401896": {
       "name": "MISIU LLC",
@@ -135969,7 +135985,7 @@
       "type": "Enterprise"
     },
     "271762": {
-      "name": "ASN271762",
+      "name": "TA AQUINET",
       "type": "Cable/DSL/ISP"
     },
     "215281": {
@@ -136041,7 +136057,7 @@
       "type": "Cable/DSL/ISP"
     },
     "272988": {
-      "name": "272988",
+      "name": "HSEIngenieria SAS",
       "type": "Cable/DSL/ISP"
     },
     "274117": {
@@ -136557,7 +136573,7 @@
       "type": "Network Services"
     },
     "208674": {
-      "name": "EIOTTMANN",
+      "name": "TEKITUP",
       "type": "Cable/DSL/ISP"
     },
     "202358": {
@@ -136820,6 +136836,10 @@
       "name": "Expanda Network",
       "type": "Educational/Research"
     },
+    "269681": {
+      "name": "BEAM TELECOM",
+      "type": "Cable/DSL/ISP"
+    },
     "149595": {
       "name": "Pacelink Network Private Limited",
       "type": "Cable/DSL/ISP"
@@ -136877,15 +136897,15 @@
       "type": "Cable/DSL/ISP"
     },
     "154524": {
-      "name": "FTI-AS-AP",
+      "name": "FiberFlow Technologies Inc.",
       "type": "Cable/DSL/ISP"
     },
     "23161": {
-      "name": "PHOTOSHELTER-LON",
+      "name": "PhotoShelter, Inc.",
       "type": "Content"
     },
     "200140": {
-      "name": "Hanseung-Kim",
+      "name": "Hanseung Kim",
       "type": "Unknown"
     },
     "12183": {
@@ -136901,7 +136921,7 @@
       "type": "Network Services"
     },
     "199854": {
-      "name": "ITBYPASSION",
+      "name": "Jens Thies",
       "type": "Educational/Research"
     }
   }
