@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-26T00:15:59.512Z",
+  "updated_at": "2026-03-27T00:15:12.046Z",
   "source": "PeeringDB",
-  "entry_count": 34242,
+  "entry_count": 34256,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -2892,10 +2892,6 @@
       "name": "antilo AG",
       "type": "NSP"
     },
-    "33843": {
-      "name": "Nepustil AS33843",
-      "type": "NSP"
-    },
     "12731": {
       "name": "Portus Data Centers / IPHH",
       "type": "NSP"
@@ -3536,10 +3532,6 @@
       "name": "IT Systems(UA)",
       "type": "NSP"
     },
-    "8648": {
-      "name": "one.com Group AB and its subsidiaries",
-      "type": "Content"
-    },
     "9033": {
       "name": "MegaIX Europe Route Servers",
       "type": "Route Server"
@@ -3670,7 +3662,7 @@
     },
     "32881": {
       "name": "Server North Inc.",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "25466": {
       "name": "Lidero Network AB",
@@ -16680,10 +16672,6 @@
       "name": "TeraStream",
       "type": "NSP"
     },
-    "23860": {
-      "name": "Alliance Broadband Services Pvt Ltd",
-      "type": "Cable/DSL/ISP"
-    },
     "57958": {
       "name": "ASAS Telecom & IT Solutions LTD.",
       "type": "NSP"
@@ -19431,10 +19419,6 @@
     "59954": {
       "name": "KEYPOINT-SPB",
       "type": "Content"
-    },
-    "134555": {
-      "name": "Encoo",
-      "type": "Cable/DSL/ISP"
     },
     "46446": {
       "name": "California Telecom",
@@ -25869,7 +25853,7 @@
       "type": "Cable/DSL/ISP"
     },
     "51648": {
-      "name": "FIRMA HANDLOWA GIGA ARKADIUSZ KOCMA",
+      "name": "GIGAINTERNET Sp. z o.o.",
       "type": "Cable/DSL/ISP"
     },
     "135753": {
@@ -49540,6 +49524,10 @@
       "name": "Harmony Hosting",
       "type": "Content"
     },
+    "139490": {
+      "name": "Aspt Networks",
+      "type": "Cable/DSL/ISP"
+    },
     "53612": {
       "name": "EMM Consulting",
       "type": "Content"
@@ -58621,7 +58609,7 @@
       "type": "Educational/Research"
     },
     "5398": {
-      "name": "InternetONE-BackBone",
+      "name": "InternetONE-BackBone AS5398",
       "type": "NSP"
     },
     "16171": {
@@ -60103,10 +60091,6 @@
     "6498": {
       "name": "West Corporation",
       "type": "Content"
-    },
-    "211638": {
-      "name": "Dragon Networks",
-      "type": "Educational/Research"
     },
     "269139": {
       "name": "AN TELECOM",
@@ -65740,10 +65724,6 @@
       "name": "LINN IT Solution",
       "type": "Cable/DSL/ISP"
     },
-    "139704": {
-      "name": "AGB Communication AS139704",
-      "type": "Cable/DSL/ISP"
-    },
     "272423": {
       "name": "MASTER WI-FI FIBAS SP",
       "type": "Unknown"
@@ -70227,10 +70207,6 @@
     "211309": {
       "name": "OBOS Nett",
       "type": "Cable/DSL/ISP"
-    },
-    "206634": {
-      "name": "Vatora Technologies Limited",
-      "type": "Enterprise"
     },
     "142389": {
       "name": "Inti Koneksi Intradata Indonesia",
@@ -78408,6 +78384,10 @@
       "name": "The Expert Company",
       "type": "Unknown"
     },
+    "199750": {
+      "name": "SHENMING-AS",
+      "type": "Unknown"
+    },
     "197035": {
       "name": "TVIN-INET",
       "type": "Unknown"
@@ -79047,10 +79027,6 @@
     "23457": {
       "name": "City of Brampton",
       "type": "Government"
-    },
-    "43133": {
-      "name": "Cosmonova Broadcast",
-      "type": "Content"
     },
     "45858": {
       "name": "Dataone Asia Philippines",
@@ -88261,7 +88237,7 @@
       "type": "Unknown"
     },
     "51792": {
-      "name": "FIRMA HANDLOWA GIGA ARKADIUSZ KOCMA #2",
+      "name": "GIGAINTERNET Sp. z o.o. #2",
       "type": "Cable/DSL/ISP"
     },
     "399294": {
@@ -88624,10 +88600,6 @@
       "name": "Nextgen Telcoms LTD",
       "type": "Cable/DSL/ISP"
     },
-    "214371": {
-      "name": "HORIZON-IT",
-      "type": "Content"
-    },
     "266740": {
       "name": "BENICIA GOMEZ",
       "type": "Unknown"
@@ -88693,7 +88665,7 @@
       "type": "Unknown"
     },
     "274603": {
-      "name": "FJ TELECOM",
+      "name": "FJr Telecom",
       "type": "Cable/DSL/ISP"
     },
     "214365": {
@@ -89956,10 +89928,6 @@
       "name": "EXOHOSTING-AS",
       "type": "Unknown"
     },
-    "140937": {
-      "name": "TECHAROB PTY LTD",
-      "type": "Cable/DSL/ISP"
-    },
     "150535": {
       "name": "PT Jaringan Angkasa Intermedia",
       "type": "Unknown"
@@ -90711,10 +90679,6 @@
     "198232": {
       "name": "ZAKLAD TELEWIZJI KABLOWEJ \"TELE-KAB\" MARIANNA GRYGA, HENRYK SMYREK S.C.",
       "type": "Cable/DSL/ISP"
-    },
-    "210967": {
-      "name": "indasys IT Systemhaus AG",
-      "type": "Enterprise"
     },
     "399870": {
       "name": "BYNARIUM LLC",
@@ -93259,6 +93223,10 @@
     "213436": {
       "name": "NIUZI_DADA_CLOUD",
       "type": "Unknown"
+    },
+    "213409": {
+      "name": "Lynqia Network",
+      "type": "Content"
     },
     "150623": {
       "name": "HOSTPAT-AS-IN",
@@ -104050,7 +104018,7 @@
     },
     "152877": {
       "name": "Nintendo Co., Ltd",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "401910": {
       "name": "Natural State Community Internet Exchange",
@@ -104316,13 +104284,69 @@
       "name": "Zamolotskikh Kirill Alexandrovich",
       "type": "Unknown"
     },
-    "199776": {
-      "name": "NOAHPROJECTS",
-      "type": "Unknown"
-    },
     "22915": {
       "name": "ATAS-01",
       "type": "Enterprise"
+    },
+    "200841": {
+      "name": "Livestream Software",
+      "type": "Content"
+    },
+    "273333": {
+      "name": "ASN273333",
+      "type": "Unknown"
+    },
+    "203516": {
+      "name": "AltunHOST",
+      "type": "Unknown"
+    },
+    "47585": {
+      "name": "YIGITHOSTING",
+      "type": "Unknown"
+    },
+    "199879": {
+      "name": "Roman Chernobelskiy",
+      "type": "Enterprise"
+    },
+    "43458": {
+      "name": "AIRNITY-IPX",
+      "type": "Unknown"
+    },
+    "199738": {
+      "name": "VATORA LIMITED",
+      "type": "Content"
+    },
+    "210560": {
+      "name": "NEBIUSISRAEL",
+      "type": "Unknown"
+    },
+    "328607": {
+      "name": "ORG-BCT1-AFRINIC",
+      "type": "Unknown"
+    },
+    "275714": {
+      "name": "ASN275714",
+      "type": "Unknown"
+    },
+    "402243": {
+      "name": "ELEMENT",
+      "type": "Unknown"
+    },
+    "274519": {
+      "name": "ASN274519",
+      "type": "Unknown"
+    },
+    "13404": {
+      "name": "ASN-13404",
+      "type": "Unknown"
+    },
+    "201182": {
+      "name": "ITU",
+      "type": "Unknown"
+    },
+    "200477": {
+      "name": "EUCLID-NET",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -104840,6 +104864,10 @@
       "name": "CSUC",
       "type": "Educational/Research"
     },
+    "33843": {
+      "name": "Nepustil AS33843",
+      "type": "NSP"
+    },
     "8641": {
       "name": "Nauka-Svyaz",
       "type": "NSP"
@@ -104951,6 +104979,10 @@
     "41495": {
       "name": "FAELIX",
       "type": "NSP"
+    },
+    "8648": {
+      "name": "one.com Group AB and its subsidiaries",
+      "type": "Content"
     },
     "48039": {
       "name": "KGT new media",
@@ -107876,6 +107908,10 @@
       "name": "Ting Fiber",
       "type": "Cable/DSL/ISP"
     },
+    "23860": {
+      "name": "Alliance Broadband Services Pvt Ltd",
+      "type": "Cable/DSL/ISP"
+    },
     "60447": {
       "name": "I NET BULGARIA",
       "type": "NSP"
@@ -108603,6 +108639,10 @@
     "263321": {
       "name": "Ejmnet Tecnologia",
       "type": "Unknown"
+    },
+    "134555": {
+      "name": "Encoo",
+      "type": "Cable/DSL/ISP"
     },
     "41041": {
       "name": "Conversant Europe",
@@ -119340,10 +119380,6 @@
       "name": "AIRNET",
       "type": "Cable/DSL/ISP"
     },
-    "207687": {
-      "name": "Ainsoft IT Services",
-      "type": "Cable/DSL/ISP"
-    },
     "9976": {
       "name": "Namincheon Brodcasting Co.",
       "type": "Cable/DSL/ISP"
@@ -119551,10 +119587,6 @@
     "40237": {
       "name": "United Telephone Company",
       "type": "Unknown"
-    },
-    "139490": {
-      "name": "Aspt Networks",
-      "type": "Cable/DSL/ISP"
     },
     "57883": {
       "name": "NITAET",
@@ -123784,6 +123816,10 @@
       "name": "CONECTA PROVEDOR DE INTERNET LTDA. - ME",
       "type": "Cable/DSL/ISP"
     },
+    "211638": {
+      "name": "Dragon Networks",
+      "type": "Educational/Research"
+    },
     "139562": {
       "name": "Jolly Broadband",
       "type": "Cable/DSL/ISP"
@@ -126046,6 +126082,10 @@
     },
     "272210": {
       "name": "GIRO TELECOMUNICACOES DO BRASIL",
+      "type": "Cable/DSL/ISP"
+    },
+    "139704": {
+      "name": "AGB Communication AS139704",
       "type": "Cable/DSL/ISP"
     },
     "137376": {
@@ -130656,6 +130696,10 @@
       "name": "XDAR Wireless LLC",
       "type": "Cable/DSL/ISP"
     },
+    "43133": {
+      "name": "Cosmonova Broadcast",
+      "type": "Content"
+    },
     "329153": {
       "name": "SWDconnect",
       "type": "NSP"
@@ -133752,6 +133796,10 @@
       "name": "FIBERONE BROADBAND LTD",
       "type": "Cable/DSL/ISP"
     },
+    "214371": {
+      "name": "HORIZON-IT",
+      "type": "Content"
+    },
     "46733": {
       "name": "X6CNET",
       "type": "Content"
@@ -134176,6 +134224,10 @@
       "name": "ECKER",
       "type": "Educational/Research"
     },
+    "140937": {
+      "name": "TECHAROB PTY LTD",
+      "type": "Cable/DSL/ISP"
+    },
     "150154": {
       "name": "CLOUDSQUARED-AS-AP-220",
       "type": "Cable/DSL/ISP"
@@ -134407,6 +134459,10 @@
     "273203": {
       "name": "CABLE PAR, C.A.",
       "type": "Cable/DSL/ISP"
+    },
+    "210967": {
+      "name": "indasys IT Systemhaus AG",
+      "type": "Enterprise"
     },
     "152831": {
       "name": "PT.Aurora Sentral Informatika",
@@ -134955,10 +135011,6 @@
     "213422": {
       "name": "XGWQ",
       "type": "Non-Profit"
-    },
-    "213409": {
-      "name": "Lynqia Network",
-      "type": "Content"
     },
     "147180": {
       "name": "LRINTERNATIONAL-AS-AP",
@@ -136958,6 +137010,10 @@
     },
     "199854": {
       "name": "Jens Thies",
+      "type": "Educational/Research"
+    },
+    "199776": {
+      "name": "NOAHPROJECTS",
       "type": "Educational/Research"
     },
     "135674": {
