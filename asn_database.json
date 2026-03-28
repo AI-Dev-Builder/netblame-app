@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-27T00:15:12.046Z",
+  "updated_at": "2026-03-28T00:14:17.989Z",
   "source": "PeeringDB",
-  "entry_count": 34256,
+  "entry_count": 34263,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -7225,7 +7225,7 @@
       "type": "NSP"
     },
     "20738": {
-      "name": "GD-EMEA-DC-LD5",
+      "name": "Heart Internet limited - AS20738",
       "type": "Unknown"
     },
     "8677": {
@@ -18593,7 +18593,7 @@
       "type": "Cable/DSL/ISP"
     },
     "11550": {
-      "name": "Smithville Digital",
+      "name": "Smithville Digital, LLC",
       "type": "Cable/DSL/ISP"
     },
     "4668": {
@@ -24073,7 +24073,7 @@
       "type": "Unknown"
     },
     "203969": {
-      "name": "YMC AG",
+      "name": "Nexula GmbH",
       "type": "Unknown"
     },
     "7806": {
@@ -27486,7 +27486,7 @@
     },
     "263385": {
       "name": "CSNET TELECOM LTDA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "3582": {
       "name": "University of Oregon",
@@ -61924,6 +61924,10 @@
       "name": "Arbital",
       "type": "Cable/DSL/ISP"
     },
+    "212200": {
+      "name": "EUCLID INFRA",
+      "type": "Unknown"
+    },
     "262357": {
       "name": "Atento Brasil S.A",
       "type": "Unknown"
@@ -71152,10 +71156,6 @@
       "name": "Universitas Binawan",
       "type": "Educational/Research"
     },
-    "400719": {
-      "name": "RJN-SERVICES",
-      "type": "Educational/Research"
-    },
     "398653": {
       "name": "XLRYNT",
       "type": "Unknown"
@@ -76892,10 +76892,6 @@
       "name": "Sports Information Services",
       "type": "Unknown"
     },
-    "57965": {
-      "name": "International Committee of the Red Cross",
-      "type": "Educational/Research"
-    },
     "29074": {
       "name": "Faust ISP",
       "type": "Cable/DSL/ISP"
@@ -77134,7 +77130,7 @@
     },
     "151055": {
       "name": "Inligo Networks",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "203039": {
       "name": "Cavea",
@@ -77511,10 +77507,6 @@
     "13835": {
       "name": "Cirion - AR",
       "type": "Unknown"
-    },
-    "7341": {
-      "name": "Velocity Network",
-      "type": "Cable/DSL/ISP"
     },
     "210199": {
       "name": "Heiko Schabert",
@@ -92402,7 +92394,7 @@
     },
     "27872": {
       "name": "URBE - Universidad Dr. Rafael Belloso",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "211423": {
       "name": "QOONTOO",
@@ -92489,7 +92481,7 @@
       "type": "Cable/DSL/ISP"
     },
     "214073": {
-      "name": "heart-internet-uk",
+      "name": "Heart Internet limited - AS214073",
       "type": "Unknown"
     },
     "200813": {
@@ -92985,7 +92977,7 @@
       "type": "Unknown"
     },
     "210070": {
-      "name": "hotsplots",
+      "name": "Hotsplots GmbH",
       "type": "Unknown"
     },
     "37376": {
@@ -100410,7 +100402,7 @@
     },
     "401832": {
       "name": "Rule Your Own Game Inc.",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "329618": {
       "name": "MPAPS",
@@ -103677,7 +103669,7 @@
       "type": "Educational/Research"
     },
     "142544": {
-      "name": "DNS Indonesia",
+      "name": "PT. DATA NET SUPPORT",
       "type": "Cable/DSL/ISP"
     },
     "205489": {
@@ -104309,43 +104301,71 @@
       "type": "Enterprise"
     },
     "43458": {
-      "name": "AIRNITY-IPX",
+      "name": "AIRNITY SAS",
       "type": "Unknown"
     },
     "199738": {
       "name": "VATORA LIMITED",
-      "type": "Content"
+      "type": "NSP"
     },
     "210560": {
-      "name": "NEBIUSISRAEL",
+      "name": "Nebius Israel Ltd",
       "type": "Unknown"
     },
     "328607": {
-      "name": "ORG-BCT1-AFRINIC",
+      "name": "UBX (TANZANIA) LIMITED",
       "type": "Unknown"
     },
     "275714": {
       "name": "ASN275714",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "402243": {
       "name": "ELEMENT",
       "type": "Unknown"
     },
     "274519": {
-      "name": "ASN274519",
-      "type": "Unknown"
+      "name": "GESTOR PAGO CONS. E TECNOLOGIA DA INFORMACAO LTDA",
+      "type": "Cable/DSL/ISP"
     },
     "13404": {
-      "name": "ASN-13404",
+      "name": "GoFIBER",
       "type": "Unknown"
     },
     "201182": {
-      "name": "ITU",
+      "name": "IT Uoga MB",
       "type": "Unknown"
     },
     "200477": {
-      "name": "EUCLID-NET",
+      "name": "EUCLID SERVICES LIMITED",
+      "type": "Unknown"
+    },
+    "149512": {
+      "name": "Inligo Networks Pty Ltd",
+      "type": "Network Services"
+    },
+    "199745": {
+      "name": "Terrible llc",
+      "type": "Unknown"
+    },
+    "154571": {
+      "name": "ZENFIBER BROADBAND SERVICES PRIVATE LIMITED",
+      "type": "Unknown"
+    },
+    "199651": {
+      "name": "CR-TRANSIT-AS",
+      "type": "NSP"
+    },
+    "264611": {
+      "name": "264611",
+      "type": "Cable/DSL/ISP"
+    },
+    "402339": {
+      "name": "DISASTERTRIDENT-NETWORKS",
+      "type": "Unknown"
+    },
+    "153596": {
+      "name": "SWISPPL-AS-AP",
       "type": "Unknown"
     },
     "22822": {
@@ -128072,6 +128092,10 @@
       "name": "Jaringan Datamedia Nusantara",
       "type": "Cable/DSL/ISP"
     },
+    "400719": {
+      "name": "RJN-SERVICES",
+      "type": "Educational/Research"
+    },
     "5429": {
       "name": "ТЦ ЮМОС",
       "type": "NSP"
@@ -130012,6 +130036,10 @@
       "name": "Gruppa MosLine",
       "type": "NSP"
     },
+    "57965": {
+      "name": "International Committee of the Red Cross",
+      "type": "Educational/Research"
+    },
     "329243": {
       "name": "One Mile Telecoms",
       "type": "NSP"
@@ -130175,6 +130203,10 @@
     "141842": {
       "name": "Codebits Technologies",
       "type": "Unknown"
+    },
+    "7341": {
+      "name": "Velocity Network",
+      "type": "Cable/DSL/ISP"
     },
     "141254": {
       "name": "Netfox Networks",
@@ -135383,10 +135415,6 @@
     "399284": {
       "name": "luYs, Inc.",
       "type": "Unknown"
-    },
-    "212084": {
-      "name": "MonoSecurity AB",
-      "type": "NSP"
     },
     "271487": {
       "name": "FIBRACONN SERVIÇOS DE TELECOMUNICACOES",
