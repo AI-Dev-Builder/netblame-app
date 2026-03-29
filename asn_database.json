@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-28T00:14:17.989Z",
+  "updated_at": "2026-03-29T00:15:48.948Z",
   "source": "PeeringDB",
-  "entry_count": 34263,
+  "entry_count": 34270,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -37331,10 +37331,6 @@
     "20919": {
       "name": "IBS Expertise",
       "type": "Unknown"
-    },
-    "265641": {
-      "name": "CIX BROADBAND",
-      "type": "Cable/DSL/ISP"
     },
     "49466": {
       "name": "KLAYER EU",
@@ -77018,7 +77014,7 @@
     },
     "1100": {
       "name": "Nuday Networks Inc.",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "63910": {
       "name": "Clark Technology Ltd.",
@@ -84855,10 +84851,6 @@
     "46906": {
       "name": "GOSEMO-LLC",
       "type": "Cable/DSL/ISP"
-    },
-    "215561": {
-      "name": "Stefan Eikenbusch",
-      "type": "Unknown"
     },
     "51142": {
       "name": "ExpressNetwork",
@@ -94078,7 +94070,7 @@
     },
     "149718": {
       "name": "BINERI - SATUNOL",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "12409": {
       "name": "Trustteam",
@@ -94207,10 +94199,6 @@
     "151999": {
       "name": "IDNIC-AMG-AS-ID",
       "type": "Cable/DSL/ISP"
-    },
-    "138830": {
-      "name": "JARATELINDO-AS-ID",
-      "type": "NSP"
     },
     "153610": {
       "name": "Tenbyte",
@@ -104286,7 +104274,7 @@
     },
     "273333": {
       "name": "ASN273333",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "203516": {
       "name": "AltunHOST",
@@ -104349,8 +104337,8 @@
       "type": "Unknown"
     },
     "154571": {
-      "name": "ZENFIBER BROADBAND SERVICES PRIVATE LIMITED",
-      "type": "Unknown"
+      "name": "Zenfiber Broadband",
+      "type": "Cable/DSL/ISP"
     },
     "199651": {
       "name": "CR-TRANSIT-AS",
@@ -104366,6 +104354,34 @@
     },
     "153596": {
       "name": "SWISPPL-AS-AP",
+      "type": "Unknown"
+    },
+    "329714": {
+      "name": "ORG-IHFL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "264066": {
+      "name": "ASN264066",
+      "type": "Unknown"
+    },
+    "216399": {
+      "name": "Al-Sabah",
+      "type": "Unknown"
+    },
+    "216461": {
+      "name": "Nukhbat-IQ",
+      "type": "Unknown"
+    },
+    "212994": {
+      "name": "EUROLINK",
+      "type": "Unknown"
+    },
+    "208663": {
+      "name": "MTU-NET",
+      "type": "Unknown"
+    },
+    "210105": {
+      "name": "ComputingService",
       "type": "Unknown"
     },
     "22822": {
@@ -114438,6 +114454,10 @@
     },
     "267189": {
       "name": "DIGITAL SAT INTERNET LTDA",
+      "type": "Cable/DSL/ISP"
+    },
+    "265641": {
+      "name": "CIX BROADBAND",
       "type": "Cable/DSL/ISP"
     },
     "328334": {
@@ -132736,6 +132756,10 @@
       "name": "AetherNet",
       "type": "Educational/Research"
     },
+    "215561": {
+      "name": "Stefan Eikenbusch",
+      "type": "Educational/Research"
+    },
     "210660": {
       "name": "CAVEFOX",
       "type": "Content"
@@ -135275,6 +135299,10 @@
     "400514": {
       "name": "ESPACE-NETWORKS",
       "type": "Cable/DSL/ISP"
+    },
+    "138830": {
+      "name": "JARATELINDO-AS-ID",
+      "type": "NSP"
     },
     "150397": {
       "name": "UNIVERSE-AS-AP",
