@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-29T00:15:48.948Z",
+  "updated_at": "2026-03-30T00:16:21.500Z",
   "source": "PeeringDB",
-  "entry_count": 34270,
+  "entry_count": 34273,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -31848,10 +31848,6 @@
       "name": "ClueNet",
       "type": "Non-Profit"
     },
-    "12553": {
-      "name": "Andreas Grawehr",
-      "type": "Enterprise"
-    },
     "263081": {
       "name": "RMS Connect Telecomunicações",
       "type": "Cable/DSL/ISP"
@@ -51278,7 +51274,7 @@
     },
     "6515": {
       "name": "DACS NX",
-      "type": "Route Server"
+      "type": "NSP"
     },
     "22006": {
       "name": "Pulk & Co.",
@@ -51334,7 +51330,7 @@
     },
     "29785": {
       "name": "DACS SCE",
-      "type": "Route Server"
+      "type": "Content"
     },
     "269898": {
       "name": "Speedmax Telecom",
@@ -53830,7 +53826,7 @@
     },
     "398454": {
       "name": "DACS IX Route Collectors",
-      "type": "Route Server"
+      "type": "Route Collector"
     },
     "40592": {
       "name": "DACS IX Route Servers",
@@ -57201,7 +57197,7 @@
       "type": "Cable/DSL/ISP"
     },
     "213282": {
-      "name": "ADAHOST",
+      "name": "Ada Yüksek Teknoloji Limited Şirketi",
       "type": "Enterprise"
     },
     "212402": {
@@ -69278,7 +69274,7 @@
     },
     "209642": {
       "name": "Mejiro Network",
-      "type": "Network Services"
+      "type": "Enterprise"
     },
     "52284": {
       "name": "Panamaserver.com",
@@ -74221,7 +74217,7 @@
       "type": "NSP"
     },
     "201421": {
-      "name": "Muehlbachler",
+      "name": "AS201421",
       "type": "Educational/Research"
     },
     "43612": {
@@ -79315,6 +79311,10 @@
     "266938": {
       "name": "LT SOLUCOES",
       "type": "Unknown"
+    },
+    "48231": {
+      "name": "CRE Network, LLC",
+      "type": "Network Services"
     },
     "273794": {
       "name": "TERA CORPORATION TELECOMUNICACOES EIRELI",
@@ -98525,7 +98525,7 @@
       "type": "Cable/DSL/ISP"
     },
     "153573": {
-      "name": "PT Bayu Multimedia Telekomunikasi",
+      "name": "BAYNET - PT Bayu Multimedia Telekomunikasi",
       "type": "NSP"
     },
     "329570": {
@@ -99213,8 +99213,8 @@
       "type": "Cable/DSL/ISP"
     },
     "402026": {
-      "name": "AVIRM-SYSTEMS-INC",
-      "type": "Unknown"
+      "name": "ASI Broadband (ASI North America LLC)",
+      "type": "Cable/DSL/ISP"
     },
     "140400": {
       "name": "IDNIC-UMJ-AS-ID",
@@ -100759,10 +100759,6 @@
     "63906": {
       "name": "FUYU",
       "type": "Unknown"
-    },
-    "203579": {
-      "name": "Aiko Appeldorn",
-      "type": "Educational/Research"
     },
     "395047": {
       "name": "Artix Networks LLC",
@@ -104382,6 +104378,18 @@
     },
     "210105": {
       "name": "ComputingService",
+      "type": "Unknown"
+    },
+    "131629": {
+      "name": "CKMATES-AS-TW",
+      "type": "Unknown"
+    },
+    "203988": {
+      "name": "EVY",
+      "type": "Unknown"
+    },
+    "274254": {
+      "name": "274254",
       "type": "Unknown"
     },
     "22822": {
@@ -112151,6 +112159,10 @@
     "202771": {
       "name": "Codenmore",
       "type": "Enterprise"
+    },
+    "12553": {
+      "name": "Andreas Grawehr",
+      "type": "Educational/Research"
     },
     "133240": {
       "name": "WAVETREE NETWORKS",
@@ -130868,10 +130880,6 @@
       "name": "BENWELL",
       "type": "Unknown"
     },
-    "48231": {
-      "name": "CRE Network, LLC",
-      "type": "Network Services"
-    },
     "1734": {
       "name": "DeLong Consulting",
       "type": "Unknown"
@@ -134369,7 +134377,7 @@
       "type": "Cable/DSL/ISP"
     },
     "401401": {
-      "name": "UNREDACTED-NOISENET",
+      "name": "Unredacted Inc (NoiseNet)",
       "type": "NSP"
     },
     "26954": {
@@ -135673,7 +135681,7 @@
       "type": "Cable/DSL/ISP"
     },
     "401720": {
-      "name": "UNREDACTED-AS",
+      "name": "Unredacted Inc (Core)",
       "type": "NSP"
     },
     "207091": {
@@ -136118,7 +136126,7 @@
     },
     "210880": {
       "name": "Arda Daglioglu",
-      "type": "Route Collector"
+      "type": "Content"
     },
     "329608": {
       "name": "NetClick",
@@ -136539,6 +136547,10 @@
     "141796": {
       "name": "VAYU ONLINE PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
+    },
+    "203579": {
+      "name": "Aiko Appeldorn",
+      "type": "Educational/Research"
     },
     "135046": {
       "name": "TAIZTEL (PRIVATE) LIMITED",
