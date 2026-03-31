@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-03-30T00:16:21.500Z",
+  "updated_at": "2026-03-31T00:16:09.443Z",
   "source": "PeeringDB",
-  "entry_count": 34273,
+  "entry_count": 34281,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -61,7 +61,7 @@
       "type": "Content"
     },
     "19165": {
-      "name": "Webpass",
+      "name": "GFiber | Webpass",
       "type": "Cable/DSL/ISP"
     },
     "34135": {
@@ -9292,10 +9292,6 @@
       "name": "World-ICT B.V.",
       "type": "NSP"
     },
-    "29263": {
-      "name": "Gemeente Den Haag",
-      "type": "Non-Profit"
-    },
     "34934": {
       "name": "UKFast.net",
       "type": "Content"
@@ -9437,7 +9433,7 @@
       "type": "Cable/DSL/ISP"
     },
     "16591": {
-      "name": "Google Fiber Inc.",
+      "name": "GFiber",
       "type": "Cable/DSL/ISP"
     },
     "197696": {
@@ -14737,7 +14733,7 @@
       "type": "Enterprise"
     },
     "63516": {
-      "name": "Trans Hybrid Communication",
+      "name": "Trans Hybrid IX ( AS63516 )",
       "type": "NSP"
     },
     "4760": {
@@ -29174,7 +29170,7 @@
     },
     "63771": {
       "name": "BGPNAP",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "133483": {
       "name": "SWITCH MEDIA",
@@ -30041,7 +30037,7 @@
       "type": "Network Services"
     },
     "24534": {
-      "name": "Transhybrid Communication",
+      "name": "Trans Hybrid Communication- NAP ASN ( 24534 )",
       "type": "NSP"
     },
     "24778": {
@@ -34681,7 +34677,7 @@
       "type": "Unknown"
     },
     "60439": {
-      "name": "SERVERNET INTERNET LIMITED",
+      "name": "Server.net",
       "type": "Unknown"
     },
     "9661": {
@@ -61916,10 +61912,6 @@
       "name": "Arbital",
       "type": "Cable/DSL/ISP"
     },
-    "212200": {
-      "name": "EUCLID INFRA",
-      "type": "Unknown"
-    },
     "262357": {
       "name": "Atento Brasil S.A",
       "type": "Unknown"
@@ -71612,6 +71604,10 @@
       "name": "HCGOV",
       "type": "Unknown"
     },
+    "212294": {
+      "name": "Basel Al-Sayeh",
+      "type": "Unknown"
+    },
     "203333": {
       "name": "Jonas Busch",
       "type": "Cable/DSL/ISP"
@@ -74217,7 +74213,7 @@
       "type": "NSP"
     },
     "201421": {
-      "name": "AS201421",
+      "name": "Daniel Muehlbachler-Pietrzykowski",
       "type": "Educational/Research"
     },
     "43612": {
@@ -80186,10 +80182,6 @@
     },
     "270695": {
       "name": "SPACENET BANDA LARGA",
-      "type": "Cable/DSL/ISP"
-    },
-    "269648": {
-      "name": "Nova Wifi",
       "type": "Cable/DSL/ISP"
     },
     "269181": {
@@ -86880,6 +86872,10 @@
       "name": "Chemnitzer StudentenNetz",
       "type": "Non-Profit"
     },
+    "214726": {
+      "name": "MZUNGU",
+      "type": "Enterprise"
+    },
     "150549": {
       "name": "PT JKB Telematika Indonesia",
       "type": "Cable/DSL/ISP"
@@ -88253,7 +88249,7 @@
       "type": "Unknown"
     },
     "153068": {
-      "name": "Nusantara Global Exchanges",
+      "name": "Nusantara Global Exchanges ( ASN 153068 )",
       "type": "Network Services"
     },
     "215510": {
@@ -88307,10 +88303,6 @@
     "273467": {
       "name": "H R B LACERDA",
       "type": "Unknown"
-    },
-    "329467": {
-      "name": "Organization PAN AFRICA TELECOM (PTY) LTD",
-      "type": "Cable/DSL/ISP"
     },
     "204957": {
       "name": "GREEN FLOID",
@@ -93135,6 +93127,10 @@
     "214837": {
       "name": "GETSWISH",
       "type": "Unknown"
+    },
+    "213430": {
+      "name": "CHAN-HSIANG-LI",
+      "type": "Educational/Research"
     },
     "213564": {
       "name": "RAIL_SET",
@@ -104241,7 +104237,7 @@
       "type": "Unknown"
     },
     "273170": {
-      "name": "273170",
+      "name": "LATENCIA 0",
       "type": "Unknown"
     },
     "275680": {
@@ -104249,7 +104245,7 @@
       "type": "Unknown"
     },
     "329620": {
-      "name": "ORG-JMRL1-AFRINIC",
+      "name": "JHL Mynhardt Rekenaars (PTY)",
       "type": "Unknown"
     },
     "205983": {
@@ -104269,7 +104265,7 @@
       "type": "Content"
     },
     "273333": {
-      "name": "ASN273333",
+      "name": "ORIONNET TELECOM TECNOLOGIA E SERVIÇOS",
       "type": "NSP"
     },
     "203516": {
@@ -104301,7 +104297,7 @@
       "type": "Unknown"
     },
     "275714": {
-      "name": "ASN275714",
+      "name": "E-Consulters Enterprise",
       "type": "Enterprise"
     },
     "402243": {
@@ -104320,10 +104316,6 @@
       "name": "IT Uoga MB",
       "type": "Unknown"
     },
-    "200477": {
-      "name": "EUCLID SERVICES LIMITED",
-      "type": "Unknown"
-    },
     "149512": {
       "name": "Inligo Networks Pty Ltd",
       "type": "Network Services"
@@ -104337,11 +104329,11 @@
       "type": "Cable/DSL/ISP"
     },
     "199651": {
-      "name": "CR-TRANSIT-AS",
+      "name": "CR-TRANSIT",
       "type": "NSP"
     },
     "264611": {
-      "name": "264611",
+      "name": "FRONTERA DIGITAL",
       "type": "Cable/DSL/ISP"
     },
     "402339": {
@@ -104353,11 +104345,11 @@
       "type": "Unknown"
     },
     "329714": {
-      "name": "ORG-IHFL1-AFRINIC",
+      "name": "IMARA HOME FIBRE",
       "type": "Unknown"
     },
     "264066": {
-      "name": "ASN264066",
+      "name": "WP Tecnologia LTDA ME",
       "type": "Unknown"
     },
     "216399": {
@@ -104389,7 +104381,31 @@
       "type": "Unknown"
     },
     "274254": {
-      "name": "274254",
+      "name": "INTERMAX COMUNICACIONES",
+      "type": "Unknown"
+    },
+    "54717": {
+      "name": "CLAREMONT-COMPUTER-NETWORK",
+      "type": "Unknown"
+    },
+    "213631": {
+      "name": "K-Tech",
+      "type": "Unknown"
+    },
+    "401674": {
+      "name": "HUB-ASN-01",
+      "type": "Cable/DSL/ISP"
+    },
+    "154454": {
+      "name": "IDNIC-DETENET-ID",
+      "type": "Unknown"
+    },
+    "17149": {
+      "name": "Global Caribbean Network (GCN)",
+      "type": "NSP"
+    },
+    "152428": {
+      "name": "PT Lintas Indotel Mandiri",
       "type": "Unknown"
     },
     "22822": {
@@ -106163,6 +106179,10 @@
     "8823": {
       "name": "rockenstein AG",
       "type": "NSP"
+    },
+    "29263": {
+      "name": "Gemeente Den Haag",
+      "type": "Non-Profit"
     },
     "57344": {
       "name": "Telehouse",
@@ -110514,7 +110534,7 @@
     },
     "201379": {
       "name": "Christian Hofstede-Kuhn",
-      "type": "Non-Profit"
+      "type": "Content"
     },
     "49697": {
       "name": "Joey-Network",
@@ -124536,6 +124556,10 @@
       "name": "ATC",
       "type": "Cable/DSL/ISP"
     },
+    "212200": {
+      "name": "EUCLID INFRA",
+      "type": "NSP"
+    },
     "138637": {
       "name": "VOCPHONE",
       "type": "Network Services"
@@ -128280,10 +128304,6 @@
       "name": "Western Fibre Communications",
       "type": "Cable/DSL/ISP"
     },
-    "212294": {
-      "name": "Basel Al-Sayeh",
-      "type": "Unknown"
-    },
     "46138": {
       "name": "Maikiwi Network",
       "type": "Enterprise"
@@ -131196,6 +131216,10 @@
       "name": "Finovy Pte. Ltd.",
       "type": "Enterprise"
     },
+    "269648": {
+      "name": "Nova Wifi",
+      "type": "Cable/DSL/ISP"
+    },
     "206075": {
       "name": "Hollander & Jacobsen UG (haftungsbeschraenkt)",
       "type": "Unknown"
@@ -133776,6 +133800,10 @@
       "name": "EXOHOST",
       "type": "Network Services"
     },
+    "329467": {
+      "name": "Organization PAN AFRICA TELECOM (PTY) LTD",
+      "type": "Cable/DSL/ISP"
+    },
     "214564": {
       "name": "Frostbyte Networks",
       "type": "Educational/Research"
@@ -134561,7 +134589,7 @@
       "type": "Route Server"
     },
     "214128": {
-      "name": "Empire-il ASN",
+      "name": "Empire-IL",
       "type": "NSP"
     },
     "214008": {
@@ -137093,8 +137121,12 @@
       "type": "Unknown"
     },
     "199746": {
-      "name": "NextIX",
+      "name": "NextGuard",
       "type": "Enterprise"
+    },
+    "200477": {
+      "name": "EUCLID SERVICES LIMITED",
+      "type": "NSP"
     }
   }
 }
