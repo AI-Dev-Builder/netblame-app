@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-02T00:14:47.459Z",
+  "updated_at": "2026-04-03T00:19:44.483Z",
   "source": "PeeringDB",
-  "entry_count": 34293,
+  "entry_count": 34307,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -19587,10 +19587,6 @@
     "58765": {
       "name": "B-Tel Internet pvt Ltd",
       "type": "Cable/DSL/ISP"
-    },
-    "394437": {
-      "name": "PS Lightwave",
-      "type": "NSP"
     },
     "17473": {
       "name": "emPOWER Data Services",
@@ -40490,7 +40486,7 @@
     },
     "268024": {
       "name": "A. H. SANTOS OLIVEIRA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "267974": {
       "name": "IMPACTNET I E C",
@@ -53348,10 +53344,6 @@
       "name": "Mitra Media Data",
       "type": "Content"
     },
-    "398465": {
-      "name": "Rackdog",
-      "type": "Cable/DSL/ISP"
-    },
     "328670": {
       "name": "Nowtech",
       "type": "Cable/DSL/ISP"
@@ -61782,7 +61774,7 @@
     },
     "141376": {
       "name": "IDNIC-SHAFANZA-AS-ID",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "140429": {
       "name": "URBANACCESS",
@@ -81012,10 +81004,6 @@
       "name": "TIGRISNET",
       "type": "Unknown"
     },
-    "150976": {
-      "name": "PT Mekarsari Digital Teknologi",
-      "type": "Cable/DSL/ISP"
-    },
     "199662": {
       "name": "EXION",
       "type": "Unknown"
@@ -91662,7 +91650,7 @@
     },
     "19814": {
       "name": "FOUNDABILITY",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "210858": {
       "name": "ACTIRISE",
@@ -98457,7 +98445,7 @@
       "type": "Unknown"
     },
     "154189": {
-      "name": "Fiber 4",
+      "name": "Fiber 4 AS154189",
       "type": "Cable/DSL/ISP"
     },
     "153785": {
@@ -103310,7 +103298,7 @@
     },
     "208997": {
       "name": "ICN",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "400287": {
       "name": "City of Pharr TX",
@@ -104089,7 +104077,7 @@
       "type": "Unknown"
     },
     "204197": {
-      "name": "JD Invest GmbH",
+      "name": "JD Group AS",
       "type": "NSP"
     },
     "4885": {
@@ -104398,7 +104386,7 @@
     },
     "28381": {
       "name": "28381",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "263936": {
       "name": "ASN263936",
@@ -104433,8 +104421,8 @@
       "type": "Unknown"
     },
     "153951": {
-      "name": "IRINN-VEGANET-AS-IN",
-      "type": "Unknown"
+      "name": "VEGA INTERNET",
+      "type": "Cable/DSL/ISP"
     },
     "213298": {
       "name": "CTX-BRN-AS",
@@ -104457,7 +104445,59 @@
       "type": "Unknown"
     },
     "151475": {
-      "name": "CADUCEUS-AS-AP",
+      "name": "Caduceus NZ",
+      "type": "Unknown"
+    },
+    "269571": {
+      "name": "ASN269571",
+      "type": "Unknown"
+    },
+    "199742": {
+      "name": "AKENAI-AS",
+      "type": "Unknown"
+    },
+    "41439": {
+      "name": "MAXCOM !",
+      "type": "Unknown"
+    },
+    "153115": {
+      "name": "IDNIC-NUANSATEKNOLOGI-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "274535": {
+      "name": "ASN274535",
+      "type": "Unknown"
+    },
+    "205981": {
+      "name": "CWSANVICENTE-AS",
+      "type": "Unknown"
+    },
+    "60267": {
+      "name": "CABLERWORLD-MURCIA-AS",
+      "type": "Unknown"
+    },
+    "207050": {
+      "name": "AS_CABLEWORLDELDA",
+      "type": "Unknown"
+    },
+    "271611": {
+      "name": "ASN271611",
+      "type": "Unknown"
+    },
+    "199454": {
+      "name": "esimynetworkservices",
+      "type": "Unknown"
+    },
+    "211025": {
+      "name": "OPTOTECH-AS",
+      "type": "Unknown"
+    },
+    "48259": {
+      "name": "AS_MK2",
+      "type": "Unknown"
+    },
+    "199573": {
+      "name": "SmartScreen",
       "type": "Unknown"
     },
     "22822": {
@@ -108835,6 +108875,10 @@
     "59953": {
       "name": "Purefibre Internet Ltd.",
       "type": "Cable/DSL/ISP"
+    },
+    "394437": {
+      "name": "PS Lightwave",
+      "type": "NSP"
     },
     "263124": {
       "name": "ZAP TELECOMUNICAÇÕES",
@@ -129872,6 +129916,14 @@
       "name": "TURBO CAIRES NET",
       "type": "NSP"
     },
+    "199683": {
+      "name": "KILOGRAM",
+      "type": "Unknown"
+    },
+    "199656": {
+      "name": "Zyner",
+      "type": "Non-Profit"
+    },
     "56835": {
       "name": "UTELS",
       "type": "Cable/DSL/ISP"
@@ -131618,6 +131670,10 @@
     },
     "272724": {
       "name": "FACILITA PROVEDOR DE INTERNET",
+      "type": "Cable/DSL/ISP"
+    },
+    "150976": {
+      "name": "PT Mekarsari Digital Teknologi",
       "type": "Cable/DSL/ISP"
     },
     "151351": {
@@ -135914,7 +135970,7 @@
     },
     "215652": {
       "name": "Jakub Artur Bald",
-      "type": "Enterprise"
+      "type": "Educational/Research"
     },
     "214271": {
       "name": "QTNETWORK",
