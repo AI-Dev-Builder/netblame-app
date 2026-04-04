@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-03T00:19:44.483Z",
+  "updated_at": "2026-04-04T00:14:30.020Z",
   "source": "PeeringDB",
-  "entry_count": 34307,
+  "entry_count": 34312,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -19534,7 +19534,7 @@
     },
     "200623": {
       "name": "NetBlazer Ltd",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "45382": {
       "name": "EhostICT",
@@ -40217,7 +40217,7 @@
       "type": "Cable/DSL/ISP"
     },
     "328361": {
-      "name": "Voizacom",
+      "name": "Ax-net",
       "type": "Cable/DSL/ISP"
     },
     "135882": {
@@ -53344,6 +53344,10 @@
       "name": "Mitra Media Data",
       "type": "Content"
     },
+    "398465": {
+      "name": "Rackdog",
+      "type": "Cable/DSL/ISP"
+    },
     "328670": {
       "name": "Nowtech",
       "type": "Cable/DSL/ISP"
@@ -58591,10 +58595,6 @@
     "141300": {
       "name": "Vrd Webservices",
       "type": "Unknown"
-    },
-    "328774": {
-      "name": "Voizacom-ISP",
-      "type": "Cable/DSL/ISP"
     },
     "201293": {
       "name": "OPAP",
@@ -91777,7 +91777,7 @@
       "type": "Unknown"
     },
     "153255": {
-      "name": "RTSEVEN-AS-IN",
+      "name": "RT-7 NETWORK",
       "type": "Cable/DSL/ISP"
     },
     "212176": {
@@ -101412,10 +101412,6 @@
       "name": "Liberty Communications",
       "type": "Unknown"
     },
-    "202758": {
-      "name": "Ishmeet Thethi",
-      "type": "Unknown"
-    },
     "274772": {
       "name": "UP NET WORK INTERNET FIBRA OPTICA LTDA",
       "type": "Cable/DSL/ISP"
@@ -103904,10 +103900,6 @@
       "name": "UNIVERSIDAD DE SANTIAGO DE CHILE",
       "type": "Unknown"
     },
-    "329664": {
-      "name": "AGAPETECH",
-      "type": "Unknown"
-    },
     "54869": {
       "name": "Rockman Communications, Inc.",
       "type": "Unknown"
@@ -104301,8 +104293,8 @@
       "type": "Unknown"
     },
     "210105": {
-      "name": "ComputingService",
-      "type": "Unknown"
+      "name": "Computing Service",
+      "type": "Cable/DSL/ISP"
     },
     "131629": {
       "name": "CKMATES-AS-TW",
@@ -104498,6 +104490,30 @@
     },
     "199573": {
       "name": "SmartScreen",
+      "type": "Unknown"
+    },
+    "13449": {
+      "name": "DXMS",
+      "type": "Content"
+    },
+    "202753": {
+      "name": "GLOBALGRID-NETWORK",
+      "type": "Unknown"
+    },
+    "198429": {
+      "name": "DRWD-AS",
+      "type": "Unknown"
+    },
+    "402356": {
+      "name": "Gridprise LLC",
+      "type": "Enterprise"
+    },
+    "401748": {
+      "name": "ASRINFOPRO-LLC-INFRA",
+      "type": "Unknown"
+    },
+    "273131": {
+      "name": "273131",
       "type": "Unknown"
     },
     "22822": {
@@ -137182,6 +137198,10 @@
     },
     "200140": {
       "name": "Hanseung Kim",
+      "type": "Unknown"
+    },
+    "329664": {
+      "name": "AGAPETECH",
       "type": "Unknown"
     },
     "12183": {
