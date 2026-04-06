@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-05T00:15:59.263Z",
+  "updated_at": "2026-04-06T00:16:27.828Z",
   "source": "PeeringDB",
-  "entry_count": 34316,
+  "entry_count": 34318,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -52658,7 +52658,7 @@
     },
     "62383": {
       "name": "Wireless Belgie",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "268947": {
       "name": "ALTANET",
@@ -59411,10 +59411,6 @@
     "4617": {
       "name": "Borneo-IX Route Servers",
       "type": "Route Server"
-    },
-    "205275": {
-      "name": "ROMARG",
-      "type": "Content"
     },
     "41457": {
       "name": "KONNGRUENT",
@@ -86368,10 +86364,6 @@
       "name": "Business Trade",
       "type": "Unknown"
     },
-    "152848": {
-      "name": "asdf.hk",
-      "type": "NSP"
-    },
     "214946": {
       "name": "Kireshki",
       "type": "Unknown"
@@ -86453,7 +86445,7 @@
       "type": "Unknown"
     },
     "215362": {
-      "name": "PROMO-PLUS",
+      "name": "ZEROMS",
       "type": "Enterprise"
     },
     "202964": {
@@ -99017,7 +99009,7 @@
       "type": "Cable/DSL/ISP"
     },
     "215760": {
-      "name": "DISPAISY-AS",
+      "name": "DisPaisy Enterprises",
       "type": "Educational/Research"
     },
     "210008": {
@@ -102877,7 +102869,7 @@
       "type": "Educational/Research"
     },
     "204085": {
-      "name": "DisPaisy Enterprises",
+      "name": "DisPaisy Enterprises Projects",
       "type": "Educational/Research"
     },
     "201349": {
@@ -104522,6 +104514,14 @@
     },
     "274331": {
       "name": "EDUARNET TELECOM",
+      "type": "Unknown"
+    },
+    "151571": {
+      "name": "IDNIC-KLIKSPOT-AS-ID",
+      "type": "Unknown"
+    },
+    "202676": {
+      "name": "BRZNET",
       "type": "Unknown"
     },
     "22822": {
@@ -123700,6 +123700,10 @@
       "name": "Thai Name Server Co.",
       "type": "Non-Profit"
     },
+    "205275": {
+      "name": "ROMARG",
+      "type": "Content"
+    },
     "270049": {
       "name": "Gonet",
       "type": "Cable/DSL/ISP"
@@ -130129,8 +130133,8 @@
       "type": "Enterprise"
     },
     "200950": {
-      "name": "Lyratris Limited",
-      "type": "Content"
+      "name": "Calibour Limited",
+      "type": "NSP"
     },
     "199918": {
       "name": "WarpNet",
@@ -133408,6 +133412,10 @@
       "name": "PT Purade Inas Sejahtera",
       "type": "Cable/DSL/ISP"
     },
+    "152848": {
+      "name": "asdf.hk",
+      "type": "NSP"
+    },
     "263861": {
       "name": "KzNet Telecom LTDA",
       "type": "Cable/DSL/ISP"
@@ -134709,7 +134717,7 @@
       "type": "Enterprise"
     },
     "213866": {
-      "name": "Grupo Rojas Silva",
+      "name": "ImGuard Networks",
       "type": "Content"
     },
     "214806": {
