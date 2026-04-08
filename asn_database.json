@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-07T00:16:39.702Z",
+  "updated_at": "2026-04-08T00:17:47.141Z",
   "source": "PeeringDB",
-  "entry_count": 34329,
+  "entry_count": 34318,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -6779,10 +6779,6 @@
     "44160": {
       "name": "InternetONE",
       "type": "Cable/DSL/ISP"
-    },
-    "15301": {
-      "name": "iovation, Inc.",
-      "type": "Content"
     },
     "31662": {
       "name": "aurax connecta ag",
@@ -13983,10 +13979,6 @@
     "54300": {
       "name": "Lightspeed Voice",
       "type": "Enterprise"
-    },
-    "53708": {
-      "name": "iovation, Inc. 2",
-      "type": "Content"
     },
     "51349": {
       "name": "Estonian Internet Foundation",
@@ -23135,14 +23127,6 @@
     "264756": {
       "name": "Cable Television Satelital",
       "type": "Cable/DSL/ISP"
-    },
-    "62693": {
-      "name": "SpotXchange DEN",
-      "type": "Unknown"
-    },
-    "11742": {
-      "name": "SpotXchange IAD",
-      "type": "Unknown"
     },
     "12580": {
       "name": "Omnitec",
@@ -37944,10 +37928,6 @@
       "name": "rr serviços",
       "type": "Cable/DSL/ISP"
     },
-    "54510": {
-      "name": "HUGE-NETWORKS",
-      "type": "Unknown"
-    },
     "133443": {
       "name": "Comilla Online",
       "type": "Unknown"
@@ -44949,7 +44929,7 @@
       "type": "NSP"
     },
     "51658": {
-      "name": "Patrick Janesch trading as Lucesem",
+      "name": "lucesem technology GmbH",
       "type": "Content"
     },
     "134356": {
@@ -48387,10 +48367,6 @@
     "268380": {
       "name": "ELETRONICA BK 2009",
       "type": "Cable/DSL/ISP"
-    },
-    "35277": {
-      "name": "LLHOST",
-      "type": "Content"
     },
     "198225": {
       "name": "MDDSL",
@@ -67508,10 +67484,6 @@
       "name": "XK NET S.A. DE C.V.",
       "type": "Cable/DSL/ISP"
     },
-    "213327": {
-      "name": "Verzicco",
-      "type": "Unknown"
-    },
     "14004": {
       "name": "1530 Swift",
       "type": "Network Services"
@@ -69610,10 +69582,6 @@
     },
     "205789": {
       "name": "Allienet",
-      "type": "Unknown"
-    },
-    "205088": {
-      "name": "XIAOKANG WANG",
       "type": "Unknown"
     },
     "210383": {
@@ -73434,7 +73402,7 @@
     },
     "149360": {
       "name": "Indo Telemedia Solusi",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "210504": {
       "name": "CloudIDC Digital Company",
@@ -74695,10 +74663,6 @@
     "142331": {
       "name": "Boombas Carlo Medianet",
       "type": "Cable/DSL/ISP"
-    },
-    "922": {
-      "name": "GoCodeIT Corp",
-      "type": "Enterprise"
     },
     "200249": {
       "name": "ProductsUp",
@@ -77922,6 +77886,10 @@
     },
     "31867": {
       "name": "Schwartz Networks",
+      "type": "Cable/DSL/ISP"
+    },
+    "141457": {
+      "name": "Indigo Wholesale",
       "type": "Cable/DSL/ISP"
     },
     "395649": {
@@ -81734,10 +81702,6 @@
     },
     "268238": {
       "name": "Clicknet Telecom. Provedor de Internet LTDA",
-      "type": "Unknown"
-    },
-    "216111": {
-      "name": "Finlay Fordham",
       "type": "Unknown"
     },
     "19364": {
@@ -87380,10 +87344,6 @@
       "name": "Chittagong Data Communication",
       "type": "Cable/DSL/ISP"
     },
-    "214571": {
-      "name": "VyomCloud",
-      "type": "Unknown"
-    },
     "273661": {
       "name": "JOSE ALMIR RIBEIRO MENDES",
       "type": "Cable/DSL/ISP"
@@ -90768,10 +90728,6 @@
       "name": "Clair Global AS401488",
       "type": "Unknown"
     },
-    "401289": {
-      "name": "AELIIS-NETWORKS",
-      "type": "Unknown"
-    },
     "263345": {
       "name": "Power Tech",
       "type": "Cable/DSL/ISP"
@@ -90795,10 +90751,6 @@
     "214019": {
       "name": "FlixHost GmbH",
       "type": "Content"
-    },
-    "53835": {
-      "name": "Velo Link, Inc.",
-      "type": "Cable/DSL/ISP"
     },
     "152760": {
       "name": "PT Bahar Mitra Net",
@@ -91283,10 +91235,6 @@
     "211970": {
       "name": "TARIK-ALTHURAYA",
       "type": "NSP"
-    },
-    "215269": {
-      "name": "LAZYCLOUD",
-      "type": "Enterprise"
     },
     "214135": {
       "name": "Oguz Emre Solmaz",
@@ -93123,10 +93071,6 @@
     "213436": {
       "name": "NIUZI DADA CLOUD",
       "type": "Unknown"
-    },
-    "213409": {
-      "name": "Lynqia Network",
-      "type": "Content"
     },
     "150623": {
       "name": "HOSTDZIRE WEB SERVICES",
@@ -103450,7 +103394,7 @@
     },
     "200464": {
       "name": "PAULO HENRIQUE SILVA DE OLIVEIRA",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "215464": {
       "name": "MIGUEL CLARKE trading as Silicon Philosophies",
@@ -104041,7 +103985,7 @@
       "type": "Unknown"
     },
     "204197": {
-      "name": "JD Group AS",
+      "name": "JD Group",
       "type": "NSP"
     },
     "4885": {
@@ -104157,7 +104101,7 @@
       "type": "Enterprise"
     },
     "200841": {
-      "name": "Livestream Software",
+      "name": "Livesoft",
       "type": "Content"
     },
     "273333": {
@@ -104545,7 +104489,7 @@
       "type": "Unknown"
     },
     "32983": {
-      "name": "CORELIGHTNET-GOVCLOUD",
+      "name": "Corelight",
       "type": "Enterprise"
     },
     "401772": {
@@ -104553,7 +104497,35 @@
       "type": "Enterprise"
     },
     "273304": {
-      "name": "273304",
+      "name": "Somnet de México",
+      "type": "Unknown"
+    },
+    "57102": {
+      "name": "Elektron Service",
+      "type": "Unknown"
+    },
+    "402334": {
+      "name": "Tianshome.net (AS402334)",
+      "type": "Unknown"
+    },
+    "402335": {
+      "name": "TIANSHOME-01",
+      "type": "Unknown"
+    },
+    "402292": {
+      "name": "Fyra Stack",
+      "type": "Enterprise"
+    },
+    "271939": {
+      "name": "REDES ELIAS",
+      "type": "Unknown"
+    },
+    "274366": {
+      "name": "Royal Company Infinity",
+      "type": "Unknown"
+    },
+    "201407": {
+      "name": "Serverora",
       "type": "Unknown"
     },
     "22822": {
@@ -108733,7 +108705,7 @@
       "type": "Content"
     },
     "263053": {
-      "name": "Paulinianet Telecom",
+      "name": "LG2NET TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "131459": {
@@ -117368,10 +117340,6 @@
       "name": "NontriNet",
       "type": "Educational/Research"
     },
-    "208958": {
-      "name": "GROETZNER",
-      "type": "Non-Profit"
-    },
     "37163": {
       "name": "IPSystem",
       "type": "Cable/DSL/ISP"
@@ -117901,7 +117869,7 @@
       "type": "Content"
     },
     "137566": {
-      "name": "SUPERNAP Thailand Network",
+      "name": "Data Zone Company Limited",
       "type": "Content"
     },
     "132956": {
@@ -120112,10 +120080,6 @@
       "name": "S. C. SERVICOS E REDES LTDA - ME",
       "type": "NSP"
     },
-    "207341": {
-      "name": "Necmi Taban",
-      "type": "Content"
-    },
     "6700": {
       "name": "BeotelNet-ISP",
       "type": "NSP"
@@ -121555,10 +121519,6 @@
     "212989": {
       "name": "Freifunk Regensburg e.V.",
       "type": "Non-Profit"
-    },
-    "212995": {
-      "name": "TAN NET",
-      "type": "Educational/Research"
     },
     "133000": {
       "name": "ARJUN TELECOM PRIVATE LIMITED",
@@ -127876,6 +127836,10 @@
       "name": "Fiberplus Comunications SL",
       "type": "Unknown"
     },
+    "205088": {
+      "name": "XIAOKANG WANG",
+      "type": "Unknown"
+    },
     "269523": {
       "name": "Life Connections",
       "type": "Cable/DSL/ISP"
@@ -130360,10 +130324,6 @@
       "name": "Ul-com Media",
       "type": "NSP"
     },
-    "198923": {
-      "name": "Mitja Herbaj",
-      "type": "Educational/Research"
-    },
     "199175": {
       "name": "Victor Pahuus Petersen",
       "type": "Educational/Research"
@@ -131820,10 +131780,6 @@
       "name": "ZhuyuanNetwork",
       "type": "Network Services"
     },
-    "216118": {
-      "name": "TYC4D",
-      "type": "Unknown"
-    },
     "400268": {
       "name": "SWIFTCURRENT",
       "type": "Cable/DSL/ISP"
@@ -133067,10 +133023,6 @@
     "215150": {
       "name": "Shawn Maurin",
       "type": "Educational/Research"
-    },
-    "215144": {
-      "name": "HWHOST NETWORK",
-      "type": "Enterprise"
     },
     "138165": {
       "name": "Strategic Group",
@@ -135271,6 +135223,10 @@
     "213422": {
       "name": "XGWQ",
       "type": "Non-Profit"
+    },
+    "213409": {
+      "name": "Lynqia Network",
+      "type": "Content"
     },
     "147180": {
       "name": "LR International",
