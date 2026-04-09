@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-08T00:17:47.141Z",
+  "updated_at": "2026-04-09T00:13:50.832Z",
   "source": "PeeringDB",
-  "entry_count": 34318,
+  "entry_count": 34334,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -18023,6 +18023,10 @@
     "51184": {
       "name": "fonira Telekom",
       "type": "Cable/DSL/ISP"
+    },
+    "134837": {
+      "name": "DHAKAINTERNET-AS-AP",
+      "type": "Unknown"
     },
     "135346": {
       "name": "Bismillah Telecom Service",
@@ -38316,10 +38320,6 @@
       "name": "Sydney Airport",
       "type": "Enterprise"
     },
-    "137101": {
-      "name": "RENU TECHNOLOGIES",
-      "type": "Cable/DSL/ISP"
-    },
     "31617": {
       "name": "Reevo",
       "type": "Content"
@@ -40503,10 +40503,6 @@
     "51798": {
       "name": "MSWSI",
       "type": "Unknown"
-    },
-    "268076": {
-      "name": "WEBNET BANDA LARGA",
-      "type": "Cable/DSL/ISP"
     },
     "199572": {
       "name": "Setevye technologii",
@@ -54386,7 +54382,7 @@
     },
     "269317": {
       "name": "MM TELECOM",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "268972": {
       "name": "ERBCOM TELECOMUNICACOES",
@@ -65972,10 +65968,6 @@
       "name": "3J Global Services",
       "type": "Cable/DSL/ISP"
     },
-    "137515": {
-      "name": "FRC",
-      "type": "Cable/DSL/ISP"
-    },
     "264123": {
       "name": "TELEFONICA INTERNATIONAL WHOLESALE SERVICES",
       "type": "Unknown"
@@ -70729,7 +70721,7 @@
       "type": "Unknown"
     },
     "53038": {
-      "name": "IDC19 - WDI SOLUCOES EM TEC INFORMACAO",
+      "name": "IDC19 - Intelligent Data Center",
       "type": "Content"
     },
     "267212": {
@@ -97118,7 +97110,7 @@
     },
     "329580": {
       "name": "The Cloud Network Limited",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "200858": {
       "name": "RACKONE",
@@ -98692,10 +98684,6 @@
       "name": "PT Star Nusantara Network",
       "type": "Unknown"
     },
-    "46783": {
-      "name": "EASY LINK LLC",
-      "type": "Unknown"
-    },
     "206392": {
       "name": "Hackworth Ltd",
       "type": "Unknown"
@@ -99766,7 +99754,7 @@
     },
     "154257": {
       "name": "SANFIL NETWORK AND DATA SOLUTION",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "329319": {
       "name": "Discovery Bank",
@@ -104334,7 +104322,7 @@
     },
     "213298": {
       "name": "Cortex IT",
-      "type": "Route Server"
+      "type": "Enterprise"
     },
     "200104": {
       "name": "Fergus Morris, Meow Cyber Networks",
@@ -104496,10 +104484,6 @@
       "name": "CORELIGHTNET-LAB",
       "type": "Enterprise"
     },
-    "273304": {
-      "name": "Somnet de México",
-      "type": "Unknown"
-    },
     "57102": {
       "name": "Elektron Service",
       "type": "Unknown"
@@ -104526,6 +104510,70 @@
     },
     "201407": {
       "name": "Serverora",
+      "type": "Unknown"
+    },
+    "149543": {
+      "name": "HYBRID1-AS-IN",
+      "type": "Cable/DSL/ISP"
+    },
+    "150468": {
+      "name": "IDNIC-BINTEKS-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "216365": {
+      "name": "CLOUD_SOLUTIONS_2",
+      "type": "Unknown"
+    },
+    "198462": {
+      "name": "NEWSRL-ASN198462",
+      "type": "Unknown"
+    },
+    "154592": {
+      "name": "AirHive Network",
+      "type": "Cable/DSL/ISP"
+    },
+    "49399": {
+      "name": "ESAB-2-AS",
+      "type": "NSP"
+    },
+    "23724": {
+      "name": "CHINANET-IDC-BJ-AP",
+      "type": "Unknown"
+    },
+    "59965": {
+      "name": "IDQA",
+      "type": "Unknown"
+    },
+    "213738": {
+      "name": "HOSTEG",
+      "type": "Unknown"
+    },
+    "139716": {
+      "name": "BMIT-AS-AP",
+      "type": "Unknown"
+    },
+    "275716": {
+      "name": "ASN275716",
+      "type": "Unknown"
+    },
+    "199395": {
+      "name": "Karagoez",
+      "type": "Unknown"
+    },
+    "40292": {
+      "name": "CINTAS",
+      "type": "Unknown"
+    },
+    "214027": {
+      "name": "monovm-de",
+      "type": "Unknown"
+    },
+    "329585": {
+      "name": "Solid-Fibre",
+      "type": "Unknown"
+    },
+    "269797": {
+      "name": "269797",
       "type": "Unknown"
     },
     "22822": {
@@ -109978,7 +110026,7 @@
     },
     "27845": {
       "name": "Empresa de Recursos Tecnologicos",
-      "type": "Cable/DSL/ISP"
+      "type": "Content"
     },
     "33771": {
       "name": "Safaricom AS33771",
@@ -115168,6 +115216,10 @@
       "name": "JPP PANCINI",
       "type": "Cable/DSL/ISP"
     },
+    "137101": {
+      "name": "RENU TECHNOLOGIES",
+      "type": "Cable/DSL/ISP"
+    },
     "63980": {
       "name": "Minara Firoz Infotech",
       "type": "Cable/DSL/ISP"
@@ -116212,6 +116264,10 @@
       "name": "Solutions by STC",
       "type": "Unknown"
     },
+    "268076": {
+      "name": "WEBNET BANDA LARGA",
+      "type": "Cable/DSL/ISP"
+    },
     "43660": {
       "name": "Shupashkartrans-K Ltd.",
       "type": "Cable/DSL/ISP"
@@ -116778,10 +116834,6 @@
     },
     "262604": {
       "name": "Click.com telecomunicações",
-      "type": "Cable/DSL/ISP"
-    },
-    "24076": {
-      "name": "Bogle Technologies AS24076",
       "type": "Cable/DSL/ISP"
     },
     "138123": {
@@ -118909,7 +118961,7 @@
       "type": "Cable/DSL/ISP"
     },
     "26695": {
-      "name": "Cubed Networks AS26695",
+      "name": "Bogle Networks AS26695",
       "type": "Enterprise"
     },
     "208201": {
@@ -122146,7 +122198,7 @@
     },
     "140148": {
       "name": "Pegasuswave",
-      "type": "Cable/DSL/ISP"
+      "type": "Network Services"
     },
     "36881": {
       "name": "Multitel Servicos de Telecomunicacoes",
@@ -126438,6 +126490,10 @@
     },
     "147050": {
       "name": "Meghna Online",
+      "type": "Cable/DSL/ISP"
+    },
+    "137515": {
+      "name": "FRC",
       "type": "Cable/DSL/ISP"
     },
     "43372": {
@@ -136332,6 +136388,10 @@
       "name": "PT GIGA NETWORK INDONESIA",
       "type": "Cable/DSL/ISP"
     },
+    "46783": {
+      "name": "EASY LINK LLC",
+      "type": "Unknown"
+    },
     "273472": {
       "name": "Connect Fibra Telecom",
       "type": "NSP"
@@ -137014,7 +137074,7 @@
     },
     "201541": {
       "name": "Nedas Dozorec",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "11150": {
       "name": "American IX ★ SPFDMA Route Servers",
@@ -137275,6 +137335,10 @@
     "402333": {
       "name": "Tianshome.net",
       "type": "NSP"
+    },
+    "273304": {
+      "name": "Somnet de México",
+      "type": "Network Services"
     }
   }
 }
