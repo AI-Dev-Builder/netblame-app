@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-10T00:17:00.544Z",
+  "updated_at": "2026-04-11T00:16:03.625Z",
   "source": "PeeringDB",
-  "entry_count": 34348,
+  "entry_count": 34367,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -26181,7 +26181,7 @@
       "type": "Educational/Research"
     },
     "15372": {
-      "name": "IBH IT-Service GmbH",
+      "name": "IBH connect GmbH",
       "type": "NSP"
     },
     "11528": {
@@ -33602,7 +33602,7 @@
     },
     "55752": {
       "name": "Cloud Plus",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "58972": {
       "name": "BHOMIKA",
@@ -65432,10 +65432,6 @@
       "name": "IXP.ge Services",
       "type": "Unknown"
     },
-    "210542": {
-      "name": "Japan NPO G-net",
-      "type": "Cable/DSL/ISP"
-    },
     "62033": {
       "name": "CLOUDEUS",
       "type": "Unknown"
@@ -70750,6 +70746,10 @@
     },
     "138494": {
       "name": "Campana TARO Co.",
+      "type": "Unknown"
+    },
+    "26804": {
+      "name": "CBTS-US-PEERING-01",
       "type": "Unknown"
     },
     "203867": {
@@ -93072,6 +93072,10 @@
       "name": "NIUZI DADA CLOUD",
       "type": "Unknown"
     },
+    "213409": {
+      "name": "Lynqia Network",
+      "type": "Content"
+    },
     "150623": {
       "name": "HOSTDZIRE WEB SERVICES",
       "type": "Unknown"
@@ -103057,7 +103061,7 @@
       "type": "Educational/Research"
     },
     "11600": {
-      "name": "Parallax Services LLC",
+      "name": "Parallax Services",
       "type": "NSP"
     },
     "204048": {
@@ -104046,7 +104050,7 @@
     },
     "133375": {
       "name": "CHUAN KAI INTERNATIONAL CO",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "201028": {
       "name": "VexSHIELD",
@@ -104530,7 +104534,7 @@
     },
     "216365": {
       "name": "CLOUD SOLUTIONS",
-      "type": "Unknown"
+      "type": "Content"
     },
     "198462": {
       "name": "NEW Srl",
@@ -104634,6 +104638,94 @@
     },
     "402383": {
       "name": "KUMREZ",
+      "type": "Unknown"
+    },
+    "402385": {
+      "name": "SPICER-NETWORKS",
+      "type": "NSP"
+    },
+    "146962": {
+      "name": "GATEWAY TECHNOLOGY DEVELOPMENT PTE. LTD.",
+      "type": "Unknown"
+    },
+    "32879": {
+      "name": "State of Nevada Legislature",
+      "type": "Unknown"
+    },
+    "142214": {
+      "name": "PT Fivestar Teknologi Nusantara",
+      "type": "Unknown"
+    },
+    "402389": {
+      "name": "AMHERST SYSTEMS",
+      "type": "Unknown"
+    },
+    "214404": {
+      "name": "cloudducoeur",
+      "type": "Unknown"
+    },
+    "45104": {
+      "name": "ALIBABA-CN-NET",
+      "type": "Unknown"
+    },
+    "199243": {
+      "name": "ZL4CAT-NET",
+      "type": "Unknown"
+    },
+    "199211": {
+      "name": "ISDIAK-AS",
+      "type": "Enterprise"
+    },
+    "329261": {
+      "name": "ORG-NTNL2-AFRINIC",
+      "type": "Unknown"
+    },
+    "266705": {
+      "name": "266705",
+      "type": "Unknown"
+    },
+    "402349": {
+      "name": "GATEWAYSENTRY",
+      "type": "Unknown"
+    },
+    "199240": {
+      "name": "SKULBYTE",
+      "type": "Unknown"
+    },
+    "264874": {
+      "name": "ASN264874",
+      "type": "Cable/DSL/ISP"
+    },
+    "22297": {
+      "name": "OPTI9-CANADA",
+      "type": "Unknown"
+    },
+    "402253": {
+      "name": "SKN-NETWORK-1",
+      "type": "Network Services"
+    },
+    "53365": {
+      "name": "WEBAIR-INTERNET-3",
+      "type": "Unknown"
+    },
+    "393710": {
+      "name": "WEBAIR-INTERNET-SINGAPORE",
+      "type": "Unknown"
+    },
+    "396528": {
+      "name": "WEBAIR-CHI",
+      "type": "Unknown"
+    },
+    "275729": {
+      "name": "ASN275729",
+      "type": "Cable/DSL/ISP"
+    },
+    "402155": {
+      "name": "WEB-01",
+      "type": "Unknown"
+    },
+    "402395": {
+      "name": "AXION-NET",
       "type": "Unknown"
     },
     "22822": {
@@ -129364,10 +129456,6 @@
       "name": "Yanislav Basiuk",
       "type": "Content"
     },
-    "210630": {
-      "name": "IncogNET LLC",
-      "type": "Unknown"
-    },
     "150455": {
       "name": "SNS Network",
       "type": "Cable/DSL/ISP"
@@ -132488,10 +132576,6 @@
       "name": "GP-NET Ltd.",
       "type": "Cable/DSL/ISP"
     },
-    "215697": {
-      "name": "BSAS",
-      "type": "Non-Profit"
-    },
     "151719": {
       "name": "TACT COMMUNICATION PVT LTD",
       "type": "Cable/DSL/ISP"
@@ -133615,10 +133699,6 @@
     "214915": {
       "name": "PawHost",
       "type": "Unknown"
-    },
-    "214753": {
-      "name": "Oliver Omet",
-      "type": "Educational/Research"
     },
     "214768": {
       "name": "coresdev",
@@ -135335,10 +135415,6 @@
     "213422": {
       "name": "XGWQ",
       "type": "Non-Profit"
-    },
-    "213409": {
-      "name": "Lynqia Network",
-      "type": "Content"
     },
     "147180": {
       "name": "LR International",
