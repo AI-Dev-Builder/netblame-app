@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-11T00:16:03.625Z",
+  "updated_at": "2026-04-12T00:17:40.279Z",
   "source": "PeeringDB",
-  "entry_count": 34367,
+  "entry_count": 34375,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -41561,7 +41561,7 @@
       "type": "Cable/DSL/ISP"
     },
     "268019": {
-      "name": "RODRIGUES & LEAL SERVIÇOS DE TELECOMUNICAÇÃO",
+      "name": "FIBRA PRIME SERVICOS DE TELECOMUNICACOES LTDA",
       "type": "Unknown"
     },
     "38965": {
@@ -50367,6 +50367,10 @@
     "207394": {
       "name": "commonroute.net",
       "type": "Unknown"
+    },
+    "207574": {
+      "name": "Alex-AS",
+      "type": "Educational/Research"
     },
     "270368": {
       "name": "TR TELECOMUNICACOES",
@@ -67100,10 +67104,6 @@
       "name": "KKD BROADBAND",
       "type": "Unknown"
     },
-    "328727": {
-      "name": "Kampala Siti Cable",
-      "type": "Cable/DSL/ISP"
-    },
     "147315": {
       "name": "Zero Time Networks",
       "type": "Network Services"
@@ -71203,6 +71203,10 @@
     "269870": {
       "name": "Giza",
       "type": "Network Services"
+    },
+    "150126": {
+      "name": "IRINN-SHAMBH-AS-IN",
+      "type": "Cable/DSL/ISP"
     },
     "147282": {
       "name": "PATHCOM COMMUNICATIONS",
@@ -87650,7 +87654,7 @@
     },
     "138804": {
       "name": "SpeedNetwork",
-      "type": "Cable/DSL/ISP"
+      "type": "Enterprise"
     },
     "394760": {
       "name": "Sauce Servers",
@@ -104566,7 +104570,7 @@
     },
     "275716": {
       "name": "S&S TREINAMENTO E CONSULTORIA",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "199395": {
       "name": "Karagoez",
@@ -104650,7 +104654,7 @@
     },
     "32879": {
       "name": "State of Nevada Legislature",
-      "type": "Unknown"
+      "type": "Government"
     },
     "142214": {
       "name": "PT Fivestar Teknologi Nusantara",
@@ -104724,9 +104728,29 @@
       "name": "WEB-01",
       "type": "Unknown"
     },
-    "402395": {
-      "name": "AXION-NET",
+    "275674": {
+      "name": "ASN275674",
+      "type": "Cable/DSL/ISP"
+    },
+    "275679": {
+      "name": "ASN275679",
+      "type": "NSP"
+    },
+    "197967": {
+      "name": "TELE-KOM-AS",
       "type": "Unknown"
+    },
+    "14847": {
+      "name": "PECKSERVERS-LLC-IP-ROUTING",
+      "type": "Content"
+    },
+    "35200": {
+      "name": "TRANSITX-LTD",
+      "type": "Unknown"
+    },
+    "61626": {
+      "name": "Anel de Conectividade - Infovia Paraná",
+      "type": "Educational/Research"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -127064,6 +127088,10 @@
       "name": "Siroky Network Solutions , BE",
       "type": "Route Server"
     },
+    "328727": {
+      "name": "Kampala Siti Cable",
+      "type": "Cable/DSL/ISP"
+    },
     "202790": {
       "name": "Netwifi",
       "type": "Cable/DSL/ISP"
@@ -128710,7 +128738,7 @@
     },
     "150289": {
       "name": "Sunyz Network",
-      "type": "Educational/Research"
+      "type": "NSP"
     },
     "150184": {
       "name": "OwONet",
@@ -131254,7 +131282,7 @@
     },
     "263908": {
       "name": "VICONTEC TECNOLOGIA INTERNET E REDES LTDA",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "151620": {
       "name": "AVEVA RESOURCE",
@@ -135972,10 +136000,6 @@
       "name": "Luca Strick",
       "type": "Educational/Research"
     },
-    "147094": {
-      "name": "PT. MITRA VISIONER PRATAMA",
-      "type": "NSP"
-    },
     "56868": {
       "name": "PT Omni Data Center Indonesia AS56868",
       "type": "Route Server"
@@ -137471,6 +137495,14 @@
     "273304": {
       "name": "Somnet de México",
       "type": "Network Services"
+    },
+    "402395": {
+      "name": "AXION-NET",
+      "type": "NSP"
+    },
+    "199133": {
+      "name": "NyaIP",
+      "type": "Content"
     }
   }
 }
