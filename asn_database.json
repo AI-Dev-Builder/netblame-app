@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-12T00:17:40.279Z",
+  "updated_at": "2026-04-13T00:18:22.437Z",
   "source": "PeeringDB",
-  "entry_count": 34375,
+  "entry_count": 34384,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -29996,10 +29996,6 @@
       "name": "QTS SAT2",
       "type": "Unknown"
     },
-    "45820": {
-      "name": "Tata Teleservices",
-      "type": "Network Services"
-    },
     "24534": {
       "name": "Trans Hybrid Communication- NAP ASN ( 24534 )",
       "type": "NSP"
@@ -32851,10 +32847,6 @@
     "56931": {
       "name": "Eurasia Peering IX Route Servers",
       "type": "Route Server"
-    },
-    "135130": {
-      "name": "Anik Computer & Networking",
-      "type": "Cable/DSL/ISP"
     },
     "132040": {
       "name": "Vital Ltd",
@@ -37998,7 +37990,7 @@
     },
     "37299": {
       "name": "Internet Exchange Point Association of Lesotho",
-      "type": "Route Server"
+      "type": "Non-Profit"
     },
     "11921": {
       "name": "SECRELNET INFORMATICA",
@@ -50369,7 +50361,7 @@
       "type": "Unknown"
     },
     "207574": {
-      "name": "Alex-AS",
+      "name": "Alexandre Olemans",
       "type": "Educational/Research"
     },
     "270368": {
@@ -56385,7 +56377,7 @@
       "type": "Enterprise"
     },
     "57152": {
-      "name": "Teknet Veri Merkezi",
+      "name": "Teknet Internet  A.S.",
       "type": "NSP"
     },
     "266157": {
@@ -70749,7 +70741,7 @@
       "type": "Unknown"
     },
     "26804": {
-      "name": "CBTS-US-PEERING-01",
+      "name": "CBTS Technology Solutions",
       "type": "Unknown"
     },
     "203867": {
@@ -71205,7 +71197,7 @@
       "type": "Network Services"
     },
     "150126": {
-      "name": "IRINN-SHAMBH-AS-IN",
+      "name": "SHAMBHAVE INFOWAYS",
       "type": "Cable/DSL/ISP"
     },
     "147282": {
@@ -76481,7 +76473,7 @@
       "type": "Unknown"
     },
     "199310": {
-      "name": "WolfXun",
+      "name": "QFLink",
       "type": "Content"
     },
     "200197": {
@@ -97390,7 +97382,7 @@
     },
     "274167": {
       "name": "DOMINICANA INTERNET EXCHANGE, DOIX",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "203153": {
       "name": "AVASAD",
@@ -101917,7 +101909,7 @@
       "type": "Educational/Research"
     },
     "7768": {
-      "name": "Teknet Internet",
+      "name": "Teknet Veri Merkezi",
       "type": "Cable/DSL/ISP"
     },
     "206921": {
@@ -102682,7 +102674,7 @@
     },
     "150490": {
       "name": "PT General Media Network",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "22110": {
       "name": "Ligtel Communications, Inc.",
@@ -103774,7 +103766,7 @@
     },
     "402298": {
       "name": "CXIX Route Server",
-      "type": "Unknown"
+      "type": "Route Server"
     },
     "274861": {
       "name": "Jhonet Solution",
@@ -104597,7 +104589,7 @@
       "type": "Unknown"
     },
     "154547": {
-      "name": "PMST-AS-AP",
+      "name": "Mashanz Sumber Terbuka",
       "type": "Content"
     },
     "139203": {
@@ -104621,7 +104613,7 @@
       "type": "Unknown"
     },
     "329308": {
-      "name": "ORG-VTL3-AFRINIC",
+      "name": "Verse Telecom",
       "type": "Unknown"
     },
     "199318": {
@@ -104629,7 +104621,7 @@
       "type": "Route Server"
     },
     "274648": {
-      "name": "ASN274648",
+      "name": "OPENNET TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "199357": {
@@ -104637,7 +104629,7 @@
       "type": "Route Server"
     },
     "402387": {
-      "name": "JianyueLab",
+      "name": "JIANYUELAB (AS402387)",
       "type": "Enterprise"
     },
     "402383": {
@@ -104669,23 +104661,23 @@
       "type": "Unknown"
     },
     "45104": {
-      "name": "ALIBABA-CN-NET",
+      "name": "Hangzhou Alibaba Advertising",
       "type": "Unknown"
     },
     "199243": {
-      "name": "ZL4CAT-NET",
+      "name": "smith.geek.nz",
       "type": "Unknown"
     },
     "199211": {
-      "name": "ISDIAK-AS",
+      "name": "IsDiak Consulting",
       "type": "Enterprise"
     },
     "329261": {
-      "name": "ORG-NTNL2-AFRINIC",
+      "name": "NEXT THING NETWORKS",
       "type": "Unknown"
     },
     "266705": {
-      "name": "266705",
+      "name": "GABRIEL FRANCISCO ERBETTA Y MARIANO ANDRES CARRIZO RICHELET SOCIEDAD DE HECHO (TELNET SOLUCIONES)",
       "type": "Unknown"
     },
     "402349": {
@@ -104696,8 +104688,12 @@
       "name": "SKULBYTE",
       "type": "Unknown"
     },
+    "149328": {
+      "name": "Hypermedia Teknologi Nusantara Centralindo",
+      "type": "Unknown"
+    },
     "264874": {
-      "name": "ASN264874",
+      "name": "V. COMNET TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "22297": {
@@ -104705,15 +104701,15 @@
       "type": "Unknown"
     },
     "402253": {
-      "name": "SKN-NETWORK-1",
+      "name": "SKN Subnet & Telecom",
       "type": "Network Services"
     },
     "53365": {
-      "name": "WEBAIR-INTERNET-3",
+      "name": "Webair Internet Development (AS53365)",
       "type": "Unknown"
     },
     "393710": {
-      "name": "WEBAIR-INTERNET-SINGAPORE",
+      "name": "Webair Internet Development",
       "type": "Unknown"
     },
     "396528": {
@@ -104721,7 +104717,7 @@
       "type": "Unknown"
     },
     "275729": {
-      "name": "ASN275729",
+      "name": "SPOTNET TECNOLOGIA DE TELECOMUNICACOES",
       "type": "Cable/DSL/ISP"
     },
     "402155": {
@@ -104729,19 +104725,19 @@
       "type": "Unknown"
     },
     "275674": {
-      "name": "ASN275674",
+      "name": "A S GOMES TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "275679": {
-      "name": "ASN275679",
+      "name": "EMERSON DA S CAMPOS PROVEDOR DE INTERNET",
       "type": "NSP"
     },
     "197967": {
-      "name": "TELE-KOM-AS",
+      "name": "PP TELE-KOM",
       "type": "Unknown"
     },
     "14847": {
-      "name": "PECKSERVERS-LLC-IP-ROUTING",
+      "name": "Peck Servers",
       "type": "Content"
     },
     "35200": {
@@ -104751,6 +104747,34 @@
     "61626": {
       "name": "Anel de Conectividade - Infovia Paraná",
       "type": "Educational/Research"
+    },
+    "199277": {
+      "name": "Maksims Doronkins",
+      "type": "Unknown"
+    },
+    "153554": {
+      "name": "Digital Bangun Mandiri",
+      "type": "Unknown"
+    },
+    "264203": {
+      "name": "M.J. Cenatti & Cia",
+      "type": "Unknown"
+    },
+    "39889": {
+      "name": "DCS Networks - Nordic",
+      "type": "Network Services"
+    },
+    "200679": {
+      "name": "SPSIT",
+      "type": "Unknown"
+    },
+    "152432": {
+      "name": "Sinergi Innovate Pratama",
+      "type": "Unknown"
+    },
+    "153156": {
+      "name": "Alsavanet Global Media",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -111980,6 +112004,10 @@
       "name": "Omega Networks",
       "type": "NSP"
     },
+    "45820": {
+      "name": "Tata Teleservices",
+      "type": "Network Services"
+    },
     "29134": {
       "name": "Webglobe",
       "type": "Content"
@@ -112890,6 +112918,10 @@
     },
     "32233": {
       "name": "Eastlink (Western)",
+      "type": "Cable/DSL/ISP"
+    },
+    "135130": {
+      "name": "Anik Computer & Networking",
       "type": "Cable/DSL/ISP"
     },
     "265980": {
@@ -117527,6 +117559,10 @@
     "394353": {
       "name": "USC/ISI B-ROOT",
       "type": "Non-Profit"
+    },
+    "202724": {
+      "name": "ANTEKLAB",
+      "type": "Unknown"
     },
     "137650": {
       "name": "MicroNet",
@@ -134933,7 +134969,7 @@
       "type": "Enterprise"
     },
     "213866": {
-      "name": "ImGuard Networks",
+      "name": "Grupo Rojas Silva",
       "type": "Content"
     },
     "214806": {
@@ -137497,7 +137533,7 @@
       "type": "Network Services"
     },
     "402395": {
-      "name": "AXION-NET",
+      "name": "Axion Industries",
       "type": "NSP"
     },
     "199133": {
