@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-13T00:18:22.437Z",
+  "updated_at": "2026-04-14T00:21:31.617Z",
   "source": "PeeringDB",
-  "entry_count": 34384,
+  "entry_count": 34397,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -10609,7 +10609,7 @@
       "type": "NSP"
     },
     "28198": {
-      "name": "Sempre Internet",
+      "name": "Brasil TecPar (Sempre)",
       "type": "Cable/DSL/ISP"
     },
     "28262": {
@@ -19711,6 +19711,10 @@
     "12066": {
       "name": "Altice Dominicana2",
       "type": "Unknown"
+    },
+    "200825": {
+      "name": "Weiqi-AS",
+      "type": "Cable/DSL/ISP"
     },
     "263422": {
       "name": "AXXESS TELECOMUNICAÇÕES",
@@ -49056,10 +49060,6 @@
       "name": "QLD VoIP Services Australia",
       "type": "Unknown"
     },
-    "7546": {
-      "name": "Dreamtilt Service Provider Gladstone",
-      "type": "Unknown"
-    },
     "35328": {
       "name": "DSI DATA",
       "type": "Cable/DSL/ISP"
@@ -62704,6 +62704,10 @@
       "name": "JARINU NETWORK TELECOMUNICACAO LTDA",
       "type": "Unknown"
     },
+    "142566": {
+      "name": "Latansa Media Telekomunikasi",
+      "type": "Unknown"
+    },
     "399115": {
       "name": "AOP Fiber",
       "type": "Unknown"
@@ -71195,10 +71199,6 @@
     "269870": {
       "name": "Giza",
       "type": "Network Services"
-    },
-    "150126": {
-      "name": "SHAMBHAVE INFOWAYS",
-      "type": "Cable/DSL/ISP"
     },
     "147282": {
       "name": "PATHCOM COMMUNICATIONS",
@@ -88297,7 +88297,7 @@
       "type": "Content"
     },
     "214466": {
-      "name": "Olfe",
+      "name": "Olfe Cloud",
       "type": "Content"
     },
     "138189": {
@@ -92233,7 +92233,7 @@
       "type": "Cable/DSL/ISP"
     },
     "213708": {
-      "name": "Olfe Datacenter",
+      "name": "Olfe Bursa",
       "type": "Unknown"
     },
     "208141": {
@@ -96883,10 +96883,6 @@
     "212347": {
       "name": "NVL-IX",
       "type": "Unknown"
-    },
-    "210773": {
-      "name": "Xinyu Network Next",
-      "type": "Enterprise"
     },
     "154040": {
       "name": "AirDan Networks",
@@ -103068,10 +103064,6 @@
       "name": "PT Bening Artha Lintas Data",
       "type": "Cable/DSL/ISP"
     },
-    "63477": {
-      "name": "Coniferous Systems (CONIFER-EDGE)",
-      "type": "Educational/Research"
-    },
     "1358": {
       "name": "Hughes Network Systems, LLC",
       "type": "Unknown"
@@ -104642,7 +104634,7 @@
     },
     "146962": {
       "name": "GATEWAY TECHNOLOGY DEVELOPMENT PTE. LTD.",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "32879": {
       "name": "State of Nevada Legislature",
@@ -104690,7 +104682,7 @@
     },
     "149328": {
       "name": "Hypermedia Teknologi Nusantara Centralindo",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "264874": {
       "name": "V. COMNET TELECOM",
@@ -104741,8 +104733,8 @@
       "type": "Content"
     },
     "35200": {
-      "name": "TRANSITX-LTD",
-      "type": "Unknown"
+      "name": "TransitX",
+      "type": "Cable/DSL/ISP"
     },
     "61626": {
       "name": "Anel de Conectividade - Infovia Paraná",
@@ -104774,6 +104766,42 @@
     },
     "153156": {
       "name": "Alsavanet Global Media",
+      "type": "Unknown"
+    },
+    "133064": {
+      "name": "ST-AS-AP-LOCAL-PEERING",
+      "type": "Unknown"
+    },
+    "201891": {
+      "name": "NIMBUSIP-AS",
+      "type": "Unknown"
+    },
+    "200010": {
+      "name": "Olfe Izmir",
+      "type": "NSP"
+    },
+    "39880": {
+      "name": "AS-Thomaskruse_dk",
+      "type": "Unknown"
+    },
+    "213467": {
+      "name": "ProAdmin - Lukasz Piwowarczyk",
+      "type": "Educational/Research"
+    },
+    "138855": {
+      "name": "iForte solusi infotek ISP",
+      "type": "Cable/DSL/ISP"
+    },
+    "200327": {
+      "name": "Televirta",
+      "type": "NSP"
+    },
+    "329600": {
+      "name": "Elegant Telekom Limited",
+      "type": "Cable/DSL/ISP"
+    },
+    "23390": {
+      "name": "BROADPATH, LLC",
       "type": "Unknown"
     },
     "22822": {
@@ -107209,7 +107237,7 @@
       "type": "Educational/Research"
     },
     "57099": {
-      "name": "Boundless Networks Limited",
+      "name": "Quickline Communications Ltd",
       "type": "Cable/DSL/ISP"
     },
     "28135": {
@@ -119888,6 +119916,10 @@
       "name": "MegaMore Wireless Broadband",
       "type": "Cable/DSL/ISP"
     },
+    "7546": {
+      "name": "Dreamtilt Service Provider Gladstone",
+      "type": "NSP"
+    },
     "138840": {
       "name": "PARSAORAN GLOBAL DATATRANS - NAP",
       "type": "NSP"
@@ -122491,6 +122523,10 @@
     "268635": {
       "name": "FIBER UP TELECOM EIRELI",
       "type": "NSP"
+    },
+    "208399": {
+      "name": "IXNODES",
+      "type": "Unknown"
     },
     "265336": {
       "name": "ELneT Telecom",
@@ -128584,6 +128620,10 @@
       "name": "AFRIMETRO",
       "type": "Cable/DSL/ISP"
     },
+    "150126": {
+      "name": "SHAMBHAVE INFOWAYS",
+      "type": "Cable/DSL/ISP"
+    },
     "271934": {
       "name": "HDCO GROUP",
       "type": "Cable/DSL/ISP"
@@ -128855,6 +128895,10 @@
     "149316": {
       "name": "Jaring Solusi Persada",
       "type": "Cable/DSL/ISP"
+    },
+    "202905": {
+      "name": "SYNETIC_SERVERS",
+      "type": "Educational/Research"
     },
     "202888": {
       "name": "ZH NETWORK",
@@ -132397,7 +132441,7 @@
       "type": "Content"
     },
     "152184": {
-      "name": "TAMUKAI NETWORK A",
+      "name": "TAMUKAI NETWORK",
       "type": "Educational/Research"
     },
     "271658": {
@@ -136036,6 +136080,10 @@
       "name": "Luca Strick",
       "type": "Educational/Research"
     },
+    "147094": {
+      "name": "PT. MITRA VISIONER PRATAMA",
+      "type": "NSP"
+    },
     "56868": {
       "name": "PT Omni Data Center Indonesia AS56868",
       "type": "Route Server"
@@ -136490,7 +136538,7 @@
     },
     "216096": {
       "name": "SECUREPEAK",
-      "type": "Content"
+      "type": "NSP"
     },
     "208024": {
       "name": "Alpenhost",
@@ -137379,6 +137427,10 @@
     "209373": {
       "name": "SWISSNET LLC",
       "type": "Network Services"
+    },
+    "63477": {
+      "name": "Coniferous Systems (CONIFER-EDGE)",
+      "type": "Educational/Research"
     },
     "5116": {
       "name": "Open Pipes Transpeering",
