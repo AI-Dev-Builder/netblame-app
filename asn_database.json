@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-14T00:21:31.617Z",
+  "updated_at": "2026-04-15T00:21:42.561Z",
   "source": "PeeringDB",
-  "entry_count": 34397,
+  "entry_count": 34409,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -9573,7 +9573,7 @@
       "type": "Cable/DSL/ISP"
     },
     "262391": {
-      "name": "ACESSOLINE TELECOMUNICACOES LTDA",
+      "name": "Brasil TecPar (ALT/Acessoline)",
       "type": "NSP"
     },
     "35834": {
@@ -9959,6 +9959,10 @@
     "48204": {
       "name": "Everest Data Centres",
       "type": "NSP"
+    },
+    "199344": {
+      "name": "NET-1-BG",
+      "type": "Educational/Research"
     },
     "61044": {
       "name": "SIT Internetdiensten B.V.",
@@ -13481,7 +13485,7 @@
       "type": "Cable/DSL/ISP"
     },
     "32867": {
-      "name": "Long Lines Communications",
+      "name": "Long Lines Broadband",
       "type": "Cable/DSL/ISP"
     },
     "3261": {
@@ -31208,10 +31212,6 @@
       "name": "ARCADIZ TELECOM",
       "type": "NSP"
     },
-    "262975": {
-      "name": "Veloster Internet",
-      "type": "Cable/DSL/ISP"
-    },
     "267541": {
       "name": "BRASILNET",
       "type": "Unknown"
@@ -40693,11 +40693,11 @@
       "type": "Cable/DSL/ISP"
     },
     "131111": {
-      "name": "PT Mora Telematika Indonesia Tbk - Domestic",
+      "name": "PT Ekamas Mora Republik Tbk - Domestic",
       "type": "Cable/DSL/ISP"
     },
     "46038": {
-      "name": "PT Mora Telematika Indonesia Tbk - CepatNet",
+      "name": "PT Ekamas Mora Republik Tbk - CepatNet",
       "type": "Cable/DSL/ISP"
     },
     "5080": {
@@ -48334,10 +48334,6 @@
     },
     "264333": {
       "name": "JN TECNOLOGIA LTDA-ME",
-      "type": "Cable/DSL/ISP"
-    },
-    "54161": {
-      "name": "ION",
       "type": "Cable/DSL/ISP"
     },
     "16803": {
@@ -57281,7 +57277,7 @@
       "type": "Unknown"
     },
     "271097": {
-      "name": "RB REDES E SERVIÇOS DE PROVEDORES DE ACESSO EIRELI",
+      "name": "Brasil TecPar (ALT/RB)",
       "type": "Unknown"
     },
     "131976": {
@@ -62706,7 +62702,7 @@
     },
     "142566": {
       "name": "Latansa Media Telekomunikasi",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "399115": {
       "name": "AOP Fiber",
@@ -76101,7 +76097,7 @@
       "type": "Cable/DSL/ISP"
     },
     "273683": {
-      "name": "ALLREDE TELECOM LTDA",
+      "name": "Brasil TecPar (Allrede)",
       "type": "Cable/DSL/ISP"
     },
     "11839": {
@@ -76323,6 +76319,10 @@
     "21738": {
       "name": "Rozint - Global",
       "type": "Cable/DSL/ISP"
+    },
+    "199337": {
+      "name": "NET-1-SK",
+      "type": "Educational/Research"
     },
     "199347": {
       "name": "ISHANJAIN",
@@ -76695,6 +76695,10 @@
     "60423": {
       "name": "E-Money Net Developers 24 Company",
       "type": "Unknown"
+    },
+    "199035": {
+      "name": "Olcus Limited",
+      "type": "Enterprise"
     },
     "150919": {
       "name": "TRINITY MEDIA INDONESIA",
@@ -79360,6 +79364,10 @@
       "name": "AUBIX",
       "type": "Network Services"
     },
+    "199331": {
+      "name": "NET-1-ES",
+      "type": "Content"
+    },
     "197537": {
       "name": "WISDOM CLOUD",
       "type": "NSP"
@@ -80585,7 +80593,7 @@
       "type": "NSP"
     },
     "216265": {
-      "name": "Aristo Networks LTD",
+      "name": "Aristo Networks",
       "type": "NSP"
     },
     "151751": {
@@ -86432,10 +86440,6 @@
       "name": "Datacom.mw",
       "type": "Unknown"
     },
-    "215450": {
-      "name": "Snowcore",
-      "type": "Unknown"
-    },
     "215787": {
       "name": "TELE90 Telecom GmbH",
       "type": "Content"
@@ -87674,10 +87678,6 @@
     },
     "26921": {
       "name": "CYBERSHARKS.NET",
-      "type": "Unknown"
-    },
-    "214518": {
-      "name": "TechMentor Teens",
       "type": "Unknown"
     },
     "270520": {
@@ -90310,7 +90310,7 @@
     },
     "149020": {
       "name": "WebHorizon Internet Services",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "55223": {
       "name": "BGP NETWORKS LLC",
@@ -91691,10 +91691,6 @@
     "198315": {
       "name": "garbe",
       "type": "Unknown"
-    },
-    "153255": {
-      "name": "RT-7 NETWORK",
-      "type": "Cable/DSL/ISP"
     },
     "212176": {
       "name": "NETKOMP",
@@ -98926,7 +98922,7 @@
     },
     "215760": {
       "name": "DisPaisy Enterprises",
-      "type": "Educational/Research"
+      "type": "Cable/DSL/ISP"
     },
     "210008": {
       "name": "Webbing_LTD",
@@ -101476,10 +101472,6 @@
       "name": "BP America, Inc.",
       "type": "Unknown"
     },
-    "202934": {
-      "name": "SINCITY HOSTING",
-      "type": "Content"
-    },
     "64245": {
       "name": "DigitalFyre Internet Solutions",
       "type": "Content"
@@ -101849,7 +101841,7 @@
       "type": "Unknown"
     },
     "203860": {
-      "name": "AARTSEN",
+      "name": "Aartsen",
       "type": "Enterprise"
     },
     "154210": {
@@ -104278,7 +104270,7 @@
     },
     "199566": {
       "name": "Artem Lomakin",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "28381": {
       "name": "Grupo Hidalguense de Desarrollo",
@@ -104449,7 +104441,7 @@
       "type": "Cable/DSL/ISP"
     },
     "59563": {
-      "name": "YERYO",
+      "name": "VINCI COMMUNICATIONS - BROADBAND",
       "type": "Cable/DSL/ISP"
     },
     "139673": {
@@ -104553,7 +104545,7 @@
       "type": "Unknown"
     },
     "275716": {
-      "name": "S&S TREINAMENTO E CONSULTORIA",
+      "name": "Vertix Tecnologia",
       "type": "NSP"
     },
     "199395": {
@@ -104685,7 +104677,7 @@
       "type": "Cable/DSL/ISP"
     },
     "264874": {
-      "name": "V. COMNET TELECOM",
+      "name": "V. COMNET TELECOM LTDA",
       "type": "Cable/DSL/ISP"
     },
     "22297": {
@@ -104802,6 +104794,58 @@
     },
     "23390": {
       "name": "BROADPATH, LLC",
+      "type": "Unknown"
+    },
+    "53546": {
+      "name": "LEGION",
+      "type": "Unknown"
+    },
+    "209402": {
+      "name": "BIC-FVG-AS",
+      "type": "Unknown"
+    },
+    "402319": {
+      "name": "Taipei101 Mobile",
+      "type": "Cable/DSL/ISP"
+    },
+    "215865": {
+      "name": "Atrioxhosting",
+      "type": "Non-Profit"
+    },
+    "214487": {
+      "name": "WEDEPLOY",
+      "type": "Unknown"
+    },
+    "214606": {
+      "name": "London Internet Exchange Ltd.",
+      "type": "Enterprise"
+    },
+    "267281": {
+      "name": "ASN267281",
+      "type": "Unknown"
+    },
+    "40643": {
+      "name": "CNPARTNERS-1",
+      "type": "Unknown"
+    },
+    "152388": {
+      "name": "IDNIC-SKN-AS-ID",
+      "type": "Unknown"
+    },
+    "265541": {
+      "name": "Bestel (265541)",
+      "type": "Cable/DSL/ISP"
+    },
+    "199129": {
+      "name": "DIRECTCONNECT-AS",
+      "type": "Unknown"
+    },
+    "209380": {
+      "name": "AratTelekom",
+      "type": "Unknown"
+    },
+    "199012": {
+      "name": "KITE",
       "type": "Unknown"
     },
     "22822": {
@@ -108805,11 +108849,11 @@
       "type": "NSP"
     },
     "131702": {
-      "name": "PT Mora Telematika Indonesia Tbk - Mora-IXP",
+      "name": "PT Ekamas Mora Republik Tbk - Mora-IXP",
       "type": "Content"
     },
     "263629": {
-      "name": "ALLREDE TELECOM (MASTER)",
+      "name": "Brasil TecPar (Allrede/Master)",
       "type": "Cable/DSL/ISP"
     },
     "37195": {
@@ -109289,7 +109333,7 @@
       "type": "Network Services"
     },
     "262595": {
-      "name": "OnNet Telecomunicacoes",
+      "name": "Brasil TecPar (OnNet)",
       "type": "NSP"
     },
     "265315": {
@@ -110033,7 +110077,7 @@
       "type": "Cable/DSL/ISP"
     },
     "262324": {
-      "name": "AS262324 ALLREDE TELECOM (UNILINK)",
+      "name": "Brasil TecPar (Allrede/Unilink)",
       "type": "Cable/DSL/ISP"
     },
     "28361": {
@@ -125492,10 +125536,6 @@
       "name": "BIGNETFOZ LTDA",
       "type": "Cable/DSL/ISP"
     },
-    "264356": {
-      "name": "SCHUCK INTERNET LTDA",
-      "type": "NSP"
-    },
     "211024": {
       "name": "devplayer0",
       "type": "Educational/Research"
@@ -128965,7 +129005,7 @@
       "type": "Unknown"
     },
     "268367": {
-      "name": "ITELFIBRA TELECOMUNICAÇÕES LTDA",
+      "name": "Brasil TecPar (ALT/Itelfibra)",
       "type": "NSP"
     },
     "400771": {
@@ -129457,7 +129497,7 @@
       "type": "Cable/DSL/ISP"
     },
     "202400": {
-      "name": "TAIPEI101",
+      "name": "TAIPEI101 MOBILE MVNO",
       "type": "Cable/DSL/ISP"
     },
     "213341": {
@@ -137112,6 +137152,10 @@
       "name": "Oofydi Media Group",
       "type": "Cable/DSL/ISP"
     },
+    "202934": {
+      "name": "SINCITY HOSTING",
+      "type": "Content"
+    },
     "202734": {
       "name": "Tianshome",
       "type": "Educational/Research"
@@ -137591,6 +137635,10 @@
     "199133": {
       "name": "NyaIP",
       "type": "Content"
+    },
+    "154528": {
+      "name": "Dinas Komunikasi Informatika Statistik Dan Persandian Kota Pekanbaru",
+      "type": "Government"
     }
   }
 }
