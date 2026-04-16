@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-15T00:21:42.561Z",
+  "updated_at": "2026-04-16T00:21:59.369Z",
   "source": "PeeringDB",
-  "entry_count": 34409,
+  "entry_count": 34415,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1644,10 +1644,6 @@
       "name": "Magnet Networks",
       "type": "Cable/DSL/ISP"
     },
-    "33968": {
-      "name": "Internet Engineering Limited",
-      "type": "Content"
-    },
     "41012": {
       "name": "The Cloud Networks",
       "type": "Cable/DSL/ISP"
@@ -1931,10 +1927,6 @@
     "12390": {
       "name": "Kingston Communications",
       "type": "Cable/DSL/ISP"
-    },
-    "29131": {
-      "name": "RapidSwitch",
-      "type": "NSP"
     },
     "40475": {
       "name": "Applied Operations",
@@ -6408,10 +6400,6 @@
       "name": "Retelit Spa",
       "type": "NSP"
     },
-    "35662": {
-      "name": "Redstation",
-      "type": "NSP"
-    },
     "53072": {
       "name": "INETVIP TELECOM LTDA",
       "type": "Cable/DSL/ISP"
@@ -9961,8 +9949,8 @@
       "type": "NSP"
     },
     "199344": {
-      "name": "NET-1-BG",
-      "type": "Educational/Research"
+      "name": "1-BG",
+      "type": "Route Server"
     },
     "61044": {
       "name": "SIT Internetdiensten B.V.",
@@ -62958,7 +62946,7 @@
     },
     "211452": {
       "name": "AR Informatik AG",
-      "type": "Enterprise"
+      "type": "Government"
     },
     "269315": {
       "name": "CLACI FABER PARIZOTTO EIRELI - ME",
@@ -76321,8 +76309,8 @@
       "type": "Cable/DSL/ISP"
     },
     "199337": {
-      "name": "NET-1-SK",
-      "type": "Educational/Research"
+      "name": "1-SK",
+      "type": "Route Server"
     },
     "199347": {
       "name": "ISHANJAIN",
@@ -79365,8 +79353,8 @@
       "type": "Network Services"
     },
     "199331": {
-      "name": "NET-1-ES",
-      "type": "Content"
+      "name": "1-ES",
+      "type": "Route Server"
     },
     "197537": {
       "name": "WISDOM CLOUD",
@@ -104508,10 +104496,6 @@
       "name": "HYBRID INTERNET",
       "type": "Cable/DSL/ISP"
     },
-    "150468": {
-      "name": "Bintang Teknologi Sejahtera",
-      "type": "Cable/DSL/ISP"
-    },
     "216365": {
       "name": "CLOUD SOLUTIONS",
       "type": "Content"
@@ -104622,7 +104606,7 @@
     },
     "402385": {
       "name": "SPICER-NETWORKS",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "146962": {
       "name": "GATEWAY TECHNOLOGY DEVELOPMENT PTE. LTD.",
@@ -104662,7 +104646,7 @@
     },
     "266705": {
       "name": "GABRIEL FRANCISCO ERBETTA Y MARIANO ANDRES CARRIZO RICHELET SOCIEDAD DE HECHO (TELNET SOLUCIONES)",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "402349": {
       "name": "GATEWAYSENTRY",
@@ -104758,7 +104742,7 @@
     },
     "153156": {
       "name": "Alsavanet Global Media",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "133064": {
       "name": "ST-AS-AP-LOCAL-PEERING",
@@ -104846,6 +104830,42 @@
     },
     "199012": {
       "name": "KITE",
+      "type": "Unknown"
+    },
+    "197554": {
+      "name": "MASTERLINK-NET",
+      "type": "Unknown"
+    },
+    "204701": {
+      "name": "KRGOVUA-AS",
+      "type": "Unknown"
+    },
+    "199019": {
+      "name": "TABANLI",
+      "type": "Unknown"
+    },
+    "210501": {
+      "name": "Magna Solutions",
+      "type": "Network Services"
+    },
+    "197134": {
+      "name": "transfond-as",
+      "type": "Unknown"
+    },
+    "211516": {
+      "name": "SPACELINE-AS",
+      "type": "Unknown"
+    },
+    "52285": {
+      "name": "Ewinet C.A.",
+      "type": "Cable/DSL/ISP"
+    },
+    "212207": {
+      "name": "IMS",
+      "type": "Cable/DSL/ISP"
+    },
+    "216063": {
+      "name": "TWENTYFOURFIRE",
       "type": "Unknown"
     },
     "22822": {
@@ -106693,7 +106713,7 @@
       "type": "Cable/DSL/ISP"
     },
     "53062": {
-      "name": "Brasil TecPar (ALT)",
+      "name": "Brasil TecPar",
       "type": "NSP"
     },
     "36459": {
@@ -137627,6 +137647,10 @@
     "273304": {
       "name": "Somnet de México",
       "type": "Network Services"
+    },
+    "150468": {
+      "name": "Bintang Teknologi Sejahtera",
+      "type": "Cable/DSL/ISP"
     },
     "402395": {
       "name": "Axion Industries",
