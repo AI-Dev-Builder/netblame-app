@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-16T00:21:59.369Z",
+  "updated_at": "2026-04-17T00:20:27.757Z",
   "source": "PeeringDB",
-  "entry_count": 34415,
+  "entry_count": 34427,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -4385,7 +4385,7 @@
       "type": "Cable/DSL/ISP"
     },
     "44980": {
-      "name": "Paul Cairney",
+      "name": "as44980",
       "type": "Non-Profit"
     },
     "14282": {
@@ -26928,10 +26928,6 @@
       "name": "Vector Fibre",
       "type": "Cable/DSL/ISP"
     },
-    "37575": {
-      "name": "UNITEL T Telecomunicacoes, Sociedade Unipessoal S.A.",
-      "type": "Cable/DSL/ISP"
-    },
     "32308": {
       "name": "8x8, Inc.",
       "type": "NSP"
@@ -29958,6 +29954,10 @@
     },
     "393490": {
       "name": "Blue Jeans Network, Inc. - US East",
+      "type": "Unknown"
+    },
+    "132402": {
+      "name": "IDNIC-PTSCI-ID",
       "type": "Unknown"
     },
     "394561": {
@@ -42016,6 +42016,10 @@
       "name": "Netlink",
       "type": "Cable/DSL/ISP"
     },
+    "394230": {
+      "name": "CDCK",
+      "type": "Unknown"
+    },
     "13870": {
       "name": "Skywolf IX Route Servers",
       "type": "Route Server"
@@ -47179,10 +47183,6 @@
     "264273": {
       "name": "A & G TELECOMUNICAÇÕES",
       "type": "NSP"
-    },
-    "61135": {
-      "name": "COMNET Global IP Backbone",
-      "type": "Cable/DSL/ISP"
     },
     "197486": {
       "name": "UZ-IX Tashkent",
@@ -101821,7 +101821,7 @@
       "type": "NSP"
     },
     "203168": {
-      "name": "JianyueLab Net. Non Profit & P7IX Route Server",
+      "name": "JianyueLab Pro Bono Network",
       "type": "Non-Profit"
     },
     "43103": {
@@ -103025,8 +103025,8 @@
       "type": "Unknown"
     },
     "30084": {
-      "name": "1544913 B.C. LTD.",
-      "type": "Unknown"
+      "name": "Underground Communications Company",
+      "type": "Cable/DSL/ISP"
     },
     "46464": {
       "name": "Nybbles and Bytes Studios, LLC",
@@ -104106,7 +104106,7 @@
     },
     "275714": {
       "name": "E-Consulters Enterprise",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "402243": {
       "name": "ELEMENT",
@@ -104822,7 +104822,7 @@
     },
     "199129": {
       "name": "DIRECTCONNECT-AS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "209380": {
       "name": "AratTelekom",
@@ -104842,7 +104842,7 @@
     },
     "199019": {
       "name": "TABANLI",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "210501": {
       "name": "Magna Solutions",
@@ -104866,6 +104866,42 @@
     },
     "216063": {
       "name": "TWENTYFOURFIRE",
+      "type": "Unknown"
+    },
+    "22761": {
+      "name": "PSYCHO-SOLUTIONS-LLC",
+      "type": "Unknown"
+    },
+    "199227": {
+      "name": "Protocol 7 IX - Router Server",
+      "type": "Route Server"
+    },
+    "154606": {
+      "name": "YFI INTERNET PRIVATE LIMITED",
+      "type": "Unknown"
+    },
+    "328889": {
+      "name": "ORG-MCSC1-AFRINIC",
+      "type": "Unknown"
+    },
+    "198860": {
+      "name": "CANTER",
+      "type": "Content"
+    },
+    "208862": {
+      "name": "SIRINFO",
+      "type": "Unknown"
+    },
+    "198840": {
+      "name": "ALCLOUD",
+      "type": "Unknown"
+    },
+    "401152": {
+      "name": "Ace Data Centers II",
+      "type": "Enterprise"
+    },
+    "199037": {
+      "name": "NAUCRAR",
       "type": "Unknown"
     },
     "22822": {
@@ -108421,7 +108457,7 @@
       "type": "Cable/DSL/ISP"
     },
     "132116": {
-      "name": "Ani Network",
+      "name": "Anonet Communications Pvt Ltd",
       "type": "Cable/DSL/ISP"
     },
     "394497": {
@@ -111258,6 +111294,10 @@
     },
     "37340": {
       "name": "Spectranet AS37340",
+      "type": "Cable/DSL/ISP"
+    },
+    "37575": {
+      "name": "UNITEL T Telecomunicacoes, Sociedade Unipessoal S.A.",
       "type": "Cable/DSL/ISP"
     },
     "206924": {
@@ -114409,7 +114449,7 @@
       "type": "Cable/DSL/ISP"
     },
     "137085": {
-      "name": "Ani Broadband Service",
+      "name": "Anonet Communications Private Limited",
       "type": "Cable/DSL/ISP"
     },
     "15165": {
@@ -114725,7 +114765,7 @@
       "type": "Cable/DSL/ISP"
     },
     "64315": {
-      "name": "MITRA VISIONER PRATAMA",
+      "name": "Mitra Visioner Pratama (MVNET)",
       "type": "NSP"
     },
     "135851": {
@@ -121747,6 +121787,10 @@
     "202987": {
       "name": "Fiber Networks Services",
       "type": "Cable/DSL/ISP"
+    },
+    "199055": {
+      "name": "Reprise",
+      "type": "Unknown"
     },
     "61716": {
       "name": "Central Telecom",
@@ -130664,6 +130708,10 @@
       "name": "Asociația Interlan",
       "type": "Non-Profit"
     },
+    "198924": {
+      "name": "SUGAILO-AS",
+      "type": "Unknown"
+    },
     "329099": {
       "name": "MANGONET INTEGRATED",
       "type": "Cable/DSL/ISP"
@@ -136141,7 +136189,7 @@
       "type": "Educational/Research"
     },
     "147094": {
-      "name": "PT. MITRA VISIONER PRATAMA",
+      "name": "Mitra Visioner Pratama (MVNET) - NAP",
       "type": "NSP"
     },
     "56868": {
@@ -137593,8 +137641,8 @@
       "type": "Unknown"
     },
     "209565": {
-      "name": "JIANYUELAB (AS209565)",
-      "type": "Unknown"
+      "name": "JianyueLab Staff Network",
+      "type": "Enterprise"
     },
     "12183": {
       "name": "Talkie Communications",
