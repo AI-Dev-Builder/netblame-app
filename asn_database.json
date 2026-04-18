@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-17T00:20:27.757Z",
+  "updated_at": "2026-04-18T00:18:04.707Z",
   "source": "PeeringDB",
-  "entry_count": 34427,
+  "entry_count": 34415,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -10611,10 +10611,6 @@
     "56260": {
       "name": "Pascal Indonesia",
       "type": "Cable/DSL/ISP"
-    },
-    "28247": {
-      "name": "Intercampo Telecom",
-      "type": "NSP"
     },
     "28277": {
       "name": "VMAX",
@@ -39352,10 +39348,6 @@
       "name": "Linde",
       "type": "Unknown"
     },
-    "204450": {
-      "name": "4b42 France",
-      "type": "Unknown"
-    },
     "60767": {
       "name": "Robert Finze",
       "type": "Non-Profit"
@@ -48718,10 +48710,6 @@
     },
     "137253": {
       "name": "DCSG 7000 AMK",
-      "type": "Unknown"
-    },
-    "135673": {
-      "name": "Future.Net",
       "type": "Unknown"
     },
     "328538": {
@@ -61280,18 +61268,6 @@
       "name": "MNZL - AS141228",
       "type": "Unknown"
     },
-    "18054": {
-      "name": "Swift IX USA",
-      "type": "Route Server"
-    },
-    "142141": {
-      "name": "Swift IX VIC",
-      "type": "Route Server"
-    },
-    "142140": {
-      "name": "Swift IX NSW",
-      "type": "Route Server"
-    },
     "47705": {
       "name": "Masliy Kostyantin Mikhailovich",
       "type": "Cable/DSL/ISP"
@@ -63307,10 +63283,6 @@
     "17450": {
       "name": "PT Bank Central Asia",
       "type": "Unknown"
-    },
-    "264193": {
-      "name": "MASTER TELECOM",
-      "type": "NSP"
     },
     "36776": {
       "name": "FIVE9",
@@ -67934,7 +67906,7 @@
     },
     "149453": {
       "name": "Tufan Online",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "2027": {
       "name": "MilkyWan",
@@ -68982,10 +68954,6 @@
     },
     "141372": {
       "name": "Logitech Cable",
-      "type": "Cable/DSL/ISP"
-    },
-    "61722": {
-      "name": "Flacknet Telecom",
       "type": "Cable/DSL/ISP"
     },
     "134138": {
@@ -75115,10 +75083,6 @@
     "41320": {
       "name": "Schid-Service",
       "type": "Unknown"
-    },
-    "211871": {
-      "name": "OWEB",
-      "type": "Content"
     },
     "150737": {
       "name": "Volo Net",
@@ -81368,10 +81332,6 @@
       "name": "CONNECT 3",
       "type": "Cable/DSL/ISP"
     },
-    "216112": {
-      "name": "MODEL KGVC SRL",
-      "type": "Enterprise"
-    },
     "150387": {
       "name": "BADAR ENTERPRISES CABLE NETWORK (PRIVATE) LIMITED",
       "type": "Cable/DSL/ISP"
@@ -84068,10 +84028,6 @@
       "name": "Unicast Technology",
       "type": "Cable/DSL/ISP"
     },
-    "216390": {
-      "name": "Mesh-IX",
-      "type": "NSP"
-    },
     "273366": {
       "name": "Laikos Telecom",
       "type": "Cable/DSL/ISP"
@@ -86542,10 +86498,6 @@
     },
     "272569": {
       "name": "ASJ COMUNICACAO MULTIMIDIA",
-      "type": "Unknown"
-    },
-    "214771": {
-      "name": "SCHILDIIHOST",
       "type": "Unknown"
     },
     "329390": {
@@ -92240,10 +92192,6 @@
       "name": "QOONTOO",
       "type": "Unknown"
     },
-    "213604": {
-      "name": "mk",
-      "type": "Unknown"
-    },
     "44949": {
       "name": "Gigacodes",
       "type": "Content"
@@ -94620,10 +94568,6 @@
       "name": "TF TELECOM LTDA",
       "type": "Cable/DSL/ISP"
     },
-    "153787": {
-      "name": "S2N SERVICE",
-      "type": "Content"
-    },
     "768": {
       "name": "NNIC AS768",
       "type": "Unknown"
@@ -96867,6 +96811,10 @@
     "212347": {
       "name": "NVL-IX",
       "type": "Unknown"
+    },
+    "210773": {
+      "name": "NEKOPIXEL-NETWORK",
+      "type": "Route Server"
     },
     "154040": {
       "name": "AirDan Networks",
@@ -99878,7 +99826,7 @@
     },
     "154226": {
       "name": "PT GLOBAL ACCESS SMART SOLUTIONS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "137264": {
       "name": "WINGMARK",
@@ -104753,7 +104701,7 @@
       "type": "Unknown"
     },
     "200010": {
-      "name": "Olfe Izmir",
+      "name": "Olfe Veri Merkezi - İzmir",
       "type": "NSP"
     },
     "39880": {
@@ -104902,6 +104850,22 @@
     },
     "199037": {
       "name": "NAUCRAR",
+      "type": "Unknown"
+    },
+    "402410": {
+      "name": "COMPATIBLE-NETWORK",
+      "type": "Unknown"
+    },
+    "198756": {
+      "name": "Joseph-Luis-Portillo-III",
+      "type": "Educational/Research"
+    },
+    "199529": {
+      "name": "LAGOM-AS",
+      "type": "Unknown"
+    },
+    "273306": {
+      "name": "273306",
       "type": "Unknown"
     },
     "22822": {
@@ -116133,7 +116097,7 @@
       "type": "Cable/DSL/ISP"
     },
     "136308": {
-      "name": "Deenet Services AS136308",
+      "name": "Deenet Networks AS136308",
       "type": "Content"
     },
     "137601": {
@@ -120415,10 +120379,6 @@
     "139379": {
       "name": "Theko Digital Solusindo",
       "type": "Cable/DSL/ISP"
-    },
-    "208127": {
-      "name": "GTDev Network RIPE",
-      "type": "Educational/Research"
     },
     "209297": {
       "name": "Nichi Networks",
@@ -129628,10 +129588,6 @@
       "name": "Shadhinota Net",
       "type": "Cable/DSL/ISP"
     },
-    "139602": {
-      "name": "Micro Link",
-      "type": "Cable/DSL/ISP"
-    },
     "272097": {
       "name": "GRUPO COCAVISION",
       "type": "Cable/DSL/ISP"
@@ -130803,6 +130759,10 @@
     "200716": {
       "name": "E2W Solutions AS200716",
       "type": "Educational/Research"
+    },
+    "198741": {
+      "name": "AMELIAK",
+      "type": "Content"
     },
     "329234": {
       "name": "NMBINX Operations/Route Collector",
@@ -132636,10 +132596,6 @@
       "name": "v4Guard",
       "type": "Network Services"
     },
-    "151483": {
-      "name": "Beijing Chuangzhijie",
-      "type": "Unknown"
-    },
     "36749": {
       "name": "ATARE AMERICA",
       "type": "Educational/Research"
@@ -132983,10 +132939,6 @@
     "51396": {
       "name": "Pfcloud UG",
       "type": "Network Services"
-    },
-    "215491": {
-      "name": "F-AS",
-      "type": "Educational/Research"
     },
     "150589": {
       "name": "NM PARIBAS PRIVATE LIMITED",
@@ -134133,8 +134085,8 @@
       "type": "NSP"
     },
     "214819": {
-      "name": "Buzzster Ltd",
-      "type": "Content"
+      "name": "Buzzster",
+      "type": "Educational/Research"
     },
     "214591": {
       "name": "frankonIX RouteServer",
@@ -135952,6 +135904,10 @@
       "name": "AZERNET",
       "type": "Unknown"
     },
+    "153787": {
+      "name": "S2N SERVICE",
+      "type": "Content"
+    },
     "216392": {
       "name": "NETCLOUDIFY SLU",
       "type": "Content"
@@ -137675,10 +137631,6 @@
     "208665": {
       "name": "Gareth Pulham",
       "type": "Unknown"
-    },
-    "199746": {
-      "name": "NextGuard",
-      "type": "Enterprise"
     },
     "200477": {
       "name": "EUCLID SERVICES LIMITED",
