@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-18T00:18:04.707Z",
+  "updated_at": "2026-04-19T00:18:12.718Z",
   "source": "PeeringDB",
-  "entry_count": 34415,
+  "entry_count": 34420,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -86962,7 +86962,7 @@
     },
     "152029": {
       "name": "PT Andromega Data Nusantara",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "150975": {
       "name": "PT Otoritas Digital Niaga",
@@ -91632,6 +91632,10 @@
       "name": "garbe",
       "type": "Unknown"
     },
+    "153255": {
+      "name": "RT-7 NETWORK",
+      "type": "Cable/DSL/ISP"
+    },
     "212176": {
       "name": "NETKOMP",
       "type": "Cable/DSL/ISP"
@@ -95856,10 +95860,6 @@
       "name": "Cable Onda AS14709",
       "type": "Unknown"
     },
-    "207596": {
-      "name": "we-cloud",
-      "type": "Non-Profit"
-    },
     "27831": {
       "name": "Colombia Móvil",
       "type": "Unknown"
@@ -98858,7 +98858,7 @@
     },
     "215760": {
       "name": "DisPaisy Enterprises",
-      "type": "Cable/DSL/ISP"
+      "type": "Educational/Research"
     },
     "210008": {
       "name": "Webbing_LTD",
@@ -104693,7 +104693,7 @@
       "type": "NSP"
     },
     "133064": {
-      "name": "ST-AS-AP-LOCAL-PEERING",
+      "name": "St. Luke's Medical Center, SLMC INFRASTRUCTURE",
       "type": "Unknown"
     },
     "201891": {
@@ -104733,7 +104733,7 @@
       "type": "Unknown"
     },
     "209402": {
-      "name": "BIC-FVG-AS",
+      "name": "BIC INCUBATORI FVG",
       "type": "Unknown"
     },
     "402319": {
@@ -104761,7 +104761,7 @@
       "type": "Unknown"
     },
     "152388": {
-      "name": "IDNIC-SKN-AS-ID",
+      "name": "Sinyal Khatulistiwa Network",
       "type": "Unknown"
     },
     "265541": {
@@ -104866,6 +104866,22 @@
     },
     "273306": {
       "name": "273306",
+      "type": "Unknown"
+    },
+    "273039": {
+      "name": "Tecnologia del Presente 18, C.A",
+      "type": "Cable/DSL/ISP"
+    },
+    "154613": {
+      "name": "CYBER-AS-AP",
+      "type": "Unknown"
+    },
+    "198767": {
+      "name": "NET-BIND-AM",
+      "type": "Unknown"
+    },
+    "142258": {
+      "name": "Pesona Network Mediautama",
       "type": "Unknown"
     },
     "22822": {
@@ -124326,7 +124342,7 @@
     },
     "265695": {
       "name": "ELIAS COMUNICACIONES",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "141215": {
       "name": "Dotcom International Pvt. Limited",
@@ -127605,7 +127621,7 @@
       "type": "Cable/DSL/ISP"
     },
     "207529": {
-      "name": "LoliNya Network",
+      "name": "NyanLoli Network",
       "type": "Educational/Research"
     },
     "38313": {
@@ -136144,6 +136160,10 @@
       "name": "Luca Strick",
       "type": "Educational/Research"
     },
+    "207596": {
+      "name": "we-cloud",
+      "type": "Non-Profit"
+    },
     "147094": {
       "name": "Mitra Visioner Pratama (MVNET) - NAP",
       "type": "NSP"
@@ -136445,7 +136465,7 @@
       "type": "Network Services"
     },
     "205941": {
-      "name": "Lungu Stefan",
+      "name": "Lungu Stefan Gabriel",
       "type": "NSP"
     },
     "401896": {
