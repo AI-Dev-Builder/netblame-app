@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-19T00:18:12.718Z",
+  "updated_at": "2026-04-20T00:19:23.365Z",
   "source": "PeeringDB",
-  "entry_count": 34420,
+  "entry_count": 34423,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -4385,7 +4385,7 @@
       "type": "Cable/DSL/ISP"
     },
     "44980": {
-      "name": "as44980",
+      "name": "Paul Cairney",
       "type": "Non-Profit"
     },
     "14282": {
@@ -19701,7 +19701,7 @@
       "type": "Unknown"
     },
     "200825": {
-      "name": "Weiqi-AS",
+      "name": "Weiqi Yu",
       "type": "Cable/DSL/ISP"
     },
     "263422": {
@@ -29953,7 +29953,7 @@
       "type": "Unknown"
     },
     "132402": {
-      "name": "IDNIC-PTSCI-ID",
+      "name": "Sahabat Corp Indonesia",
       "type": "Unknown"
     },
     "394561": {
@@ -43733,7 +43733,7 @@
       "type": "NSP"
     },
     "60131": {
-      "name": "High5!",
+      "name": "High5",
       "type": "Unknown"
     },
     "60991": {
@@ -61529,7 +61529,7 @@
       "type": "Content"
     },
     "142139": {
-      "name": "Boom!",
+      "name": "Boom",
       "type": "Network Services"
     },
     "213301": {
@@ -64323,10 +64323,6 @@
     "210861": {
       "name": "Open Networks Association",
       "type": "Non-Profit"
-    },
-    "271951": {
-      "name": "4 EVER PLUG  C.A.",
-      "type": "Cable/DSL/ISP"
     },
     "211392": {
       "name": "DREAM CLOUD",
@@ -70591,6 +70587,10 @@
     "267827": {
       "name": "PERALTA LEANDRO NAHUEL",
       "type": "Cable/DSL/ISP"
+    },
+    "1016": {
+      "name": "TECHNOTIC-SPORTS",
+      "type": "Unknown"
     },
     "13444": {
       "name": "TRS",
@@ -92229,7 +92229,7 @@
       "type": "Unknown"
     },
     "213622": {
-      "name": "Falcon Network",
+      "name": "Falcon Networks",
       "type": "NSP"
     },
     "401593": {
@@ -96813,7 +96813,7 @@
       "type": "Unknown"
     },
     "210773": {
-      "name": "NEKOPIXEL-NETWORK",
+      "name": "Nekopixel Network",
       "type": "Route Server"
     },
     "154040": {
@@ -102414,7 +102414,7 @@
     },
     "329045": {
       "name": "Ilitha Infrastructure (Pty) Ltd",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "210622": {
       "name": "Kicked SRL",
@@ -103916,10 +103916,6 @@
       "name": "Shuma Watanabe",
       "type": "Unknown"
     },
-    "200085": {
-      "name": "WeilNet, LLC",
-      "type": "Educational/Research"
-    },
     "402169": {
       "name": "Uscloud Inc",
       "type": "Unknown"
@@ -103957,7 +103953,7 @@
       "type": "Network Services"
     },
     "209264": {
-      "name": "Ivx Group",
+      "name": "Ivx",
       "type": "NSP"
     },
     "131651": {
@@ -104682,7 +104678,7 @@
     },
     "200679": {
       "name": "SPSIT",
-      "type": "Unknown"
+      "type": "Content"
     },
     "152432": {
       "name": "Sinergi Innovate Pratama",
@@ -104697,7 +104693,7 @@
       "type": "Unknown"
     },
     "201891": {
-      "name": "NIMBUSIP-AS",
+      "name": "Nimbus IP Networks",
       "type": "Unknown"
     },
     "200010": {
@@ -104705,7 +104701,7 @@
       "type": "NSP"
     },
     "39880": {
-      "name": "AS-Thomaskruse_dk",
+      "name": "Thomas Kruse",
       "type": "Unknown"
     },
     "213467": {
@@ -104753,7 +104749,7 @@
       "type": "Enterprise"
     },
     "267281": {
-      "name": "ASN267281",
+      "name": "GIGANET TELECOM (AS267281)",
       "type": "Unknown"
     },
     "40643": {
@@ -104769,7 +104765,7 @@
       "type": "Cable/DSL/ISP"
     },
     "199129": {
-      "name": "DIRECTCONNECT-AS",
+      "name": "Direct Connect",
       "type": "Cable/DSL/ISP"
     },
     "209380": {
@@ -104781,11 +104777,11 @@
       "type": "Unknown"
     },
     "197554": {
-      "name": "MASTERLINK-NET",
+      "name": "ISP RIAD (AS197554)",
       "type": "Unknown"
     },
     "204701": {
-      "name": "KRGOVUA-AS",
+      "name": "Executive Committee of the Kryvyi Rih City Council",
       "type": "Unknown"
     },
     "199019": {
@@ -104797,11 +104793,11 @@
       "type": "Network Services"
     },
     "197134": {
-      "name": "transfond-as",
+      "name": "Societatea de Transfer de Fonduri si Decontari TRANSFOND",
       "type": "Unknown"
     },
     "211516": {
-      "name": "SPACELINE-AS",
+      "name": "SpaceLine Networks",
       "type": "Unknown"
     },
     "52285": {
@@ -104817,7 +104813,7 @@
       "type": "Unknown"
     },
     "22761": {
-      "name": "PSYCHO-SOLUTIONS-LLC",
+      "name": "Psycho Solutions",
       "type": "Unknown"
     },
     "199227": {
@@ -104829,7 +104825,7 @@
       "type": "Unknown"
     },
     "328889": {
-      "name": "ORG-MCSC1-AFRINIC",
+      "name": "MODEM COMPUTER SERVICES",
       "type": "Unknown"
     },
     "198860": {
@@ -104853,35 +104849,43 @@
       "type": "Unknown"
     },
     "402410": {
-      "name": "COMPATIBLE-NETWORK",
+      "name": "Compatible Network (AS402410)",
       "type": "Unknown"
     },
     "198756": {
-      "name": "Joseph-Luis-Portillo-III",
+      "name": "Joseph Portillo",
       "type": "Educational/Research"
     },
     "199529": {
-      "name": "LAGOM-AS",
+      "name": "Vitalijs Jurkevics",
       "type": "Unknown"
     },
     "273306": {
-      "name": "273306",
+      "name": "CABLE DIVERSION ELIGAMA",
       "type": "Unknown"
     },
     "273039": {
-      "name": "Tecnologia del Presente 18, C.A",
+      "name": "Tecnologia del Presente 18",
       "type": "Cable/DSL/ISP"
     },
     "154613": {
-      "name": "CYBER-AS-AP",
+      "name": "CYBER PEERS COMMUNICATIONS",
       "type": "Unknown"
     },
     "198767": {
-      "name": "NET-BIND-AM",
+      "name": "Antranik Wartanian",
       "type": "Unknown"
     },
     "142258": {
       "name": "Pesona Network Mediautama",
+      "type": "Unknown"
+    },
+    "198834": {
+      "name": "net.noahlvb.nl",
+      "type": "Educational/Research"
+    },
+    "275732": {
+      "name": "ASN275732",
       "type": "Unknown"
     },
     "22822": {
@@ -126148,6 +126152,10 @@
       "name": "PERATON",
       "type": "Unknown"
     },
+    "271951": {
+      "name": "4 EVER PLUG  C.A.",
+      "type": "Cable/DSL/ISP"
+    },
     "142029": {
       "name": "Ascend Money",
       "type": "Enterprise"
@@ -126441,7 +126449,7 @@
       "type": "Unknown"
     },
     "328959": {
-      "name": "SO!",
+      "name": "SO",
       "type": "Cable/DSL/ISP"
     },
     "399273": {
@@ -130681,7 +130689,7 @@
       "type": "Non-Profit"
     },
     "198924": {
-      "name": "SUGAILO-AS",
+      "name": "Sugailo Raitis",
       "type": "Unknown"
     },
     "329099": {
@@ -137638,6 +137646,10 @@
     },
     "199854": {
       "name": "Jens Thies",
+      "type": "Educational/Research"
+    },
+    "200085": {
+      "name": "WeilNet, LLC",
       "type": "Educational/Research"
     },
     "199776": {
