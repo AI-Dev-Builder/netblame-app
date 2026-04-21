@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-20T00:19:23.365Z",
+  "updated_at": "2026-04-21T00:20:54.727Z",
   "source": "PeeringDB",
-  "entry_count": 34423,
+  "entry_count": 34431,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -26512,10 +26512,6 @@
       "name": "Netwave Telecomunicações Ltda.",
       "type": "NSP"
     },
-    "263251": {
-      "name": "CONNECT WIRELLES",
-      "type": "Cable/DSL/ISP"
-    },
     "265395": {
       "name": "CELERIUM TELECOMUNICACOES",
       "type": "Cable/DSL/ISP"
@@ -27968,10 +27964,6 @@
       "name": "Consolidated Communications - Northwest (TGWA)",
       "type": "Cable/DSL/ISP"
     },
-    "327956": {
-      "name": "PARABOLE REUNION",
-      "type": "Cable/DSL/ISP"
-    },
     "264429": {
       "name": "V1 Telecomunicacoes e Informatica LTDA - ME",
       "type": "Cable/DSL/ISP"
@@ -28019,10 +28011,6 @@
     "15951": {
       "name": "Dow Jones & Company, Inc (London)",
       "type": "Unknown"
-    },
-    "266552": {
-      "name": "ADD TECNOLOGIA",
-      "type": "Cable/DSL/ISP"
     },
     "393420": {
       "name": "EZVERIFY & VALIDATE",
@@ -30439,10 +30427,6 @@
     "131914": {
       "name": "Datadock",
       "type": "Unknown"
-    },
-    "15659": {
-      "name": "NextGenTel",
-      "type": "Cable/DSL/ISP"
     },
     "23563": {
       "name": "Tbroad Suwon Broadcasting Corporation",
@@ -34530,7 +34514,7 @@
     },
     "264685": {
       "name": "REDES DEL OESTE",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "197029": {
       "name": "LAM plus",
@@ -40377,7 +40361,7 @@
       "type": "NSP"
     },
     "268028": {
-      "name": "JOSE IRALDO DE AGUIAR JUNIOR",
+      "name": "IF TECNOLOGIA LTDA",
       "type": "Cable/DSL/ISP"
     },
     "52622": {
@@ -57913,7 +57897,7 @@
       "type": "Cable/DSL/ISP"
     },
     "212380": {
-      "name": "Call2Home Networking",
+      "name": "Crosslynx BV",
       "type": "Unknown"
     },
     "264110": {
@@ -97866,7 +97850,7 @@
     },
     "273491": {
       "name": "ISP RW NET INFORMATICA LTDA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "205563": {
       "name": "zGato Global Network",
@@ -98874,7 +98858,7 @@
     },
     "23248": {
       "name": "PPS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "272163": {
       "name": "PARAISO FIBRA",
@@ -100182,10 +100166,6 @@
     },
     "25878": {
       "name": "Quinstreet, Inc.",
-      "type": "Unknown"
-    },
-    "213992": {
-      "name": "PRIMOX LLC",
       "type": "Unknown"
     },
     "54497": {
@@ -104742,7 +104722,7 @@
     },
     "214487": {
       "name": "WEDEPLOY",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "214606": {
       "name": "London Internet Exchange Ltd.",
@@ -104886,6 +104866,46 @@
     },
     "275732": {
       "name": "ASN275732",
+      "type": "Unknown"
+    },
+    "262825": {
+      "name": "ASN262825",
+      "type": "Unknown"
+    },
+    "131075": {
+      "name": "IDNIC-MOLINDOMEDIAPERSADA-AS-ID",
+      "type": "Unknown"
+    },
+    "327975": {
+      "name": "ORG-ITGS1-AFRINIC",
+      "type": "Unknown"
+    },
+    "203905": {
+      "name": "GEWAPE-AS",
+      "type": "Unknown"
+    },
+    "329323": {
+      "name": "ORG-BL29-AFRINIC",
+      "type": "Unknown"
+    },
+    "198911": {
+      "name": "CLOUDYNE_SYSTEMS",
+      "type": "Unknown"
+    },
+    "6642": {
+      "name": "HyperGroup Global Telecommunication",
+      "type": "Cable/DSL/ISP"
+    },
+    "269927": {
+      "name": "269927",
+      "type": "Unknown"
+    },
+    "154444": {
+      "name": "Nusa Data Koneksi",
+      "type": "Unknown"
+    },
+    "402421": {
+      "name": "FUTONET",
       "type": "Unknown"
     },
     "22822": {
@@ -112247,6 +112267,10 @@
     "133339": {
       "name": "CXC Route Servers",
       "type": "Route Server"
+    },
+    "15659": {
+      "name": "NextGenTel",
+      "type": "Cable/DSL/ISP"
     },
     "263196": {
       "name": "Infosport",
@@ -131176,6 +131200,10 @@
       "name": "NUSO Atlanta",
       "type": "Unknown"
     },
+    "199914": {
+      "name": "TEHNOLOGIC NETWORKING INGENUITY",
+      "type": "Unknown"
+    },
     "14874": {
       "name": "PITTQIAO LLC",
       "type": "Unknown"
@@ -137662,6 +137690,10 @@
     },
     "208665": {
       "name": "Gareth Pulham",
+      "type": "Unknown"
+    },
+    "199746": {
+      "name": "NextGuard",
       "type": "Unknown"
     },
     "200477": {
