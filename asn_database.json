@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-22T00:17:43.708Z",
+  "updated_at": "2026-04-23T00:23:11.296Z",
   "source": "PeeringDB",
-  "entry_count": 34446,
+  "entry_count": 34454,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1909,7 +1909,7 @@
       "type": "Content"
     },
     "8282": {
-      "name": "FidoNet",
+      "name": "Bink Group",
       "type": "NSP"
     },
     "12496": {
@@ -12512,10 +12512,6 @@
       "name": "Metro Loop",
       "type": "Cable/DSL/ISP"
     },
-    "202198": {
-      "name": "hercules comunicaciones,s.l.",
-      "type": "Cable/DSL/ISP"
-    },
     "22085": {
       "name": "Claro Brazil AS22085",
       "type": "NSP"
@@ -16122,10 +16118,6 @@
     },
     "55427": {
       "name": "Broadlink Network and Communication",
-      "type": "NSP"
-    },
-    "61869": {
-      "name": "Mundo Digital",
       "type": "NSP"
     },
     "29870": {
@@ -28332,10 +28324,6 @@
       "name": "S R DA SILVA OLIVEIRA",
       "type": "NSP"
     },
-    "136620": {
-      "name": "VMHaus",
-      "type": "NSP"
-    },
     "60602": {
       "name": "Inovare-Prim",
       "type": "Content"
@@ -31397,7 +31385,7 @@
       "type": "Cable/DSL/ISP"
     },
     "3308": {
-      "name": "Telia Denmark",
+      "name": "Norlys",
       "type": "NSP"
     },
     "267582": {
@@ -54850,7 +54838,7 @@
     },
     "36352": {
       "name": "ColoCrossing",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "33962": {
       "name": "DataHouse EKT AS33962",
@@ -61251,6 +61239,10 @@
     "141228": {
       "name": "MNZL - AS141228",
       "type": "Unknown"
+    },
+    "18054": {
+      "name": "Swift IX USA",
+      "type": "Route Server"
     },
     "47705": {
       "name": "Masliy Kostyantin Mikhailovich",
@@ -75933,7 +75925,7 @@
       "type": "Unknown"
     },
     "199626": {
-      "name": "FLAMEGRID-LLC",
+      "name": "Flamegrid",
       "type": "NSP"
     },
     "45622": {
@@ -79407,10 +79399,6 @@
     "211962": {
       "name": "Asynet",
       "type": "Educational/Research"
-    },
-    "197723": {
-      "name": "MEEKLY",
-      "type": "Unknown"
     },
     "397493": {
       "name": "Ninecloud Services, Inc.",
@@ -88090,10 +88078,6 @@
     },
     "36180": {
       "name": "Cisco IoT",
-      "type": "Unknown"
-    },
-    "48791": {
-      "name": "11Cloud Limited",
       "type": "Unknown"
     },
     "152582": {
@@ -104838,7 +104822,7 @@
     },
     "273306": {
       "name": "CABLE DIVERSION ELIGAMA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "273039": {
       "name": "Tecnologia del Presente 18",
@@ -104869,12 +104853,12 @@
       "type": "Unknown"
     },
     "131075": {
-      "name": "IDNIC-MOLINDOMEDIAPERSADA-AS-ID",
-      "type": "Unknown"
+      "name": "PT Molindo Media Persada",
+      "type": "Network Services"
     },
     "327975": {
       "name": "ORG-ITGS1-AFRINIC",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "203905": {
       "name": "GEWAPE-AS",
@@ -104963,6 +104947,46 @@
     "267715": {
       "name": "267715",
       "type": "Cable/DSL/ISP"
+    },
+    "154635": {
+      "name": "GSTC-AS-AP",
+      "type": "Unknown"
+    },
+    "153719": {
+      "name": "QLTI-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "198681": {
+      "name": "REIA-NETWORK",
+      "type": "Unknown"
+    },
+    "207120": {
+      "name": "Quickline Communications (207120)",
+      "type": "Unknown"
+    },
+    "30154": {
+      "name": "DAVEN",
+      "type": "Unknown"
+    },
+    "402414": {
+      "name": "NWCUD-ASN-01",
+      "type": "Unknown"
+    },
+    "52976": {
+      "name": "ASN52976",
+      "type": "Unknown"
+    },
+    "273296": {
+      "name": "273296",
+      "type": "Unknown"
+    },
+    "274850": {
+      "name": "274850",
+      "type": "Unknown"
+    },
+    "275737": {
+      "name": "ASN275737",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -107397,7 +107421,7 @@
       "type": "Educational/Research"
     },
     "57099": {
-      "name": "Quickline Communications Ltd",
+      "name": "Quickline Communications",
       "type": "Cable/DSL/ISP"
     },
     "28135": {
@@ -114436,6 +114460,10 @@
       "name": "NEXT FIBRA",
       "type": "Cable/DSL/ISP"
     },
+    "202996": {
+      "name": "Helkor",
+      "type": "Unknown"
+    },
     "267443": {
       "name": "SPECTRUMNET TECNOLOGIA INTEGRADA",
       "type": "Non-Profit"
@@ -120289,7 +120317,7 @@
       "type": "Unknown"
     },
     "43207": {
-      "name": "Quickline Communications",
+      "name": "Quickline Communications (43207)",
       "type": "Cable/DSL/ISP"
     },
     "207537": {
@@ -125394,10 +125422,6 @@
     },
     "134428": {
       "name": "Edge Cloud Globe",
-      "type": "Cable/DSL/ISP"
-    },
-    "59417": {
-      "name": "VDS",
       "type": "Cable/DSL/ISP"
     },
     "211168": {
@@ -130956,6 +130980,10 @@
       "name": "DARHAWNI BUSINESS ENTERPRISE",
       "type": "Cable/DSL/ISP"
     },
+    "198585": {
+      "name": "LuraHosting",
+      "type": "Enterprise"
+    },
     "149903": {
       "name": "PT Pandawa Lintas Media",
       "type": "Cable/DSL/ISP"
@@ -131085,7 +131113,7 @@
       "type": "Network Services"
     },
     "329038": {
-      "name": "WELINK HOLDINGS",
+      "name": "Kuuh Internet Services",
       "type": "Cable/DSL/ISP"
     },
     "270055": {
@@ -135650,7 +135678,7 @@
     },
     "32697": {
       "name": "NMFN",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "153144": {
       "name": "PT Bena Bentala Services",
@@ -137787,6 +137815,10 @@
     "154528": {
       "name": "Dinas Komunikasi Informatika Statistik Dan Persandian Kota Pekanbaru",
       "type": "Government"
+    },
+    "198679": {
+      "name": "RADZI",
+      "type": "Non-Profit"
     }
   }
 }
