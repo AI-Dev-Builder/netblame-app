@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-23T00:23:11.296Z",
+  "updated_at": "2026-04-24T00:22:26.602Z",
   "source": "PeeringDB",
-  "entry_count": 34454,
+  "entry_count": 34462,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -4273,7 +4273,7 @@
       "type": "NSP"
     },
     "23947": {
-      "name": "Moratel International - Global (NAP)",
+      "name": "Moratel International - International (NAP)",
       "type": "NSP"
     },
     "30063": {
@@ -13689,7 +13689,7 @@
       "type": "Educational/Research"
     },
     "62000": {
-      "name": "AS62000",
+      "name": "moji-netrix edge network",
       "type": "Content"
     },
     "50266": {
@@ -40645,11 +40645,11 @@
       "type": "Cable/DSL/ISP"
     },
     "131111": {
-      "name": "PT Ekamas Mora Republik Tbk - Domestic",
+      "name": "PT Ekamas Mora Republik Tbk - Domestic (ISP)",
       "type": "Cable/DSL/ISP"
     },
     "46038": {
-      "name": "PT Ekamas Mora Republik Tbk - CepatNet",
+      "name": "PT Ekamas Mora Republik Tbk - CepatNet (ISP)",
       "type": "Cable/DSL/ISP"
     },
     "5080": {
@@ -50609,7 +50609,7 @@
       "type": "Unknown"
     },
     "270364": {
-      "name": "SS TECNOLOGIA",
+      "name": "NOVALINK INTERNET AS270364",
       "type": "Cable/DSL/ISP"
     },
     "269656": {
@@ -56245,7 +56245,7 @@
       "type": "Cable/DSL/ISP"
     },
     "204561": {
-      "name": "Diogenius",
+      "name": "Diogenius SPRL - France",
       "type": "Unknown"
     },
     "41720": {
@@ -61241,8 +61241,8 @@
       "type": "Unknown"
     },
     "18054": {
-      "name": "Swift IX USA",
-      "type": "Route Server"
+      "name": "H POP Technology Limited",
+      "type": "NSP"
     },
     "47705": {
       "name": "Masliy Kostyantin Mikhailovich",
@@ -71521,7 +71521,7 @@
       "type": "Cable/DSL/ISP"
     },
     "18854": {
-      "name": "RADNOC",
+      "name": "RadWeb, LLC",
       "type": "Unknown"
     },
     "137097": {
@@ -73451,10 +73451,6 @@
     "329087": {
       "name": "Ace Micro",
       "type": "Enterprise"
-    },
-    "150268": {
-      "name": "BertuahIX Route Servers",
-      "type": "Route Server"
     },
     "399252": {
       "name": "CVECFIBER",
@@ -92689,7 +92685,7 @@
       "type": "Unknown"
     },
     "206286": {
-      "name": "ONEOF1SERVERS",
+      "name": "1of1 Servers",
       "type": "Unknown"
     },
     "8639": {
@@ -95191,6 +95187,10 @@
     "216180": {
       "name": "hosting.com SYD1",
       "type": "Unknown"
+    },
+    "216198": {
+      "name": "LIN ZE YANG",
+      "type": "Educational/Research"
     },
     "200974": {
       "name": "JSW IT SYSTEMS sp. z o.o.",
@@ -98766,7 +98766,7 @@
     },
     "273244": {
       "name": "EXPERTOS EN TECNOLOGIA Y TELECOMUNICACIONES S.A.S",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "209503": {
       "name": "Zentyx",
@@ -102234,7 +102234,7 @@
     },
     "51791": {
       "name": "VENTURESDC Veri Merkezi Hizmetleri",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "42345": {
       "name": "Granarolo SpA",
@@ -102935,10 +102935,6 @@
     "44173": {
       "name": "National Innovation Center LLC",
       "type": "Unknown"
-    },
-    "30084": {
-      "name": "Underground Communications Company",
-      "type": "Cable/DSL/ISP"
     },
     "46464": {
       "name": "Nybbles and Bytes Studios, LLC",
@@ -104234,7 +104230,7 @@
     },
     "199742": {
       "name": "Yaroslav Podieiapolskii",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "41439": {
       "name": "MAXCOM (AS41439)",
@@ -104477,7 +104473,7 @@
       "type": "Unknown"
     },
     "209952": {
-      "name": "Mistra-Compute",
+      "name": "Mistral-Compute",
       "type": "Unknown"
     },
     "152766": {
@@ -104810,7 +104806,7 @@
     },
     "402410": {
       "name": "Compatible Network (AS402410)",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "198756": {
       "name": "Joseph Portillo",
@@ -104834,10 +104830,6 @@
     },
     "198767": {
       "name": "Antranik Wartanian",
-      "type": "Unknown"
-    },
-    "142258": {
-      "name": "Pesona Network Mediautama",
       "type": "Unknown"
     },
     "198834": {
@@ -104986,6 +104978,46 @@
     },
     "275737": {
       "name": "ASN275737",
+      "type": "Unknown"
+    },
+    "45586": {
+      "name": "AKGRAMMAR-AKL-NZ",
+      "type": "Unknown"
+    },
+    "51067": {
+      "name": "KRAZ-AS",
+      "type": "Unknown"
+    },
+    "141217": {
+      "name": "ABS1-AS-AP",
+      "type": "Unknown"
+    },
+    "153081": {
+      "name": "IDNI-SAI-AS-ID",
+      "type": "Unknown"
+    },
+    "198478": {
+      "name": "Moorko-Networks",
+      "type": "Unknown"
+    },
+    "47555": {
+      "name": "Diogenius SPRL - Wallonia",
+      "type": "Unknown"
+    },
+    "56501": {
+      "name": "Diogenius SPRL - Belgium",
+      "type": "Content"
+    },
+    "402440": {
+      "name": "CYBERWOLF",
+      "type": "Unknown"
+    },
+    "271718": {
+      "name": "ASN271718",
+      "type": "NSP"
+    },
+    "198526": {
+      "name": "GREAT-SCOTT-CONSULTING",
       "type": "Unknown"
     },
     "22822": {
@@ -108989,7 +109021,7 @@
       "type": "NSP"
     },
     "131702": {
-      "name": "PT Ekamas Mora Republik Tbk - Mora-IXP",
+      "name": "PT Ekamas Mora Republik Tbk - Mora-IXP (Data Center Interconnect)",
       "type": "Content"
     },
     "263629": {
@@ -128900,10 +128932,6 @@
       "name": "IDTEL",
       "type": "Network Services"
     },
-    "395517": {
-      "name": "Internet Mastering",
-      "type": "Enterprise"
-    },
     "268907": {
       "name": "ZAFEX TELECOMUNICAÇÕES",
       "type": "Enterprise"
@@ -132493,7 +132521,7 @@
       "type": "Content"
     },
     "152129": {
-      "name": "AHPK TECHNOLOGIES PRIVATE LIMITED",
+      "name": "Excloud",
       "type": "Enterprise"
     },
     "200936": {
@@ -135066,7 +135094,7 @@
     },
     "153371": {
       "name": "BACK WAVES LIMITED",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "153344": {
       "name": "NETFUTURE TECHNOLOGY",
@@ -136171,10 +136199,6 @@
     "208913": {
       "name": "Kitsune Hosting",
       "type": "Network Services"
-    },
-    "216198": {
-      "name": "LIN ZE YANG",
-      "type": "Educational/Research"
     },
     "208694": {
       "name": "LEON AARON TIEKOETTER",
@@ -137636,6 +137660,10 @@
       "name": "Servicios Best CTC S.A. de C.V.",
       "type": "NSP"
     },
+    "30084": {
+      "name": "Underground Communications Company",
+      "type": "Cable/DSL/ISP"
+    },
     "209373": {
       "name": "SWISSNET LLC",
       "type": "Network Services"
@@ -137781,8 +137809,8 @@
       "type": "Unknown"
     },
     "199746": {
-      "name": "NextGuard",
-      "type": "Unknown"
+      "name": "NextHost Registry",
+      "type": "Network Services"
     },
     "200477": {
       "name": "EUCLID SERVICES LIMITED",
@@ -137816,9 +137844,13 @@
       "name": "Dinas Komunikasi Informatika Statistik Dan Persandian Kota Pekanbaru",
       "type": "Government"
     },
+    "142258": {
+      "name": "Pesona Network Mediautama",
+      "type": "Cable/DSL/ISP"
+    },
     "198679": {
       "name": "RADZI",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     }
   }
 }
