@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-24T00:22:26.602Z",
+  "updated_at": "2026-04-25T00:19:18.342Z",
   "source": "PeeringDB",
-  "entry_count": 34462,
+  "entry_count": 34471,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -76224,10 +76224,6 @@
       "name": "FL ONLINE",
       "type": "NSP"
     },
-    "269804": {
-      "name": "SEPCOM COMUNICACIONES SAS",
-      "type": "Cable/DSL/ISP"
-    },
     "269298": {
       "name": "CYBER TELECOM PROVEDOR LTDA",
       "type": "Cable/DSL/ISP"
@@ -94380,10 +94376,6 @@
       "name": "Com NT TELECOM LTDA - ME",
       "type": "Cable/DSL/ISP"
     },
-    "153737": {
-      "name": "Cloud View",
-      "type": "Unknown"
-    },
     "266828": {
       "name": "DBS NETWORK, S.A.",
       "type": "Unknown"
@@ -95786,7 +95778,7 @@
     },
     "33306": {
       "name": "Redefined Solutions",
-      "type": "Network Services"
+      "type": "Enterprise"
     },
     "215002": {
       "name": "PRISM.GG Limited",
@@ -100994,7 +100986,7 @@
     },
     "199917": {
       "name": "ENTREPRISE DECIMA SARL",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "61625": {
       "name": "Grupo We Dev LTDA",
@@ -103142,7 +103134,7 @@
     },
     "216245": {
       "name": "CYBERJET",
-      "type": "Cable/DSL/ISP"
+      "type": "Content"
     },
     "136717": {
       "name": "Megasoft Computer Sales And Services",
@@ -104322,7 +104314,7 @@
     },
     "154562": {
       "name": "CYBERJET PTE LTD",
-      "type": "Network Services"
+      "type": "Enterprise"
     },
     "43904": {
       "name": "VINCI BROADBAND",
@@ -105020,6 +105012,42 @@
       "name": "GREAT-SCOTT-CONSULTING",
       "type": "Unknown"
     },
+    "59044": {
+      "name": "ENTRUSTNET",
+      "type": "Unknown"
+    },
+    "154205": {
+      "name": "IDNIC-SUSU-TECHNET-AS-ID",
+      "type": "Unknown"
+    },
+    "151347": {
+      "name": "AERPACE-AS-AP",
+      "type": "Unknown"
+    },
+    "328857": {
+      "name": "ORG-SC7-AFRINIC",
+      "type": "Unknown"
+    },
+    "49435": {
+      "name": "INGATE GmbH",
+      "type": "Unknown"
+    },
+    "396325": {
+      "name": "FUSION-NETWORKS",
+      "type": "Unknown"
+    },
+    "198402": {
+      "name": "FlowHardware",
+      "type": "Unknown"
+    },
+    "63179": {
+      "name": "TWITTER",
+      "type": "Unknown"
+    },
+    "23193": {
+      "name": "CCAC",
+      "type": "Educational/Research"
+    },
     "22822": {
       "name": "Edgio - AS22822",
       "type": "Content"
@@ -105322,7 +105350,7 @@
     },
     "293": {
       "name": "Energy Sciences Network (ESnet)",
-      "type": "Educational/Research"
+      "type": "NSP"
     },
     "33916": {
       "name": "Comflex Networks",
@@ -127201,7 +127229,7 @@
       "type": "Cable/DSL/ISP"
     },
     "210320": {
-      "name": "Fexxio Creative",
+      "name": "Fexxio Digital",
       "type": "Educational/Research"
     },
     "265855": {
@@ -130608,6 +130636,10 @@
       "name": "SQ Telecom, LLC",
       "type": "Enterprise"
     },
+    "269804": {
+      "name": "SEPCOM COMUNICACIONES SAS",
+      "type": "Network Services"
+    },
     "150550": {
       "name": "PT Telekomunikasi Network Nusantara",
       "type": "Cable/DSL/ISP"
@@ -132870,7 +132902,7 @@
     },
     "60223": {
       "name": "Netiface",
-      "type": "NSP"
+      "type": "Content"
     },
     "17008": {
       "name": "Transit Yard",
@@ -136051,6 +136083,10 @@
     "212513": {
       "name": "OSNET TELEKOM",
       "type": "Network Services"
+    },
+    "153737": {
+      "name": "Cloud View",
+      "type": "Cable/DSL/ISP"
     },
     "212628": {
       "name": "ARTRUBY",
