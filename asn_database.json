@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-25T00:19:18.342Z",
+  "updated_at": "2026-04-26T00:20:33.937Z",
   "source": "PeeringDB",
   "entry_count": 34471,
   "entries": {
@@ -2085,7 +2085,7 @@
       "type": "Cable/DSL/ISP"
     },
     "36824": {
-      "name": "Adtaq Internet",
+      "name": "LFG",
       "type": "NSP"
     },
     "25220": {
@@ -50300,10 +50300,6 @@
       "name": "Awasr",
       "type": "Unknown"
     },
-    "207394": {
-      "name": "commonroute.net",
-      "type": "Unknown"
-    },
     "207574": {
       "name": "Alexandre Olemans",
       "type": "Educational/Research"
@@ -56942,10 +56938,6 @@
     },
     "328747": {
       "name": "Wan4u",
-      "type": "Cable/DSL/ISP"
-    },
-    "398999": {
-      "name": "Sucura Networks",
       "type": "Cable/DSL/ISP"
     },
     "46316": {
@@ -66488,10 +66480,6 @@
       "name": "Islas Telecom",
       "type": "Network Services"
     },
-    "211946": {
-      "name": "Saltandfish",
-      "type": "Non-Profit"
-    },
     "272488": {
       "name": "NET WIL",
       "type": "NSP"
@@ -72758,10 +72746,6 @@
     },
     "42810": {
       "name": "TCNETCH",
-      "type": "Unknown"
-    },
-    "207939": {
-      "name": "JURIGRABOWSKI",
       "type": "Unknown"
     },
     "150202": {
@@ -83580,10 +83564,6 @@
       "name": "Binotel LLC",
       "type": "Unknown"
     },
-    "215560": {
-      "name": "Hosting Selling Limited",
-      "type": "Unknown"
-    },
     "215516": {
       "name": "Sebnem Kilinc",
       "type": "Content"
@@ -83975,10 +83955,6 @@
     "215494": {
       "name": "Jason Bercher",
       "type": "Educational/Research"
-    },
-    "50338": {
-      "name": "GamerHost s.r.o.",
-      "type": "Content"
     },
     "215407": {
       "name": "Donghan Li",
@@ -90072,10 +90048,6 @@
       "name": "Mango Teleservices Limited-ISP",
       "type": "Cable/DSL/ISP"
     },
-    "213983": {
-      "name": "fairgame-software",
-      "type": "Unknown"
-    },
     "216188": {
       "name": "Bieber IT GmbH",
       "type": "NSP"
@@ -94588,10 +94560,6 @@
       "name": "Waterfall",
       "type": "Content"
     },
-    "401682": {
-      "name": "Dialwave",
-      "type": "NSP"
-    },
     "136695": {
       "name": "Zeroshell Networks",
       "type": "Cable/DSL/ISP"
@@ -96778,7 +96746,7 @@
     },
     "210773": {
       "name": "Nekopixel Network",
-      "type": "Route Server"
+      "type": "Educational/Research"
     },
     "154040": {
       "name": "AirDan Networks",
@@ -104853,12 +104821,12 @@
       "type": "Unknown"
     },
     "198911": {
-      "name": "CLOUDYNE_SYSTEMS",
+      "name": "Cloudyne Systems",
       "type": "Unknown"
     },
     "6642": {
       "name": "HyperGroup Global Telecommunication",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "269927": {
       "name": "269927",
@@ -104990,7 +104958,7 @@
     },
     "198478": {
       "name": "Moorko-Networks",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "47555": {
       "name": "Diogenius SPRL - Wallonia",
@@ -105047,6 +105015,30 @@
     "23193": {
       "name": "CCAC",
       "type": "Educational/Research"
+    },
+    "400422": {
+      "name": "MODERNTREASURY",
+      "type": "Unknown"
+    },
+    "274813": {
+      "name": "ASN274813",
+      "type": "Unknown"
+    },
+    "402106": {
+      "name": "ACDEV",
+      "type": "Unknown"
+    },
+    "213680": {
+      "name": "MOFA-QA",
+      "type": "Government"
+    },
+    "150338": {
+      "name": "FAT-AS-AP",
+      "type": "Enterprise"
+    },
+    "200833": {
+      "name": "Node-Catch",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -123256,6 +123248,10 @@
       "name": "LanCity",
       "type": "Cable/DSL/ISP"
     },
+    "398999": {
+      "name": "Sucura Networks",
+      "type": "Cable/DSL/ISP"
+    },
     "61646": {
       "name": "SINALNET Comunicações",
       "type": "Cable/DSL/ISP"
@@ -125483,10 +125479,6 @@
     "134428": {
       "name": "Edge Cloud Globe",
       "type": "Cable/DSL/ISP"
-    },
-    "211168": {
-      "name": "Martin Gotlund",
-      "type": "Unknown"
     },
     "263139": {
       "name": "Dataware Telecomunicações",
@@ -133236,6 +133228,10 @@
       "name": "Crowsnest Broadband, LLC",
       "type": "Cable/DSL/ISP"
     },
+    "50338": {
+      "name": "GamerHost s.r.o.",
+      "type": "NSP"
+    },
     "34945": {
       "name": "Qatar Foundation for Education, Science and Community Development",
       "type": "Educational/Research"
@@ -135254,7 +135250,7 @@
     },
     "213948": {
       "name": "Vincent LOPEZ",
-      "type": "Non-Profit"
+      "type": "Cable/DSL/ISP"
     },
     "152063": {
       "name": "ILIX",
@@ -136111,6 +136107,10 @@
     "216392": {
       "name": "NETCLOUDIFY SLU",
       "type": "Content"
+    },
+    "401682": {
+      "name": "Dialwave",
+      "type": "NSP"
     },
     "401692": {
       "name": "ALKKM-BOXCLOUD",
