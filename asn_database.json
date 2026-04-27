@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-26T00:20:33.937Z",
+  "updated_at": "2026-04-27T00:21:00.404Z",
   "source": "PeeringDB",
-  "entry_count": 34471,
+  "entry_count": 34472,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -99600,10 +99600,6 @@
       "name": "ALLNODES",
       "type": "Content"
     },
-    "215114": {
-      "name": "SLBCLOUD",
-      "type": "Unknown"
-    },
     "152794": {
       "name": "Net4 Media",
       "type": "Unknown"
@@ -103932,10 +103928,6 @@
       "name": "ATAS-01",
       "type": "Enterprise"
     },
-    "200841": {
-      "name": "Livesoft",
-      "type": "Content"
-    },
     "273333": {
       "name": "ORIONNET TELECOM TECNOLOGIA E SERVIÇOS",
       "type": "NSP"
@@ -104834,7 +104826,7 @@
     },
     "154444": {
       "name": "Nusa Data Koneksi",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "402421": {
       "name": "FUTONET",
@@ -104941,8 +104933,8 @@
       "type": "Unknown"
     },
     "45586": {
-      "name": "AKGRAMMAR-AKL-NZ",
-      "type": "Unknown"
+      "name": "Auckland Grammar School",
+      "type": "Educational/Research"
     },
     "51067": {
       "name": "KRAZ-AS",
@@ -105038,6 +105030,14 @@
     },
     "200833": {
       "name": "Node-Catch",
+      "type": "Unknown"
+    },
+    "274328": {
+      "name": "274328",
+      "type": "Cable/DSL/ISP"
+    },
+    "198607": {
+      "name": "HaloAgency",
       "type": "Unknown"
     },
     "22822": {
@@ -124741,7 +124741,7 @@
       "type": "Cable/DSL/ISP"
     },
     "141889": {
-      "name": "SIMTEL",
+      "name": "PT Solusi Media Telekomunikasi",
       "type": "Cable/DSL/ISP"
     },
     "141067": {
@@ -135569,7 +135569,7 @@
       "type": "Cable/DSL/ISP"
     },
     "30265": {
-      "name": "77997NFLD-MAIN",
+      "name": "AS30265",
       "type": "Cable/DSL/ISP"
     },
     "401575": {
@@ -136998,7 +136998,7 @@
     },
     "204921": {
       "name": "ZHENYUN VNET RESEARCH NETZ",
-      "type": "Cable/DSL/ISP"
+      "type": "Educational/Research"
     },
     "26431": {
       "name": "Happy Peering",
@@ -137847,6 +137847,10 @@
     "199746": {
       "name": "NextHost Registry",
       "type": "Network Services"
+    },
+    "200841": {
+      "name": "Livesoft",
+      "type": "Content"
     },
     "200477": {
       "name": "EUCLID SERVICES LIMITED",
