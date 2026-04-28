@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-27T00:21:00.404Z",
+  "updated_at": "2026-04-28T00:24:39.230Z",
   "source": "PeeringDB",
-  "entry_count": 34472,
+  "entry_count": 34486,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -3809,7 +3809,7 @@
       "type": "NSP"
     },
     "15399": {
-      "name": "Wananchi Group",
+      "name": "Wananchi Group AS15399",
       "type": "Cable/DSL/ISP"
     },
     "47172": {
@@ -6146,7 +6146,7 @@
     },
     "50572": {
       "name": "Nordlo Group",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "24033": {
       "name": "Australian Private Networks",
@@ -77616,6 +77616,10 @@
       "name": "SWAN DC",
       "type": "Unknown"
     },
+    "198596": {
+      "name": "Mojtaba-Imani",
+      "type": "NSP"
+    },
     "262655": {
       "name": "Tribunal Regional do Trabalho 5a Região",
       "type": "Government"
@@ -99600,6 +99604,10 @@
       "name": "ALLNODES",
       "type": "Content"
     },
+    "215114": {
+      "name": "SLBCLOUD",
+      "type": "Network Services"
+    },
     "152794": {
       "name": "Net4 Media",
       "type": "Unknown"
@@ -102032,6 +102040,10 @@
       "name": "MCSWEEN",
       "type": "Unknown"
     },
+    "204464": {
+      "name": "NextHost",
+      "type": "Enterprise"
+    },
     "133147": {
       "name": "UNIVERSAL DATA PTY LTD, TechPath Pty Ltd",
       "type": "Unknown"
@@ -104210,7 +104222,7 @@
     },
     "271611": {
       "name": "OPENSEA NET",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "199454": {
       "name": "ESIMY",
@@ -104485,7 +104497,7 @@
       "type": "Unknown"
     },
     "199243": {
-      "name": "smith.geek.nz",
+      "name": "zl4c.at",
       "type": "Unknown"
     },
     "199211": {
@@ -104790,7 +104802,7 @@
     },
     "275732": {
       "name": "ASN275732",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "262825": {
       "name": "ASN262825",
@@ -104998,7 +105010,7 @@
     },
     "198402": {
       "name": "FlowHardware",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "63179": {
       "name": "TWITTER",
@@ -105030,7 +105042,7 @@
     },
     "200833": {
       "name": "Node-Catch",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "274328": {
       "name": "274328",
@@ -105039,6 +105051,42 @@
     "198607": {
       "name": "HaloAgency",
       "type": "Unknown"
+    },
+    "141199": {
+      "name": "CLPC-AS-AP",
+      "type": "Unknown"
+    },
+    "137798": {
+      "name": "Digital-Guangdong",
+      "type": "Unknown"
+    },
+    "204282": {
+      "name": "HST",
+      "type": "Unknown"
+    },
+    "199686": {
+      "name": "aaroncarson",
+      "type": "Unknown"
+    },
+    "268910": {
+      "name": "ASN268910",
+      "type": "Unknown"
+    },
+    "394617": {
+      "name": "LCUB Fiber",
+      "type": "Cable/DSL/ISP"
+    },
+    "269351": {
+      "name": "ASN269351",
+      "type": "Unknown"
+    },
+    "329673": {
+      "name": "ORG-SNL14-AFRINIC",
+      "type": "Unknown"
+    },
+    "273302": {
+      "name": "273302",
+      "type": "NSP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -119228,6 +119276,10 @@
       "name": "Solomon Islands Submarine Cable Company",
       "type": "NSP"
     },
+    "208148": {
+      "name": "Jordanian Experts for Information Security",
+      "type": "Cable/DSL/ISP"
+    },
     "59886": {
       "name": "Layer Sistem",
       "type": "Unknown"
@@ -127405,7 +127457,7 @@
       "type": "Route Server"
     },
     "328727": {
-      "name": "Kampala Siti Cable",
+      "name": "Simba Fiber Africa Limited",
       "type": "Cable/DSL/ISP"
     },
     "202790": {
@@ -137500,10 +137552,6 @@
       "name": "LRDF INTERNET SERVICE PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
     },
-    "204464": {
-      "name": "NextHost",
-      "type": "Enterprise"
-    },
     "203534": {
       "name": "On1x",
       "type": "Content"
@@ -137891,6 +137939,14 @@
     "198679": {
       "name": "RADZI",
       "type": "Educational/Research"
+    },
+    "56401": {
+      "name": "MIRTELEKOM",
+      "type": "Cable/DSL/ISP"
+    },
+    "199924": {
+      "name": "VERABYTE !",
+      "type": "Content"
     }
   }
 }
