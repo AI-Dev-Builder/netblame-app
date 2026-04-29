@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-28T00:24:39.230Z",
+  "updated_at": "2026-04-29T00:25:43.389Z",
   "source": "PeeringDB",
-  "entry_count": 34486,
+  "entry_count": 34499,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -10426,7 +10426,7 @@
     },
     "20771": {
       "name": "Caucasus Online",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "9280": {
       "name": "Servers Australia AS9280",
@@ -17513,7 +17513,7 @@
       "type": "Unknown"
     },
     "8387": {
-      "name": "T-Systems Austria GesmbH",
+      "name": "Deutsche Telekom Global Business Solutions GmbH",
       "type": "NSP"
     },
     "60239": {
@@ -19691,10 +19691,6 @@
     "12066": {
       "name": "Altice Dominicana2",
       "type": "Unknown"
-    },
-    "200825": {
-      "name": "Weiqi Yu",
-      "type": "Cable/DSL/ISP"
     },
     "263422": {
       "name": "AXXESS TELECOMUNICAÇÕES",
@@ -58958,7 +58954,7 @@
     },
     "21981": {
       "name": "GOEASTON",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "38713": {
       "name": "Satcomm",
@@ -63206,7 +63202,7 @@
     },
     "270026": {
       "name": "RED SERVITEL",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "52073": {
       "name": "I2SNetwork",
@@ -64799,10 +64795,6 @@
     "4585": {
       "name": "Navisoft",
       "type": "Unknown"
-    },
-    "399606": {
-      "name": "Imaging Bay",
-      "type": "NSP"
     },
     "47755": {
       "name": "Tempus Telecom",
@@ -90252,10 +90244,6 @@
       "name": "Freitas Sistema de Comunicação Internet Eireli-ME",
       "type": "Cable/DSL/ISP"
     },
-    "329367": {
-      "name": "Tawala Networks Limited",
-      "type": "Unknown"
-    },
     "32316": {
       "name": "Usine De Congelation De St-bruno",
       "type": "Unknown"
@@ -99466,7 +99454,7 @@
     },
     "152875": {
       "name": "MEEQ",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "52369": {
       "name": "NEOPHONE ARGENTINA",
@@ -104102,7 +104090,7 @@
     },
     "200026": {
       "name": "Ortswaerme St. Johann in Tirol",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "150626": {
       "name": "Saquib Computers Opc",
@@ -104592,10 +104580,6 @@
       "name": "M.J. Cenatti & Cia",
       "type": "Unknown"
     },
-    "39889": {
-      "name": "DCS Networks - Nordic",
-      "type": "Network Services"
-    },
     "200679": {
       "name": "SPSIT",
       "type": "Content"
@@ -104882,7 +104866,7 @@
     },
     "198657": {
       "name": "GOHEGAN-NET",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "198624": {
       "name": "HEXADO",
@@ -105087,6 +105071,54 @@
     "273302": {
       "name": "273302",
       "type": "NSP"
+    },
+    "13478": {
+      "name": "BEAGLE",
+      "type": "Unknown"
+    },
+    "402340": {
+      "name": "IP4HOST-2026",
+      "type": "Unknown"
+    },
+    "150727": {
+      "name": "HUMECLARK-AS-AP",
+      "type": "Unknown"
+    },
+    "213788": {
+      "name": "ROMEO",
+      "type": "Unknown"
+    },
+    "154452": {
+      "name": "IDNIC-BST-ID",
+      "type": "Unknown"
+    },
+    "199741": {
+      "name": "TransitX-BYOIP",
+      "type": "Unknown"
+    },
+    "147202": {
+      "name": "AIRNETF-AS-IN",
+      "type": "Unknown"
+    },
+    "141982": {
+      "name": "IDNIC-SAYAGINET-AS-ID",
+      "type": "Unknown"
+    },
+    "48933": {
+      "name": "NETSPB-AS",
+      "type": "Unknown"
+    },
+    "23112": {
+      "name": "FLUIDSTACK-NET",
+      "type": "Unknown"
+    },
+    "402455": {
+      "name": "VENTURE-DEVELOPMENT-LLC",
+      "type": "Unknown"
+    },
+    "402450": {
+      "name": "JILLC-PRIMARY",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -109523,6 +109555,10 @@
     "133296": {
       "name": "Web Werks DataCenter",
       "type": "Content"
+    },
+    "200825": {
+      "name": "Weiqi Yu",
+      "type": "Cable/DSL/ISP"
     },
     "62943": {
       "name": "Bluebird Network",
@@ -122124,6 +122160,10 @@
       "name": "ACNNETWORKS",
       "type": "Cable/DSL/ISP"
     },
+    "213001": {
+      "name": "LA5",
+      "type": "Enterprise"
+    },
     "134886": {
       "name": "Super Sonic Broadband Pvt Ltd",
       "type": "Cable/DSL/ISP"
@@ -126571,6 +126611,10 @@
     "60674": {
       "name": "cupaco",
       "type": "Content"
+    },
+    "399606": {
+      "name": "Imaging Bay",
+      "type": "NSP"
     },
     "328514": {
       "name": "Net Solutions TZ",
@@ -135232,6 +135276,10 @@
       "name": "Team Blue",
       "type": "Unknown"
     },
+    "329367": {
+      "name": "Tawala Networks Limited",
+      "type": "Cable/DSL/ISP"
+    },
     "329478": {
       "name": "Skyworks Telecoms",
       "type": "Cable/DSL/ISP"
@@ -137927,6 +137975,10 @@
     "199133": {
       "name": "NyaIP",
       "type": "Content"
+    },
+    "39889": {
+      "name": "DCS Networks - Nordic",
+      "type": "Network Services"
     },
     "154528": {
       "name": "Dinas Komunikasi Informatika Statistik Dan Persandian Kota Pekanbaru",
