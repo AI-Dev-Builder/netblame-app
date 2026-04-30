@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-29T00:25:43.389Z",
+  "updated_at": "2026-04-30T00:25:08.092Z",
   "source": "PeeringDB",
-  "entry_count": 34499,
+  "entry_count": 34512,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -25254,7 +25254,7 @@
     },
     "200030": {
       "name": "Dvblab Communication",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "136180": {
       "name": "IPIP-CN",
@@ -80302,7 +80302,7 @@
     },
     "216296": {
       "name": "StormaX",
-      "type": "Educational/Research"
+      "type": "Non-Profit"
     },
     "31958": {
       "name": "NGNSYS, LLC",
@@ -96834,7 +96834,7 @@
     },
     "154003": {
       "name": "NOBIDEV-VN",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "328842": {
       "name": "ProData Africa",
@@ -96894,10 +96894,6 @@
     },
     "199959": {
       "name": "GWY IT PTY LTD",
-      "type": "Unknown"
-    },
-    "206586": {
-      "name": "NOBIDEV",
       "type": "Unknown"
     },
     "37806": {
@@ -100342,7 +100338,7 @@
     },
     "152396": {
       "name": "PT Visioner Maju Bersama",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "51806": {
       "name": "CYIM",
@@ -102027,10 +102023,6 @@
     "60712": {
       "name": "MCSWEEN",
       "type": "Unknown"
-    },
-    "204464": {
-      "name": "NextHost",
-      "type": "Enterprise"
     },
     "133147": {
       "name": "UNIVERSAL DATA PTY LTD, TechPath Pty Ltd",
@@ -103924,10 +103916,6 @@
       "name": "Zamolotskikh Kirill Alexandrovich",
       "type": "Unknown"
     },
-    "22915": {
-      "name": "ATAS-01",
-      "type": "Enterprise"
-    },
     "273333": {
       "name": "ORIONNET TELECOM TECNOLOGIA E SERVIÇOS",
       "type": "NSP"
@@ -104656,10 +104644,6 @@
       "name": "GIGANET TELECOM (AS267281)",
       "type": "Unknown"
     },
-    "40643": {
-      "name": "CNPARTNERS-1",
-      "type": "Unknown"
-    },
     "152388": {
       "name": "Sinyal Khatulistiwa Network",
       "type": "Unknown"
@@ -104785,11 +104769,11 @@
       "type": "Educational/Research"
     },
     "275732": {
-      "name": "ASN275732",
+      "name": "Newvox Telecomunicações",
       "type": "Cable/DSL/ISP"
     },
     "262825": {
-      "name": "ASN262825",
+      "name": "JL INFORMATICA",
       "type": "Unknown"
     },
     "131075": {
@@ -104797,15 +104781,15 @@
       "type": "Network Services"
     },
     "327975": {
-      "name": "ORG-ITGS1-AFRINIC",
+      "name": "ILNET TELECOM GROUP",
       "type": "Cable/DSL/ISP"
     },
     "203905": {
-      "name": "GEWAPE-AS",
+      "name": "GEWAPE CLOUD",
       "type": "Unknown"
     },
     "329323": {
-      "name": "ORG-BL29-AFRINIC",
+      "name": "Bravoscan 252",
       "type": "Unknown"
     },
     "198911": {
@@ -104817,7 +104801,7 @@
       "type": "NSP"
     },
     "269927": {
-      "name": "269927",
+      "name": "JORGE ALFREDO ARGUETA FLORES (OMNIVISION-OMNICOM)",
       "type": "Unknown"
     },
     "154444": {
@@ -104837,11 +104821,11 @@
       "type": "Unknown"
     },
     "141083": {
-      "name": "IDNIC-FILLTECH-AS-ID",
+      "name": "Filltech Antar Nusa",
       "type": "Unknown"
     },
     "133729": {
-      "name": "EQUINOXLIMITED-AS-AP",
+      "name": "Equinox",
       "type": "Unknown"
     },
     "136381": {
@@ -104849,23 +104833,23 @@
       "type": "Content"
     },
     "400780": {
-      "name": "ZOHO-CAMPAIGN-MAIL-ASN",
+      "name": "ZOHO",
       "type": "Unknown"
     },
     "201861": {
-      "name": "GEODEMA-AS",
+      "name": "Aleksejs Pinajevs",
       "type": "Unknown"
     },
     "199353": {
-      "name": "YUHENG-NETWORK-AS",
+      "name": "Gao Yuheng, Yuheng Network",
       "type": "Unknown"
     },
     "199180": {
-      "name": "LAGOM-NET",
+      "name": "LAGOM PRODUCTS",
       "type": "Unknown"
     },
     "198657": {
-      "name": "GOHEGAN-NET",
+      "name": "Kai Gohegan",
       "type": "Cable/DSL/ISP"
     },
     "198624": {
@@ -104877,27 +104861,27 @@
       "type": "Network Services"
     },
     "402434": {
-      "name": "DAYSPRING-ASN",
+      "name": "Dayspring Bank",
       "type": "Unknown"
     },
     "263817": {
-      "name": "263817",
+      "name": "REDCA - RED CENTROAMERICANA DE TELECOMUNICACIONES",
       "type": "Cable/DSL/ISP"
     },
     "267715": {
-      "name": "267715",
+      "name": "RED CENTROAMERICANA DE TELECOMUNICACIONES",
       "type": "Cable/DSL/ISP"
     },
     "154635": {
-      "name": "GSTC-AS-AP",
+      "name": "G-Connect Systems & Trading",
       "type": "Unknown"
     },
     "153719": {
-      "name": "QLTI-AS-AP",
+      "name": "Queens link technology",
       "type": "Cable/DSL/ISP"
     },
     "198681": {
-      "name": "REIA-NETWORK",
+      "name": "Jinquan Zeng",
       "type": "Unknown"
     },
     "207120": {
@@ -104909,23 +104893,23 @@
       "type": "Unknown"
     },
     "402414": {
-      "name": "NWCUD-ASN-01",
+      "name": "Northwest Fiberworx",
       "type": "Unknown"
     },
     "52976": {
-      "name": "ASN52976",
+      "name": "Datacast Teleinformatica",
       "type": "Unknown"
     },
     "273296": {
-      "name": "273296",
+      "name": "CODY GARETT MILLS",
       "type": "Unknown"
     },
     "274850": {
-      "name": "274850",
+      "name": "ALVAREZ MILCIADE",
       "type": "Unknown"
     },
     "275737": {
-      "name": "ASN275737",
+      "name": "GO-NET TELECOM",
       "type": "Unknown"
     },
     "45586": {
@@ -104933,15 +104917,15 @@
       "type": "Educational/Research"
     },
     "51067": {
-      "name": "KRAZ-AS",
+      "name": "Sibinfosoft",
       "type": "Unknown"
     },
     "141217": {
-      "name": "ABS1-AS-AP",
+      "name": "A.B.S. Online Service",
       "type": "Unknown"
     },
     "153081": {
-      "name": "IDNI-SAI-AS-ID",
+      "name": "Semua Apikasi Indonesia",
       "type": "Unknown"
     },
     "198478": {
@@ -104961,11 +104945,11 @@
       "type": "Unknown"
     },
     "271718": {
-      "name": "ASN271718",
+      "name": "ESTAR ON INTERNET FIBRA OPTICA",
       "type": "NSP"
     },
     "198526": {
-      "name": "GREAT-SCOTT-CONSULTING",
+      "name": "Great Scott Consulting Services",
       "type": "Unknown"
     },
     "59044": {
@@ -104973,15 +104957,15 @@
       "type": "Unknown"
     },
     "154205": {
-      "name": "IDNIC-SUSU-TECHNET-AS-ID",
+      "name": "Susu Teknologi Indonesia",
       "type": "Unknown"
     },
     "151347": {
-      "name": "AERPACE-AS-AP",
+      "name": "Aerpace",
       "type": "Unknown"
     },
     "328857": {
-      "name": "ORG-SC7-AFRINIC",
+      "name": "SILICONE CONNECT",
       "type": "Unknown"
     },
     "49435": {
@@ -105009,7 +104993,7 @@
       "type": "Unknown"
     },
     "274813": {
-      "name": "ASN274813",
+      "name": "Santos & soares",
       "type": "Unknown"
     },
     "402106": {
@@ -105021,7 +105005,7 @@
       "type": "Government"
     },
     "150338": {
-      "name": "FAT-AS-AP",
+      "name": "FAT FAT LA",
       "type": "Enterprise"
     },
     "200833": {
@@ -105029,7 +105013,7 @@
       "type": "Enterprise"
     },
     "274328": {
-      "name": "274328",
+      "name": "GSE DOMINICANA",
       "type": "Cable/DSL/ISP"
     },
     "198607": {
@@ -105037,7 +105021,7 @@
       "type": "Unknown"
     },
     "141199": {
-      "name": "CLPC-AS-AP",
+      "name": "Century Link Plus Co",
       "type": "Unknown"
     },
     "137798": {
@@ -105053,23 +105037,23 @@
       "type": "Unknown"
     },
     "268910": {
-      "name": "ASN268910",
-      "type": "Unknown"
+      "name": "AGIL COMERCIAL DO BRASIL INF. E COM",
+      "type": "NSP"
     },
     "394617": {
       "name": "LCUB Fiber",
       "type": "Cable/DSL/ISP"
     },
     "269351": {
-      "name": "ASN269351",
+      "name": "MR TELECOMUNICACOES",
       "type": "Unknown"
     },
     "329673": {
-      "name": "ORG-SNL14-AFRINIC",
+      "name": "SUPERFLASH NETWORKS",
       "type": "Unknown"
     },
     "273302": {
-      "name": "273302",
+      "name": "EDUARDO ZUBIETA SANCHEZ",
       "type": "NSP"
     },
     "13478": {
@@ -105081,7 +105065,7 @@
       "type": "Unknown"
     },
     "150727": {
-      "name": "HUMECLARK-AS-AP",
+      "name": "Hume Clark",
       "type": "Unknown"
     },
     "213788": {
@@ -105089,7 +105073,7 @@
       "type": "Unknown"
     },
     "154452": {
-      "name": "IDNIC-BST-ID",
+      "name": "Berkah Solution Tatawafaqu",
       "type": "Unknown"
     },
     "199741": {
@@ -105097,27 +105081,63 @@
       "type": "Unknown"
     },
     "147202": {
-      "name": "AIRNETF-AS-IN",
+      "name": "AIRNET FIBER SOLUTIONS",
       "type": "Unknown"
     },
     "141982": {
-      "name": "IDNIC-SAYAGINET-AS-ID",
+      "name": "Kataji Nukami Indonesia",
       "type": "Unknown"
     },
     "48933": {
-      "name": "NETSPB-AS",
+      "name": "Net",
       "type": "Unknown"
     },
     "23112": {
-      "name": "FLUIDSTACK-NET",
+      "name": "Fluidstack",
       "type": "Unknown"
     },
     "402455": {
-      "name": "VENTURE-DEVELOPMENT-LLC",
+      "name": "Venture Development",
       "type": "Unknown"
     },
     "402450": {
       "name": "JILLC-PRIMARY",
+      "type": "Unknown"
+    },
+    "402456": {
+      "name": "BJERKERUD",
+      "type": "Content"
+    },
+    "199166": {
+      "name": "NENASAL",
+      "type": "Unknown"
+    },
+    "140679": {
+      "name": "Our School",
+      "type": "Unknown"
+    },
+    "137910": {
+      "name": "Wavecomm",
+      "type": "Unknown"
+    },
+    "207208": {
+      "name": "Mevspace - Internet Service",
+      "type": "Content"
+    },
+    "275723": {
+      "name": "Ademir Sulzenco & Cia",
+      "type": "Unknown"
+    },
+    "198907": {
+      "name": "MESH-OI",
+      "type": "Unknown"
+    },
+    "8129": {
+      "name": "CAI-WIRELESS",
+      "type": "Cable/DSL/ISP"
+    },
+    "214824": {
+      "name": "AEP",
       "type": "Unknown"
     },
     "22822": {
@@ -120661,7 +120681,7 @@
       "type": "Cable/DSL/ISP"
     },
     "55688": {
-      "name": "Beon Intermedia",
+      "name": "Jagoan Hosting",
       "type": "Content"
     },
     "34681": {
@@ -131188,6 +131208,10 @@
       "name": "UPSTREAM INTERNET",
       "type": "NSP"
     },
+    "198663": {
+      "name": "Nexarube",
+      "type": "Unknown"
+    },
     "54256": {
       "name": "Velocity Communications",
       "type": "Cable/DSL/ISP"
@@ -131355,6 +131379,10 @@
     "204280": {
       "name": "Sielte Spa",
       "type": "Enterprise"
+    },
+    "198276": {
+      "name": "Jordan Robert",
+      "type": "Educational/Research"
     },
     "271837": {
       "name": "DESPLIEGUE COMPUTACIONAL E INTERNET DCNET",
@@ -132335,6 +132363,10 @@
     "151191": {
       "name": "Select Solutions Limited",
       "type": "Cable/DSL/ISP"
+    },
+    "12778": {
+      "name": "MEGA M (AS12778)",
+      "type": "Unknown"
     },
     "273355": {
       "name": "MegaNET DH",
@@ -136668,6 +136700,10 @@
       "name": "Jakub Artur Bald",
       "type": "Educational/Research"
     },
+    "206586": {
+      "name": "NOBIDEV",
+      "type": "Content"
+    },
     "214271": {
       "name": "QTNETWORK",
       "type": "NSP"
@@ -137600,6 +137636,10 @@
       "name": "LRDF INTERNET SERVICE PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
     },
+    "204464": {
+      "name": "NextHost",
+      "type": "Enterprise"
+    },
     "203534": {
       "name": "On1x",
       "type": "Content"
@@ -137936,6 +137976,10 @@
       "name": "Kano Network",
       "type": "Unknown"
     },
+    "22915": {
+      "name": "ATAS-01",
+      "type": "Enterprise"
+    },
     "208665": {
       "name": "Gareth Pulham",
       "type": "Unknown"
@@ -137980,6 +138024,10 @@
       "name": "DCS Networks - Nordic",
       "type": "Network Services"
     },
+    "40643": {
+      "name": "CNPARTNERS-1",
+      "type": "Cable/DSL/ISP"
+    },
     "154528": {
       "name": "Dinas Komunikasi Informatika Statistik Dan Persandian Kota Pekanbaru",
       "type": "Government"
@@ -137997,8 +138045,12 @@
       "type": "Cable/DSL/ISP"
     },
     "199924": {
-      "name": "VERABYTE !",
+      "name": "Vera Byte Telekomunikasyon",
       "type": "Content"
+    },
+    "45189": {
+      "name": "SYSTEM 3 NET TECHNOLOGIES",
+      "type": "Enterprise"
     }
   }
 }
