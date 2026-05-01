@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-04-30T00:25:08.092Z",
+  "updated_at": "2026-05-01T00:27:04.298Z",
   "source": "PeeringDB",
-  "entry_count": 34512,
+  "entry_count": 34500,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -9949,7 +9949,7 @@
       "type": "NSP"
     },
     "199344": {
-      "name": "1-BG",
+      "name": "1-BG FREE",
       "type": "Route Server"
     },
     "61044": {
@@ -11635,10 +11635,6 @@
     "10002": {
       "name": "Igaueno Cable Television Co.,Ltd.",
       "type": "Cable/DSL/ISP"
-    },
-    "197888": {
-      "name": "SPB TV",
-      "type": "Content"
     },
     "60362": {
       "name": "alwaysdata",
@@ -43348,10 +43344,6 @@
       "name": "ACORSO Network",
       "type": "Unknown"
     },
-    "208993": {
-      "name": "Mizar Magic and Reserach Network",
-      "type": "Educational/Research"
-    },
     "11062": {
       "name": "MTCO-COMMUNICATIONS",
       "type": "Cable/DSL/ISP"
@@ -53372,10 +53364,6 @@
       "name": "J J C Telecomunicacoes",
       "type": "Unknown"
     },
-    "213171": {
-      "name": "Genie Media",
-      "type": "NSP"
-    },
     "264473": {
       "name": "POLOTEL TELECOM LOCAÇÃO E DES. DE. SITES",
       "type": "Unknown"
@@ -55047,10 +55035,6 @@
     "199325": {
       "name": "Semplify",
       "type": "Content"
-    },
-    "212780": {
-      "name": "Enzonix",
-      "type": "Unknown"
     },
     "264147": {
       "name": "INTERA COMUNICA  O MULTIMIDIA E INFORMATICA",
@@ -65776,10 +65760,6 @@
       "name": "Neha Infonet",
       "type": "Unknown"
     },
-    "48741": {
-      "name": "DATAPHOTON, INC.",
-      "type": "Enterprise"
-    },
     "131986": {
       "name": "ITOCHU Cable Systems",
       "type": "Cable/DSL/ISP"
@@ -65953,7 +65933,7 @@
       "type": "Cable/DSL/ISP"
     },
     "39397": {
-      "name": "Az.StarNet",
+      "name": "Metronet LLC",
       "type": "Cable/DSL/ISP"
     },
     "27578": {
@@ -67696,10 +67676,6 @@
       "name": "SYNDIGITAL TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
     },
-    "213384": {
-      "name": "Brian Blevins",
-      "type": "Educational/Research"
-    },
     "141048": {
       "name": "Dinas Komunikasi Dan Informatika Kabupaten Kuningan",
       "type": "Government"
@@ -68346,10 +68322,6 @@
     },
     "400454": {
       "name": "DataRemote",
-      "type": "Unknown"
-    },
-    "210370": {
-      "name": "LSPISP",
       "type": "Unknown"
     },
     "51956": {
@@ -71131,10 +71103,6 @@
     "197267": {
       "name": "Retevision I",
       "type": "Unknown"
-    },
-    "203490": {
-      "name": "Matthias Gliwka",
-      "type": "Educational/Research"
     },
     "203496": {
       "name": "OBNH",
@@ -74232,10 +74200,6 @@
       "name": "AEG Kansas City Arena",
       "type": "Unknown"
     },
-    "200447": {
-      "name": "Linus Casanova",
-      "type": "Unknown"
-    },
     "142315": {
       "name": "Argatek Torsada Guna",
       "type": "Cable/DSL/ISP"
@@ -75936,10 +75900,6 @@
       "name": "Borneo Global Persada",
       "type": "Unknown"
     },
-    "206003": {
-      "name": "Dolomitinet srl",
-      "type": "Unknown"
-    },
     "63779": {
       "name": "JUSTPLAYER",
       "type": "Content"
@@ -76221,7 +76181,7 @@
       "type": "Cable/DSL/ISP"
     },
     "199337": {
-      "name": "1-SK",
+      "name": "1-SK FREE",
       "type": "Route Server"
     },
     "199347": {
@@ -78468,10 +78428,6 @@
       "name": "NUSO Denver",
       "type": "Unknown"
     },
-    "198351": {
-      "name": "SECUREWAN ANTI-DDOS LTD",
-      "type": "Enterprise"
-    },
     "151403": {
       "name": "A Cloud Planet",
       "type": "Enterprise"
@@ -79269,7 +79225,7 @@
       "type": "Network Services"
     },
     "199331": {
-      "name": "1-ES",
+      "name": "1-ES FREE",
       "type": "Route Server"
     },
     "197537": {
@@ -85572,10 +85528,6 @@
       "name": "Subsidiary Enterprise Telegroup-Ukraine",
       "type": "Cable/DSL/ISP"
     },
-    "203470": {
-      "name": "Ezrinix LTD",
-      "type": "Unknown"
-    },
     "24590": {
       "name": "RelAix Networks (Complete)",
       "type": "Cable/DSL/ISP"
@@ -89132,10 +89084,6 @@
       "name": "Euiseo Cha",
       "type": "Unknown"
     },
-    "216240": {
-      "name": "AnonVM",
-      "type": "Unknown"
-    },
     "329433": {
       "name": "Develop Net (PTY) LTD",
       "type": "Unknown"
@@ -89230,10 +89178,6 @@
     },
     "400476": {
       "name": "Tailscale Inc.",
-      "type": "Unknown"
-    },
-    "214843": {
-      "name": "Haoyu Yang",
       "type": "Unknown"
     },
     "267473": {
@@ -96241,7 +96185,7 @@
       "type": "Unknown"
     },
     "205874": {
-      "name": "BG-ZEROBAIT",
+      "name": "BG-ZEROBYTE",
       "type": "Unknown"
     },
     "401753": {
@@ -96595,10 +96539,6 @@
     "329500": {
       "name": "OPTIMIZED NETWORKS SARL",
       "type": "Network Services"
-    },
-    "150663": {
-      "name": "WombatNET",
-      "type": "Cable/DSL/ISP"
     },
     "153739": {
       "name": "G-Net IT Systems OPC",
@@ -100270,7 +100210,7 @@
     },
     "154101": {
       "name": "PT OMNIA TEKNOLOGI INDONESIA",
-      "type": "Unknown"
+      "type": "Content"
     },
     "16032": {
       "name": "The Internet Business Ltd",
@@ -104425,7 +104365,7 @@
       "type": "Unknown"
     },
     "199318": {
-      "name": "1-CZ",
+      "name": "1-CZ FREE",
       "type": "Route Server"
     },
     "274648": {
@@ -104433,7 +104373,7 @@
       "type": "Cable/DSL/ISP"
     },
     "199357": {
-      "name": "1-FR",
+      "name": "1-FR FREE",
       "type": "Route Server"
     },
     "402387": {
@@ -104880,10 +104820,6 @@
       "name": "Queens link technology",
       "type": "Cable/DSL/ISP"
     },
-    "198681": {
-      "name": "Jinquan Zeng",
-      "type": "Unknown"
-    },
     "207120": {
       "name": "Quickline Communications (207120)",
       "type": "Unknown"
@@ -104910,7 +104846,7 @@
     },
     "275737": {
       "name": "GO-NET TELECOM",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "45586": {
       "name": "Auckland Grammar School",
@@ -104973,7 +104909,7 @@
       "type": "Unknown"
     },
     "396325": {
-      "name": "FUSION-NETWORKS",
+      "name": "The Fusion Networks",
       "type": "Unknown"
     },
     "198402": {
@@ -105138,6 +105074,38 @@
     },
     "214824": {
       "name": "AEP",
+      "type": "Unknown"
+    },
+    "401588": {
+      "name": "INNOWAVE",
+      "type": "Unknown"
+    },
+    "13974": {
+      "name": "OL-ASN",
+      "type": "Unknown"
+    },
+    "329668": {
+      "name": "ORG-ICPL4-AFRINIC",
+      "type": "Unknown"
+    },
+    "37329": {
+      "name": "ORG-FI1-AFRINIC",
+      "type": "Unknown"
+    },
+    "329740": {
+      "name": "ORG-TSL15-AFRINIC",
+      "type": "Unknown"
+    },
+    "275740": {
+      "name": "ASN275740",
+      "type": "Unknown"
+    },
+    "10794": {
+      "name": "BANKAMERICA",
+      "type": "Unknown"
+    },
+    "274911": {
+      "name": "274911",
       "type": "Unknown"
     },
     "22822": {
@@ -116609,7 +116577,7 @@
       "type": "Network Services"
     },
     "31230": {
-      "name": "SIX.SK Route Servers",
+      "name": "SIX.SK",
       "type": "Route Server"
     },
     "199624": {
@@ -121304,10 +121272,6 @@
       "name": "SEVEN INTERNET LTDA",
       "type": "NSP"
     },
-    "206131": {
-      "name": "XPCOM-SYSTEMS",
-      "type": "Unknown"
-    },
     "208149": {
       "name": "SKYTelecom",
       "type": "Unknown"
@@ -121707,10 +121671,6 @@
     "270672": {
       "name": "EVO TECNOLOGIA",
       "type": "NSP"
-    },
-    "213284": {
-      "name": "ldoneit",
-      "type": "Unknown"
     },
     "270006": {
       "name": "INTEL COMUNICACIONES PERÚ SAC",
@@ -125819,10 +125779,6 @@
     "328855": {
       "name": "NCW (Pty) Ltd",
       "type": "Cable/DSL/ISP"
-    },
-    "211042": {
-      "name": "Frank's Network",
-      "type": "Educational/Research"
     },
     "141013": {
       "name": "GetaFIX.ph Content",
@@ -130600,10 +130556,6 @@
       "name": "Bantani Media Utama",
       "type": "Route Server"
     },
-    "199684": {
-      "name": "ShitDefinedNetwork EU",
-      "type": "Educational/Research"
-    },
     "199680": {
       "name": "Filip Kszczot",
       "type": "Educational/Research"
@@ -134508,10 +134460,6 @@
       "name": "INFINITYLINK COMMUNICATIONS PRIVATE LIMITED",
       "type": "Unknown"
     },
-    "214496": {
-      "name": "Arcueid Network Limited",
-      "type": "Enterprise"
-    },
     "214527": {
       "name": "Frederic Arroyo",
       "type": "Enterprise"
@@ -135251,10 +135199,6 @@
     "153371": {
       "name": "BACK WAVES LIMITED",
       "type": "NSP"
-    },
-    "153344": {
-      "name": "NETFUTURE TECHNOLOGY",
-      "type": "Cable/DSL/ISP"
     },
     "24740": {
       "name": "NTTDATA-PL",
@@ -137045,7 +136989,7 @@
       "type": "Unknown"
     },
     "149940": {
-      "name": "AS149940_PREFIXES",
+      "name": "AS149940",
       "type": "Cable/DSL/ISP"
     },
     "215213": {
@@ -137306,7 +137250,7 @@
     },
     "329643": {
       "name": "IO FROM AFRICA",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "55280": {
       "name": "RackByte LLC",
@@ -137549,11 +137493,11 @@
       "type": "NSP"
     },
     "202554": {
-      "name": "1-PL",
+      "name": "1-PL FREE",
       "type": "Route Server"
     },
     "202580": {
-      "name": "1-NL",
+      "name": "1-NL FREE",
       "type": "Route Server"
     },
     "22306": {
@@ -138036,6 +137980,10 @@
       "name": "Pesona Network Mediautama",
       "type": "Cable/DSL/ISP"
     },
+    "198681": {
+      "name": "Jinquan Zeng",
+      "type": "Cable/DSL/ISP"
+    },
     "198679": {
       "name": "RADZI",
       "type": "Educational/Research"
@@ -138051,6 +137999,10 @@
     "45189": {
       "name": "SYSTEM 3 NET TECHNOLOGIES",
       "type": "Enterprise"
+    },
+    "402465": {
+      "name": "TAHOMA-RADIOELECTRIC",
+      "type": "Educational/Research"
     }
   }
 }
