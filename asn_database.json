@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-01T00:27:04.298Z",
+  "updated_at": "2026-05-02T00:24:41.534Z",
   "source": "PeeringDB",
-  "entry_count": 34500,
+  "entry_count": 34508,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -50438,7 +50438,7 @@
     },
     "18934": {
       "name": "SMITH & HAMMAKER",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "133950": {
       "name": "Hoopla Hosting",
@@ -56510,7 +56510,7 @@
     },
     "50130": {
       "name": "Syndicate",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "263722": {
       "name": "JOSE CARTELLONE CONSTRUCCIONES CIVILES",
@@ -77624,6 +77624,10 @@
       "name": "BLS",
       "type": "Enterprise"
     },
+    "199257": {
+      "name": "MASSIANA-AS",
+      "type": "Unknown"
+    },
     "213371": {
       "name": "ABC Consultancy",
       "type": "Unknown"
@@ -86986,7 +86990,7 @@
     },
     "11749": {
       "name": "Smart City Telecom AS11749",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "214618": {
       "name": "Hack The Box",
@@ -104958,7 +104962,7 @@
     },
     "141199": {
       "name": "Century Link Plus Co",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "137798": {
       "name": "Digital-Guangdong",
@@ -105107,6 +105111,38 @@
     "274911": {
       "name": "274911",
       "type": "Unknown"
+    },
+    "139861": {
+      "name": "CLOUDTORQUE-AS-AP",
+      "type": "Unknown"
+    },
+    "154027": {
+      "name": "IRINN-NETIQ-AS-IN",
+      "type": "Unknown"
+    },
+    "329739": {
+      "name": "ORG-WPL4-AFRINIC",
+      "type": "Unknown"
+    },
+    "37147": {
+      "name": "ORG-BA7-AFRINIC",
+      "type": "Unknown"
+    },
+    "200307": {
+      "name": "ZYNOO Web Services FZC LLC",
+      "type": "Content"
+    },
+    "198155": {
+      "name": "SYNULL-AS",
+      "type": "Unknown"
+    },
+    "394509": {
+      "name": "RIS",
+      "type": "Unknown"
+    },
+    "198120": {
+      "name": "Smart Host",
+      "type": "Network Services"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -108503,10 +108539,6 @@
     "204003": {
       "name": "Jan-Eric Ortgies",
       "type": "Educational/Research"
-    },
-    "52858": {
-      "name": "Link Net",
-      "type": "Cable/DSL/ISP"
     },
     "52936": {
       "name": "ONCABO LTDA",
@@ -136058,7 +136090,7 @@
     },
     "34565": {
       "name": "TurkIX Route Servers",
-      "type": "Route Server"
+      "type": "Content"
     },
     "199710": {
       "name": "DAZN",
@@ -137981,7 +138013,7 @@
       "type": "Cable/DSL/ISP"
     },
     "198681": {
-      "name": "Jinquan Zeng",
+      "name": "Reia Network",
       "type": "Cable/DSL/ISP"
     },
     "198679": {
@@ -138002,7 +138034,7 @@
     },
     "402465": {
       "name": "TAHOMA-RADIOELECTRIC",
-      "type": "Educational/Research"
+      "type": "Content"
     }
   }
 }
