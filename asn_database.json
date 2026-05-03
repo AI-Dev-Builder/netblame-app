@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-02T00:24:41.534Z",
+  "updated_at": "2026-05-03T00:24:10.799Z",
   "source": "PeeringDB",
-  "entry_count": 34508,
+  "entry_count": 34512,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -99341,8 +99341,8 @@
       "type": "Unknown"
     },
     "153141": {
-      "name": "PT Jaringan Lintas Maritim",
-      "type": "Unknown"
+      "name": "Jaringan Lintas Maritim",
+      "type": "Cable/DSL/ISP"
     },
     "200337": {
       "name": "CS INTEGRA",
@@ -105078,7 +105078,7 @@
     },
     "214824": {
       "name": "AEP",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "401588": {
       "name": "INNOWAVE",
@@ -105143,6 +105143,22 @@
     "198120": {
       "name": "Smart Host",
       "type": "Network Services"
+    },
+    "329684": {
+      "name": "ORG-HIL2-AFRINIC",
+      "type": "Unknown"
+    },
+    "3266": {
+      "name": "INTERLINK",
+      "type": "Unknown"
+    },
+    "142048": {
+      "name": "TVN-AS-AP",
+      "type": "Unknown"
+    },
+    "154538": {
+      "name": "IDNIC-RPMNET-AS-ID",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -133677,7 +133693,7 @@
       "type": "Cable/DSL/ISP"
     },
     "49468": {
-      "name": "MAGIT'ST SRL",
+      "name": "MAGIT'ST srl",
       "type": "Content"
     },
     "215153": {
@@ -137961,7 +137977,7 @@
       "type": "Unknown"
     },
     "199746": {
-      "name": "NextHost Registry",
+      "name": "NextServ LLC",
       "type": "Network Services"
     },
     "200841": {
