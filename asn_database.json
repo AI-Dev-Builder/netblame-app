@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-03T00:24:10.799Z",
+  "updated_at": "2026-05-04T00:24:39.273Z",
   "source": "PeeringDB",
-  "entry_count": 34512,
+  "entry_count": 34518,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -45989,7 +45989,7 @@
       "type": "Cable/DSL/ISP"
     },
     "269245": {
-      "name": "Cabo Fibra Telecom",
+      "name": "Maralink Fibra",
       "type": "Cable/DSL/ISP"
     },
     "16616": {
@@ -78464,6 +78464,10 @@
       "name": "CYBERAKSES",
       "type": "Cable/DSL/ISP"
     },
+    "198135": {
+      "name": "MOFE-IO",
+      "type": "Unknown"
+    },
     "198125": {
       "name": "CONXT",
       "type": "Unknown"
@@ -102569,7 +102573,7 @@
       "type": "Educational/Research"
     },
     "204085": {
-      "name": "DisPaisy Enterprises Projects",
+      "name": "DisPaisy's Projects",
       "type": "Educational/Research"
     },
     "201349": {
@@ -104902,7 +104906,7 @@
     },
     "151347": {
       "name": "Aerpace",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "328857": {
       "name": "SILICONE CONNECT",
@@ -105058,7 +105062,7 @@
     },
     "137910": {
       "name": "Wavecomm",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "207208": {
       "name": "Mevspace - Internet Service",
@@ -105159,6 +105163,26 @@
     "154538": {
       "name": "IDNIC-RPMNET-AS-ID",
       "type": "Cable/DSL/ISP"
+    },
+    "401673": {
+      "name": "BRTEL-USAS1",
+      "type": "Unknown"
+    },
+    "402326": {
+      "name": "LIMRUN-01",
+      "type": "Unknown"
+    },
+    "198092": {
+      "name": "Kamphuis",
+      "type": "Unknown"
+    },
+    "204162": {
+      "name": "CTS-AS",
+      "type": "Unknown"
+    },
+    "402474": {
+      "name": "LMESSER-LABS",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
