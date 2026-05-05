@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-04T00:24:39.273Z",
+  "updated_at": "2026-05-05T00:25:07.399Z",
   "source": "PeeringDB",
-  "entry_count": 34518,
+  "entry_count": 34525,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -39798,7 +39798,7 @@
     },
     "268654": {
       "name": "MEGA FIBRA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "263604": {
       "name": "Hilton Cesar Bender & Cia Ltda",
@@ -58314,7 +58314,7 @@
     },
     "212708": {
       "name": "Victor-Lourme",
-      "type": "Non-Profit"
+      "type": "Cable/DSL/ISP"
     },
     "265236": {
       "name": "Portobello",
@@ -68900,10 +68900,6 @@
       "name": "HuskyHQ",
       "type": "Educational/Research"
     },
-    "400688": {
-      "name": "DanielNet",
-      "type": "Educational/Research"
-    },
     "133160": {
       "name": "AMS-IX Singapore Route Servers",
       "type": "Route Server"
@@ -70311,6 +70307,10 @@
     "263285": {
       "name": "Tiago Silva Provedores ME",
       "type": "Cable/DSL/ISP"
+    },
+    "149835": {
+      "name": "JFTECH-AS-AP",
+      "type": "Educational/Research"
     },
     "1025": {
       "name": "Valor Christian High School - Edge",
@@ -74895,10 +74895,6 @@
     "273638": {
       "name": "Power Fiber Serviços de Telecomunicações LTDA",
       "type": "NSP"
-    },
-    "1000": {
-      "name": "CORIX NETWORKS AS1000",
-      "type": "Unknown"
     },
     "141467": {
       "name": "Dewan Dot Net",
@@ -85353,7 +85349,7 @@
       "type": "Unknown"
     },
     "64162": {
-      "name": "IX ANDESPARK SAC 64162 - HUANCAYO",
+      "name": "IX ANDESPARK - HUANCAYO",
       "type": "Enterprise"
     },
     "146970": {
@@ -105101,8 +105097,8 @@
       "type": "Unknown"
     },
     "329740": {
-      "name": "ORG-TSL15-AFRINIC",
-      "type": "Unknown"
+      "name": "TRYANNET SOLUTIONS LIMITED",
+      "type": "Cable/DSL/ISP"
     },
     "275740": {
       "name": "ASN275740",
@@ -105157,7 +105153,7 @@
       "type": "Unknown"
     },
     "142048": {
-      "name": "TVN-AS-AP",
+      "name": "OPTICAL TVN BD",
       "type": "Unknown"
     },
     "154538": {
@@ -105182,6 +105178,26 @@
     },
     "402474": {
       "name": "LMESSER-LABS",
+      "type": "Unknown"
+    },
+    "274119": {
+      "name": "274119",
+      "type": "Unknown"
+    },
+    "56335": {
+      "name": "NOCSULT",
+      "type": "Unknown"
+    },
+    "154641": {
+      "name": "DSMARTIT-AS-AP",
+      "type": "Unknown"
+    },
+    "271582": {
+      "name": "NETCON TELECOMUNICACOES",
+      "type": "Unknown"
+    },
+    "402476": {
+      "name": "IP-TRANSIT-MANAGEMENT",
       "type": "Unknown"
     },
     "22822": {
@@ -128332,6 +128348,10 @@
       "name": "stypr",
       "type": "Educational/Research"
     },
+    "400688": {
+      "name": "Daniel Marks",
+      "type": "Enterprise"
+    },
     "206292": {
       "name": "Gerdriaan Mulder",
       "type": "Educational/Research"
@@ -128617,7 +128637,7 @@
       "type": "Cable/DSL/ISP"
     },
     "147101": {
-      "name": "AeroNet by PT Lintas Teknologi Solusindo",
+      "name": "PT Lintas Teknologi Solusindo",
       "type": "Cable/DSL/ISP"
     },
     "142366": {
@@ -131552,6 +131572,10 @@
       "name": "Flooyd Telecom LTDA",
       "type": "Cable/DSL/ISP"
     },
+    "198079": {
+      "name": "GiorgioMariaAS",
+      "type": "Educational/Research"
+    },
     "21903": {
       "name": "Arnhem Networks",
       "type": "Unknown"
@@ -132390,7 +132414,7 @@
     },
     "12778": {
       "name": "MEGA M (AS12778)",
-      "type": "Unknown"
+      "type": "Content"
     },
     "273355": {
       "name": "MegaNET DH",
@@ -138002,7 +138026,7 @@
     },
     "199746": {
       "name": "NextServ LLC",
-      "type": "Network Services"
+      "type": "Enterprise"
     },
     "200841": {
       "name": "Livesoft",
@@ -138074,6 +138098,10 @@
     },
     "402465": {
       "name": "TAHOMA-RADIOELECTRIC",
+      "type": "Content"
+    },
+    "209800": {
+      "name": "ZEMAGG",
       "type": "Content"
     }
   }
