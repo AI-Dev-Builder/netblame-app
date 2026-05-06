@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-05T00:25:07.399Z",
+  "updated_at": "2026-05-06T00:24:33.494Z",
   "source": "PeeringDB",
-  "entry_count": 34525,
+  "entry_count": 34531,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -44092,10 +44092,6 @@
       "name": "FTN Tilepikoinonies MEPE",
       "type": "Cable/DSL/ISP"
     },
-    "328480": {
-      "name": "TooMuchWifi",
-      "type": "Cable/DSL/ISP"
-    },
     "42892": {
       "name": "LOIS NET",
       "type": "Cable/DSL/ISP"
@@ -57035,6 +57031,10 @@
     "1111": {
       "name": "Universitaet Klagenfurt",
       "type": "Unknown"
+    },
+    "141078": {
+      "name": "Amanna Media Link",
+      "type": "Cable/DSL/ISP"
     },
     "139525": {
       "name": "Balaji Enterprises",
@@ -78462,7 +78462,7 @@
     },
     "198135": {
       "name": "MOFE-IO",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "198125": {
       "name": "CONXT",
@@ -79323,10 +79323,6 @@
     "149574": {
       "name": "Gnana 11",
       "type": "Cable/DSL/ISP"
-    },
-    "197433": {
-      "name": "Mjjcloud.Net",
-      "type": "Educational/Research"
     },
     "211962": {
       "name": "Asynet",
@@ -82529,7 +82525,7 @@
       "type": "NSP"
     },
     "64158": {
-      "name": "PIT - LATAM IX - Route Server",
+      "name": "PIT - IX - Route Server",
       "type": "Network Services"
     },
     "833": {
@@ -91756,10 +91752,6 @@
       "name": "Excel Commerce Solutions Sdn. Bhd.",
       "type": "Unknown"
     },
-    "213697": {
-      "name": "KERNZEN",
-      "type": "Content"
-    },
     "206882": {
       "name": "WIFILINKS",
       "type": "Unknown"
@@ -96959,10 +96951,6 @@
     "153359": {
       "name": "Imtech Solution and Data Providers",
       "type": "Cable/DSL/ISP"
-    },
-    "215685": {
-      "name": "Dotnet",
-      "type": "Content"
     },
     "34696": {
       "name": "Mismelink Networks",
@@ -105198,6 +105186,42 @@
     },
     "402476": {
       "name": "IP-TRANSIT-MANAGEMENT",
+      "type": "Unknown"
+    },
+    "273006": {
+      "name": "273006",
+      "type": "Cable/DSL/ISP"
+    },
+    "153869": {
+      "name": "NIMVI-AS-AP",
+      "type": "Unknown"
+    },
+    "197058": {
+      "name": "ASPSTS",
+      "type": "Cable/DSL/ISP"
+    },
+    "197974": {
+      "name": "PLYM-AS",
+      "type": "Unknown"
+    },
+    "43286": {
+      "name": "Route Servers STIX",
+      "type": "Route Server"
+    },
+    "10602": {
+      "name": "PIT - Miami IX - Route Server",
+      "type": "Route Server"
+    },
+    "205702": {
+      "name": "COMPLICITY",
+      "type": "Unknown"
+    },
+    "275658": {
+      "name": "CONECT CANASTRA",
+      "type": "Unknown"
+    },
+    "197950": {
+      "name": "UMANG-RAGHUVANSHI",
       "type": "Unknown"
     },
     "22822": {
@@ -118336,6 +118360,10 @@
       "name": "AMAZONIA TELECOMUNICACOES",
       "type": "NSP"
     },
+    "328480": {
+      "name": "TooMuchWifi",
+      "type": "Cable/DSL/ISP"
+    },
     "134058": {
       "name": "BROBAN INTERNET SERVICES",
       "type": "Cable/DSL/ISP"
@@ -123474,10 +123502,6 @@
     },
     "270793": {
       "name": "CONECTA TELECOM (c.i.t)",
-      "type": "Cable/DSL/ISP"
-    },
-    "141078": {
-      "name": "Amanna Media Link",
       "type": "Cable/DSL/ISP"
     },
     "197869": {
@@ -130692,10 +130716,6 @@
       "name": "JIANYUELAB (AS199605)",
       "type": "Unknown"
     },
-    "212503": {
-      "name": "Jordan Mace",
-      "type": "Content"
-    },
     "47898": {
       "name": "PAN-Telecom",
       "type": "Cable/DSL/ISP"
@@ -131573,7 +131593,7 @@
       "type": "Cable/DSL/ISP"
     },
     "198079": {
-      "name": "GiorgioMariaAS",
+      "name": "Giorgio Brullo",
       "type": "Educational/Research"
     },
     "21903": {
@@ -136421,7 +136441,7 @@
       "type": "Cable/DSL/ISP"
     },
     "208437": {
-      "name": "HyperBit SRLs - AS208437",
+      "name": "HyperBit SRLs",
       "type": "NSP"
     },
     "214693": {
@@ -136774,6 +136794,10 @@
     },
     "197712": {
       "name": "CDmon",
+      "type": "Content"
+    },
+    "215685": {
+      "name": "Dotnet",
       "type": "Content"
     },
     "401688": {
