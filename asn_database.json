@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-06T00:24:33.494Z",
+  "updated_at": "2026-05-07T00:25:08.712Z",
   "source": "PeeringDB",
-  "entry_count": 34531,
+  "entry_count": 34549,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -14446,10 +14446,6 @@
     },
     "27768": {
       "name": "Compañía Paraguaya de Comunicaciones S.A.",
-      "type": "Cable/DSL/ISP"
-    },
-    "45543": {
-      "name": "Saigontourist Cable Television Company Limited",
       "type": "Cable/DSL/ISP"
     },
     "53102": {
@@ -54708,10 +54704,6 @@
       "name": "FULL NET",
       "type": "Cable/DSL/ISP"
     },
-    "18019": {
-      "name": "Cotton Candy Cloud",
-      "type": "Unknown"
-    },
     "138657": {
       "name": "MARCHNET",
       "type": "NSP"
@@ -58825,7 +58817,7 @@
       "type": "Content"
     },
     "212112": {
-      "name": "Novitskiy Vladislav Valerievich",
+      "name": "Vladislav Novitskii",
       "type": "Unknown"
     },
     "134013": {
@@ -86966,7 +86958,7 @@
     },
     "142628": {
       "name": "HIIFI (M) SDN BHD",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "47202": {
       "name": "LAZER TELECOMUNICACOES S.A.",
@@ -96768,10 +96760,6 @@
       "name": "SAGE LINK PROVEDOR DE INTERNET LTDA",
       "type": "Unknown"
     },
-    "154003": {
-      "name": "NOBIDEV-VN",
-      "type": "Enterprise"
-    },
     "328842": {
       "name": "ProData Africa",
       "type": "Unknown"
@@ -101580,10 +101568,6 @@
       "name": "Trendingjobs",
       "type": "Content"
     },
-    "54891": {
-      "name": "CATHRON INFORMATION CONSULTING",
-      "type": "Educational/Research"
-    },
     "36346": {
       "name": "Together Computer",
       "type": "Network Services"
@@ -103342,7 +103326,7 @@
     },
     "154536": {
       "name": "PT Zaaid Network Nusantara",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "62704": {
       "name": "DCLOUD9",
@@ -105089,7 +105073,7 @@
       "type": "Cable/DSL/ISP"
     },
     "275740": {
-      "name": "ASN275740",
+      "name": "COM PROVEDOR DE INTERNET E EQUIPAMENTO",
       "type": "Unknown"
     },
     "10794": {
@@ -105121,7 +105105,7 @@
       "type": "Content"
     },
     "198155": {
-      "name": "SYNULL-AS",
+      "name": "SyNull",
       "type": "Unknown"
     },
     "394509": {
@@ -105223,6 +105207,74 @@
     "197950": {
       "name": "UMANG-RAGHUVANSHI",
       "type": "Unknown"
+    },
+    "197904": {
+      "name": "WL7JJ",
+      "type": "Unknown"
+    },
+    "132145": {
+      "name": "Zettagrid Darwin",
+      "type": "NSP"
+    },
+    "272868": {
+      "name": "272868",
+      "type": "Unknown"
+    },
+    "197906": {
+      "name": "AS_AIRLAN",
+      "type": "Unknown"
+    },
+    "398915": {
+      "name": "SHARONTC-NET-1",
+      "type": "Cable/DSL/ISP"
+    },
+    "18671": {
+      "name": "PRTC-SC",
+      "type": "Unknown"
+    },
+    "199649": {
+      "name": "KTSTECH-AS",
+      "type": "Unknown"
+    },
+    "198138": {
+      "name": "tanaka-as",
+      "type": "Network Services"
+    },
+    "25868": {
+      "name": "Ace Data Centers Corporate Network",
+      "type": "Enterprise"
+    },
+    "30218": {
+      "name": "Ace ISP",
+      "type": "Cable/DSL/ISP"
+    },
+    "26969": {
+      "name": "Ace Data Centers DCH",
+      "type": "Enterprise"
+    },
+    "26519": {
+      "name": "Ace Data Centers DCH-2",
+      "type": "Enterprise"
+    },
+    "26639": {
+      "name": "Ace Data Centers II-2",
+      "type": "Enterprise"
+    },
+    "26643": {
+      "name": "Ace Data Centers II-3",
+      "type": "Enterprise"
+    },
+    "29931": {
+      "name": "Ace ISP and Broadband",
+      "type": "Cable/DSL/ISP"
+    },
+    "154658": {
+      "name": "TNWIS-AS-AP",
+      "type": "Unknown"
+    },
+    "36521": {
+      "name": "3DS IN",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -108198,6 +108250,10 @@
     },
     "38987": {
       "name": "Spoldzielnia Telekomunikacyjna OST",
+      "type": "Cable/DSL/ISP"
+    },
+    "45543": {
+      "name": "Saigontourist Cable Television Company Limited",
       "type": "Cable/DSL/ISP"
     },
     "57660": {
@@ -131728,6 +131784,10 @@
       "name": "flummer",
       "type": "Unknown"
     },
+    "197871": {
+      "name": "CROBE",
+      "type": "Enterprise"
+    },
     "150466": {
       "name": "Pesona Nusa Vision",
       "type": "Cable/DSL/ISP"
@@ -135762,7 +135822,7 @@
     },
     "30265": {
       "name": "AS30265",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "401575": {
       "name": "Jeff Parrish PC Services",
@@ -136430,7 +136490,7 @@
     },
     "208694": {
       "name": "LEON AARON TIEKOETTER",
-      "type": "Content"
+      "type": "NSP"
     },
     "153822": {
       "name": "PT Emlima Koneksi Nusantara",
@@ -136739,6 +136799,10 @@
     "1922": {
       "name": "SIX.SK IX Services",
       "type": "Content"
+    },
+    "154003": {
+      "name": "NOBIDEV-VN",
+      "type": "Enterprise"
     },
     "140101": {
       "name": "Skylink Sinaya Sejahtera",
@@ -137237,7 +137301,7 @@
       "type": "Content"
     },
     "214033": {
-      "name": "NOAH FINLEY WOLF - THYRAKLES & NOAH1.NETWORK",
+      "name": "NOAH FINLEY WOLF - Thyrakles",
       "type": "Network Services"
     },
     "63900": {
@@ -137647,6 +137711,10 @@
     "23374": {
       "name": "FPUAnet Communications",
       "type": "NSP"
+    },
+    "54891": {
+      "name": "CATHRON INFORMATION CONSULTING",
+      "type": "Educational/Research"
     },
     "329592": {
       "name": "SiteHUB Agency",
@@ -138127,6 +138195,10 @@
     "209800": {
       "name": "ZEMAGG",
       "type": "Content"
+    },
+    "154657": {
+      "name": "IDNIC-PANHANET-ID",
+      "type": "Enterprise"
     }
   }
 }
