@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-07T00:25:08.712Z",
+  "updated_at": "2026-05-08T00:25:40.048Z",
   "source": "PeeringDB",
-  "entry_count": 34549,
+  "entry_count": 34556,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -7367,6 +7367,10 @@
     "56662": {
       "name": "e-utp.net",
       "type": "Non-Profit"
+    },
+    "197754": {
+      "name": "Christiaan Goossens",
+      "type": "Unknown"
     },
     "32586": {
       "name": "NWIC",
@@ -53172,10 +53176,6 @@
       "name": "Tassilo Schweyer",
       "type": "Content"
     },
-    "202498": {
-      "name": "TInkoff Mobile",
-      "type": "Unknown"
-    },
     "269173": {
       "name": "TECNET TELECOM",
       "type": "NSP"
@@ -67348,6 +67348,10 @@
       "name": "polash nagor dot net",
       "type": "Unknown"
     },
+    "209768": {
+      "name": "white2net",
+      "type": "Cable/DSL/ISP"
+    },
     "265619": {
       "name": "XK NET S.A. DE C.V.",
       "type": "Cable/DSL/ISP"
@@ -67541,7 +67545,7 @@
       "type": "Unknown"
     },
     "52714": {
-      "name": "Firemicro Informática",
+      "name": "EliteNet Telecom",
       "type": "Cable/DSL/ISP"
     },
     "139873": {
@@ -74887,6 +74891,10 @@
     "273638": {
       "name": "Power Fiber Serviços de Telecomunicações LTDA",
       "type": "NSP"
+    },
+    "1000": {
+      "name": "LINK AMERICAN",
+      "type": "Unknown"
     },
     "141467": {
       "name": "Dewan Dot Net",
@@ -91512,10 +91520,6 @@
       "name": "IPA-ENTERNET",
       "type": "Non-Profit"
     },
-    "141805": {
-      "name": "Hubcom Techno System",
-      "type": "Content"
-    },
     "215777": {
       "name": "CINCURA",
       "type": "Educational/Research"
@@ -99329,7 +99333,7 @@
       "type": "Cable/DSL/ISP"
     },
     "152873": {
-      "name": "NEODY",
+      "name": "NEODY-NET",
       "type": "Educational/Research"
     },
     "132061": {
@@ -99927,10 +99931,6 @@
     "22069": {
       "name": "CARIB-23",
       "type": "Unknown"
-    },
-    "154217": {
-      "name": "PT Fiber Akses Nusantara",
-      "type": "Cable/DSL/ISP"
     },
     "210699": {
       "name": "WEDEPLOY SAS",
@@ -103066,7 +103066,7 @@
     },
     "52390": {
       "name": "Administradora de Redes, S.A.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "400848": {
       "name": "DHI9PUT",
@@ -103114,10 +103114,6 @@
     },
     "402226": {
       "name": "OnlyScans LLC",
-      "type": "Unknown"
-    },
-    "154458": {
-      "name": "PT Satya Yudhistira Ranajaya",
       "type": "Unknown"
     },
     "152301": {
@@ -104390,7 +104386,7 @@
     },
     "199243": {
       "name": "zl4c.at",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "199211": {
       "name": "IsDiak Consulting",
@@ -105134,7 +105130,7 @@
     },
     "401673": {
       "name": "BRTEL-USAS1",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "402326": {
       "name": "LIMRUN-01",
@@ -105153,7 +105149,7 @@
       "type": "Unknown"
     },
     "274119": {
-      "name": "274119",
+      "name": "GRUPO VERNET INTERNET S. A. S.",
       "type": "Unknown"
     },
     "56335": {
@@ -105275,6 +105271,26 @@
     "36521": {
       "name": "3DS IN",
       "type": "Cable/DSL/ISP"
+    },
+    "402485": {
+      "name": "AMCONSULTING",
+      "type": "Unknown"
+    },
+    "13476": {
+      "name": "MSU-BOZEMAN",
+      "type": "Educational/Research"
+    },
+    "13501": {
+      "name": "OARNET-AS-2",
+      "type": "Unknown"
+    },
+    "15318": {
+      "name": "MCGILL-AS",
+      "type": "Unknown"
+    },
+    "197861": {
+      "name": "FMR-ASN",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -107223,6 +107239,10 @@
     "21804": {
       "name": "Access Communications Co-operative",
       "type": "Cable/DSL/ISP"
+    },
+    "197736": {
+      "name": "MB",
+      "type": "Educational/Research"
     },
     "55947": {
       "name": "Bangalore Broadband Network Pvt Ltd",
@@ -127752,10 +127772,6 @@
       "name": "Oxynet Telecommunications",
       "type": "Cable/DSL/ISP"
     },
-    "209768": {
-      "name": "white2net",
-      "type": "Cable/DSL/ISP"
-    },
     "208763": {
       "name": "Bitflow Development",
       "type": "Unknown"
@@ -135189,7 +135205,7 @@
       "type": "Cable/DSL/ISP"
     },
     "61618": {
-      "name": "Viva Tecnologia Telecom",
+      "name": "Viva Tecnologia Telecomunicações",
       "type": "NSP"
     },
     "214117": {
@@ -135711,6 +135727,10 @@
     "139020": {
       "name": "CloudLink Communications",
       "type": "Cable/DSL/ISP"
+    },
+    "141805": {
+      "name": "Hubcom Techno System",
+      "type": "Content"
     },
     "213733": {
       "name": "Charlie-Gustafsson",
@@ -137432,6 +137452,10 @@
       "name": "AG Host LTD",
       "type": "Content"
     },
+    "154217": {
+      "name": "Fiber Akses Nusantara",
+      "type": "Cable/DSL/ISP"
+    },
     "329643": {
       "name": "IO FROM AFRICA",
       "type": "Cable/DSL/ISP"
@@ -138027,6 +138051,10 @@
     "154181": {
       "name": "ROYAL INTERNET ACCESS PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
+    },
+    "154458": {
+      "name": "PT Satya Yudhistira Ranajaya",
+      "type": "Unknown"
     },
     "154503": {
       "name": "TrimafaNet",
