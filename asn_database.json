@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-08T00:25:40.048Z",
+  "updated_at": "2026-05-09T00:26:32.236Z",
   "source": "PeeringDB",
-  "entry_count": 34556,
+  "entry_count": 34552,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -13652,10 +13652,6 @@
       "name": "Lynet Internett",
       "type": "Cable/DSL/ISP"
     },
-    "52681": {
-      "name": "Pbinet Informatica Ltda - ME",
-      "type": "Cable/DSL/ISP"
-    },
     "263585": {
       "name": "DigitalNet",
       "type": "Cable/DSL/ISP"
@@ -15847,10 +15843,6 @@
     "31769": {
       "name": "Rainbow Broadband, Inc.",
       "type": "Cable/DSL/ISP"
-    },
-    "263977": {
-      "name": "Wifi Point Provedor de Internet Banda Larga ME LTDA",
-      "type": "NSP"
     },
     "46045": {
       "name": "PT. SARANA PEMBANGUNAN SIAK",
@@ -19259,10 +19251,6 @@
     "202812": {
       "name": "ELITS Cloud Services",
       "type": "Unknown"
-    },
-    "263969": {
-      "name": "C-Ligue Telecom",
-      "type": "Cable/DSL/ISP"
     },
     "54688": {
       "name": "Threshold Communications AS54688",
@@ -29200,10 +29188,6 @@
       "name": "Torres Telecom",
       "type": "Cable/DSL/ISP"
     },
-    "262598": {
-      "name": "REAL LINE TELECOMUNICACOES",
-      "type": "Unknown"
-    },
     "58438": {
       "name": "ApnaTeleLink",
       "type": "Unknown"
@@ -31121,7 +31105,7 @@
       "type": "Non-Profit"
     },
     "205602": {
-      "name": "ZV.IS Network Lab",
+      "name": "9P.IS Network Lab",
       "type": "NSP"
     },
     "63926": {
@@ -34244,10 +34228,6 @@
       "name": "Alcort",
       "type": "Cable/DSL/ISP"
     },
-    "44813": {
-      "name": "Viking Tech",
-      "type": "Unknown"
-    },
     "267445": {
       "name": "Romagnole Produtos Eletricos",
       "type": "Enterprise"
@@ -36047,10 +36027,6 @@
     "267361": {
       "name": "MAXCON ASSESS ORIENT E ASSIST OPERAC INFORMATICA",
       "type": "Unknown"
-    },
-    "328315": {
-      "name": "Crisp Fibre",
-      "type": "Cable/DSL/ISP"
     },
     "10386": {
       "name": "VoyageurWeb",
@@ -43939,10 +43915,6 @@
     "61213": {
       "name": "Visma",
       "type": "Enterprise"
-    },
-    "262547": {
-      "name": "Tricor Teleinformática",
-      "type": "Cable/DSL/ISP"
     },
     "268582": {
       "name": "Wib Provedores de Acesso LTDA - EPP",
@@ -70321,7 +70293,7 @@
       "type": "Unknown"
     },
     "267550": {
-      "name": "Chip News Provedor de Internet Eireli",
+      "name": "Chip News Provedor de Internet Ltda",
       "type": "Unknown"
     },
     "63795": {
@@ -73192,10 +73164,6 @@
       "name": "GEFO TELESERVICES INDIA",
       "type": "Cable/DSL/ISP"
     },
-    "268921": {
-      "name": "SERVNACNET",
-      "type": "Cable/DSL/ISP"
-    },
     "203226": {
       "name": "Dirk Walde",
       "type": "Unknown"
@@ -74892,10 +74860,6 @@
       "name": "Power Fiber Serviços de Telecomunicações LTDA",
       "type": "NSP"
     },
-    "1000": {
-      "name": "LINK AMERICAN",
-      "type": "Unknown"
-    },
     "141467": {
       "name": "Dewan Dot Net",
       "type": "Unknown"
@@ -75649,7 +75613,7 @@
       "type": "Cable/DSL/ISP"
     },
     "199763": {
-      "name": "pcela",
+      "name": "Piotr Chrzanowski",
       "type": "Non-Profit"
     },
     "136598": {
@@ -78459,10 +78423,6 @@
     "149400": {
       "name": "CYBERAKSES",
       "type": "Cable/DSL/ISP"
-    },
-    "198135": {
-      "name": "MOFE-IO",
-      "type": "Educational/Research"
     },
     "198125": {
       "name": "CONXT",
@@ -82111,6 +82071,10 @@
     "215887": {
       "name": "baragoon networks",
       "type": "Non-Profit"
+    },
+    "215925": {
+      "name": "VPSVAULTHOST",
+      "type": "Unknown"
     },
     "271031": {
       "name": "PTI TELECOMUNICACOES EIRELI",
@@ -100428,10 +100392,6 @@
       "name": "REXE",
       "type": "Enterprise"
     },
-    "203464": {
-      "name": "bearcove",
-      "type": "Content"
-    },
     "11859": {
       "name": "Nell-IX Route Servers",
       "type": "Unknown"
@@ -104622,7 +104582,7 @@
     },
     "154606": {
       "name": "YFI INTERNET PRIVATE LIMITED",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "328889": {
       "name": "MODEM COMPUTER SERVICES",
@@ -104647,10 +104607,6 @@
     "199037": {
       "name": "NAUCRAR",
       "type": "Unknown"
-    },
-    "402410": {
-      "name": "Compatible Network (AS402410)",
-      "type": "Cable/DSL/ISP"
     },
     "198756": {
       "name": "Joseph Portillo",
@@ -104898,7 +104854,7 @@
     },
     "400422": {
       "name": "MODERNTREASURY",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "274813": {
       "name": "Santos & soares",
@@ -105070,7 +105026,7 @@
     },
     "275740": {
       "name": "COM PROVEDOR DE INTERNET E EQUIPAMENTO",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "10794": {
       "name": "BANKAMERICA",
@@ -105153,7 +105109,7 @@
       "type": "Unknown"
     },
     "56335": {
-      "name": "NOCSULT",
+      "name": "Nocsult Ltd",
       "type": "Unknown"
     },
     "154641": {
@@ -105290,6 +105246,18 @@
     },
     "197861": {
       "name": "FMR-ASN",
+      "type": "Unknown"
+    },
+    "53959": {
+      "name": "PSDATA",
+      "type": "Cable/DSL/ISP"
+    },
+    "271879": {
+      "name": "271879",
+      "type": "Unknown"
+    },
+    "329741": {
+      "name": "ORG-DOCL1-AFRINIC",
       "type": "Unknown"
     },
     "22822": {
@@ -114816,6 +114784,10 @@
       "name": "Aquilenet",
       "type": "Non-Profit"
     },
+    "328315": {
+      "name": "Crisp Fibre",
+      "type": "Cable/DSL/ISP"
+    },
     "12857": {
       "name": "Manage Now Transit",
       "type": "Unknown"
@@ -122066,7 +122038,7 @@
     },
     "268624": {
       "name": "Gamers Club",
-      "type": "Content"
+      "type": "NSP"
     },
     "138822": {
       "name": "Jaya Komunikasi Indonesia",
@@ -130456,6 +130428,10 @@
       "name": "Abbas G.",
       "type": "Educational/Research"
     },
+    "1000": {
+      "name": "LINK AMERICAN",
+      "type": "Cable/DSL/ISP"
+    },
     "137391": {
       "name": "Rings-3",
       "type": "Cable/DSL/ISP"
@@ -131603,6 +131579,10 @@
     "14874": {
       "name": "PITTQIAO LLC",
       "type": "Unknown"
+    },
+    "198135": {
+      "name": "MOFE-IO",
+      "type": "Educational/Research"
     },
     "198150": {
       "name": "SIACOM",
@@ -138191,6 +138171,10 @@
     "154528": {
       "name": "Dinas Komunikasi Informatika Statistik Dan Persandian Kota Pekanbaru",
       "type": "Government"
+    },
+    "402410": {
+      "name": "Compatible Network (AS402410)",
+      "type": "Cable/DSL/ISP"
     },
     "142258": {
       "name": "Pesona Network Mediautama",
