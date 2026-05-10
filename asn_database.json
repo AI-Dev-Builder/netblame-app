@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-09T00:26:32.236Z",
+  "updated_at": "2026-05-10T00:25:56.767Z",
   "source": "PeeringDB",
-  "entry_count": 34552,
+  "entry_count": 34562,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -54744,6 +54744,10 @@
       "name": "INTERNET & MEDIA",
       "type": "Unknown"
     },
+    "212815": {
+      "name": "★ Dyjix SAS",
+      "type": "Cable/DSL/ISP"
+    },
     "264440": {
       "name": "POINT TELECOM",
       "type": "Cable/DSL/ISP"
@@ -71820,6 +71824,10 @@
       "name": "JABOATÃONET SERVIÇOS DE COMUNICAÇÃO MULTIMIDIA LTD",
       "type": "Unknown"
     },
+    "202905": {
+      "name": "SYNETIC_SERVERS",
+      "type": "Educational/Research"
+    },
     "266935": {
       "name": "CENTROSULNET INFORMATICA EIRELI",
       "type": "Unknown"
@@ -71993,7 +72001,7 @@
       "type": "Unknown"
     },
     "211877": {
-      "name": "TurkIX Communications",
+      "name": "TurkIX Istanbul",
       "type": "Route Server"
     },
     "2934": {
@@ -82074,7 +82082,7 @@
     },
     "215925": {
       "name": "VPSVAULTHOST",
-      "type": "Unknown"
+      "type": "Content"
     },
     "271031": {
       "name": "PTI TELECOMUNICACOES EIRELI",
@@ -86419,6 +86427,10 @@
     "265364": {
       "name": "ITlink Telecom LTDA",
       "type": "Unknown"
+    },
+    "214745": {
+      "name": "NET67X-Networks",
+      "type": "Content"
     },
     "46829": {
       "name": "LAMHOSTING",
@@ -105121,7 +105133,7 @@
       "type": "Unknown"
     },
     "402476": {
-      "name": "IP-TRANSIT-MANAGEMENT",
+      "name": "PIT",
       "type": "Unknown"
     },
     "273006": {
@@ -105221,8 +105233,8 @@
       "type": "Cable/DSL/ISP"
     },
     "154658": {
-      "name": "TNWIS-AS-AP",
-      "type": "Unknown"
+      "name": "Trident Network",
+      "type": "Cable/DSL/ISP"
     },
     "36521": {
       "name": "3DS IN",
@@ -105258,7 +105270,35 @@
     },
     "329741": {
       "name": "ORG-DOCL1-AFRINIC",
+      "type": "Cable/DSL/ISP"
+    },
+    "275635": {
+      "name": "ASN275635",
       "type": "Unknown"
+    },
+    "198375": {
+      "name": "DELUSION-NET",
+      "type": "Unknown"
+    },
+    "214450": {
+      "name": "OGL-AS",
+      "type": "Unknown"
+    },
+    "209689": {
+      "name": "Concardis",
+      "type": "Unknown"
+    },
+    "146888": {
+      "name": "CLOUD8IN-AS-IN",
+      "type": "Unknown"
+    },
+    "214861": {
+      "name": "CloudExa-Hosting",
+      "type": "Unknown"
+    },
+    "275730": {
+      "name": "ASN275730",
+      "type": "NSP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -110271,6 +110311,10 @@
     "199490": {
       "name": "INTERCONNECT s.r.o.",
       "type": "Cable/DSL/ISP"
+    },
+    "22619": {
+      "name": "Cologix (AS22619)",
+      "type": "Unknown"
     },
     "199665": {
       "name": "RADIOLINKplus.cz",
@@ -122596,10 +122640,6 @@
       "name": "MEGA TELECON PROVEDOR DE INTERNET",
       "type": "NSP"
     },
-    "212815": {
-      "name": "★ Dyjix SAS",
-      "type": "Cable/DSL/ISP"
-    },
     "22462": {
       "name": "NOLA Broadband, Inc",
       "type": "Cable/DSL/ISP"
@@ -129368,10 +129408,6 @@
       "name": "Jaring Solusi Persada",
       "type": "Cable/DSL/ISP"
     },
-    "202905": {
-      "name": "SYNETIC_SERVERS",
-      "type": "Educational/Research"
-    },
     "202888": {
       "name": "ZH NETWORK",
       "type": "Enterprise"
@@ -131528,6 +131564,10 @@
       "name": "MIKHAIL YUDIN",
       "type": "Educational/Research"
     },
+    "198186": {
+      "name": "Sondre Hoslemo",
+      "type": "Unknown"
+    },
     "149369": {
       "name": "DEKADATA",
       "type": "Cable/DSL/ISP"
@@ -131581,7 +131621,7 @@
       "type": "Unknown"
     },
     "198135": {
-      "name": "MOFE-IO",
+      "name": "MONET",
       "type": "Educational/Research"
     },
     "198150": {
@@ -136233,7 +136273,7 @@
       "type": "Unknown"
     },
     "34565": {
-      "name": "TurkIX Route Servers",
+      "name": "TurkIX Sofia",
       "type": "Content"
     },
     "199710": {
@@ -138034,7 +138074,7 @@
     },
     "154458": {
       "name": "PT Satya Yudhistira Ranajaya",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "154503": {
       "name": "TrimafaNet",
