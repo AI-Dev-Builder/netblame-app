@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-10T00:25:56.767Z",
+  "updated_at": "2026-05-11T00:26:22.246Z",
   "source": "PeeringDB",
-  "entry_count": 34562,
+  "entry_count": 34563,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -10493,7 +10493,7 @@
       "type": "NSP"
     },
     "39216": {
-      "name": "AlsardFiber",
+      "name": "Pulk Company",
       "type": "NSP"
     },
     "18049": {
@@ -49208,10 +49208,6 @@
       "name": "Sumber Teknologi Sejahtera",
       "type": "Content"
     },
-    "139897": {
-      "name": "TECH99",
-      "type": "Content"
-    },
     "38425": {
       "name": "KRIX(SEJONG) Route Servers",
       "type": "Route Server"
@@ -75621,7 +75617,7 @@
       "type": "Cable/DSL/ISP"
     },
     "199763": {
-      "name": "Piotr Chrzanowski",
+      "name": "PCELA-NET",
       "type": "Non-Profit"
     },
     "136598": {
@@ -77159,10 +77155,6 @@
     "46026": {
       "name": "BATAM BINTAN TELEKOMUNIKASI, PT",
       "type": "Cable/DSL/ISP"
-    },
-    "63796": {
-      "name": "Next Network Research Laboratory",
-      "type": "Educational/Research"
     },
     "132101": {
       "name": "CUG",
@@ -105141,7 +105133,7 @@
       "type": "Cable/DSL/ISP"
     },
     "153869": {
-      "name": "NIMVI-AS-AP",
+      "name": "Newisland Media Vision",
       "type": "Unknown"
     },
     "197058": {
@@ -105198,7 +105190,7 @@
     },
     "199649": {
       "name": "KTSTECH-AS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "198138": {
       "name": "tanaka-as",
@@ -105299,6 +105291,14 @@
     "275730": {
       "name": "ASN275730",
       "type": "NSP"
+    },
+    "215208": {
+      "name": "PRIMA - AS215208",
+      "type": "Unknown"
+    },
+    "154466": {
+      "name": "IRINN-OJI001-AS-IN",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -121208,6 +121208,10 @@
       "name": "NERVICOM",
       "type": "Network Services"
     },
+    "209699": {
+      "name": "Coaxial Cable",
+      "type": "Unknown"
+    },
     "268042": {
       "name": "JETNET COMUNICACAO",
       "type": "Unknown"
@@ -131566,7 +131570,7 @@
     },
     "198186": {
       "name": "Sondre Hoslemo",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "149369": {
       "name": "DEKADATA",
