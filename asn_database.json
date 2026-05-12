@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-11T00:26:22.246Z",
+  "updated_at": "2026-05-12T00:26:36.377Z",
   "source": "PeeringDB",
-  "entry_count": 34563,
+  "entry_count": 34557,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -3211,10 +3211,6 @@
     "27924": {
       "name": "Amplia",
       "type": "Cable/DSL/ISP"
-    },
-    "6473": {
-      "name": "Vidillion Inc",
-      "type": "Content"
     },
     "2611": {
       "name": "BELNET",
@@ -22731,10 +22727,6 @@
     "50515": {
       "name": "Tier SRL",
       "type": "Enterprise"
-    },
-    "204121": {
-      "name": "ADAL NETWORK SRL",
-      "type": "Cable/DSL/ISP"
     },
     "199510": {
       "name": "WIFIMAX",
@@ -53144,6 +53136,10 @@
       "name": "Tassilo Schweyer",
       "type": "Content"
     },
+    "202498": {
+      "name": "Tinkoff Mobile",
+      "type": "Unknown"
+    },
     "269173": {
       "name": "TECNET TELECOM",
       "type": "NSP"
@@ -55700,10 +55696,6 @@
       "name": "HERITAGE BROADBAND",
       "type": "Cable/DSL/ISP"
     },
-    "398782": {
-      "name": "Premiere Digital Services",
-      "type": "Unknown"
-    },
     "270277": {
       "name": "Nexus Telecom",
       "type": "NSP"
@@ -57215,10 +57207,6 @@
     "267261": {
       "name": "PROXER TELECOMUNICAÇÕES LTDA ME",
       "type": "Unknown"
-    },
-    "212342": {
-      "name": "Cryptid Networking",
-      "type": "Non-Profit"
     },
     "270288": {
       "name": "WISP SOLUCOES DE ACESSO",
@@ -66912,10 +66900,6 @@
       "name": "ADN International Gateway",
       "type": "Network Services"
     },
-    "400050": {
-      "name": "OLOGY",
-      "type": "Unknown"
-    },
     "213063": {
       "name": "MicroWifi",
       "type": "Cable/DSL/ISP"
@@ -70135,6 +70119,10 @@
     "133398": {
       "name": "Tele Asia",
       "type": "Unknown"
+    },
+    "210546": {
+      "name": "CHSL ONE LTD",
+      "type": "Content"
     },
     "136356": {
       "name": "Purenet Telecom India",
@@ -78162,7 +78150,7 @@
     },
     "36963": {
       "name": "Orange Botswana",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "61190": {
       "name": "Route Servers FogIXP Regional",
@@ -82616,10 +82604,6 @@
       "name": "LANJET",
       "type": "Unknown"
     },
-    "30654": {
-      "name": "ANODYNE",
-      "type": "Unknown"
-    },
     "215795": {
       "name": "DamiNet",
       "type": "Educational/Research"
@@ -84130,10 +84114,6 @@
     },
     "152487": {
       "name": "Classic Marble Company Private Limited",
-      "type": "Unknown"
-    },
-    "215479": {
-      "name": "Perfecto Consultoria E Apoio Administrativo LTDA",
       "type": "Unknown"
     },
     "14523": {
@@ -86739,10 +86719,6 @@
     "214701": {
       "name": "Herman Andgart",
       "type": "Educational/Research"
-    },
-    "214676": {
-      "name": "Arun Malik",
-      "type": "Unknown"
     },
     "132104": {
       "name": "Fars Route Information Technology Services Company",
@@ -91580,10 +91556,6 @@
       "name": "Telecomunicações Riograndense Ltda",
       "type": "Unknown"
     },
-    "213762": {
-      "name": "Sochan Serafino trading as AstralHost",
-      "type": "Unknown"
-    },
     "139424": {
       "name": "BIG NET INDONESIA(139424)",
       "type": "Cable/DSL/ISP"
@@ -93553,7 +93525,7 @@
       "type": "Network Services"
     },
     "153701": {
-      "name": "DIZITEL",
+      "name": "DIZITEL FUTURETECH PVT LTD",
       "type": "Unknown"
     },
     "397958": {
@@ -95614,10 +95586,6 @@
     },
     "401608": {
       "name": "Hunter Web LLC",
-      "type": "Unknown"
-    },
-    "203122": {
-      "name": "YELLOWNET",
       "type": "Unknown"
     },
     "136214": {
@@ -104432,10 +104400,6 @@
       "name": "Anel de Conectividade - Infovia Paraná",
       "type": "Educational/Research"
     },
-    "199277": {
-      "name": "Maksims Doronkins",
-      "type": "Unknown"
-    },
     "153554": {
       "name": "Digital Bangun Mandiri",
       "type": "Unknown"
@@ -105125,7 +105089,7 @@
       "type": "Unknown"
     },
     "402476": {
-      "name": "PIT",
+      "name": "PIT - USA - IP Services",
       "type": "Unknown"
     },
     "273006": {
@@ -105298,6 +105262,18 @@
     },
     "154466": {
       "name": "IRINN-OJI001-AS-IN",
+      "type": "Unknown"
+    },
+    "273500": {
+      "name": "ASN273500",
+      "type": "Unknown"
+    },
+    "151594": {
+      "name": "Politeknik Penerbangan Surabaya",
+      "type": "Unknown"
+    },
+    "63154": {
+      "name": "DCCC",
       "type": "Unknown"
     },
     "22822": {
@@ -110526,6 +110502,10 @@
     },
     "135219": {
       "name": "Sai Net Solution",
+      "type": "Cable/DSL/ISP"
+    },
+    "204121": {
+      "name": "ADAL NETWORK SRL",
       "type": "Cable/DSL/ISP"
     },
     "264247": {
@@ -125958,7 +125938,7 @@
     },
     "57469": {
       "name": "Stadtwerke Bruneck",
-      "type": "NSP"
+      "type": "Network Services"
     },
     "271876": {
       "name": "CHAYAY",
@@ -128860,10 +128840,6 @@
       "name": "NETPONTAL PROVEDOR DE INTERNET",
       "type": "Cable/DSL/ISP"
     },
-    "210546": {
-      "name": "CHSL ONE LTD",
-      "type": "Unknown"
-    },
     "132430": {
       "name": "Adelaide Venue",
       "type": "Enterprise"
@@ -130470,7 +130446,7 @@
     },
     "1000": {
       "name": "LINK AMERICAN",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "137391": {
       "name": "Rings-3",
@@ -130711,10 +130687,6 @@
     "200034": {
       "name": "CDA SYSTEM",
       "type": "Unknown"
-    },
-    "199785": {
-      "name": "Cloud Hosting Solutions",
-      "type": "Content"
     },
     "147185": {
       "name": "INFYNIX DATA SERVICES",
@@ -135948,6 +135920,10 @@
       "name": "Kondotthai Co",
       "type": "Unknown"
     },
+    "63286": {
+      "name": "NextServ",
+      "type": "Network Services"
+    },
     "197563": {
       "name": "GNM UA",
       "type": "NSP"
@@ -136523,10 +136499,6 @@
     "208754": {
       "name": "Chiyoda Network",
       "type": "Educational/Research"
-    },
-    "398770": {
-      "name": "Twisted Computing",
-      "type": "Cable/DSL/ISP"
     },
     "208913": {
       "name": "Kitsune Hosting",
@@ -138094,7 +138066,7 @@
     },
     "200378": {
       "name": "kitsunet",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "200386": {
       "name": "Igor Iamolov",
@@ -138204,6 +138176,10 @@
       "name": "NyaIP",
       "type": "Content"
     },
+    "199277": {
+      "name": "Maksims Doronkins",
+      "type": "Unknown"
+    },
     "39889": {
       "name": "DCS Networks - Nordic",
       "type": "Network Services"
@@ -138253,7 +138229,7 @@
       "type": "Content"
     },
     "154657": {
-      "name": "IDNIC-PANHANET-ID",
+      "name": "PT PANHA NETWORK SOLUTION",
       "type": "Enterprise"
     }
   }
