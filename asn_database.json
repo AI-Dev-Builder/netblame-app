@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-12T00:26:36.377Z",
+  "updated_at": "2026-05-13T00:28:45.848Z",
   "source": "PeeringDB",
-  "entry_count": 34557,
+  "entry_count": 34578,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -26492,6 +26492,10 @@
       "name": "MOSCONNECT LLC",
       "type": "NSP"
     },
+    "197658": {
+      "name": "KBEUG-NETWORK",
+      "type": "Educational/Research"
+    },
     "198551": {
       "name": "Societe Atlantique de Telephonie et Communication SARL",
       "type": "Cable/DSL/ISP"
@@ -29250,7 +29254,7 @@
     },
     "265702": {
       "name": "AZUL NETWORKS",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "132829": {
       "name": "Nevigate Communications",
@@ -40236,6 +40240,10 @@
       "name": "Daulatpur Online",
       "type": "Cable/DSL/ISP"
     },
+    "9136": {
+      "name": "WOBCOM",
+      "type": "Cable/DSL/ISP"
+    },
     "209989": {
       "name": "LRT",
       "type": "Enterprise"
@@ -45130,7 +45138,7 @@
     },
     "33541": {
       "name": "Cable Cable",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "264514": {
       "name": "DESCALNET PROVEDOR",
@@ -71934,7 +71942,7 @@
     },
     "52130": {
       "name": "Livesport",
-      "type": "Unknown"
+      "type": "Content"
     },
     "328218": {
       "name": "WASP",
@@ -80744,10 +80752,6 @@
       "name": "ASPHALT MATERIALS, INC",
       "type": "Unknown"
     },
-    "31409": {
-      "name": "SelTelecom-Net",
-      "type": "Cable/DSL/ISP"
-    },
     "51367": {
       "name": "UA OPTOLAN",
       "type": "Cable/DSL/ISP"
@@ -82500,10 +82504,6 @@
       "name": "MAULEE BROADBAND",
       "type": "Cable/DSL/ISP"
     },
-    "151049": {
-      "name": "ATSS Fiber",
-      "type": "Cable/DSL/ISP"
-    },
     "56812": {
       "name": "CHP Zarko Alexandr Ivanovich",
       "type": "Unknown"
@@ -83840,6 +83840,10 @@
       "name": "AT-I",
       "type": "Cable/DSL/ISP"
     },
+    "215549": {
+      "name": "ENS-IX route-server",
+      "type": "Route Server"
+    },
     "273449": {
       "name": "Novanet Amaraji",
       "type": "Cable/DSL/ISP"
@@ -84181,7 +84185,7 @@
       "type": "Unknown"
     },
     "215323": {
-      "name": "MOMANIC",
+      "name": "SGM",
       "type": "Enterprise"
     },
     "215321": {
@@ -101810,7 +101814,7 @@
     },
     "273238": {
       "name": "CABLE EXITO S.A.S.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "21077": {
       "name": "ISP4BAS",
@@ -103612,10 +103616,6 @@
       "name": "DATAVOIP, C.A",
       "type": "Unknown"
     },
-    "214640": {
-      "name": "Hostup",
-      "type": "Unknown"
-    },
     "200135": {
       "name": "PT Pabrik Gula Rajawali II",
       "type": "Enterprise"
@@ -105213,8 +105213,8 @@
       "type": "Unknown"
     },
     "197861": {
-      "name": "FMR-ASN",
-      "type": "Unknown"
+      "name": "FMR NET",
+      "type": "Educational/Research"
     },
     "53959": {
       "name": "PSDATA",
@@ -105270,10 +105270,78 @@
     },
     "151594": {
       "name": "Politeknik Penerbangan Surabaya",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "63154": {
       "name": "DCCC",
+      "type": "Unknown"
+    },
+    "138321": {
+      "name": "Lunasla",
+      "type": "Unknown"
+    },
+    "153734": {
+      "name": "RADANNET",
+      "type": "Network Services"
+    },
+    "63730": {
+      "name": "VNSO-VN",
+      "type": "Unknown"
+    },
+    "329734": {
+      "name": "ORG-ZF1-AFRINIC",
+      "type": "Unknown"
+    },
+    "198230": {
+      "name": "E-CHO-AS",
+      "type": "Unknown"
+    },
+    "8960": {
+      "name": "SH-IX Fujairah Route Servers",
+      "type": "Route Server"
+    },
+    "8961": {
+      "name": "SH-IX Dubai Route Servers",
+      "type": "Route Server"
+    },
+    "197806": {
+      "name": "STRLCAT",
+      "type": "Content"
+    },
+    "399049": {
+      "name": "JW-FLASHFIBER-01",
+      "type": "Unknown"
+    },
+    "402504": {
+      "name": "AS-AURORA-HOSTING",
+      "type": "Unknown"
+    },
+    "212386": {
+      "name": "cdctelco",
+      "type": "Enterprise"
+    },
+    "202485": {
+      "name": "NUBISYSTEM",
+      "type": "Unknown"
+    },
+    "274183": {
+      "name": "274183",
+      "type": "Unknown"
+    },
+    "197758": {
+      "name": "NXLAYER",
+      "type": "Unknown"
+    },
+    "207885": {
+      "name": "malissa",
+      "type": "Unknown"
+    },
+    "199154": {
+      "name": "Airdress",
+      "type": "Content"
+    },
+    "265025": {
+      "name": "ASN265025",
       "type": "Unknown"
     },
     "22822": {
@@ -116894,10 +116962,6 @@
     },
     "49070": {
       "name": "Telecompany Viza-2",
-      "type": "Cable/DSL/ISP"
-    },
-    "9136": {
-      "name": "WOBCOM",
       "type": "Cable/DSL/ISP"
     },
     "266470": {
@@ -131542,7 +131606,7 @@
     },
     "198186": {
       "name": "Sondre Hoslemo",
-      "type": "Cable/DSL/ISP"
+      "type": "Content"
     },
     "149369": {
       "name": "DEKADATA",
@@ -131911,6 +131975,10 @@
     "271126": {
       "name": "ONDANET PE",
       "type": "Cable/DSL/ISP"
+    },
+    "198055": {
+      "name": "HavenRacks",
+      "type": "Non-Profit"
     },
     "202564": {
       "name": "ITcity",
@@ -132532,6 +132600,10 @@
       "name": "TOP LAN NET",
       "type": "Cable/DSL/ISP"
     },
+    "31409": {
+      "name": "SelTelecom-Net",
+      "type": "Cable/DSL/ISP"
+    },
     "17139": {
       "name": "ColoradoColo",
       "type": "Content"
@@ -133023,6 +133095,10 @@
     "151720": {
       "name": "Drv Digital Network",
       "type": "Unknown"
+    },
+    "151049": {
+      "name": "ATSS Fiber",
+      "type": "Cable/DSL/ISP"
     },
     "271532": {
       "name": "TURBONET SERVIÇOS DE COMUNICAÇAO EIRELI",
@@ -135342,7 +135418,7 @@
     },
     "26954": {
       "name": "AS26954 Network",
-      "type": "Enterprise"
+      "type": "Non-Profit"
     },
     "200200": {
       "name": "Iraq Al-wataniyah",
@@ -138112,6 +138188,10 @@
       "name": "Lancelot BV",
       "type": "Network Services"
     },
+    "214640": {
+      "name": "Hostup",
+      "type": "Unknown"
+    },
     "199794": {
       "name": "EMOCLOUD LTD",
       "type": "Educational/Research"
@@ -138206,7 +138286,7 @@
     },
     "198679": {
       "name": "RADZI",
-      "type": "Educational/Research"
+      "type": "Content"
     },
     "56401": {
       "name": "MIRTELEKOM",
@@ -138231,6 +138311,10 @@
     "154657": {
       "name": "PT PANHA NETWORK SOLUTION",
       "type": "Enterprise"
+    },
+    "154665": {
+      "name": "UN-AS-AP",
+      "type": "NSP"
     }
   }
 }
