@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-13T00:28:45.848Z",
+  "updated_at": "2026-05-14T00:29:59.347Z",
   "source": "PeeringDB",
-  "entry_count": 34578,
+  "entry_count": 34585,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -14676,6 +14676,10 @@
       "name": "Nexus One",
       "type": "NSP"
     },
+    "199256": {
+      "name": "VOLT-ASN",
+      "type": "Enterprise"
+    },
     "53163": {
       "name": "CONID - CIA NACIONAL PARA INCLUSAO DIGITAL",
       "type": "NSP"
@@ -16700,10 +16704,6 @@
       "name": "BUROSERV AUSTRALIA Pty Ltd",
       "type": "NSP"
     },
-    "133959": {
-      "name": "Owentis - Singapore",
-      "type": "Cable/DSL/ISP"
-    },
     "24138": {
       "name": "China Tietong",
       "type": "Cable/DSL/ISP"
@@ -17959,10 +17959,6 @@
     "264887": {
       "name": "Voar Telecomunicações",
       "type": "Cable/DSL/ISP"
-    },
-    "200921": {
-      "name": "Bitskin GmbH",
-      "type": "Content"
     },
     "27216": {
       "name": "Air Advantage LLC",
@@ -26492,10 +26488,6 @@
       "name": "MOSCONNECT LLC",
       "type": "NSP"
     },
-    "197658": {
-      "name": "KBEUG-NETWORK",
-      "type": "Educational/Research"
-    },
     "198551": {
       "name": "Societe Atlantique de Telephonie et Communication SARL",
       "type": "Cable/DSL/ISP"
@@ -31308,10 +31300,6 @@
       "name": "MUDAH-MY",
       "type": "Unknown"
     },
-    "42977": {
-      "name": "Ambientia",
-      "type": "Content"
-    },
     "136902": {
       "name": "Alegra Communication",
       "type": "Cable/DSL/ISP"
@@ -33767,10 +33755,6 @@
     "20655": {
       "name": "e-Style ISP",
       "type": "NSP"
-    },
-    "267489": {
-      "name": "NEOVEX COMERCIO E SERVICOS DE TELECOMUNICACOES",
-      "type": "Unknown"
     },
     "7735": {
       "name": "REDSHIFT",
@@ -41340,10 +41324,6 @@
       "name": "NOVARJ TELECOMUNICACOES E SERVICOS LTDA-ME",
       "type": "Unknown"
     },
-    "39934": {
-      "name": "Roico Net",
-      "type": "Content"
-    },
     "50867": {
       "name": "HOSTKEY",
       "type": "Content"
@@ -43717,7 +43697,7 @@
       "type": "Unknown"
     },
     "139023": {
-      "name": "Titan Telecoms Pty Ltd",
+      "name": "WaveSquared Pty Ltd",
       "type": "Network Services"
     },
     "328409": {
@@ -55004,6 +54984,10 @@
       "name": "INTERA COMUNICA  O MULTIMIDIA E INFORMATICA",
       "type": "NSP"
     },
+    "208485": {
+      "name": "PINHOUSE LIMITED",
+      "type": "Unknown"
+    },
     "265279": {
       "name": "Soft System Informatica",
       "type": "Cable/DSL/ISP"
@@ -61151,6 +61135,10 @@
     "267404": {
       "name": "Vero Internet AS267404",
       "type": "Unknown"
+    },
+    "208476": {
+      "name": "RootLink",
+      "type": "Enterprise"
     },
     "271711": {
       "name": "LIGMAX PROVEDOR DE ACESSO A INTERNET LTDA",
@@ -77008,10 +76996,6 @@
       "name": "A.b. Infotech",
       "type": "Unknown"
     },
-    "202201": {
-      "name": "Hayder Sattar Mohammed",
-      "type": "Unknown"
-    },
     "55236": {
       "name": "CBC",
       "type": "Cable/DSL/ISP"
@@ -79163,6 +79147,10 @@
     "202907": {
       "name": "ATOMICIT",
       "type": "Enterprise"
+    },
+    "198055": {
+      "name": "HavenRacks",
+      "type": "Content"
     },
     "38600": {
       "name": "Smart Axiata Co., Ltd.",
@@ -82006,10 +81994,6 @@
     },
     "329124": {
       "name": "True Technologies",
-      "type": "Unknown"
-    },
-    "215890": {
-      "name": "Blackstone Manufacturing",
       "type": "Unknown"
     },
     "399756": {
@@ -93530,7 +93514,7 @@
     },
     "153701": {
       "name": "DIZITEL FUTURETECH PVT LTD",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "397958": {
       "name": "Sunoaki Network Premium Connection",
@@ -94810,10 +94794,6 @@
     },
     "146956": {
       "name": "Hamid Electronics and Automobiles",
-      "type": "Unknown"
-    },
-    "214196": {
-      "name": "Vladylsav Naumets",
       "type": "Unknown"
     },
     "274728": {
@@ -97050,7 +97030,7 @@
     },
     "206115": {
       "name": "MIKRON-BILISIM",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "153774": {
       "name": "Microcyber Data Indonesia",
@@ -98999,10 +98979,6 @@
     "141052": {
       "name": "Institut Agama Islam Negeri Metro",
       "type": "Unknown"
-    },
-    "401988": {
-      "name": "5005 LLC",
-      "type": "Enterprise"
     },
     "14965": {
       "name": "ALDERA-NL",
@@ -102628,10 +102604,6 @@
       "name": "La Maison Simons Inc.",
       "type": "Enterprise"
     },
-    "21217": {
-      "name": "SAFEHOSTNET",
-      "type": "Unknown"
-    },
     "142221": {
       "name": "FAZZNET",
       "type": "Unknown"
@@ -104574,7 +104546,7 @@
     },
     "199037": {
       "name": "NAUCRAR",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "198756": {
       "name": "Joseph Portillo",
@@ -105266,7 +105238,7 @@
     },
     "273500": {
       "name": "ASN273500",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "151594": {
       "name": "Politeknik Penerbangan Surabaya",
@@ -105342,6 +105314,54 @@
     },
     "265025": {
       "name": "ASN265025",
+      "type": "Unknown"
+    },
+    "17080": {
+      "name": "CHUUNILAB-01",
+      "type": "Unknown"
+    },
+    "153963": {
+      "name": "IDNIC-ASCESA-AS-ID",
+      "type": "Unknown"
+    },
+    "154283": {
+      "name": "PR1MA-AS-AP",
+      "type": "Unknown"
+    },
+    "154561": {
+      "name": "CEX-AS-AP",
+      "type": "Unknown"
+    },
+    "197652": {
+      "name": "Universität Bremen",
+      "type": "Unknown"
+    },
+    "214260": {
+      "name": "ITCommunications",
+      "type": "Content"
+    },
+    "204381": {
+      "name": "DLAG-AS",
+      "type": "Unknown"
+    },
+    "216186": {
+      "name": "AS_PENTEST",
+      "type": "Unknown"
+    },
+    "401527": {
+      "name": "APPALYTICS-MAIN",
+      "type": "Unknown"
+    },
+    "55999": {
+      "name": "SAKURA-TELECOM",
+      "type": "Enterprise"
+    },
+    "197676": {
+      "name": "NODREX Cloud",
+      "type": "Cable/DSL/ISP"
+    },
+    "197613": {
+      "name": "NMARSHALL-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -111667,6 +111687,10 @@
     "263103": {
       "name": "VivaNet Informatica - LTDA",
       "type": "NSP"
+    },
+    "197658": {
+      "name": "KBEUG-NETWORK",
+      "type": "Educational/Research"
     },
     "134043": {
       "name": "SG IT Infotech Pvt. Ltd.",
@@ -131976,10 +132000,6 @@
       "name": "ONDANET PE",
       "type": "Cable/DSL/ISP"
     },
-    "198055": {
-      "name": "HavenRacks",
-      "type": "Non-Profit"
-    },
     "202564": {
       "name": "ITcity",
       "type": "Cable/DSL/ISP"
@@ -137328,6 +137348,10 @@
       "name": "PIXOOF TEKNOLOJI ANONIM SIRKETI",
       "type": "Content"
     },
+    "401988": {
+      "name": "5005 LLC",
+      "type": "Enterprise"
+    },
     "401665": {
       "name": "HostBilby Inc.",
       "type": "Content"
@@ -138027,6 +138051,10 @@
     "149616": {
       "name": "Saileelas Internet Service Private Limited",
       "type": "Cable/DSL/ISP"
+    },
+    "21217": {
+      "name": "Vaultica Data Centers AS21217",
+      "type": "Unknown"
     },
     "201033": {
       "name": "DEV-NULL",
