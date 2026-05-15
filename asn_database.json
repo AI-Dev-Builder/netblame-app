@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-14T00:29:59.347Z",
+  "updated_at": "2026-05-15T00:27:48.477Z",
   "source": "PeeringDB",
-  "entry_count": 34585,
+  "entry_count": 34598,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -40466,7 +40466,7 @@
     },
     "201719": {
       "name": "Teleklik",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "62814": {
       "name": "ZETA BROADBAND",
@@ -71981,7 +71981,7 @@
       "type": "Unknown"
     },
     "211877": {
-      "name": "TurkIX Istanbul",
+      "name": "TurkIX Istanbul RS",
       "type": "Route Server"
     },
     "2934": {
@@ -78848,6 +78848,10 @@
       "name": "WNS Global Services Pvt Ltd",
       "type": "Unknown"
     },
+    "197817": {
+      "name": "NYCO-CLOUD-NETWORK",
+      "type": "Unknown"
+    },
     "197841": {
       "name": "Michael Newcomb",
       "type": "Educational/Research"
@@ -85379,6 +85383,10 @@
     "150624": {
       "name": "Khatore It Solutions",
       "type": "Cable/DSL/ISP"
+    },
+    "215035": {
+      "name": "CONNECT-IX",
+      "type": "Network Services"
     },
     "268879": {
       "name": "RASÃO SYGANET TELECOMUNICAÇÕES LTDA",
@@ -96724,10 +96732,6 @@
       "name": "BANATSYNC",
       "type": "Enterprise"
     },
-    "210079": {
-      "name": "EUROBYTE",
-      "type": "Unknown"
-    },
     "206470": {
       "name": "Menzel IT GmbH",
       "type": "Cable/DSL/ISP"
@@ -99026,7 +99030,7 @@
     },
     "154267": {
       "name": "JMJR ENTERPRISES OPC",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "43467": {
       "name": "SEC",
@@ -103542,7 +103546,7 @@
     },
     "199890": {
       "name": "Nguyen Quang Minh",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "199870": {
       "name": "ERA-IX Route Servers Paris",
@@ -104977,8 +104981,8 @@
       "type": "Unknown"
     },
     "139861": {
-      "name": "CLOUDTORQUE-AS-AP",
-      "type": "Unknown"
+      "name": "CLOUDTORQUE",
+      "type": "Enterprise"
     },
     "154027": {
       "name": "IRINN-NETIQ-AS-IN",
@@ -105253,19 +105257,19 @@
       "type": "Unknown"
     },
     "153734": {
-      "name": "RADANNET",
+      "name": "RADAN TECH NETWORKS PVT LTD",
       "type": "Network Services"
     },
     "63730": {
-      "name": "VNSO-VN",
+      "name": "VNSO TECHNOLOGY JOINT STOCK COMPANY",
       "type": "Unknown"
     },
     "329734": {
-      "name": "ORG-ZF1-AFRINIC",
+      "name": "Zoom Fibre",
       "type": "Unknown"
     },
     "198230": {
-      "name": "E-CHO-AS",
+      "name": "E-Cho Sp. z o.o.",
       "type": "Unknown"
     },
     "8960": {
@@ -105281,11 +105285,11 @@
       "type": "Content"
     },
     "399049": {
-      "name": "JW-FLASHFIBER-01",
+      "name": "Joe Wheeler EMC",
       "type": "Unknown"
     },
     "402504": {
-      "name": "AS-AURORA-HOSTING",
+      "name": "Ajax Networks, LLC",
       "type": "Unknown"
     },
     "212386": {
@@ -105313,7 +105317,7 @@
       "type": "Content"
     },
     "265025": {
-      "name": "ASN265025",
+      "name": "PAINEIRAS NET TELECOM - EIRELI - ME",
       "type": "Unknown"
     },
     "17080": {
@@ -105321,11 +105325,11 @@
       "type": "Unknown"
     },
     "153963": {
-      "name": "IDNIC-ASCESA-AS-ID",
+      "name": "PT Lengkong Network Indonesia",
       "type": "Unknown"
     },
     "154283": {
-      "name": "PR1MA-AS-AP",
+      "name": "PR1MA COMMUNICATIONS SDN. BHD.",
       "type": "Unknown"
     },
     "154561": {
@@ -105363,6 +105367,50 @@
     "197613": {
       "name": "NMARSHALL-AS",
       "type": "Unknown"
+    },
+    "274208": {
+      "name": "274208",
+      "type": "Unknown"
+    },
+    "136765": {
+      "name": "VANOV-AS-AP",
+      "type": "Unknown"
+    },
+    "150937": {
+      "name": "IDNIC-NEUTRON-AS-ID",
+      "type": "Unknown"
+    },
+    "154680": {
+      "name": "IRINN-UBIFI-AS-IN",
+      "type": "Unknown"
+    },
+    "149680": {
+      "name": "IDNIC-RESTUMEDIA-AS-ID",
+      "type": "Unknown"
+    },
+    "207709": {
+      "name": "HIZHOSTING",
+      "type": "Unknown"
+    },
+    "22526": {
+      "name": "ITC-ASN",
+      "type": "Unknown"
+    },
+    "142200": {
+      "name": "NETNOVA-AS-AP",
+      "type": "Unknown"
+    },
+    "202189": {
+      "name": "NS-AS",
+      "type": "Unknown"
+    },
+    "131145": {
+      "name": "EMAX-NET",
+      "type": "Unknown"
+    },
+    "198839": {
+      "name": "MCASYS",
+      "type": "Enterprise"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -136349,7 +136397,7 @@
       "type": "Unknown"
     },
     "34565": {
-      "name": "TurkIX Sofia",
+      "name": "TurkIX Sofia RS",
       "type": "Content"
     },
     "199710": {
@@ -136923,6 +136971,10 @@
     "206604": {
       "name": "Belka's network",
       "type": "Educational/Research"
+    },
+    "210079": {
+      "name": "EUROBYTE",
+      "type": "Content"
     },
     "216139": {
       "name": "IRONHOST",
