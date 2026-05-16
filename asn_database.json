@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-15T00:27:48.477Z",
+  "updated_at": "2026-05-16T00:25:48.624Z",
   "source": "PeeringDB",
-  "entry_count": 34598,
+  "entry_count": 34607,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -13006,7 +13006,7 @@
     },
     "27879": {
       "name": "Informática y Telecomunicaciones S.A.",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "52447": {
       "name": "Cooperativa Cootelser Ltda. - Santa Clara del Mar B.A. Argentina",
@@ -26122,7 +26122,7 @@
     },
     "133001": {
       "name": "Airnet Cable And Datacom Pvt Ltd",
-      "type": "Cable/DSL/ISP"
+      "type": "Network Services"
     },
     "52467": {
       "name": "Universidad de Ibague",
@@ -59705,7 +59705,7 @@
       "type": "Unknown"
     },
     "19": {
-      "name": "Leidos",
+      "name": "Leidos, Inc.",
       "type": "Unknown"
     },
     "269654": {
@@ -83833,7 +83833,7 @@
       "type": "Route Server"
     },
     "273449": {
-      "name": "Novanet Amaraji",
+      "name": "Novanet Amaraji LTDA",
       "type": "Cable/DSL/ISP"
     },
     "151636": {
@@ -88293,7 +88293,7 @@
       "type": "Unknown"
     },
     "274603": {
-      "name": "FJr Telecom",
+      "name": "FJ TELECOM LTDA",
       "type": "Cable/DSL/ISP"
     },
     "214365": {
@@ -89745,8 +89745,8 @@
       "type": "Enterprise"
     },
     "212079": {
-      "name": "SWEROAM-SE",
-      "type": "Unknown"
+      "name": "Sweroam",
+      "type": "NSP"
     },
     "214028": {
       "name": "Mahdi Umran Dzakwan Akmaludin",
@@ -103814,7 +103814,7 @@
     },
     "153596": {
       "name": "SWIS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "329714": {
       "name": "IMARA HOME FIBRE",
@@ -105264,10 +105264,6 @@
       "name": "VNSO TECHNOLOGY JOINT STOCK COMPANY",
       "type": "Unknown"
     },
-    "329734": {
-      "name": "Zoom Fibre",
-      "type": "Unknown"
-    },
     "198230": {
       "name": "E-Cho Sp. z o.o.",
       "type": "Unknown"
@@ -105349,7 +105345,7 @@
       "type": "Unknown"
     },
     "216186": {
-      "name": "AS_PENTEST",
+      "name": "Pen Test Partners LLP",
       "type": "Unknown"
     },
     "401527": {
@@ -105369,15 +105365,15 @@
       "type": "Unknown"
     },
     "274208": {
-      "name": "274208",
+      "name": "VERLA S.A.S.",
       "type": "Unknown"
     },
     "136765": {
-      "name": "VANOV-AS-AP",
+      "name": "Vanov Technology Unipessoal Lda",
       "type": "Unknown"
     },
     "150937": {
-      "name": "IDNIC-NEUTRON-AS-ID",
+      "name": "PT Neutron Mitra Nusantara",
       "type": "Unknown"
     },
     "154680": {
@@ -105401,16 +105397,48 @@
       "type": "Unknown"
     },
     "202189": {
-      "name": "NS-AS",
+      "name": "NS Groep N.V.",
       "type": "Unknown"
     },
     "131145": {
-      "name": "EMAX-NET",
+      "name": "e-MAX NETWORK CORP.",
       "type": "Unknown"
     },
     "198839": {
       "name": "MCASYS",
       "type": "Enterprise"
+    },
+    "18414": {
+      "name": "FOX L3 Service",
+      "type": "Network Services"
+    },
+    "56320": {
+      "name": "VIKING-AS",
+      "type": "Unknown"
+    },
+    "213678": {
+      "name": "CYBERMAX",
+      "type": "Unknown"
+    },
+    "203648": {
+      "name": "TERANET",
+      "type": "Cable/DSL/ISP"
+    },
+    "211804": {
+      "name": "SISTEMDC",
+      "type": "Unknown"
+    },
+    "197583": {
+      "name": "NEXARUBE !",
+      "type": "Unknown"
+    },
+    "329747": {
+      "name": "ORG-BDFL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "274415": {
+      "name": "274415",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -136909,7 +136937,7 @@
       "type": "NSP"
     },
     "273468": {
-      "name": "G3NET",
+      "name": "G3NET | INURA",
       "type": "Cable/DSL/ISP"
     },
     "153132": {
@@ -138392,9 +138420,17 @@
       "name": "PT PANHA NETWORK SOLUTION",
       "type": "Enterprise"
     },
+    "329734": {
+      "name": "Zoom Fibre",
+      "type": "Cable/DSL/ISP"
+    },
     "154665": {
       "name": "UN-AS-AP",
       "type": "NSP"
+    },
+    "329715": {
+      "name": "ORG-BL31-AFRINIC",
+      "type": "Enterprise"
     }
   }
 }
