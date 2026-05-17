@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-16T00:25:48.624Z",
+  "updated_at": "2026-05-17T00:27:12.790Z",
   "source": "PeeringDB",
-  "entry_count": 34607,
+  "entry_count": 34604,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -38364,10 +38364,6 @@
       "name": "Yota De Nicaragua",
       "type": "Unknown"
     },
-    "8328": {
-      "name": "SaaSplaza Nederland",
-      "type": "Unknown"
-    },
     "137827": {
       "name": "Cygnal Technologies",
       "type": "Cable/DSL/ISP"
@@ -57173,8 +57169,8 @@
       "type": "Unknown"
     },
     "209604": {
-      "name": "TWO E Telekom",
-      "type": "Unknown"
+      "name": "2E Telekom (TWO E Telekom)",
+      "type": "Network Services"
     },
     "270389": {
       "name": "Horacio Machado de Aquino",
@@ -65404,10 +65400,6 @@
       "name": "Loveika Host Nusantara",
       "type": "Cable/DSL/ISP"
     },
-    "141390": {
-      "name": "Dritestudio AS141390",
-      "type": "Unknown"
-    },
     "198918": {
       "name": "Interdol",
       "type": "Unknown"
@@ -68859,10 +68851,6 @@
     "272111": {
       "name": "DATA ONLINE PERU",
       "type": "NSP"
-    },
-    "210632": {
-      "name": "NOVARA",
-      "type": "Content"
     },
     "43524": {
       "name": "BREM-IX Route Servers",
@@ -73792,6 +73780,10 @@
       "name": "Misaka Network (AS142616)",
       "type": "Unknown"
     },
+    "200882": {
+      "name": "DC Innovations",
+      "type": "Network Services"
+    },
     "136888": {
       "name": "Petro One Indonesia",
       "type": "NSP"
@@ -77621,7 +77613,7 @@
       "type": "Unknown"
     },
     "397709": {
-      "name": "JackRabbit Wireless",
+      "name": "JackRabbit Internet",
       "type": "Cable/DSL/ISP"
     },
     "138865": {
@@ -82935,10 +82927,6 @@
     "152068": {
       "name": "Universitas Muhammadiyah A.R. Fachruddin",
       "type": "Unknown"
-    },
-    "215665": {
-      "name": "Marlon Alkan",
-      "type": "Educational/Research"
     },
     "152334": {
       "name": "Bhurungamari Broadband Network",
@@ -100748,10 +100736,6 @@
       "name": "Roshni Communication - AS154394",
       "type": "Cable/DSL/ISP"
     },
-    "214906": {
-      "name": "Cedric Hammes",
-      "type": "Content"
-    },
     "214449": {
       "name": "VERABYTE",
       "type": "Unknown"
@@ -103452,10 +103436,6 @@
       "name": "Airbytes (AS39420)",
       "type": "NSP"
     },
-    "39159": {
-      "name": "R.L Internet and Networks Ltd.",
-      "type": "NSP"
-    },
     "394680": {
       "name": "EssexTel, Inc.",
       "type": "Unknown"
@@ -105236,10 +105216,6 @@
       "name": "PRIMA - AS215208",
       "type": "Unknown"
     },
-    "154466": {
-      "name": "IRINN-OJI001-AS-IN",
-      "type": "Unknown"
-    },
     "273500": {
       "name": "ASN273500",
       "type": "NSP"
@@ -105438,6 +105414,10 @@
     },
     "274415": {
       "name": "274415",
+      "type": "Cable/DSL/ISP"
+    },
+    "151755": {
+      "name": "LNTDCNW-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -114607,10 +114587,6 @@
     "266098": {
       "name": "F.G.M. DA SILVA",
       "type": "Cable/DSL/ISP"
-    },
-    "266076": {
-      "name": "D-Net Soluções e Fibra Óptica",
-      "type": "NSP"
     },
     "267264": {
       "name": "JrFiber Telecomunicações",
@@ -128616,6 +128592,10 @@
       "name": "Fiber Life Internet",
       "type": "Cable/DSL/ISP"
     },
+    "210632": {
+      "name": "NOVARA",
+      "type": "Content"
+    },
     "269031": {
       "name": "LIKE PROVEDOR DE INTERNET LTDA",
       "type": "Cable/DSL/ISP"
@@ -130267,10 +130247,6 @@
     "149665": {
       "name": "CNDM",
       "type": "Cable/DSL/ISP"
-    },
-    "200882": {
-      "name": "DC Innovations",
-      "type": "Network Services"
     },
     "212164": {
       "name": "Jiaxian He",
@@ -133352,6 +133328,10 @@
       "name": "ALT TELECOM HFX",
       "type": "NSP"
     },
+    "215665": {
+      "name": "Marlon Alkan",
+      "type": "Educational/Research"
+    },
     "51692": {
       "name": "HyberHost",
       "type": "Content"
@@ -133474,10 +133454,6 @@
     },
     "273350": {
       "name": "Gns Telecom",
-      "type": "Cable/DSL/ISP"
-    },
-    "215592": {
-      "name": "PART0CLOUD NETWORK LIMITED",
       "type": "Cable/DSL/ISP"
     },
     "272827": {
@@ -135326,7 +135302,7 @@
     },
     "214145": {
       "name": "SPMZT",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "214668": {
       "name": "AXUSHOST",
@@ -137776,6 +137752,10 @@
       "name": "Gmina Miasto Koszalin",
       "type": "Unknown"
     },
+    "214906": {
+      "name": "Cedric Hammes",
+      "type": "Educational/Research"
+    },
     "150559": {
       "name": "PT Genezis Mitra Technology",
       "type": "Cable/DSL/ISP"
@@ -138054,7 +138034,7 @@
     },
     "201541": {
       "name": "Nedas Dozorec",
-      "type": "Educational/Research"
+      "type": "Non-Profit"
     },
     "11150": {
       "name": "American IX ★ SPFDMA Route Servers",
@@ -138276,6 +138256,10 @@
       "name": "Hanseung Kim",
       "type": "Unknown"
     },
+    "39159": {
+      "name": "R.L Internet and Networks Ltd.",
+      "type": "NSP"
+    },
     "329664": {
       "name": "AGAPETECH",
       "type": "Unknown"
@@ -138419,6 +138403,10 @@
     "154657": {
       "name": "PT PANHA NETWORK SOLUTION",
       "type": "Enterprise"
+    },
+    "154466": {
+      "name": "OJI COMMUNICATIONS PRIVATE LIMITED",
+      "type": "Cable/DSL/ISP"
     },
     "329734": {
       "name": "Zoom Fibre",
