@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-17T00:27:12.790Z",
+  "updated_at": "2026-05-18T00:28:25.793Z",
   "source": "PeeringDB",
-  "entry_count": 34604,
+  "entry_count": 34608,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -3679,10 +3679,6 @@
     "21513": {
       "name": "Epik Networks",
       "type": "Cable/DSL/ISP"
-    },
-    "46177": {
-      "name": "SimpleCDN Technologies, Inc.",
-      "type": "Enterprise"
     },
     "9150": {
       "name": "Interconnect Services BV",
@@ -19410,7 +19406,7 @@
     },
     "62068": {
       "name": "SpectraIP B.V.",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "201942": {
       "name": "Soltia Consulting SL",
@@ -37449,7 +37445,7 @@
       "type": "Cable/DSL/ISP"
     },
     "39335": {
-      "name": "June Slater",
+      "name": "AS39335",
       "type": "Cable/DSL/ISP"
     },
     "54198": {
@@ -47102,6 +47098,10 @@
     },
     "397081": {
       "name": "AU Wireless",
+      "type": "Cable/DSL/ISP"
+    },
+    "209451": {
+      "name": "ROUTEFENCE",
       "type": "Cable/DSL/ISP"
     },
     "133693": {
@@ -104858,7 +104858,7 @@
     },
     "213788": {
       "name": "ROMEO",
-      "type": "Unknown"
+      "type": "Content"
     },
     "154452": {
       "name": "Berkah Solution Tatawafaqu",
@@ -105418,6 +105418,18 @@
     },
     "151755": {
       "name": "LNTDCNW-AS",
+      "type": "Unknown"
+    },
+    "206212": {
+      "name": "Communications Regulatory Authority",
+      "type": "Government"
+    },
+    "269093": {
+      "name": "ASN269093",
+      "type": "NSP"
+    },
+    "214040": {
+      "name": "WEN-NET",
       "type": "Unknown"
     },
     "22822": {
@@ -106106,6 +106118,10 @@
     },
     "38826": {
       "name": "Infinite Networks",
+      "type": "NSP"
+    },
+    "46177": {
+      "name": "White Sky Hosting",
       "type": "NSP"
     },
     "22351": {
@@ -135489,7 +135505,7 @@
       "type": "NSP"
     },
     "26954": {
-      "name": "AS26954 Network",
+      "name": "Mihail Fedorov (AS26954)",
       "type": "Non-Profit"
     },
     "200200": {
