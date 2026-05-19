@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-18T00:28:25.793Z",
+  "updated_at": "2026-05-19T00:31:08.420Z",
   "source": "PeeringDB",
-  "entry_count": 34608,
+  "entry_count": 34618,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -7359,10 +7359,6 @@
     "56662": {
       "name": "e-utp.net",
       "type": "Non-Profit"
-    },
-    "197754": {
-      "name": "Christiaan Goossens",
-      "type": "Unknown"
     },
     "32586": {
       "name": "NWIC",
@@ -40369,7 +40365,7 @@
       "type": "Unknown"
     },
     "3389": {
-      "name": "Ford Motor AS",
+      "name": "Ford Motor Company",
       "type": "Unknown"
     },
     "44794": {
@@ -58766,7 +58762,7 @@
     },
     "212112": {
       "name": "Vladislav Novitskii",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "134013": {
       "name": "Mass Computer",
@@ -84648,10 +84644,6 @@
       "name": "Channel UC",
       "type": "Unknown"
     },
-    "215470": {
-      "name": "Lazco (UK)",
-      "type": "NSP"
-    },
     "263109": {
       "name": "Primus Solucoes em T.I. LTDA",
       "type": "Unknown"
@@ -87007,6 +86999,10 @@
     "20539": {
       "name": "Technical Centre Radio Systems",
       "type": "Network Services"
+    },
+    "273867": {
+      "name": "STIX IP Transit",
+      "type": "NSP"
     },
     "48475": {
       "name": "Oskolnet",
@@ -92539,10 +92535,6 @@
     "273719": {
       "name": "Teletrica Tecnologia Ltda - ME",
       "type": "NSP"
-    },
-    "400596": {
-      "name": "ELIXIOR-CLOUD",
-      "type": "Content"
     },
     "22348": {
       "name": "COGNITION",
@@ -105404,10 +105396,6 @@
       "name": "SISTEMDC",
       "type": "Unknown"
     },
-    "197583": {
-      "name": "NEXARUBE !",
-      "type": "Unknown"
-    },
     "329747": {
       "name": "ORG-BDFL1-AFRINIC",
       "type": "Unknown"
@@ -105430,6 +105418,46 @@
     },
     "214040": {
       "name": "WEN-NET",
+      "type": "Unknown"
+    },
+    "267903": {
+      "name": "267903",
+      "type": "Cable/DSL/ISP"
+    },
+    "60286": {
+      "name": "Agency-KA Ltd.",
+      "type": "Unknown"
+    },
+    "153929": {
+      "name": "ABI-AS-AP",
+      "type": "Unknown"
+    },
+    "208831": {
+      "name": "AFZALCLOUD-AS",
+      "type": "NSP"
+    },
+    "211912": {
+      "name": "hosting.com USE2",
+      "type": "NSP"
+    },
+    "23322": {
+      "name": "PSI-ASN-23322",
+      "type": "Unknown"
+    },
+    "274918": {
+      "name": "274918",
+      "type": "Unknown"
+    },
+    "272814": {
+      "name": "272814",
+      "type": "Unknown"
+    },
+    "10273": {
+      "name": "FPL",
+      "type": "Unknown"
+    },
+    "275641": {
+      "name": "ASN275641",
       "type": "Unknown"
     },
     "22822": {
@@ -106847,6 +106875,10 @@
     "9123": {
       "name": "JSC TimeWeb",
       "type": "NSP"
+    },
+    "197754": {
+      "name": "Christiaan Goossens",
+      "type": "Unknown"
     },
     "50304": {
       "name": "Blix Solutions AS",
@@ -131489,7 +131521,7 @@
       "type": "NSP"
     },
     "198663": {
-      "name": "Nexarube",
+      "name": "Nexarub",
       "type": "Unknown"
     },
     "54256": {
@@ -134676,10 +134708,6 @@
       "name": "Easton Net",
       "type": "Educational/Research"
     },
-    "273867": {
-      "name": "STIX IP Transit",
-      "type": "NSP"
-    },
     "142326": {
       "name": "PT Fahasa Tri Data",
       "type": "NSP"
@@ -134834,7 +134862,7 @@
     },
     "153060": {
       "name": "NARADIGITAL",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "269649": {
       "name": "Fibrasil Internet",
@@ -136163,6 +136191,10 @@
     "54650": {
       "name": "Pathwayz Communications",
       "type": "Cable/DSL/ISP"
+    },
+    "400596": {
+      "name": "ELIXIOR.CLOUD",
+      "type": "Content"
     },
     "264623": {
       "name": "CRUCERO DEL NORTE SRL",
@@ -138435,6 +138467,14 @@
     "329715": {
       "name": "ORG-BL31-AFRINIC",
       "type": "Enterprise"
+    },
+    "197583": {
+      "name": "Nexarube",
+      "type": "Unknown"
+    },
+    "199539": {
+      "name": "LH2",
+      "type": "Unknown"
     }
   }
 }
