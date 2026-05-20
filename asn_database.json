@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-19T00:31:08.420Z",
+  "updated_at": "2026-05-20T00:32:11.681Z",
   "source": "PeeringDB",
-  "entry_count": 34618,
+  "entry_count": 34622,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -10533,7 +10533,7 @@
       "type": "Cable/DSL/ISP"
     },
     "28187": {
-      "name": "Stratus Telecomunicacoes",
+      "name": "Stratus Telecomunicações",
       "type": "Cable/DSL/ISP"
     },
     "52828": {
@@ -22711,10 +22711,6 @@
     "3169": {
       "name": "Jacek Pasek BRK Network Devices",
       "type": "Cable/DSL/ISP"
-    },
-    "50515": {
-      "name": "Tier SRL",
-      "type": "Enterprise"
     },
     "199510": {
       "name": "WIFIMAX",
@@ -44234,7 +44230,7 @@
     },
     "208753": {
       "name": "6Project Networks",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "268281": {
       "name": "SUPERA INFORMATICA LTDA",
@@ -45279,6 +45275,10 @@
     "328312": {
       "name": "Deloitte & Touche South Africa",
       "type": "Enterprise"
+    },
+    "47516": {
+      "name": "DEHOST",
+      "type": "Content"
     },
     "53681": {
       "name": "ALCALYTICS",
@@ -57617,7 +57617,7 @@
       "type": "Unknown"
     },
     "140171": {
-      "name": "Reisnet Broadband Pvt Ltd",
+      "name": "Reis Network solutions",
       "type": "Cable/DSL/ISP"
     },
     "140910": {
@@ -73756,10 +73756,6 @@
       "name": "Adrianópolis Solução Tecnologica",
       "type": "Unknown"
     },
-    "207762": {
-      "name": "Zsolt Kazsi",
-      "type": "Unknown"
-    },
     "200912": {
       "name": "Joel Krause",
       "type": "Content"
@@ -78837,7 +78833,7 @@
       "type": "Unknown"
     },
     "197817": {
-      "name": "NYCO-CLOUD-NETWORK",
+      "name": "Nyco Cloud Network",
       "type": "Unknown"
     },
     "197841": {
@@ -81102,7 +81098,7 @@
     },
     "147096": {
       "name": "PT Jaya Sejahtra Nugraha",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "47160": {
       "name": "moji",
@@ -89609,7 +89605,7 @@
       "type": "Network Services"
     },
     "40271": {
-      "name": "SFMIX Transit",
+      "name": "ip.sfmix.org",
       "type": "NSP"
     },
     "214113": {
@@ -89702,10 +89698,6 @@
     },
     "9644": {
       "name": "SK Telecom",
-      "type": "Unknown"
-    },
-    "214045": {
-      "name": "RAGDOLL NETWORK",
       "type": "Unknown"
     },
     "63765": {
@@ -104865,7 +104857,7 @@
       "type": "Unknown"
     },
     "141982": {
-      "name": "Kataji Nukami Indonesia",
+      "name": "PT Kataji Nukami Indonesia",
       "type": "Unknown"
     },
     "48933": {
@@ -105426,7 +105418,7 @@
     },
     "60286": {
       "name": "Agency-KA Ltd.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "153929": {
       "name": "ABI-AS-AP",
@@ -105441,7 +105433,7 @@
       "type": "NSP"
     },
     "23322": {
-      "name": "PSI-ASN-23322",
+      "name": "Print Mail Systems, Inc.",
       "type": "Unknown"
     },
     "274918": {
@@ -105449,15 +105441,47 @@
       "type": "Unknown"
     },
     "272814": {
-      "name": "272814",
+      "name": "TOVARSAT C.A.",
       "type": "Unknown"
     },
     "10273": {
-      "name": "FPL",
+      "name": "Florida Power & Light Company",
       "type": "Unknown"
     },
     "275641": {
-      "name": "ASN275641",
+      "name": "EDGE TELECOM LTDA",
+      "type": "Unknown"
+    },
+    "206603": {
+      "name": "Monovm-tr",
+      "type": "Unknown"
+    },
+    "214690": {
+      "name": "UAB-Ginetas",
+      "type": "Unknown"
+    },
+    "197516": {
+      "name": "MADONIECOM",
+      "type": "Cable/DSL/ISP"
+    },
+    "402467": {
+      "name": "READYMAG",
+      "type": "Unknown"
+    },
+    "8884": {
+      "name": "CRIF-AS",
+      "type": "Unknown"
+    },
+    "328581": {
+      "name": "ORG-FOL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "197378": {
+      "name": "ZYME",
+      "type": "Unknown"
+    },
+    "197528": {
+      "name": "SuibianNetwork",
       "type": "Unknown"
     },
     "22822": {
@@ -119732,10 +119756,6 @@
       "name": "Multi Teknologi Telematika",
       "type": "Cable/DSL/ISP"
     },
-    "204873": {
-      "name": "Net2b",
-      "type": "Cable/DSL/ISP"
-    },
     "133155": {
       "name": "SATELLITE-BD",
       "type": "Cable/DSL/ISP"
@@ -127990,10 +128010,6 @@
     },
     "149513": {
       "name": "Vertex",
-      "type": "Cable/DSL/ISP"
-    },
-    "149047": {
-      "name": "SwiftNet",
       "type": "Cable/DSL/ISP"
     },
     "272011": {
@@ -137286,7 +137302,7 @@
     },
     "208024": {
       "name": "Alpenhost",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "59133": {
       "name": "DAYASITEL",
