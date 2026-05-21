@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-20T00:32:11.681Z",
+  "updated_at": "2026-05-21T00:31:46.336Z",
   "source": "PeeringDB",
-  "entry_count": 34622,
+  "entry_count": 34641,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -20096,10 +20096,6 @@
       "name": "Australian Broadcasting Corporation",
       "type": "Non-Profit"
     },
-    "263346": {
-      "name": "Fonte Informática",
-      "type": "Cable/DSL/ISP"
-    },
     "9558": {
       "name": "PRIMECROWN TECHNOLOGIES (P) LIMITED",
       "type": "Content"
@@ -38935,6 +38931,10 @@
     "3145": {
       "name": "West Publishing Corporation",
       "type": "Enterprise"
+    },
+    "210162": {
+      "name": "CHERRYSERVERS7-AS",
+      "type": "Unknown"
     },
     "31515": {
       "name": "INMARSAT GLOBAL",
@@ -61130,7 +61130,7 @@
     },
     "208476": {
       "name": "RootLink",
-      "type": "Enterprise"
+      "type": "NSP"
     },
     "271711": {
       "name": "LIGMAX PROVEDOR DE ACESSO A INTERNET LTDA",
@@ -73136,6 +73136,10 @@
       "name": "GEFO TELESERVICES INDIA",
       "type": "Cable/DSL/ISP"
     },
+    "203861": {
+      "name": "ServerExpress",
+      "type": "Content"
+    },
     "203226": {
       "name": "Dirk Walde",
       "type": "Unknown"
@@ -82919,6 +82923,10 @@
     "152068": {
       "name": "Universitas Muhammadiyah A.R. Fachruddin",
       "type": "Unknown"
+    },
+    "215665": {
+      "name": "Marlon Alkan",
+      "type": "Educational/Research"
     },
     "152334": {
       "name": "Bhurungamari Broadband Network",
@@ -97889,7 +97897,7 @@
       "type": "Cable/DSL/ISP"
     },
     "214659": {
-      "name": "nscale-no-public",
+      "name": "Nscale Glomfjord AS",
       "type": "Unknown"
     },
     "204511": {
@@ -100750,7 +100758,7 @@
     },
     "61625": {
       "name": "Grupo We Dev LTDA",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "209809": {
       "name": "ROCO HOST LTD",
@@ -102674,7 +102682,7 @@
     },
     "265525": {
       "name": "TV CABLE DEL GUADIANA S.A DE C.V.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "44173": {
       "name": "National Innovation Center LLC",
@@ -103242,7 +103250,7 @@
     },
     "202071": {
       "name": "xDaemon SIA",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "210355": {
       "name": "Jelle Mulder",
@@ -103842,7 +103850,7 @@
     },
     "199674": {
       "name": "HYVANIX",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "152761": {
       "name": "ARRAB NETWORK",
@@ -104750,7 +104758,7 @@
     },
     "198402": {
       "name": "FlowHardware",
-      "type": "Enterprise"
+      "type": "Network Services"
     },
     "63179": {
       "name": "TWITTER",
@@ -105458,7 +105466,7 @@
     },
     "214690": {
       "name": "UAB-Ginetas",
-      "type": "Unknown"
+      "type": "Content"
     },
     "197516": {
       "name": "MADONIECOM",
@@ -105482,6 +105490,66 @@
     },
     "197528": {
       "name": "SuibianNetwork",
+      "type": "Unknown"
+    },
+    "402515": {
+      "name": "PROTOTYPAL",
+      "type": "Enterprise"
+    },
+    "58411": {
+      "name": "GTDCL-HK",
+      "type": "Enterprise"
+    },
+    "402536": {
+      "name": "NETZR Network",
+      "type": "Unknown"
+    },
+    "197371": {
+      "name": "SVCS",
+      "type": "Unknown"
+    },
+    "197462": {
+      "name": "UPHOST-AS",
+      "type": "NSP"
+    },
+    "200137": {
+      "name": "AXNET",
+      "type": "Unknown"
+    },
+    "272990": {
+      "name": "272990",
+      "type": "Unknown"
+    },
+    "210132": {
+      "name": "THOMAS-GLANZMANN",
+      "type": "Non-Profit"
+    },
+    "37208": {
+      "name": "ORG-AL2-AFRINIC",
+      "type": "Unknown"
+    },
+    "215667": {
+      "name": "Cyclop",
+      "type": "Unknown"
+    },
+    "197360": {
+      "name": "HQ-24Ping-Ltd",
+      "type": "Unknown"
+    },
+    "393574": {
+      "name": "ONPOINT-BROADBAND",
+      "type": "Unknown"
+    },
+    "64172": {
+      "name": "64172",
+      "type": "Unknown"
+    },
+    "395994": {
+      "name": "VECC911",
+      "type": "Unknown"
+    },
+    "274268": {
+      "name": "274268",
       "type": "Unknown"
     },
     "22822": {
@@ -121968,6 +122036,10 @@
       "name": "VGRNET",
       "type": "Cable/DSL/ISP"
     },
+    "202301": {
+      "name": "3AM Network",
+      "type": "Route Server"
+    },
     "270346": {
       "name": "FULLNET CE",
       "type": "Cable/DSL/ISP"
@@ -128432,6 +128504,10 @@
       "name": "VPNET",
       "type": "Unknown"
     },
+    "206444": {
+      "name": "REG-CUST-AS",
+      "type": "Content"
+    },
     "142164": {
       "name": "GoldDoge Networks",
       "type": "Educational/Research"
@@ -133391,10 +133467,6 @@
     "63334": {
       "name": "ALT TELECOM HFX",
       "type": "NSP"
-    },
-    "215665": {
-      "name": "Marlon Alkan",
-      "type": "Educational/Research"
     },
     "51692": {
       "name": "HyberHost",
@@ -138491,6 +138563,10 @@
     "199539": {
       "name": "LH2",
       "type": "Unknown"
+    },
+    "207135": {
+      "name": "Giotsas",
+      "type": "Network Services"
     }
   }
 }
