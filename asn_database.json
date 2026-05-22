@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-21T00:31:46.336Z",
+  "updated_at": "2026-05-22T00:30:17.520Z",
   "source": "PeeringDB",
-  "entry_count": 34641,
+  "entry_count": 34643,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -14285,7 +14285,7 @@
       "type": "Cable/DSL/ISP"
     },
     "49685": {
-      "name": "IT-Ernity Internet Services B.V.",
+      "name": "signetbreedband",
       "type": "NSP"
     },
     "32397": {
@@ -41545,7 +41545,7 @@
       "type": "Cable/DSL/ISP"
     },
     "55376": {
-      "name": "KCV Communications Co. Ltd.",
+      "name": "KCV Communications",
       "type": "Cable/DSL/ISP"
     },
     "204444": {
@@ -79828,10 +79828,6 @@
       "name": "Xin-xu",
       "type": "Educational/Research"
     },
-    "151673": {
-      "name": "Xinyu Network",
-      "type": "Educational/Research"
-    },
     "329233": {
       "name": "SABI NETWORKS LIMITED",
       "type": "Unknown"
@@ -82923,10 +82919,6 @@
     "152068": {
       "name": "Universitas Muhammadiyah A.R. Fachruddin",
       "type": "Unknown"
-    },
-    "215665": {
-      "name": "Marlon Alkan",
-      "type": "Educational/Research"
     },
     "152334": {
       "name": "Bhurungamari Broadband Network",
@@ -88697,7 +88689,7 @@
       "type": "Unknown"
     },
     "215599": {
-      "name": "ZKILLU",
+      "name": "★ ZKILLU",
       "type": "Content"
     },
     "40285": {
@@ -89145,7 +89137,7 @@
       "type": "Network Services"
     },
     "270642": {
-      "name": "AGILITY TELECOM PARACURU",
+      "name": "RAIOLINK TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "272369": {
@@ -95690,7 +95682,7 @@
     },
     "211138": {
       "name": "Private-Hosting di Cipriano oscar",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "210870": {
       "name": "NETJETT",
@@ -102586,7 +102578,7 @@
     },
     "142221": {
       "name": "FAZZNET",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "202303": {
       "name": "TRENDNET TELEKOMUNIKASYON BILISIM HIZMETLERI TICARET LIMITED SIRKETI",
@@ -103393,7 +103385,7 @@
       "type": "Unknown"
     },
     "402298": {
-      "name": "CXIX Route Server",
+      "name": "TY/CXIX Route Server",
       "type": "Route Server"
     },
     "274861": {
@@ -104181,7 +104173,7 @@
       "type": "Unknown"
     },
     "269797": {
-      "name": "IENTC S DE RL DE CV",
+      "name": "GOLOCHTEL",
       "type": "Unknown"
     },
     "210398": {
@@ -104994,7 +104986,7 @@
     },
     "142048": {
       "name": "OPTICAL TVN BD",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "154538": {
       "name": "IDNIC-RPMNET-AS-ID",
@@ -105489,7 +105481,7 @@
       "type": "Unknown"
     },
     "197528": {
-      "name": "SuibianNetwork",
+      "name": "Suibian Network LLC",
       "type": "Unknown"
     },
     "402515": {
@@ -105551,6 +105543,22 @@
     "274268": {
       "name": "274268",
       "type": "Unknown"
+    },
+    "54381": {
+      "name": "SACATECH",
+      "type": "Unknown"
+    },
+    "142186": {
+      "name": "IRINN-WINDTEL1-AS-IN",
+      "type": "Unknown"
+    },
+    "203488": {
+      "name": "DALUNET",
+      "type": "Cable/DSL/ISP"
+    },
+    "197346": {
+      "name": "Sylant",
+      "type": "Enterprise"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -106957,7 +106965,7 @@
       "type": "Cable/DSL/ISP"
     },
     "23838": {
-      "name": "Plan B Group",
+      "name": "Atturra Managed Services - NZ",
       "type": "Cable/DSL/ISP"
     },
     "11383": {
@@ -133468,6 +133476,10 @@
       "name": "ALT TELECOM HFX",
       "type": "NSP"
     },
+    "215665": {
+      "name": "Marlon Alkan",
+      "type": "Educational/Research"
+    },
     "51692": {
       "name": "HyberHost",
       "type": "Content"
@@ -135638,7 +135650,7 @@
     },
     "401414": {
       "name": "Tier 2 Squared, LLC",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "214240": {
       "name": "SHDW",
@@ -136815,10 +136827,6 @@
     "17497": {
       "name": "Liasail",
       "type": "NSP"
-    },
-    "210215": {
-      "name": "AS210215.net",
-      "type": "Educational/Research"
     },
     "210482": {
       "name": "Max-Delbrueck-Centrum fuer Molekulare Medizin in der Helmholtz-Gemeinschaft",
