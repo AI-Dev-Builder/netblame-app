@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-22T00:30:17.520Z",
+  "updated_at": "2026-05-23T00:29:30.576Z",
   "source": "PeeringDB",
-  "entry_count": 34643,
+  "entry_count": 34652,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -23157,7 +23157,7 @@
       "type": "Unknown"
     },
     "37770": {
-      "name": "KIXP - Mombasa",
+      "name": "KIXP - Mba",
       "type": "Non-Profit"
     },
     "31390": {
@@ -50460,10 +50460,6 @@
       "name": "NISPLMTR",
       "type": "Cable/DSL/ISP"
     },
-    "207534": {
-      "name": "ORIS GLOBAL NETWORKS",
-      "type": "NSP"
-    },
     "15461": {
       "name": "Science Production Enterprise Solver",
       "type": "Cable/DSL/ISP"
@@ -61579,10 +61575,6 @@
     "262418": {
       "name": "Indagraf Ltda",
       "type": "Unknown"
-    },
-    "141376": {
-      "name": "Shafanza Cahaya Utama",
-      "type": "Cable/DSL/ISP"
     },
     "140429": {
       "name": "URBANACCESS",
@@ -79568,10 +79560,6 @@
       "name": "TradeZone",
       "type": "Unknown"
     },
-    "216447": {
-      "name": "Binary-0",
-      "type": "Educational/Research"
-    },
     "53684": {
       "name": "Centre WISP Venture Company",
       "type": "Cable/DSL/ISP"
@@ -86374,7 +86362,7 @@
     },
     "214745": {
       "name": "NET67X-Networks",
-      "type": "Content"
+      "type": "Educational/Research"
     },
     "46829": {
       "name": "LAMHOSTING",
@@ -88570,6 +88558,10 @@
     },
     "13431": {
       "name": "Millennium Partners, L.P.",
+      "type": "Unknown"
+    },
+    "214408": {
+      "name": "arwnet",
       "type": "Unknown"
     },
     "211": {
@@ -90774,7 +90766,7 @@
     },
     "18340": {
       "name": "SBKOREA",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "329263": {
       "name": "Libyan Spider for IT LTD.",
@@ -94418,7 +94410,7 @@
     },
     "141662": {
       "name": "Neo Fiber Teknologi",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "271757": {
       "name": "VIA PROVEDOR - SERVICOS MULTIMIDIA - EIRELI",
@@ -104802,7 +104794,7 @@
     },
     "204282": {
       "name": "HST",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "199686": {
       "name": "aaroncarson",
@@ -105482,14 +105474,14 @@
     },
     "197528": {
       "name": "Suibian Network LLC",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "402515": {
       "name": "PROTOTYPAL",
       "type": "Enterprise"
     },
     "58411": {
-      "name": "GTDCL-HK",
+      "name": "Gateway Technology Development Company Limited",
       "type": "Enterprise"
     },
     "402536": {
@@ -105517,7 +105509,7 @@
       "type": "Non-Profit"
     },
     "37208": {
-      "name": "ORG-AL2-AFRINIC",
+      "name": "Afcom (SL) Limited",
       "type": "Unknown"
     },
     "215667": {
@@ -105558,7 +105550,51 @@
     },
     "197346": {
       "name": "Sylant",
-      "type": "Enterprise"
+      "type": "Content"
+    },
+    "198753": {
+      "name": "STEPAN-ODINTSOV-PR-BEOGRAD-AS",
+      "type": "Unknown"
+    },
+    "402425": {
+      "name": "QLL-AS-001",
+      "type": "Unknown"
+    },
+    "25488": {
+      "name": "COMUNE-NOVARA-AS",
+      "type": "Unknown"
+    },
+    "329721": {
+      "name": "Strettch Cloud",
+      "type": "Content"
+    },
+    "210751": {
+      "name": "IPLOG",
+      "type": "Unknown"
+    },
+    "198130": {
+      "name": "IPSAL",
+      "type": "Unknown"
+    },
+    "402548": {
+      "name": "MHS-NET",
+      "type": "Unknown"
+    },
+    "402547": {
+      "name": "JWYNEGARJR-INC",
+      "type": "Unknown"
+    },
+    "203669": {
+      "name": "DRAKXHOSTING",
+      "type": "Unknown"
+    },
+    "263767": {
+      "name": "263767",
+      "type": "Unknown"
+    },
+    "402537": {
+      "name": "YMISO NETWORK LLC",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -122045,7 +122081,7 @@
       "type": "Cable/DSL/ISP"
     },
     "202301": {
-      "name": "3AM Network",
+      "name": "3AM IX",
       "type": "Route Server"
     },
     "270346": {
@@ -125716,6 +125752,10 @@
       "name": "RB67 Networks",
       "type": "Educational/Research"
     },
+    "141376": {
+      "name": "Shafanza Cahaya Utama",
+      "type": "Cable/DSL/ISP"
+    },
     "399668": {
       "name": "e-planning",
       "type": "Content"
@@ -128511,10 +128551,6 @@
     "46868": {
       "name": "VPNET",
       "type": "Unknown"
-    },
-    "206444": {
-      "name": "REG-CUST-AS",
-      "type": "Content"
     },
     "142164": {
       "name": "GoldDoge Networks",
@@ -134089,7 +134125,7 @@
       "type": "Educational/Research"
     },
     "135529": {
-      "name": "ITEL",
+      "name": "Interlink Telecom Public Company Limited",
       "type": "Unknown"
     },
     "51276": {
