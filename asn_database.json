@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-23T00:29:30.576Z",
+  "updated_at": "2026-05-24T00:29:15.993Z",
   "source": "PeeringDB",
-  "entry_count": 34652,
+  "entry_count": 34654,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -10121,7 +10121,7 @@
       "type": "NSP"
     },
     "197617": {
-      "name": "MrFriday AB",
+      "name": "Scalability AB",
       "type": "Content"
     },
     "199121": {
@@ -67361,8 +67361,8 @@
       "type": "Cable/DSL/ISP"
     },
     "208548": {
-      "name": "KTT Anycast Services",
-      "type": "Educational/Research"
+      "name": "Arctic Tern (Global)",
+      "type": "Enterprise"
     },
     "136362": {
       "name": "Yes India Communications",
@@ -73661,8 +73661,8 @@
       "type": "Unknown"
     },
     "51019": {
-      "name": "Ljósnet VPC",
-      "type": "Cable/DSL/ISP"
+      "name": "Arctic Tern (Ísland)",
+      "type": "Enterprise"
     },
     "19261": {
       "name": "aspStation",
@@ -75329,8 +75329,8 @@
       "type": "Content"
     },
     "57851": {
-      "name": "KTT",
-      "type": "Network Services"
+      "name": "Arctic Tern (Sverige)",
+      "type": "Enterprise"
     },
     "394840": {
       "name": "Decisive Group",
@@ -81817,7 +81817,7 @@
       "type": "Unknown"
     },
     "395388": {
-      "name": "int3 Systems, LLC",
+      "name": "t4t.net",
       "type": "Educational/Research"
     },
     "2386": {
@@ -95385,8 +95385,8 @@
       "type": "Unknown"
     },
     "209866": {
-      "name": "Piotr Macha",
-      "type": "Educational/Research"
+      "name": "VRTSH",
+      "type": "Content"
     },
     "213784": {
       "name": "TNGNET B.V. (AS213784)",
@@ -104740,10 +104740,6 @@
       "name": "The Fusion Networks",
       "type": "Unknown"
     },
-    "198402": {
-      "name": "FlowHardware",
-      "type": "Network Services"
-    },
     "63179": {
       "name": "TWITTER",
       "type": "Unknown"
@@ -104910,7 +104906,7 @@
     },
     "13974": {
       "name": "OL-ASN",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "329668": {
       "name": "ORG-ICPL4-AFRINIC",
@@ -105594,6 +105590,10 @@
     },
     "402537": {
       "name": "YMISO NETWORK LLC",
+      "type": "Unknown"
+    },
+    "265006": {
+      "name": "ASN265006",
       "type": "Unknown"
     },
     "22822": {
@@ -133962,7 +133962,7 @@
     },
     "21868": {
       "name": "A10H",
-      "type": "Enterprise"
+      "type": "Educational/Research"
     },
     "215375": {
       "name": "Luca Nowak",
@@ -135669,7 +135669,7 @@
       "type": "NSP"
     },
     "26954": {
-      "name": "Mihail Fedorov (AS26954)",
+      "name": "Mihail Fedorov",
       "type": "Non-Profit"
     },
     "200200": {
@@ -138560,6 +138560,10 @@
       "name": "RADZI",
       "type": "Content"
     },
+    "198402": {
+      "name": "FlowHardware",
+      "type": "Network Services"
+    },
     "56401": {
       "name": "MIRTELEKOM",
       "type": "Cable/DSL/ISP"
@@ -138611,6 +138615,10 @@
     "207135": {
       "name": "Giotsas",
       "type": "Network Services"
+    },
+    "197319": {
+      "name": "WANNEMACHER-NET",
+      "type": "Educational/Research"
     }
   }
 }
