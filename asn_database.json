@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-24T00:29:15.993Z",
+  "updated_at": "2026-05-25T00:30:24.181Z",
   "source": "PeeringDB",
-  "entry_count": 34654,
+  "entry_count": 34659,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -78269,7 +78269,7 @@
       "type": "NSP"
     },
     "150371": {
-      "name": "Pace Telecom and Brodcasting",
+      "name": "Pace Telecom and Broadcasting",
       "type": "Cable/DSL/ISP"
     },
     "328066": {
@@ -81372,10 +81372,6 @@
       "name": "Manuel Jesus Martin Mena",
       "type": "Unknown"
     },
-    "216294": {
-      "name": "XTT Networks",
-      "type": "Educational/Research"
-    },
     "396908": {
       "name": "Laurens Technologies Internet Services",
       "type": "NSP"
@@ -84163,6 +84159,10 @@
     "215801": {
       "name": "MSIT",
       "type": "Unknown"
+    },
+    "21868": {
+      "name": "A10H",
+      "type": "Educational/Research"
     },
     "54528": {
       "name": "Richie (Overseas)",
@@ -105594,6 +105594,30 @@
     },
     "265006": {
       "name": "ASN265006",
+      "type": "Unknown"
+    },
+    "206188": {
+      "name": "ZETA-CLEAN-INTERNET",
+      "type": "Cable/DSL/ISP"
+    },
+    "208471": {
+      "name": "Ville Ketola Nilsson",
+      "type": "Educational/Research"
+    },
+    "207786": {
+      "name": "Super-Network-IQ",
+      "type": "Unknown"
+    },
+    "17994": {
+      "name": "Spark-17994",
+      "type": "Unknown"
+    },
+    "133124": {
+      "name": "Spark-133124",
+      "type": "Unknown"
+    },
+    "2570": {
+      "name": "Spark-2570",
       "type": "Unknown"
     },
     "22822": {
@@ -133959,10 +133983,6 @@
     "137334": {
       "name": "PT Phinisi Media Indonesia",
       "type": "Cable/DSL/ISP"
-    },
-    "21868": {
-      "name": "A10H",
-      "type": "Educational/Research"
     },
     "215375": {
       "name": "Luca Nowak",
