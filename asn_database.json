@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-25T00:30:24.181Z",
+  "updated_at": "2026-05-26T00:29:30.641Z",
   "source": "PeeringDB",
-  "entry_count": 34659,
+  "entry_count": 34660,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -38933,8 +38933,8 @@
       "type": "Enterprise"
     },
     "210162": {
-      "name": "CHERRYSERVERS7-AS",
-      "type": "Unknown"
+      "name": "Cherry Servers TY",
+      "type": "Content"
     },
     "31515": {
       "name": "INMARSAT GLOBAL",
@@ -73674,7 +73674,7 @@
     },
     "200954": {
       "name": "Andrey Shemanin",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "329174": {
       "name": "Swift Broadband Limited",
@@ -81180,10 +81180,6 @@
       "name": "PT Lintas Citra Abadi",
       "type": "NSP"
     },
-    "216081": {
-      "name": "Gobbato IT Solutions",
-      "type": "Enterprise"
-    },
     "216079": {
       "name": "LESPARK",
       "type": "Content"
@@ -85116,10 +85112,6 @@
       "name": "GEEZNET TECHNOLOGIES LIMITED",
       "type": "Unknown"
     },
-    "209916": {
-      "name": "viasys",
-      "type": "Enterprise"
-    },
     "265285": {
       "name": "DAILSON A.S.VIEIRA - ME",
       "type": "NSP"
@@ -85274,10 +85266,6 @@
     },
     "28181": {
       "name": "MASTER TELECOM LTDA ME",
-      "type": "Cable/DSL/ISP"
-    },
-    "273204": {
-      "name": "Colombia Mas Sabana",
       "type": "Cable/DSL/ISP"
     },
     "400701": {
@@ -99320,10 +99308,6 @@
       "name": "ELASTICSERVER.CO S.A.S.",
       "type": "Cable/DSL/ISP"
     },
-    "151569": {
-      "name": "Telematika Media Solusi",
-      "type": "Unknown"
-    },
     "394856": {
       "name": "Infinity Insurance Company",
       "type": "Unknown"
@@ -105000,6 +104984,10 @@
       "name": "LMESSER-LABS",
       "type": "Unknown"
     },
+    "209800": {
+      "name": "ZEMAGG",
+      "type": "Content"
+    },
     "274119": {
       "name": "GRUPO VERNET INTERNET S. A. S.",
       "type": "Unknown"
@@ -105198,10 +105186,6 @@
     },
     "63154": {
       "name": "DCCC",
-      "type": "Unknown"
-    },
-    "138321": {
-      "name": "Lunasla",
       "type": "Unknown"
     },
     "153734": {
@@ -105465,7 +105449,7 @@
       "type": "Unknown"
     },
     "197378": {
-      "name": "ZYME",
+      "name": "Zyme Net1",
       "type": "Unknown"
     },
     "197528": {
@@ -105618,6 +105602,30 @@
     },
     "2570": {
       "name": "Spark-2570",
+      "type": "Unknown"
+    },
+    "142216": {
+      "name": "IDNIC-TRIDATA-AS-ID",
+      "type": "Unknown"
+    },
+    "203680": {
+      "name": "araztech",
+      "type": "Unknown"
+    },
+    "265227": {
+      "name": "ASN265227",
+      "type": "Unknown"
+    },
+    "274294": {
+      "name": "274294",
+      "type": "Unknown"
+    },
+    "267317": {
+      "name": "ASN267317",
+      "type": "Unknown"
+    },
+    "268023": {
+      "name": "ASN268023",
       "type": "Unknown"
     },
     "22822": {
@@ -113064,10 +113072,6 @@
       "name": "INETWORKS",
       "type": "Cable/DSL/ISP"
     },
-    "264929": {
-      "name": "TECNET",
-      "type": "Cable/DSL/ISP"
-    },
     "205413": {
       "name": "DIGITALWEBWORKS",
       "type": "Enterprise"
@@ -115131,10 +115135,6 @@
     "206810": {
       "name": "UGLETELECOM",
       "type": "NSP"
-    },
-    "206316": {
-      "name": "Xervers, Unipessoal",
-      "type": "Unknown"
     },
     "25521": {
       "name": "Industrial Media Network",
@@ -121534,7 +121534,7 @@
     },
     "209699": {
       "name": "Coaxial Cable",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "268042": {
       "name": "JETNET COMUNICACAO",
@@ -133000,6 +133000,10 @@
       "name": "DATAFAST",
       "type": "Network Services"
     },
+    "216081": {
+      "name": "PGIT.GG / Gobbato IT Solutions",
+      "type": "Enterprise"
+    },
     "136698": {
       "name": "Devdarpan Broadband Pvt. Ltd.",
       "type": "Cable/DSL/ISP"
@@ -136820,10 +136824,6 @@
       "name": "ResetData",
       "type": "Unknown"
     },
-    "209414": {
-      "name": "SCALEFAIR",
-      "type": "NSP"
-    },
     "212683": {
       "name": "Olilo",
       "type": "Cable/DSL/ISP"
@@ -137724,6 +137724,10 @@
       "name": "LUKBAN TELEPHONE SYSTEM, INC.",
       "type": "Cable/DSL/ISP"
     },
+    "151569": {
+      "name": "Telematika Media Solusi",
+      "type": "Cable/DSL/ISP"
+    },
     "204535": {
       "name": "Kevin Tan Networks",
       "type": "Educational/Research"
@@ -138600,10 +138604,6 @@
       "name": "TAHOMA-RADIOELECTRIC",
       "type": "Content"
     },
-    "209800": {
-      "name": "ZEMAGG",
-      "type": "Content"
-    },
     "154657": {
       "name": "PT PANHA NETWORK SOLUTION",
       "type": "Enterprise"
@@ -138611,6 +138611,10 @@
     "154466": {
       "name": "OJI COMMUNICATIONS PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
+    },
+    "138321": {
+      "name": "Lunasla",
+      "type": "Content"
     },
     "329734": {
       "name": "Zoom Fibre",
