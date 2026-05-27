@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-26T00:29:30.641Z",
+  "updated_at": "2026-05-27T00:31:48.375Z",
   "source": "PeeringDB",
-  "entry_count": 34660,
+  "entry_count": 34679,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -15037,7 +15037,7 @@
       "type": "NSP"
     },
     "27843": {
-      "name": "WIN Empresas",
+      "name": "On Empresas",
       "type": "NSP"
     },
     "41059": {
@@ -17286,7 +17286,7 @@
     },
     "63126": {
       "name": "Aptient",
-      "type": "Enterprise"
+      "type": "NSP"
     },
     "203507": {
       "name": "Avira Operations GmbH & Co. KG - Global",
@@ -32574,6 +32574,10 @@
     },
     "25019": {
       "name": "Saudi Telecom Company (STC SAUDINET)",
+      "type": "Unknown"
+    },
+    "204994": {
+      "name": "BAHAMUT-ZONE",
       "type": "Unknown"
     },
     "21132": {
@@ -51533,8 +51537,8 @@
       "type": "Content"
     },
     "213382": {
-      "name": "CubixServ",
-      "type": "Unknown"
+      "name": "PEERYX NETWORK SAS",
+      "type": "NSP"
     },
     "270555": {
       "name": "PB TELECOM INTERNET BANDA LARGA",
@@ -62852,6 +62856,10 @@
       "name": "BAE Networks",
       "type": "Unknown"
     },
+    "142551": {
+      "name": "KINGSHOST-AS-AP",
+      "type": "Unknown"
+    },
     "211022": {
       "name": "ISC F-ROOT TLV1",
       "type": "Unknown"
@@ -68299,6 +68307,10 @@
     "271387": {
       "name": "Emfibra Telecom",
       "type": "Cable/DSL/ISP"
+    },
+    "206444": {
+      "name": "REG-CUST-AS",
+      "type": "Unknown"
     },
     "149551": {
       "name": "CONFIAR DIGITAL TECHNOLOGIES PRIVATE LIMITED",
@@ -76964,10 +76976,6 @@
       "name": "SkyNet-Media LLC",
       "type": "Unknown"
     },
-    "19751": {
-      "name": "Endeavor Communications",
-      "type": "Cable/DSL/ISP"
-    },
     "199557": {
       "name": "lb-elsanet",
       "type": "Unknown"
@@ -79814,6 +79822,10 @@
     },
     "216373": {
       "name": "Xin-xu",
+      "type": "Educational/Research"
+    },
+    "151673": {
+      "name": "Chen Xinyu",
       "type": "Educational/Research"
     },
     "329233": {
@@ -83244,10 +83256,6 @@
       "name": "Nuyek LLC",
       "type": "Content"
     },
-    "62443": {
-      "name": "akwa.fr",
-      "type": "Cable/DSL/ISP"
-    },
     "8872": {
       "name": "Cherkizovo Group PJSC",
       "type": "Unknown"
@@ -85267,6 +85275,10 @@
     "28181": {
       "name": "MASTER TELECOM LTDA ME",
       "type": "Cable/DSL/ISP"
+    },
+    "273204": {
+      "name": "WIKI-NETWORKS",
+      "type": "Unknown"
     },
     "400701": {
       "name": "National Broadband Coop",
@@ -105422,7 +105434,7 @@
     },
     "275641": {
       "name": "EDGE TELECOM LTDA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "206603": {
       "name": "Monovm-tr",
@@ -105617,7 +105629,7 @@
       "type": "Unknown"
     },
     "274294": {
-      "name": "274294",
+      "name": "CABLE VISION MAGES S.A.C.",
       "type": "Unknown"
     },
     "267317": {
@@ -105626,6 +105638,54 @@
     },
     "268023": {
       "name": "ASN268023",
+      "type": "Unknown"
+    },
+    "197338": {
+      "name": "SERDNA",
+      "type": "Unknown"
+    },
+    "12764": {
+      "name": "AKNET-AS",
+      "type": "Unknown"
+    },
+    "214266": {
+      "name": "ZERODESK LTD",
+      "type": "Cable/DSL/ISP"
+    },
+    "211197": {
+      "name": "ILZ",
+      "type": "Unknown"
+    },
+    "52491": {
+      "name": "52491",
+      "type": "Cable/DSL/ISP"
+    },
+    "27421": {
+      "name": "APPLAUSEMA",
+      "type": "Unknown"
+    },
+    "402359": {
+      "name": "GOESEL-NET",
+      "type": "Educational/Research"
+    },
+    "197260": {
+      "name": "Lohnes",
+      "type": "Unknown"
+    },
+    "197281": {
+      "name": "SUIDI-AS",
+      "type": "Enterprise"
+    },
+    "140459": {
+      "name": "STREAKY-AS-ID",
+      "type": "Unknown"
+    },
+    "264430": {
+      "name": "ASN264430",
+      "type": "Cable/DSL/ISP"
+    },
+    "400362": {
+      "name": "HYDRA-HOST",
       "type": "Unknown"
     },
     "22822": {
@@ -113070,6 +113130,10 @@
     },
     "267524": {
       "name": "INETWORKS",
+      "type": "Cable/DSL/ISP"
+    },
+    "264929": {
+      "name": "TECNET",
       "type": "Cable/DSL/ISP"
     },
     "205413": {
@@ -130257,7 +130321,7 @@
       "type": "Network Services"
     },
     "201398": {
-      "name": "MADEBYKEIRAN",
+      "name": "BRYSON GUWIN",
       "type": "NSP"
     },
     "213241": {
@@ -131488,6 +131552,10 @@
       "name": "kraud.cloud",
       "type": "Content"
     },
+    "19751": {
+      "name": "Endeavor Communications",
+      "type": "Cable/DSL/ISP"
+    },
     "21343": {
       "name": "Internet Invest AS21343",
       "type": "Network Services"
@@ -132491,6 +132559,10 @@
     "216402": {
       "name": "Léwan P.",
       "type": "Educational/Research"
+    },
+    "216394": {
+      "name": "NETLEN",
+      "type": "Network Services"
     },
     "151770": {
       "name": "Nexflo Communications",
@@ -133660,6 +133732,10 @@
       "name": "BIXNET SERVICOS DE REDES DE COMUNICACAO VIRTUAL",
       "type": "Cable/DSL/ISP"
     },
+    "62443": {
+      "name": "akwa.fr",
+      "type": "Cable/DSL/ISP"
+    },
     "271690": {
       "name": "AGUIA NET TELECOMUNICACOES EIRELI",
       "type": "Cable/DSL/ISP"
@@ -134001,7 +134077,7 @@
       "type": "NSP"
     },
     "215296": {
-      "name": "Raoul Brouns",
+      "name": "LowPing NL",
       "type": "Educational/Research"
     },
     "141987": {
@@ -138624,10 +138700,6 @@
       "name": "UN-AS-AP",
       "type": "NSP"
     },
-    "329715": {
-      "name": "ORG-BL31-AFRINIC",
-      "type": "Enterprise"
-    },
     "197583": {
       "name": "Nexarube",
       "type": "Unknown"
@@ -138643,6 +138715,10 @@
     "197319": {
       "name": "WANNEMACHER-NET",
       "type": "Educational/Research"
+    },
+    "402428": {
+      "name": "ITSUMIKU-AS-INTL1",
+      "type": "Unknown"
     }
   }
 }
