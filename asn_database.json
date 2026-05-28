@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-27T00:31:48.375Z",
+  "updated_at": "2026-05-28T00:28:36.523Z",
   "source": "PeeringDB",
-  "entry_count": 34679,
+  "entry_count": 34691,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -23209,7 +23209,7 @@
       "type": "NSP"
     },
     "5507": {
-      "name": "BiX Route Servers",
+      "name": "BIX Route Servers",
       "type": "Route Server"
     },
     "262512": {
@@ -28194,7 +28194,7 @@
     },
     "265023": {
       "name": "TMK NET",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "266486": {
       "name": "Connecta Comercio e Serviços",
@@ -54525,7 +54525,7 @@
       "type": "Unknown"
     },
     "12303": {
-      "name": "Council of Hungarian Internet Providers",
+      "name": ".hu Domain Registry",
       "type": "Non-Profit"
     },
     "270554": {
@@ -60645,7 +60645,7 @@
       "type": "Unknown"
     },
     "142005": {
-      "name": "NCSoft Corporation",
+      "name": "NC Corporation",
       "type": "Content"
     },
     "208723": {
@@ -63778,7 +63778,7 @@
     },
     "399992": {
       "name": "KJTDNET",
-      "type": "Content"
+      "type": "Enterprise"
     },
     "147071": {
       "name": "BOCHENG ZOU",
@@ -77780,6 +77780,10 @@
       "name": "v6Node",
       "type": "Unknown"
     },
+    "9423": {
+      "name": "ServerKing.io AS9423",
+      "type": "NSP"
+    },
     "65": {
       "name": "Air Force Systems Networking (AS65)",
       "type": "Unknown"
@@ -82238,7 +82242,7 @@
     },
     "6206": {
       "name": "Netrouting",
-      "type": "Content"
+      "type": "Network Services"
     },
     "9928": {
       "name": "INIXP Asia RouteServer",
@@ -94290,7 +94294,7 @@
     },
     "17034": {
       "name": "Gozunga",
-      "type": "Content"
+      "type": "NSP"
     },
     "39571": {
       "name": "Sadad Informatics Corporation",
@@ -95385,7 +95389,7 @@
       "type": "Unknown"
     },
     "209866": {
-      "name": "VRTSH",
+      "name": "vrt.sh",
       "type": "Content"
     },
     "213784": {
@@ -102281,7 +102285,7 @@
       "type": "Cable/DSL/ISP"
     },
     "210788": {
-      "name": "BiX Infrastructure",
+      "name": "BIX Google VPP Service",
       "type": "Non-Profit"
     },
     "201489": {
@@ -105476,10 +105480,6 @@
       "name": "Gateway Technology Development Company Limited",
       "type": "Enterprise"
     },
-    "402536": {
-      "name": "NETZR Network",
-      "type": "Unknown"
-    },
     "197371": {
       "name": "SVCS",
       "type": "Unknown"
@@ -105670,7 +105670,7 @@
     },
     "197260": {
       "name": "Lohnes",
-      "type": "Unknown"
+      "type": "Content"
     },
     "197281": {
       "name": "SUIDI-AS",
@@ -105686,6 +105686,46 @@
     },
     "400362": {
       "name": "HYDRA-HOST",
+      "type": "Unknown"
+    },
+    "197291": {
+      "name": "KenAS",
+      "type": "Unknown"
+    },
+    "154429": {
+      "name": "JAPTECH ELECTRONIC IT SOLUTIONS",
+      "type": "Unknown"
+    },
+    "402555": {
+      "name": "RIKKIA-NETWORK-01",
+      "type": "Unknown"
+    },
+    "62349": {
+      "name": "Netrouting Netherlands",
+      "type": "Network Services"
+    },
+    "197792": {
+      "name": "BIX Infrastructure",
+      "type": "Non-Profit"
+    },
+    "329695": {
+      "name": "ORG-ZACE1-AFRINIC",
+      "type": "Unknown"
+    },
+    "329065": {
+      "name": "ORG-STSL2-AFRINIC",
+      "type": "Unknown"
+    },
+    "395825": {
+      "name": "CRG-AS",
+      "type": "Unknown"
+    },
+    "275745": {
+      "name": "Central Tech Telecom",
+      "type": "Cable/DSL/ISP"
+    },
+    "52679": {
+      "name": "ASN52679",
       "type": "Unknown"
     },
     "22822": {
@@ -131760,10 +131800,6 @@
       "name": "Kamatera EU",
       "type": "Unknown"
     },
-    "9423": {
-      "name": "ServerKing.io AS9423",
-      "type": "NSP"
-    },
     "329223": {
       "name": "Chakaza Holdings (PTY) Ltd",
       "type": "Cable/DSL/ISP"
@@ -132362,7 +132398,7 @@
     },
     "49592": {
       "name": "Pipe Networks LTD",
-      "type": "Unknown"
+      "type": "Content"
     },
     "151507": {
       "name": "AGUNGNET",
@@ -138254,7 +138290,7 @@
     },
     "201988": {
       "name": "VPSPay Networks LTD",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "142188": {
       "name": "PT Aryaka Lintas Media",
@@ -138700,6 +138736,10 @@
       "name": "UN-AS-AP",
       "type": "NSP"
     },
+    "329715": {
+      "name": "BENJILINK LTD",
+      "type": "Enterprise"
+    },
     "197583": {
       "name": "Nexarube",
       "type": "Unknown"
@@ -138708,17 +138748,25 @@
       "name": "LH2",
       "type": "Unknown"
     },
+    "402536": {
+      "name": "NETZR Network",
+      "type": "Educational/Research"
+    },
     "207135": {
       "name": "Giotsas",
       "type": "Network Services"
     },
     "197319": {
-      "name": "WANNEMACHER-NET",
+      "name": "Luca Maximilian Wannemacher",
       "type": "Educational/Research"
     },
     "402428": {
       "name": "ITSUMIKU-AS-INTL1",
       "type": "Unknown"
+    },
+    "197239": {
+      "name": "Clearnet",
+      "type": "Enterprise"
     }
   }
 }
