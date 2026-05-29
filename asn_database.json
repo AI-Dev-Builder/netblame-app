@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-28T00:28:36.523Z",
+  "updated_at": "2026-05-29T00:33:51.198Z",
   "source": "PeeringDB",
-  "entry_count": 34691,
+  "entry_count": 34706,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -15448,10 +15448,6 @@
       "name": "SAMM Sociedade de Atividades em Multimidia LTDA",
       "type": "NSP"
     },
-    "262807": {
-      "name": "Redfox Telecomunicações",
-      "type": "Cable/DSL/ISP"
-    },
     "133982": {
       "name": "Excitel",
       "type": "Cable/DSL/ISP"
@@ -25661,7 +25657,7 @@
       "type": "Route Server"
     },
     "395081": {
-      "name": "MegaIX Toronto Route Servers",
+      "name": "MegaIX Toronto and Montreal Route Servers",
       "type": "Route Server"
     },
     "200436": {
@@ -25913,7 +25909,7 @@
       "type": "Cable/DSL/ISP"
     },
     "61006": {
-      "name": "Bredbandsfylket Troms AS",
+      "name": "Bredbandsfylket AS",
       "type": "Non-Profit"
     },
     "42697": {
@@ -55560,10 +55556,6 @@
       "name": "Optix Pakistan",
       "type": "NSP"
     },
-    "271228": {
-      "name": "WEB HOUSE",
-      "type": "Unknown"
-    },
     "271305": {
       "name": "TRX NET SERVICOS DE COMUNICACAO MULTIMIDIA",
       "type": "Cable/DSL/ISP"
@@ -75820,6 +75812,10 @@
       "name": "Poema eXchange LLC",
       "type": "Route Server"
     },
+    "199779": {
+      "name": "FIAREFAST-AS",
+      "type": "Unknown"
+    },
     "40880": {
       "name": "NAICOM CORPORATION",
       "type": "Content"
@@ -77779,10 +77775,6 @@
     "200461": {
       "name": "v6Node",
       "type": "Unknown"
-    },
-    "9423": {
-      "name": "ServerKing.io AS9423",
-      "type": "NSP"
     },
     "65": {
       "name": "Air Force Systems Networking (AS65)",
@@ -105384,10 +105376,6 @@
       "name": "274415",
       "type": "Cable/DSL/ISP"
     },
-    "151755": {
-      "name": "LNTDCNW-AS",
-      "type": "Unknown"
-    },
     "206212": {
       "name": "Communications Regulatory Authority",
       "type": "Government"
@@ -105576,10 +105564,6 @@
       "name": "JWYNEGARJR-INC",
       "type": "Unknown"
     },
-    "203669": {
-      "name": "DRAKXHOSTING",
-      "type": "Unknown"
-    },
     "263767": {
       "name": "263767",
       "type": "Unknown"
@@ -105654,7 +105638,7 @@
     },
     "211197": {
       "name": "ILZ",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "52491": {
       "name": "52491",
@@ -105667,10 +105651,6 @@
     "402359": {
       "name": "GOESEL-NET",
       "type": "Educational/Research"
-    },
-    "197260": {
-      "name": "Lohnes",
-      "type": "Content"
     },
     "197281": {
       "name": "SUIDI-AS",
@@ -105725,8 +105705,60 @@
       "type": "Cable/DSL/ISP"
     },
     "52679": {
-      "name": "ASN52679",
+      "name": "VIRTUAL NET SERVIÇOS DE INFORMATICA LTDA - ME",
       "type": "Unknown"
+    },
+    "154156": {
+      "name": "NEUTRADC",
+      "type": "Unknown"
+    },
+    "154677": {
+      "name": "iONLINE ISP AU",
+      "type": "NSP"
+    },
+    "402479": {
+      "name": "DECENTRA",
+      "type": "Unknown"
+    },
+    "200177": {
+      "name": "PT Atlantic Aksa Group",
+      "type": "Unknown"
+    },
+    "216224": {
+      "name": "Tianjin Tianzhan Technology Co., Ltd.",
+      "type": "Unknown"
+    },
+    "56053": {
+      "name": "CNISP-Union Technology (Beijing) Co., Ltd",
+      "type": "Unknown"
+    },
+    "6092": {
+      "name": "HARFORDCC-AS",
+      "type": "Unknown"
+    },
+    "154233": {
+      "name": "IDNIC-CYBERLINK-ID",
+      "type": "Unknown"
+    },
+    "55149": {
+      "name": "THUNDER-NETWORK",
+      "type": "Unknown"
+    },
+    "25814": {
+      "name": "DIGITALC",
+      "type": "Non-Profit"
+    },
+    "197191": {
+      "name": "NL-VIRTICALOPER-20260526",
+      "type": "NSP"
+    },
+    "197194": {
+      "name": "KIAN-IT",
+      "type": "Unknown"
+    },
+    "197178": {
+      "name": "Clarkzjw-Network",
+      "type": "Educational/Research"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -108976,6 +109008,10 @@
       "name": "Eurofiber France - Appliwave",
       "type": "Cable/DSL/ISP"
     },
+    "262807": {
+      "name": "Redfox Telecomunicações",
+      "type": "Cable/DSL/ISP"
+    },
     "33886": {
       "name": "Stockholm Internet eXchange",
       "type": "Content"
@@ -109050,7 +109086,7 @@
     },
     "327909": {
       "name": "iONLINE ISP",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "59827": {
       "name": "Futureweb",
@@ -131800,6 +131836,10 @@
       "name": "Kamatera EU",
       "type": "Unknown"
     },
+    "9423": {
+      "name": "ServerKing.io AS9423",
+      "type": "NSP"
+    },
     "329223": {
       "name": "Chakaza Holdings (PTY) Ltd",
       "type": "Cable/DSL/ISP"
@@ -134362,7 +134402,7 @@
     },
     "215128": {
       "name": "iONLINE ISP UK",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "400981": {
       "name": "IT7-IX",
@@ -134450,7 +134490,7 @@
     },
     "401008": {
       "name": "iONLINE ISP US",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "136863": {
       "name": "Era Global Nusindo (ERGON)",
@@ -137757,7 +137797,7 @@
       "type": "Educational/Research"
     },
     "135364": {
-      "name": "ACEESAT",
+      "name": "ACEESATELLITE COMMUNICATIONS PVT. LTD.",
       "type": "Cable/DSL/ISP"
     },
     "210856": {
@@ -138744,6 +138784,10 @@
       "name": "Nexarube",
       "type": "Unknown"
     },
+    "151755": {
+      "name": "L&T Network Services Private Limited",
+      "type": "Network Services"
+    },
     "199539": {
       "name": "LH2",
       "type": "Unknown"
@@ -138756,6 +138800,10 @@
       "name": "Giotsas",
       "type": "Network Services"
     },
+    "203669": {
+      "name": "DRAKXHOSTING",
+      "type": "Network Services"
+    },
     "197319": {
       "name": "Luca Maximilian Wannemacher",
       "type": "Educational/Research"
@@ -138764,9 +138812,21 @@
       "name": "ITSUMIKU-AS-INTL1",
       "type": "Unknown"
     },
+    "197260": {
+      "name": "Lohnes",
+      "type": "Content"
+    },
     "197239": {
       "name": "Clearnet",
       "type": "Enterprise"
+    },
+    "197324": {
+      "name": "BGP43",
+      "type": "Non-Profit"
+    },
+    "402566": {
+      "name": "MODERN-CONNECTIVITY",
+      "type": "NSP"
     }
   }
 }
