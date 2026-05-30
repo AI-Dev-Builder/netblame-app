@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-29T00:33:51.198Z",
+  "updated_at": "2026-05-30T00:30:31.981Z",
   "source": "PeeringDB",
-  "entry_count": 34706,
+  "entry_count": 34727,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -11645,8 +11645,8 @@
       "type": "Cable/DSL/ISP"
     },
     "40700": {
-      "name": "Stephouse Networks",
-      "type": "Cable/DSL/ISP"
+      "name": "WiLine AI Edge Cloud",
+      "type": "Network Services"
     },
     "60700": {
       "name": "WOLKE.li",
@@ -62256,6 +62256,10 @@
       "name": "Virtual Spot Internet",
       "type": "Cable/DSL/ISP"
     },
+    "212720": {
+      "name": "FR-GAMMICCHIAMA-20260516",
+      "type": "Content"
+    },
     "394116": {
       "name": "Axiom Technologies, Chebeague LLC",
       "type": "Cable/DSL/ISP"
@@ -76746,7 +76750,7 @@
     },
     "147152": {
       "name": "PT Asli Isoae Solusine",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "48689": {
       "name": "Webglobe, a.s.",
@@ -82679,6 +82683,10 @@
     "273389": {
       "name": "W. A. TELECOMUNICACOES",
       "type": "NSP"
+    },
+    "215745": {
+      "name": "MEOWNET-AS",
+      "type": "Cable/DSL/ISP"
     },
     "215738": {
       "name": "dashserv.io",
@@ -96910,7 +96918,7 @@
     },
     "141216": {
       "name": "GREAT GOLDEN HORSE COMPANY",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "3919": {
       "name": "HARBORNET",
@@ -103308,10 +103316,6 @@
       "name": "ROMAN EMPIRE BV",
       "type": "Content"
     },
-    "18849": {
-      "name": "Richesin Engineering, LLC",
-      "type": "Unknown"
-    },
     "142565": {
       "name": "Bangmod Cloud Pte. Ltd.",
       "type": "Unknown"
@@ -105670,11 +105674,11 @@
     },
     "197291": {
       "name": "KenAS",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "154429": {
       "name": "JAPTECH ELECTRONIC IT SOLUTIONS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "402555": {
       "name": "RIKKIA-NETWORK-01",
@@ -105709,7 +105713,7 @@
       "type": "Unknown"
     },
     "154156": {
-      "name": "NEUTRADC",
+      "name": "NEUTRADC (AS154156)",
       "type": "Unknown"
     },
     "154677": {
@@ -105718,10 +105722,6 @@
     },
     "402479": {
       "name": "DECENTRA",
-      "type": "Unknown"
-    },
-    "200177": {
-      "name": "PT Atlantic Aksa Group",
       "type": "Unknown"
     },
     "216224": {
@@ -105759,6 +105759,70 @@
     "197178": {
       "name": "Clarkzjw-Network",
       "type": "Educational/Research"
+    },
+    "402570": {
+      "name": "PANDAISP",
+      "type": "Unknown"
+    },
+    "197176": {
+      "name": "KylieCDN-AS",
+      "type": "Unknown"
+    },
+    "206246": {
+      "name": "Formosa",
+      "type": "Enterprise"
+    },
+    "402567": {
+      "name": "THANKYOU-AI",
+      "type": "Enterprise"
+    },
+    "3930": {
+      "name": "FERC-FED-US",
+      "type": "Unknown"
+    },
+    "197166": {
+      "name": "GOTSCHNA-AS",
+      "type": "Unknown"
+    },
+    "205": {
+      "name": "MONTCLAIR-AS",
+      "type": "Unknown"
+    },
+    "138603": {
+      "name": "SPLICE-AS-AP",
+      "type": "Unknown"
+    },
+    "41745": {
+      "name": "FORTIS-AS",
+      "type": "Unknown"
+    },
+    "52293": {
+      "name": "52293",
+      "type": "Unknown"
+    },
+    "401993": {
+      "name": "PROVOCATIVE",
+      "type": "Unknown"
+    },
+    "401779": {
+      "name": "AAROBAND",
+      "type": "Cable/DSL/ISP"
+    },
+    "267116": {
+      "name": "ASN267116",
+      "type": "Unknown"
+    },
+    "267103": {
+      "name": "ASN267103",
+      "type": "Unknown"
+    },
+    "51207": {
+      "name": "FREEM",
+      "type": "Unknown"
+    },
+    "197188": {
+      "name": "EBB",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -123100,6 +123164,10 @@
       "name": "Restarty Tech Internet",
       "type": "Cable/DSL/ISP"
     },
+    "18019": {
+      "name": "NEUTRADC (AS18019)",
+      "type": "Unknown"
+    },
     "33711": {
       "name": "Saddle Network",
       "type": "Content"
@@ -123390,6 +123458,10 @@
     },
     "45146": {
       "name": "Rajasa (PT.Raja Sepadan Abadi)",
+      "type": "Cable/DSL/ISP"
+    },
+    "271228": {
+      "name": "WEB HOUSE",
       "type": "Cable/DSL/ISP"
     },
     "137667": {
@@ -124511,6 +124583,10 @@
     "137145": {
       "name": "Light Wave Digital Network Private Limited",
       "type": "Cable/DSL/ISP"
+    },
+    "134478": {
+      "name": "EKCL-AS-AP",
+      "type": "Non-Profit"
     },
     "60471": {
       "name": "Mobitel-BGP",
@@ -128930,7 +129006,7 @@
     },
     "400688": {
       "name": "Daniel Marks",
-      "type": "Enterprise"
+      "type": "Educational/Research"
     },
     "206292": {
       "name": "Gerdriaan Mulder",
@@ -138604,6 +138680,10 @@
       "name": "FiberFlow Technologies Inc.",
       "type": "Cable/DSL/ISP"
     },
+    "18849": {
+      "name": "Richesin Engineering, LLC",
+      "type": "Network Services"
+    },
     "23161": {
       "name": "PhotoShelter, Inc.",
       "type": "Content"
@@ -138705,8 +138785,8 @@
       "type": "Content"
     },
     "199277": {
-      "name": "Maksims Doronkins",
-      "type": "Unknown"
+      "name": "Ultraglist",
+      "type": "Content"
     },
     "39889": {
       "name": "DCS Networks - Nordic",
@@ -138818,6 +138898,10 @@
     },
     "197239": {
       "name": "Clearnet",
+      "type": "Enterprise"
+    },
+    "200177": {
+      "name": "PT Atlantic Aksa Group",
       "type": "Enterprise"
     },
     "197324": {
