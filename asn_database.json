@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-30T00:30:31.981Z",
+  "updated_at": "2026-05-31T00:31:39.397Z",
   "source": "PeeringDB",
-  "entry_count": 34727,
+  "entry_count": 34729,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -35452,10 +35452,6 @@
       "name": "MONTMAY",
       "type": "Cable/DSL/ISP"
     },
-    "36828": {
-      "name": "xTom Los Angeles Legacy",
-      "type": "Cable/DSL/ISP"
-    },
     "23858": {
       "name": "xTom Australia Legacy",
       "type": "Cable/DSL/ISP"
@@ -62073,7 +62069,7 @@
       "type": "Unknown"
     },
     "198524": {
-      "name": "iLOL hostmaster",
+      "name": "iLOL",
       "type": "Content"
     },
     "140134": {
@@ -78836,10 +78832,6 @@
       "name": "WNS Global Services Pvt Ltd",
       "type": "Unknown"
     },
-    "197817": {
-      "name": "Nyco Cloud Network",
-      "type": "Unknown"
-    },
     "197841": {
       "name": "Michael Newcomb",
       "type": "Educational/Research"
@@ -79393,7 +79385,7 @@
       "type": "Unknown"
     },
     "949": {
-      "name": "xTom Los Angeles",
+      "name": "xTom United States",
       "type": "Network Services"
     },
     "205647": {
@@ -80861,7 +80853,7 @@
       "type": "Unknown"
     },
     "133370": {
-      "name": "TODD ENERGY",
+      "name": "TODD",
       "type": "Enterprise"
     },
     "136795": {
@@ -84653,7 +84645,7 @@
       "type": "Cable/DSL/ISP"
     },
     "215172": {
-      "name": "JianyueLab Main Network",
+      "name": "JianyueLab Global Backbone",
       "type": "Cable/DSL/ISP"
     },
     "267174": {
@@ -98310,7 +98302,7 @@
     },
     "152626": {
       "name": "Cloudbase Network",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "213476": {
       "name": "LITLINK",
@@ -105780,10 +105772,6 @@
       "name": "FERC-FED-US",
       "type": "Unknown"
     },
-    "197166": {
-      "name": "GOTSCHNA-AS",
-      "type": "Unknown"
-    },
     "205": {
       "name": "MONTCLAIR-AS",
       "type": "Unknown"
@@ -105822,6 +105810,26 @@
     },
     "197188": {
       "name": "EBB",
+      "type": "Unknown"
+    },
+    "197237": {
+      "name": "BELGGNET",
+      "type": "Unknown"
+    },
+    "154092": {
+      "name": "PT Artha Teknologi Inovasi",
+      "type": "Unknown"
+    },
+    "64005": {
+      "name": "KK-AS-AP",
+      "type": "Unknown"
+    },
+    "271341": {
+      "name": "ASN271341",
+      "type": "Unknown"
+    },
+    "197798": {
+      "name": "NET-CONNECT",
       "type": "Unknown"
     },
     "22822": {
@@ -108087,10 +108095,6 @@
     "62787": {
       "name": "SNARKNET",
       "type": "Cable/DSL/ISP"
-    },
-    "62805": {
-      "name": "xTom Fremont Legacy",
-      "type": "NSP"
     },
     "60294": {
       "name": "Deutsche Glasfaser",
@@ -114681,7 +114685,7 @@
       "type": "Cable/DSL/ISP"
     },
     "4785": {
-      "name": "xTom Japan",
+      "name": "xTom Osaka",
       "type": "Cable/DSL/ISP"
     },
     "7727": {
@@ -116894,10 +116898,6 @@
     },
     "137557": {
       "name": "International Gateway Co.,Ltd. (IIG)",
-      "type": "NSP"
-    },
-    "328383": {
-      "name": "xTom Africa",
       "type": "NSP"
     },
     "42181": {
@@ -120046,7 +120046,7 @@
     },
     "59886": {
       "name": "Layer Sistem",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "265038": {
       "name": "TELFO BRASIL",
@@ -126373,7 +126373,7 @@
       "type": "Cable/DSL/ISP"
     },
     "266139": {
-      "name": "ZENAIDE ALVES DE SOUZA OLIVEIRA E CIA LTDA - ME",
+      "name": "InfoBR Telecom",
       "type": "Cable/DSL/ISP"
     },
     "138884": {
@@ -127681,7 +127681,7 @@
       "type": "Cable/DSL/ISP"
     },
     "8888": {
-      "name": "xTom Pty Ltd",
+      "name": "xTom APAC",
       "type": "Cable/DSL/ISP"
     },
     "398668": {
@@ -129789,7 +129789,7 @@
       "type": "Cable/DSL/ISP"
     },
     "210152": {
-      "name": "Jon Arve Vanvik",
+      "name": "VANVIK INTERNET",
       "type": "NSP"
     },
     "141615": {
@@ -132359,6 +132359,10 @@
     "138718": {
       "name": "Ekowebtech It Services Pvt Ltd",
       "type": "Cable/DSL/ISP"
+    },
+    "197817": {
+      "name": "Nyco Cloud Network",
+      "type": "Unknown"
     },
     "198275": {
       "name": "flummer",
@@ -137741,7 +137745,7 @@
       "type": "Cable/DSL/ISP"
     },
     "215017": {
-      "name": "MYDILATELECOM",
+      "name": "V6OnlyNet",
       "type": "Unknown"
     },
     "212316": {
@@ -138465,8 +138469,8 @@
       "type": "Unknown"
     },
     "201541": {
-      "name": "Nedas Dozorec",
-      "type": "Non-Profit"
+      "name": "JentHost Network",
+      "type": "Educational/Research"
     },
     "11150": {
       "name": "American IX ★ SPFDMA Route Servers",
@@ -138785,7 +138789,7 @@
       "type": "Content"
     },
     "199277": {
-      "name": "Ultraglist",
+      "name": "01.712461157",
       "type": "Content"
     },
     "39889": {
@@ -138911,6 +138915,10 @@
     "402566": {
       "name": "MODERN-CONNECTIVITY",
       "type": "NSP"
+    },
+    "197166": {
+      "name": "GOTSCHNA-AS",
+      "type": "Content"
     }
   }
 }
