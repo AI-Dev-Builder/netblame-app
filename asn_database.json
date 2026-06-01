@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-05-31T00:31:39.397Z",
+  "updated_at": "2026-06-01T00:32:44.547Z",
   "source": "PeeringDB",
-  "entry_count": 34729,
+  "entry_count": 34730,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -5690,7 +5690,7 @@
     },
     "5524": {
       "name": "Breedband",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "40191": {
       "name": "Openface (AS40191)",
@@ -14285,7 +14285,7 @@
       "type": "Cable/DSL/ISP"
     },
     "49685": {
-      "name": "signetbreedband",
+      "name": "IT-Ernity Internet Services B.V.",
       "type": "NSP"
     },
     "32397": {
@@ -59388,10 +59388,6 @@
       "name": "Freshtel Group",
       "type": "Unknown"
     },
-    "141743": {
-      "name": "Stripe Hosting",
-      "type": "Network Services"
-    },
     "53859": {
       "name": "Atherton Fiber",
       "type": "Cable/DSL/ISP"
@@ -63590,10 +63586,6 @@
     },
     "142633": {
       "name": "NET DUNIA",
-      "type": "Cable/DSL/ISP"
-    },
-    "135849": {
-      "name": "CCPL",
       "type": "Cable/DSL/ISP"
     },
     "132849": {
@@ -79956,10 +79948,6 @@
       "name": "Penang IX Route Servers",
       "type": "Route Server"
     },
-    "47559": {
-      "name": "VOIXP Route Servers",
-      "type": "Route Server"
-    },
     "61024": {
       "name": "ISP Backbone",
       "type": "Content"
@@ -85345,7 +85333,7 @@
       "type": "Cable/DSL/ISP"
     },
     "215035": {
-      "name": "CONNECT-IX",
+      "name": "★ CONNECT-IX",
       "type": "Network Services"
     },
     "268879": {
@@ -88398,7 +88386,7 @@
     },
     "214326": {
       "name": "PERGAUD_Erwan",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "273132": {
       "name": "VALLE ISP S.A.S.",
@@ -99614,7 +99602,7 @@
     },
     "204211": {
       "name": "LoCyan Network",
-      "type": "Educational/Research"
+      "type": "Enterprise"
     },
     "267347": {
       "name": "PEGASUS",
@@ -104038,7 +104026,7 @@
     },
     "139673": {
       "name": "MFOJR Wired Internet Services",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "213129": {
       "name": "The National Health Service of Ukraine",
@@ -105582,7 +105570,7 @@
     },
     "207786": {
       "name": "Super-Network-IQ",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "17994": {
       "name": "Spark-17994",
@@ -105744,10 +105732,6 @@
       "name": "NL-VIRTICALOPER-20260526",
       "type": "NSP"
     },
-    "197194": {
-      "name": "KIAN-IT",
-      "type": "Unknown"
-    },
     "197178": {
       "name": "Clarkzjw-Network",
       "type": "Educational/Research"
@@ -105774,10 +105758,6 @@
     },
     "205": {
       "name": "MONTCLAIR-AS",
-      "type": "Unknown"
-    },
-    "138603": {
-      "name": "SPLICE-AS-AP",
       "type": "Unknown"
     },
     "41745": {
@@ -105826,11 +105806,15 @@
     },
     "271341": {
       "name": "ASN271341",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "197798": {
       "name": "NET-CONNECT",
       "type": "Unknown"
+    },
+    "39700": {
+      "name": "signetbreedband",
+      "type": "NSP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -126856,6 +126840,10 @@
       "name": "Auburn University at Montgomery",
       "type": "Educational/Research"
     },
+    "135849": {
+      "name": "CCPL",
+      "type": "Content"
+    },
     "210903": {
       "name": "QingYao Decentralized Network",
       "type": "Unknown"
@@ -131597,7 +131585,7 @@
       "type": "NSP"
     },
     "149704": {
-      "name": "Panglima Kamayo Media",
+      "name": "SATSET.NET",
       "type": "Cable/DSL/ISP"
     },
     "199682": {
@@ -138469,7 +138457,7 @@
       "type": "Unknown"
     },
     "201541": {
-      "name": "JentHost Network",
+      "name": "Nedas Dozorec",
       "type": "Educational/Research"
     },
     "11150": {
@@ -138912,6 +138900,10 @@
       "name": "BGP43",
       "type": "Non-Profit"
     },
+    "197194": {
+      "name": "KAYAN-IT",
+      "type": "Unknown"
+    },
     "402566": {
       "name": "MODERN-CONNECTIVITY",
       "type": "NSP"
@@ -138919,6 +138911,18 @@
     "197166": {
       "name": "GOTSCHNA-AS",
       "type": "Content"
+    },
+    "138603": {
+      "name": "Splice Internet",
+      "type": "Cable/DSL/ISP"
+    },
+    "197179": {
+      "name": "OCASDEV - AIPB44-AD",
+      "type": "Cable/DSL/ISP"
+    },
+    "399272": {
+      "name": "BARNHOLDT-NA",
+      "type": "Unknown"
     }
   }
 }
