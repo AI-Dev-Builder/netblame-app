@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-01T00:32:44.547Z",
+  "updated_at": "2026-06-02T00:36:49.668Z",
   "source": "PeeringDB",
-  "entry_count": 34730,
+  "entry_count": 34738,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -39109,7 +39109,7 @@
       "type": "Enterprise"
     },
     "26527": {
-      "name": "LightWave Networks",
+      "name": "LightWave Networks - Boston",
       "type": "Content"
     },
     "268560": {
@@ -73156,6 +73156,10 @@
       "name": "I-3",
       "type": "Unknown"
     },
+    "210606": {
+      "name": "kosix",
+      "type": "Route Server"
+    },
     "198101": {
       "name": "Kooperativa pojistovna, a.s., Vienna Insurance Group",
       "type": "Enterprise"
@@ -74241,7 +74245,7 @@
       "type": "Unknown"
     },
     "138346": {
-      "name": "Sajid Trading Ltd.",
+      "name": "NETX-BD",
       "type": "Cable/DSL/ISP"
     },
     "150685": {
@@ -84528,6 +84532,10 @@
       "name": "cloudcenter",
       "type": "Cable/DSL/ISP"
     },
+    "215675": {
+      "name": "perceptiontvcdn",
+      "type": "Unknown"
+    },
     "272906": {
       "name": "LIBERTY TECHNOLOGY SRL",
       "type": "Unknown"
@@ -88380,6 +88388,10 @@
       "name": "SHGWBNNET",
       "type": "Unknown"
     },
+    "214329": {
+      "name": "BGP Network LLC",
+      "type": "Content"
+    },
     "201896": {
       "name": "MEDIACTIVE 24/7",
       "type": "Content"
@@ -90614,10 +90626,6 @@
     },
     "213840": {
       "name": "DDOS PROTECTION",
-      "type": "Unknown"
-    },
-    "152732": {
-      "name": "Razib Communication",
       "type": "Unknown"
     },
     "53831": {
@@ -96298,10 +96306,6 @@
     },
     "329536": {
       "name": "ACEL DIGITAL - TECNOLOGIA E SERVIÇOS, LIMITADA",
-      "type": "Unknown"
-    },
-    "273371": {
-      "name": "TOP GIGA TELECOM",
       "type": "Unknown"
     },
     "154011": {
@@ -103560,10 +103564,6 @@
       "name": "Dazsoft Desenvolvimento de Softwares Ltda ME",
       "type": "Unknown"
     },
-    "204197": {
-      "name": "JD Group",
-      "type": "NSP"
-    },
     "4885": {
       "name": "Kawaii Networks LLC",
       "type": "Cable/DSL/ISP"
@@ -104392,10 +104392,6 @@
       "name": "GIGANET TELECOM (AS267281)",
       "type": "Unknown"
     },
-    "152388": {
-      "name": "Sinyal Khatulistiwa Network",
-      "type": "Unknown"
-    },
     "265541": {
       "name": "Bestel (265541)",
       "type": "Cable/DSL/ISP"
@@ -105169,7 +105165,7 @@
       "type": "Unknown"
     },
     "273500": {
-      "name": "ASN273500",
+      "name": "YPN TECNOLOGIA LTDA",
       "type": "NSP"
     },
     "151594": {
@@ -105815,6 +105811,26 @@
     "39700": {
       "name": "signetbreedband",
       "type": "NSP"
+    },
+    "327924": {
+      "name": "ORG-ENL1-AFRINIC",
+      "type": "Cable/DSL/ISP"
+    },
+    "12167": {
+      "name": "LightWave Networks - Dallas",
+      "type": "Content"
+    },
+    "402585": {
+      "name": "DIGITAINO-LLC",
+      "type": "Enterprise"
+    },
+    "394050": {
+      "name": "KIRBTECH",
+      "type": "Unknown"
+    },
+    "28453": {
+      "name": "28453",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -115034,7 +115050,7 @@
     },
     "63774": {
       "name": "Kamoike.net LLP",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "265819": {
       "name": "ComuniDat S.A.S",
@@ -124570,7 +124586,7 @@
     },
     "134478": {
       "name": "EKCL-AS-AP",
-      "type": "Non-Profit"
+      "type": "Cable/DSL/ISP"
     },
     "60471": {
       "name": "Mobitel-BGP",
@@ -135472,10 +135488,6 @@
       "name": "Media Akses Telematika",
       "type": "Cable/DSL/ISP"
     },
-    "214329": {
-      "name": "BGP Network LLC",
-      "type": "Content"
-    },
     "274607": {
       "name": "GHT Telecom",
       "type": "NSP"
@@ -136131,6 +136143,10 @@
     "47263": {
       "name": "CUBEHOSTING1",
       "type": "NSP"
+    },
+    "152732": {
+      "name": "Razib Communication",
+      "type": "Cable/DSL/ISP"
     },
     "51579": {
       "name": "Korporativniy partner",
@@ -137299,6 +137315,10 @@
     "215681": {
       "name": "Lea Dickmann",
       "type": "Educational/Research"
+    },
+    "273371": {
+      "name": "TOP GIGA TELECOM",
+      "type": "Cable/DSL/ISP"
     },
     "37605": {
       "name": "I-WORLD NETWORKS",
@@ -138716,6 +138736,10 @@
       "name": "EMOCLOUD LTD",
       "type": "Educational/Research"
     },
+    "204197": {
+      "name": "JD Group",
+      "type": "NSP"
+    },
     "199854": {
       "name": "Jens Thies",
       "type": "Educational/Research"
@@ -138787,6 +138811,10 @@
     "40643": {
       "name": "CNPARTNERS-1",
       "type": "Cable/DSL/ISP"
+    },
+    "152388": {
+      "name": "Sinyal Khatulistiwa Network",
+      "type": "Unknown"
     },
     "154528": {
       "name": "Dinas Komunikasi Informatika Statistik Dan Persandian Kota Pekanbaru",
@@ -138923,6 +138951,10 @@
     "399272": {
       "name": "BARNHOLDT-NA",
       "type": "Unknown"
+    },
+    "274041": {
+      "name": "INTERCABLE",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
