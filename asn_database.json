@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-03T00:41:42.010Z",
+  "updated_at": "2026-06-04T00:41:24.666Z",
   "source": "PeeringDB",
-  "entry_count": 34718,
+  "entry_count": 34734,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -19595,6 +19595,10 @@
     "9598": {
       "name": "NTT AS9598",
       "type": "NSP"
+    },
+    "202069": {
+      "name": "SAKURAGlobal",
+      "type": "Content"
     },
     "6713": {
       "name": "MAROC TELECOM",
@@ -41426,7 +41430,7 @@
     },
     "268019": {
       "name": "FIBRA PRIME SERVICOS DE TELECOMUNICACOES LTDA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "38965": {
       "name": "HostIn",
@@ -85665,7 +85669,7 @@
       "type": "Unknown"
     },
     "137458": {
-      "name": "Mcbroad ICT (AS137458)",
+      "name": "Mcbroad Enterprise",
       "type": "Unknown"
     },
     "215551": {
@@ -92005,7 +92009,7 @@
       "type": "Unknown"
     },
     "213619": {
-      "name": "Tinux-IT",
+      "name": "Netbela",
       "type": "Network Services"
     },
     "329460": {
@@ -92994,7 +92998,7 @@
     },
     "265225": {
       "name": "XINGU TELECOM LTDA",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "149946": {
       "name": "Multinet Perkasa Indonesia",
@@ -95181,7 +95185,7 @@
       "type": "Unknown"
     },
     "214931": {
-      "name": "ALUE NETWORK",
+      "name": "ALUE-NETWORK",
       "type": "Non-Profit"
     },
     "213640": {
@@ -97129,7 +97133,7 @@
       "type": "Network Services"
     },
     "268885": {
-      "name": "Kinet Telecom - AS268885",
+      "name": "Adylnet Telecom - AS268885",
       "type": "Cable/DSL/ISP"
     },
     "272563": {
@@ -105128,10 +105132,6 @@
       "name": "Ajax Networks, LLC",
       "type": "Unknown"
     },
-    "212386": {
-      "name": "cdctelco",
-      "type": "Enterprise"
-    },
     "202485": {
       "name": "NUBISYSTEM",
       "type": "Unknown"
@@ -105761,11 +105761,63 @@
       "type": "Unknown"
     },
     "198474": {
-      "name": "STEFANSTEVAN",
+      "name": "Stefan Stevanovic",
       "type": "Unknown"
     },
     "268554": {
-      "name": "ASN268554",
+      "name": "CDM TELECOM",
+      "type": "Unknown"
+    },
+    "197137": {
+      "name": "YUNHU - NETWORKS",
+      "type": "NSP"
+    },
+    "204618": {
+      "name": "CONR",
+      "type": "Unknown"
+    },
+    "397451": {
+      "name": "ZEROBOUNCE",
+      "type": "Unknown"
+    },
+    "207143": {
+      "name": "Hosttech GmbH",
+      "type": "Unknown"
+    },
+    "37805": {
+      "name": "CHAPITRE BENINOIS DE L'INTERNET SOCIETY",
+      "type": "Unknown"
+    },
+    "17626": {
+      "name": "YNL-AS-AP",
+      "type": "Unknown"
+    },
+    "25085": {
+      "name": "ALUE NETWORK",
+      "type": "Non-Profit"
+    },
+    "55134": {
+      "name": "SKYNET360 LLC",
+      "type": "Unknown"
+    },
+    "50187": {
+      "name": "BWC",
+      "type": "Unknown"
+    },
+    "149942": {
+      "name": "IDNIC-VIGONETWORK-AS-ID",
+      "type": "Unknown"
+    },
+    "219540": {
+      "name": "ERA-IX Route Servers Vienna",
+      "type": "Unknown"
+    },
+    "271872": {
+      "name": "TUMUNDO DIGITAL TELECOMUNICACIONES SPA",
+      "type": "Unknown"
+    },
+    "136159": {
+      "name": "Trira Inti Utama",
       "type": "Unknown"
     },
     "22822": {
@@ -116981,7 +117033,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263262": {
-      "name": "TOPPNET Telecom",
+      "name": "MOV FIBRA",
       "type": "Cable/DSL/ISP"
     },
     "394449": {
@@ -138497,7 +138549,7 @@
       "type": "Cable/DSL/ISP"
     },
     "5096": {
-      "name": "Lightboard Services ★ AS5069",
+      "name": "Lightboard Services ★ AS5096",
       "type": "Network Services"
     },
     "268036": {
@@ -138792,6 +138844,10 @@
       "name": "UN-AS-AP",
       "type": "NSP"
     },
+    "212386": {
+      "name": "cdctelco",
+      "type": "Enterprise"
+    },
     "197758": {
       "name": "NXLAYER",
       "type": "Enterprise"
@@ -138874,6 +138930,14 @@
     },
     "274041": {
       "name": "INTERCABLE",
+      "type": "Cable/DSL/ISP"
+    },
+    "197127": {
+      "name": "OwO Intranet Services",
+      "type": "Network Services"
+    },
+    "274310": {
+      "name": "274310",
       "type": "Cable/DSL/ISP"
     }
   }
