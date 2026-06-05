@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-04T00:41:24.666Z",
+  "updated_at": "2026-06-05T00:33:59.699Z",
   "source": "PeeringDB",
-  "entry_count": 34734,
+  "entry_count": 34745,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -131,10 +131,6 @@
     "1668": {
       "name": "AOL",
       "type": "NSP"
-    },
-    "6316": {
-      "name": "Windstream",
-      "type": "Unknown"
     },
     "8121": {
       "name": "Wave Datacenters - F/K/A Layer42",
@@ -827,6 +823,10 @@
     "25975": {
       "name": "GreatAccess.com",
       "type": "NSP"
+    },
+    "34019": {
+      "name": "Hivane",
+      "type": "Non-Profit"
     },
     "34746": {
       "name": "Eaton Kaye Ltd",
@@ -1563,10 +1563,6 @@
     "25752": {
       "name": "Neopolitan Networks, Inc.",
       "type": "Cable/DSL/ISP"
-    },
-    "10933": {
-      "name": "ATX Communications, Inc.",
-      "type": "NSP"
     },
     "11537": {
       "name": "UCAID",
@@ -3019,10 +3015,6 @@
     "12025": {
       "name": "Iron Mountain Data Centers (fka IO Data Centers)",
       "type": "NSP"
-    },
-    "14989": {
-      "name": "Broadview Networks",
-      "type": "Cable/DSL/ISP"
     },
     "26935": {
       "name": "Wholesail Networks - legacy Noel",
@@ -25879,10 +25871,6 @@
     "206281": {
       "name": "Vimexx",
       "type": "NSP"
-    },
-    "3385": {
-      "name": "Broadview Networks 3385",
-      "type": "Unknown"
     },
     "264562": {
       "name": "Texnet Internet Fibra Óptica",
@@ -56710,7 +56698,7 @@
     },
     "37004": {
       "name": "Suburban Broadband Ltd",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "202373": {
       "name": "Stadtwerke Rostock",
@@ -94810,7 +94798,7 @@
     },
     "213900": {
       "name": "RS Computers L.L.C",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "138045": {
       "name": "Cipta Piranti Sejahtera",
@@ -99357,7 +99345,7 @@
       "type": "Unknown"
     },
     "274105": {
-      "name": "LINKZONE",
+      "name": "LINKZONE SRL",
       "type": "Cable/DSL/ISP"
     },
     "274579": {
@@ -100903,10 +100891,6 @@
     "46324": {
       "name": "Advanced Stream Inc.",
       "type": "Unknown"
-    },
-    "202532": {
-      "name": "MBYTECHNOLOGY",
-      "type": "Cable/DSL/ISP"
     },
     "202610": {
       "name": "NekoClaw Ltd",
@@ -105502,7 +105486,7 @@
     },
     "203680": {
       "name": "araztech",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "265227": {
       "name": "ASN265227",
@@ -105820,6 +105804,54 @@
       "name": "Trira Inti Utama",
       "type": "Unknown"
     },
+    "274251": {
+      "name": "274251",
+      "type": "Cable/DSL/ISP"
+    },
+    "38647": {
+      "name": "GeekN-NetLab",
+      "type": "Unknown"
+    },
+    "215533": {
+      "name": "zaitoontech",
+      "type": "Unknown"
+    },
+    "52307": {
+      "name": "52307",
+      "type": "Unknown"
+    },
+    "207957": {
+      "name": "ServHost-AS",
+      "type": "Unknown"
+    },
+    "215133": {
+      "name": "JAKUB-WITKOWSKI",
+      "type": "Unknown"
+    },
+    "329192": {
+      "name": "ORG-OGL1-AFRINIC",
+      "type": "Cable/DSL/ISP"
+    },
+    "1827": {
+      "name": "MANAT-AS1",
+      "type": "Unknown"
+    },
+    "268335": {
+      "name": "ASN268335",
+      "type": "Unknown"
+    },
+    "215814": {
+      "name": "AS_SINAMONET",
+      "type": "Unknown"
+    },
+    "13937": {
+      "name": "Uniserve Communications Anycast DNS",
+      "type": "Network Services"
+    },
+    "273502": {
+      "name": "ASN273502",
+      "type": "Unknown"
+    },
     "22822": {
       "name": "Edgio - AS22822",
       "type": "Content"
@@ -105979,10 +106011,6 @@
     "25441": {
       "name": "Imagine Communications Group Ltd",
       "type": "Cable/DSL/ISP"
-    },
-    "34019": {
-      "name": "Hivane",
-      "type": "Non-Profit"
     },
     "30740": {
       "name": "Exa Networks Limited",
@@ -133760,6 +133788,10 @@
       "name": "Marlon Alkan",
       "type": "Educational/Research"
     },
+    "215664": {
+      "name": "MyNetwork",
+      "type": "NSP"
+    },
     "51692": {
       "name": "HyberHost",
       "type": "Content"
@@ -138224,6 +138256,10 @@
       "name": "PT Carel Mitra Komunika",
       "type": "Content"
     },
+    "202532": {
+      "name": "MBYTECHNOLOGY",
+      "type": "Cable/DSL/ISP"
+    },
     "264368": {
       "name": "A. L. A. INFORMATICA LTDA.",
       "type": "Cable/DSL/ISP"
@@ -138889,7 +138925,7 @@
       "type": "Unknown"
     },
     "197260": {
-      "name": "Lohnes",
+      "name": "FUNDIN-AS",
       "type": "Content"
     },
     "197239": {
@@ -138939,6 +138975,14 @@
     "274310": {
       "name": "274310",
       "type": "Cable/DSL/ISP"
+    },
+    "219533": {
+      "name": "Aetheron Network",
+      "type": "Enterprise"
+    },
+    "219535": {
+      "name": "Netelkaar B.V.",
+      "type": "NSP"
     }
   }
 }
