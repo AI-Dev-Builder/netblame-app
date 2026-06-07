@@ -1,13 +1,9 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-06T00:33:11.524Z",
-  "source": "PeeringDB + RIPE NCC RIS",
-  "entry_count": 34746,
+  "updated_at": "2026-06-07T00:33:15.942Z",
+  "source": "PeeringDB",
+  "entry_count": 34754,
   "entries": {
-    "originating": {
-      "name": "ASoriginating",
-      "type": "Unknown"
-    },
     "4436": {
       "name": "GTT Communications (AS4436)",
       "type": "NSP"
@@ -9715,10 +9711,6 @@
     "3633": {
       "name": "Government of BC",
       "type": "Government"
-    },
-    "48297": {
-      "name": "Penguin Networks",
-      "type": "Educational/Research"
     },
     "35158": {
       "name": "Dansk Net A/S",
@@ -22195,10 +22187,6 @@
     "10725": {
       "name": "Genentech",
       "type": "Enterprise"
-    },
-    "203282": {
-      "name": "Scale Genius",
-      "type": "Unknown"
     },
     "133665": {
       "name": "Krauss Communication",
@@ -43600,10 +43588,6 @@
       "name": "Coeur Mining",
       "type": "Enterprise"
     },
-    "268905": {
-      "name": "CLODOALDO BELO DE OLIVEIRA",
-      "type": "Unknown"
-    },
     "397554": {
       "name": "HAPPYCYCLING",
       "type": "Cable/DSL/ISP"
@@ -44459,6 +44443,10 @@
     "52830": {
       "name": "VISUAL COMPUTING",
       "type": "Unknown"
+    },
+    "263779": {
+      "name": "Academia Nacional de Ciencias",
+      "type": "Non-Profit"
     },
     "34924": {
       "name": "Pankerl-Media",
@@ -70248,6 +70236,10 @@
       "name": "Shucheng Li",
       "type": "Unknown"
     },
+    "60445": {
+      "name": "DODO-NET",
+      "type": "Unknown"
+    },
     "13316": {
       "name": "SES Sistemas Electrónicos S.A.",
       "type": "Unknown"
@@ -75956,10 +75948,6 @@
       "name": "Lancashire County Council",
       "type": "Unknown"
     },
-    "199519": {
-      "name": "THATGUYJACK",
-      "type": "Network Services"
-    },
     "207718": {
       "name": "Ru-hoster",
       "type": "Unknown"
@@ -78375,10 +78363,6 @@
     "208968": {
       "name": "Avacon Connect",
       "type": "Unknown"
-    },
-    "200267": {
-      "name": "Yiping Zhao",
-      "type": "Educational/Research"
     },
     "151324": {
       "name": "BONGAO CATV",
@@ -86538,7 +86522,7 @@
     },
     "215160": {
       "name": "wellownet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "264851": {
       "name": "IFOTONCORP S.A.",
@@ -87211,10 +87195,6 @@
     "273394": {
       "name": "TEEB WEB",
       "type": "NSP"
-    },
-    "214543": {
-      "name": "Karthik V",
-      "type": "Educational/Research"
     },
     "17816": {
       "name": "CHINA169-GZ",
@@ -88900,10 +88880,6 @@
       "name": "EthERNet",
       "type": "Enterprise"
     },
-    "214194": {
-      "name": "Justin Nolte",
-      "type": "Content"
-    },
     "214311": {
       "name": "RDP CORE DC DOO BEOGRAD, RDPCore Data Center Solutions",
       "type": "Enterprise"
@@ -90186,7 +90162,7 @@
     },
     "401431": {
       "name": "Blue Quartz",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "198232": {
       "name": "ZAKLAD TELEWIZJI KABLOWEJ \"TELE-KAB\" MARIANNA GRYGA, HENRYK SMYREK S.C.",
@@ -92146,10 +92122,6 @@
     },
     "401555": {
       "name": "Blockcast",
-      "type": "Unknown"
-    },
-    "213574": {
-      "name": "WEBPOOL",
       "type": "Unknown"
     },
     "58224": {
@@ -95627,10 +95599,6 @@
     "274833": {
       "name": "TELMIG TELECOM LTDA",
       "type": "Unknown"
-    },
-    "153895": {
-      "name": "PT RAJASA SINERGI KOMUNIKASI",
-      "type": "Cable/DSL/ISP"
     },
     "205001": {
       "name": "XTEK Invest SRL",
@@ -99726,7 +99694,7 @@
     },
     "152648": {
       "name": "Spark IT",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "21990": {
       "name": "Liberty Security Services",
@@ -102071,10 +102039,6 @@
     "37352": {
       "name": "CloudAfrica Hosting (PTY) LTD",
       "type": "NSP"
-    },
-    "142395": {
-      "name": "PT Global Internet Indonesia",
-      "type": "Cable/DSL/ISP"
     },
     "215030": {
       "name": "AspireHosting",
@@ -105333,7 +105297,7 @@
       "type": "Unknown"
     },
     "328581": {
-      "name": "ORG-FOL1-AFRINIC",
+      "name": "Fiber One (SL) LIMITED",
       "type": "Unknown"
     },
     "197378": {
@@ -105443,10 +105407,6 @@
     "402548": {
       "name": "MHS-NET",
       "type": "Unknown"
-    },
-    "402547": {
-      "name": "JWYNEGARJR-INC",
-      "type": "Content"
     },
     "263767": {
       "name": "263767",
@@ -105806,7 +105766,7 @@
     },
     "136159": {
       "name": "Trira Inti Utama",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "274251": {
       "name": "274251",
@@ -105818,7 +105778,7 @@
     },
     "215533": {
       "name": "zaitoontech",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "52307": {
       "name": "52307",
@@ -105832,10 +105792,6 @@
       "name": "JAKUB-WITKOWSKI",
       "type": "Unknown"
     },
-    "329192": {
-      "name": "ORG-OGL1-AFRINIC",
-      "type": "Cable/DSL/ISP"
-    },
     "1827": {
       "name": "MANAT-AS1",
       "type": "Unknown"
@@ -105846,7 +105802,7 @@
     },
     "215814": {
       "name": "AS_SINAMONET",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "13937": {
       "name": "Uniserve Communications Anycast DNS",
@@ -105854,6 +105810,70 @@
     },
     "273502": {
       "name": "ASN273502",
+      "type": "Unknown"
+    },
+    "54861": {
+      "name": "SAHARA-COMPUTE-COM",
+      "type": "Unknown"
+    },
+    "274172": {
+      "name": "274172",
+      "type": "Unknown"
+    },
+    "49169": {
+      "name": "ETA2U-AS",
+      "type": "Unknown"
+    },
+    "211136": {
+      "name": "CERT-EU",
+      "type": "Unknown"
+    },
+    "212223": {
+      "name": "BUYWAY-BE-AS",
+      "type": "Unknown"
+    },
+    "29529": {
+      "name": "Antonis",
+      "type": "Educational/Research"
+    },
+    "49671": {
+      "name": "DODO RS ASN",
+      "type": "Cable/DSL/ISP"
+    },
+    "402600": {
+      "name": "UN9",
+      "type": "Educational/Research"
+    },
+    "28469": {
+      "name": "28469",
+      "type": "Unknown"
+    },
+    "198790": {
+      "name": "CrocNet",
+      "type": "Unknown"
+    },
+    "402128": {
+      "name": "PEAKFIBER-01",
+      "type": "Unknown"
+    },
+    "273830": {
+      "name": "273830",
+      "type": "Cable/DSL/ISP"
+    },
+    "219522": {
+      "name": "Pupnet LTD",
+      "type": "Unknown"
+    },
+    "219529": {
+      "name": "PODRIL1AK2-AS",
+      "type": "Unknown"
+    },
+    "44300": {
+      "name": "IPLS-AS",
+      "type": "Unknown"
+    },
+    "213690": {
+      "name": "AWSOLUCOESDI",
       "type": "Unknown"
     },
     "22822": {
@@ -118493,7 +118513,7 @@
       "type": "Cable/DSL/ISP"
     },
     "209097": {
-      "name": "NETSYST",
+      "name": "NetSyst",
       "type": "Content"
     },
     "138608": {
@@ -118864,6 +118884,10 @@
       "name": "G3 Telecom EIRELI",
       "type": "Cable/DSL/ISP"
     },
+    "268905": {
+      "name": "NET COMPARTILHE",
+      "type": "Cable/DSL/ISP"
+    },
     "131644": {
       "name": "Taiwan Network Information Center AS131644",
       "type": "Enterprise"
@@ -119199,10 +119223,6 @@
     "12400": {
       "name": "Partner Communications",
       "type": "Cable/DSL/ISP"
-    },
-    "263779": {
-      "name": "Academia Nacional de Ciencias",
-      "type": "Non-Profit"
     },
     "138365": {
       "name": "ESPORTS LIMITED",
@@ -128149,7 +128169,7 @@
       "type": "Cable/DSL/ISP"
     },
     "210030": {
-      "name": "ANCELADE SAS",
+      "name": "★ ANCELADE CLOUD",
       "type": "Network Services"
     },
     "141346": {
@@ -129167,10 +129187,6 @@
     "132464": {
       "name": "Barbaza Multi-Purpose Cooperative",
       "type": "Cable/DSL/ISP"
-    },
-    "265485": {
-      "name": "UP NET TELECOM",
-      "type": "Unknown"
     },
     "138417": {
       "name": "Stardust Telecom Ltd NIX",
@@ -131428,6 +131444,10 @@
       "name": "LD Telecommunications",
       "type": "Network Services"
     },
+    "199519": {
+      "name": "THATGUYJACK",
+      "type": "Educational/Research"
+    },
     "209554": {
       "name": "ISIF Network",
       "type": "Cable/DSL/ISP"
@@ -131811,10 +131831,6 @@
     "266282": {
       "name": "V-LINK FIBRA - PROVEDOR DE INTERNET",
       "type": "Cable/DSL/ISP"
-    },
-    "212516": {
-      "name": "Alessio Cairoli",
-      "type": "Educational/Research"
     },
     "267761": {
       "name": "Onda Network S de R.L",
@@ -135137,8 +135153,8 @@
       "type": "NSP"
     },
     "214819": {
-      "name": "Buzzster",
-      "type": "Educational/Research"
+      "name": "Government of Eirenia",
+      "type": "Government"
     },
     "214591": {
       "name": "frankonIX RouteServer",
@@ -135329,7 +135345,7 @@
       "type": "Network Services"
     },
     "214564": {
-      "name": "Frostbyte Networks",
+      "name": "Bruce Moriarty",
       "type": "Educational/Research"
     },
     "153087": {
@@ -137232,6 +137248,10 @@
       "name": "Swanroe Internet Cooperative",
       "type": "Cable/DSL/ISP"
     },
+    "153895": {
+      "name": "PT RAJASA SINERGI KOMUNIKASI",
+      "type": "Cable/DSL/ISP"
+    },
     "207099": {
       "name": "RICKARDANDRI",
       "type": "Unknown"
@@ -137362,7 +137382,7 @@
     },
     "153858": {
       "name": "SOKKA TAMA FIBER",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "401690": {
       "name": "Team Cymru Monitoring",
@@ -138472,6 +138492,10 @@
       "name": "Nerdlab",
       "type": "Unknown"
     },
+    "142395": {
+      "name": "PT Global Internet Indonesia",
+      "type": "Cable/DSL/ISP"
+    },
     "201623": {
       "name": "DutchEllie",
       "type": "Educational/Research"
@@ -138916,6 +138940,10 @@
       "name": "Giotsas",
       "type": "Network Services"
     },
+    "402547": {
+      "name": "JWYNEGARJR-INC",
+      "type": "Content"
+    },
     "203669": {
       "name": "DRAKXHOSTING",
       "type": "Network Services"
@@ -138987,6 +139015,10 @@
     "219535": {
       "name": "Netelkaar B.V.",
       "type": "NSP"
+    },
+    "329759": {
+      "name": "Frostbyte Networks",
+      "type": "Unknown"
     }
   }
 }
