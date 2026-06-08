@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-07T00:33:15.942Z",
+  "updated_at": "2026-06-08T00:34:44.869Z",
   "source": "PeeringDB",
-  "entry_count": 34754,
+  "entry_count": 34758,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -62153,7 +62153,7 @@
       "type": "NSP"
     },
     "22878": {
-      "name": "ASACENET1",
+      "name": "Acenet, Inc.",
       "type": "Unknown"
     },
     "141767": {
@@ -97024,6 +97024,10 @@
       "name": "PT Timeless Network Group",
       "type": "Network Services"
     },
+    "205941": {
+      "name": "Lungu Stefan Gabriel",
+      "type": "NSP"
+    },
     "43905": {
       "name": "SPACE NORWAY SATCOM AS",
       "type": "Unknown"
@@ -101974,7 +101978,7 @@
     },
     "154208": {
       "name": "PT GIRI DATA SOLUSINDO",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "400161": {
       "name": "HAWAIIRESEARCH",
@@ -105301,8 +105305,8 @@
       "type": "Unknown"
     },
     "197378": {
-      "name": "Zyme Net1",
-      "type": "Unknown"
+      "name": "Zyme Networks",
+      "type": "Enterprise"
     },
     "197528": {
       "name": "Suibian Network LLC",
@@ -105792,6 +105796,10 @@
       "name": "JAKUB-WITKOWSKI",
       "type": "Unknown"
     },
+    "329192": {
+      "name": "Optinode Group",
+      "type": "Cable/DSL/ISP"
+    },
     "1827": {
       "name": "MANAT-AS1",
       "type": "Unknown"
@@ -105874,6 +105882,18 @@
     },
     "213690": {
       "name": "AWSOLUCOESDI",
+      "type": "Unknown"
+    },
+    "43141": {
+      "name": "Swiss_Innovative_Arts_and_Technologies_Institute",
+      "type": "Unknown"
+    },
+    "206815": {
+      "name": "united-as",
+      "type": "Unknown"
+    },
+    "134703": {
+      "name": "JCIX",
       "type": "Unknown"
     },
     "22822": {
@@ -134341,7 +134361,7 @@
       "type": "Educational/Research"
     },
     "215216": {
-      "name": "Barry Ruetten",
+      "name": "Druifje",
       "type": "Educational/Research"
     },
     "149943": {
@@ -137535,10 +137555,6 @@
     "62517": {
       "name": "Taiwan Telecom, Inc.(Premium)",
       "type": "Network Services"
-    },
-    "205941": {
-      "name": "Lungu Stefan Gabriel",
-      "type": "NSP"
     },
     "401896": {
       "name": "MISIU LLC",
