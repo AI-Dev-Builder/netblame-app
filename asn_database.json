@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-08T00:34:44.869Z",
+  "updated_at": "2026-06-09T00:29:26.651Z",
   "source": "PeeringDB",
-  "entry_count": 34758,
+  "entry_count": 34771,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -33567,6 +33567,10 @@
     "19834": {
       "name": "Conversant US Central",
       "type": "Content"
+    },
+    "137413": {
+      "name": "CNE-AS-AP",
+      "type": "Unknown"
     },
     "266713": {
       "name": "Wmax Spa",
@@ -80724,6 +80728,10 @@
       "name": "FREEDOTEL",
       "type": "Unknown"
     },
+    "216182": {
+      "name": "Devcat",
+      "type": "Content"
+    },
     "271354": {
       "name": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
       "type": "Unknown"
@@ -100957,7 +100965,7 @@
       "type": "Unknown"
     },
     "203753": {
-      "name": "CLOUDPROTECT",
+      "name": "VOLGA-DC",
       "type": "Content"
     },
     "27640": {
@@ -105182,7 +105190,7 @@
     },
     "22526": {
       "name": "ITC-ASN",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "142200": {
       "name": "NETNOVA-AS-AP",
@@ -105766,7 +105774,7 @@
     },
     "271872": {
       "name": "TUMUNDO DIGITAL TELECOMUNICACIONES SPA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "136159": {
       "name": "Trira Inti Utama",
@@ -105838,7 +105846,7 @@
     },
     "212223": {
       "name": "BUYWAY-BE-AS",
-      "type": "Unknown"
+      "type": "Content"
     },
     "29529": {
       "name": "Antonis",
@@ -105893,7 +105901,55 @@
       "type": "Unknown"
     },
     "134703": {
-      "name": "JCIX",
+      "name": "JCIX - Route Server",
+      "type": "Route Server"
+    },
+    "402602": {
+      "name": "HFS-01",
+      "type": "Unknown"
+    },
+    "133588": {
+      "name": "Cambodian Network Exchange Co., Ltd.",
+      "type": "Content"
+    },
+    "153549": {
+      "name": "MTC-AS-AP",
+      "type": "Unknown"
+    },
+    "402568": {
+      "name": "AVERSON-IT",
+      "type": "Enterprise"
+    },
+    "60296": {
+      "name": "METRONET-AS",
+      "type": "NSP"
+    },
+    "15012": {
+      "name": "TRIOLAB",
+      "type": "Unknown"
+    },
+    "203886": {
+      "name": "DAVION-AS",
+      "type": "Unknown"
+    },
+    "268774": {
+      "name": "ASN268774",
+      "type": "Unknown"
+    },
+    "26059": {
+      "name": "PGH-AS",
+      "type": "Unknown"
+    },
+    "219511": {
+      "name": "BE-SERGEKRIER-20260605",
+      "type": "Educational/Research"
+    },
+    "219503": {
+      "name": "KK-AS",
+      "type": "Unknown"
+    },
+    "62490": {
+      "name": "COMINTECH",
       "type": "Unknown"
     },
     "22822": {
@@ -107474,7 +107530,7 @@
     },
     "50272": {
       "name": "AVUR",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "53018": {
       "name": "INTERTEM",
@@ -121725,7 +121781,7 @@
       "type": "Unknown"
     },
     "267620": {
-      "name": "FIBRANET INFORMATICA",
+      "name": "TELEXTRA TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
     },
     "267234": {
@@ -133196,10 +133252,6 @@
       "name": "Experience Infinity",
       "type": "Network Services"
     },
-    "216182": {
-      "name": "Devcat",
-      "type": "Content"
-    },
     "216190": {
       "name": "OCASDEV",
       "type": "Network Services"
@@ -135697,7 +135749,7 @@
       "type": "Cable/DSL/ISP"
     },
     "214205": {
-      "name": "CRISTIAN TUDOR MARCUS",
+      "name": "AS214205",
       "type": "Educational/Research"
     },
     "40205": {
