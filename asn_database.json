@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-10T00:35:40.734Z",
+  "updated_at": "2026-06-11T00:36:50.297Z",
   "source": "PeeringDB",
-  "entry_count": 34790,
+  "entry_count": 34804,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -37409,7 +37409,7 @@
       "type": "Cable/DSL/ISP"
     },
     "39335": {
-      "name": "June Slater",
+      "name": "igloo22225 - AS39335",
       "type": "Cable/DSL/ISP"
     },
     "54198": {
@@ -71633,7 +71633,7 @@
       "type": "Content"
     },
     "135728": {
-      "name": "Datagram Network",
+      "name": "Threesa Infonet Private Limited",
       "type": "Cable/DSL/ISP"
     },
     "60132": {
@@ -88008,6 +88008,10 @@
       "name": "MYNETS SERVICOS DE COMUNICACAO LTDA",
       "type": "NSP"
     },
+    "214388": {
+      "name": "Cloudnet-Technologies-LLC",
+      "type": "Educational/Research"
+    },
     "152878": {
       "name": "Luna",
       "type": "Unknown"
@@ -90235,10 +90239,6 @@
     "214147": {
       "name": "Ka Ho Ng",
       "type": "Educational/Research"
-    },
-    "214453": {
-      "name": "Jandu Technologies Ltd",
-      "type": "Content"
     },
     "28686": {
       "name": "Aveniq",
@@ -94584,10 +94584,6 @@
       "name": "Lambda Cloud",
       "type": "NSP"
     },
-    "213370": {
-      "name": "NETOMAT",
-      "type": "Unknown"
-    },
     "133464": {
       "name": "RTDS Network ICT Solutions Inc.",
       "type": "Cable/DSL/ISP"
@@ -95444,10 +95440,6 @@
       "name": "SUMTEL",
       "type": "Enterprise"
     },
-    "33306": {
-      "name": "Redefined Solutions",
-      "type": "Enterprise"
-    },
     "215002": {
       "name": "PRISM.GG Limited",
       "type": "Network Services"
@@ -95946,7 +95938,7 @@
     },
     "205874": {
       "name": "BG-ZEROBYTE",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "401753": {
       "name": "BIXCE",
@@ -100063,10 +100055,6 @@
     "131798": {
       "name": "Sangsang Networks Co., Ltd.",
       "type": "Cable/DSL/ISP"
-    },
-    "154377": {
-      "name": "Brothers Online BD",
-      "type": "Unknown"
     },
     "149491": {
       "name": "Right Net",
@@ -105584,10 +105572,6 @@
       "name": "THUNDER NETWORK (AS55149)",
       "type": "Unknown"
     },
-    "25814": {
-      "name": "DIGITALC",
-      "type": "Non-Profit"
-    },
     "197191": {
       "name": "Virtical Operations",
       "type": "NSP"
@@ -105900,6 +105884,10 @@
       "name": "Cambodian Network Exchange Co., Ltd.",
       "type": "Content"
     },
+    "153549": {
+      "name": "MUI Technology Company Limited",
+      "type": "Content"
+    },
     "402568": {
       "name": "AVERSON-IT",
       "type": "Enterprise"
@@ -105930,7 +105918,7 @@
     },
     "219503": {
       "name": "Kenny Kropp",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "62490": {
       "name": "COMINTECH",
@@ -105941,11 +105929,11 @@
       "type": "Unknown"
     },
     "208224": {
-      "name": "GALAXYWEB-AG",
+      "name": "Galaxyweb AG",
       "type": "Unknown"
     },
     "44468": {
-      "name": "Webkitchen",
+      "name": "Webkitchen GmbH",
       "type": "Unknown"
     },
     "213059": {
@@ -105957,7 +105945,7 @@
       "type": "Unknown"
     },
     "207465": {
-      "name": "NetDEF-US",
+      "name": "Network Device Education Foundation Inc",
       "type": "Unknown"
     },
     "6260": {
@@ -105977,7 +105965,7 @@
       "type": "Enterprise"
     },
     "212443": {
-      "name": "Leonet",
+      "name": "Leonet GmbH",
       "type": "Unknown"
     },
     "199533": {
@@ -105993,7 +105981,7 @@
       "type": "Educational/Research"
     },
     "395035": {
-      "name": "LIVEOAK-FIBER",
+      "name": "LiveOak Fiber",
       "type": "Unknown"
     },
     "215217": {
@@ -106011,6 +105999,62 @@
     "20183": {
       "name": "365 Data Centers (Markham)",
       "type": "NSP"
+    },
+    "140766": {
+      "name": "FPT Smart Cloud Company Limited",
+      "type": "Unknown"
+    },
+    "402611": {
+      "name": "ROOTNET",
+      "type": "Unknown"
+    },
+    "402587": {
+      "name": "SAKURADREAM",
+      "type": "Unknown"
+    },
+    "215852": {
+      "name": "SHIGIR",
+      "type": "Unknown"
+    },
+    "197959": {
+      "name": "AS197959",
+      "type": "NSP"
+    },
+    "43420": {
+      "name": "ELTRONIK-AS",
+      "type": "Cable/DSL/ISP"
+    },
+    "35507": {
+      "name": "BEGASOFT-AS",
+      "type": "Unknown"
+    },
+    "219478": {
+      "name": "IntraceX",
+      "type": "Network Services"
+    },
+    "137359": {
+      "name": "SKYREACH-AS-ID",
+      "type": "Unknown"
+    },
+    "214647": {
+      "name": "YADDA",
+      "type": "Unknown"
+    },
+    "269742": {
+      "name": "269742",
+      "type": "Unknown"
+    },
+    "273955": {
+      "name": "273955",
+      "type": "Cable/DSL/ISP"
+    },
+    "402519": {
+      "name": "OCTET-NETWORKS",
+      "type": "Unknown"
+    },
+    "198550": {
+      "name": "nodehost-as",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -137344,6 +137388,10 @@
       "name": "PixelDeck Hosting, LLC",
       "type": "Content"
     },
+    "33306": {
+      "name": "Redefined Solutions",
+      "type": "Enterprise"
+    },
     "33755": {
       "name": "Valor Holdings LLC",
       "type": "Content"
@@ -138316,6 +138364,10 @@
       "name": "Vanuatu Internet Exchange (VIX)",
       "type": "Network Services"
     },
+    "154377": {
+      "name": "Brothers Online BD",
+      "type": "Cable/DSL/ISP"
+    },
     "141796": {
       "name": "VAYU ONLINE PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
@@ -139107,6 +139159,10 @@
     "200177": {
       "name": "PT Atlantic Aksa Group",
       "type": "Enterprise"
+    },
+    "25814": {
+      "name": "DIGITALC",
+      "type": "Non-Profit"
     },
     "197324": {
       "name": "BGP43",
