@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-12T00:37:40.539Z",
+  "updated_at": "2026-06-13T00:37:25.922Z",
   "source": "PeeringDB",
-  "entry_count": 34776,
+  "entry_count": 34787,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -15440,10 +15440,6 @@
       "name": "Rage4 Networks Limited",
       "type": "Content"
     },
-    "63199": {
-      "name": "CDS Global Cloud Co., LTD",
-      "type": "NSP"
-    },
     "32709": {
       "name": "Joink LLC",
       "type": "NSP"
@@ -21387,6 +21383,10 @@
     "8453": {
       "name": "Econis",
       "type": "Cable/DSL/ISP"
+    },
+    "62165": {
+      "name": "Host Direct sp. z o. o.",
+      "type": "Enterprise"
     },
     "328068": {
       "name": "Active Fibre",
@@ -74594,7 +74594,7 @@
     },
     "54936": {
       "name": "Wyyerd Group",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "17390": {
       "name": "IBM",
@@ -101717,7 +101717,7 @@
       "type": "Cable/DSL/ISP"
     },
     "213586": {
-      "name": "SMCONSULTINGSERVICES",
+      "name": "SM CONSULTING SERVICES",
       "type": "Non-Profit"
     },
     "207650": {
@@ -105425,8 +105425,8 @@
       "type": "NSP"
     },
     "402479": {
-      "name": "DECENTRA",
-      "type": "Unknown"
+      "name": "Decentra",
+      "type": "Content"
     },
     "216224": {
       "name": "Tianjin Tianzhan Technology Co., Ltd.",
@@ -105937,8 +105937,8 @@
       "type": "Unknown"
     },
     "154344": {
-      "name": "IDNIC-JISLT-AS-ID",
-      "type": "Unknown"
+      "name": "Java Internet Solution",
+      "type": "Cable/DSL/ISP"
     },
     "153874": {
       "name": "Caraga State University",
@@ -105991,6 +105991,42 @@
     "219458": {
       "name": "FARCALLER-NET",
       "type": "Educational/Research"
+    },
+    "400609": {
+      "name": "LOOPHOLE-LABS",
+      "type": "Enterprise"
+    },
+    "154709": {
+      "name": "IDNIC-J2SN-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "33736": {
+      "name": "DENTALASSOCIATESWI",
+      "type": "Unknown"
+    },
+    "214060": {
+      "name": "SEABIX",
+      "type": "Unknown"
+    },
+    "274654": {
+      "name": "ASN274654",
+      "type": "Unknown"
+    },
+    "202757": {
+      "name": "CASTLE-IT",
+      "type": "Unknown"
+    },
+    "402622": {
+      "name": "OSS-1",
+      "type": "Unknown"
+    },
+    "154602": {
+      "name": "BACK WAVES BROADBAND",
+      "type": "Cable/DSL/ISP"
+    },
+    "267785": {
+      "name": "267785",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -109239,6 +109275,10 @@
     "33886": {
       "name": "Stockholm Internet eXchange",
       "type": "Content"
+    },
+    "63199": {
+      "name": "CDS Global Cloud Co., LTD",
+      "type": "NSP"
     },
     "60157": {
       "name": "Antheus Telecom Ltd",
@@ -139107,6 +139147,10 @@
     "133371": {
       "name": "SOKKALINK-NAP",
       "type": "NSP"
+    },
+    "263317": {
+      "name": "ASN263317",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
