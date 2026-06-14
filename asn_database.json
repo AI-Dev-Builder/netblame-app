@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-13T00:37:25.922Z",
+  "updated_at": "2026-06-14T00:35:10.178Z",
   "source": "PeeringDB",
-  "entry_count": 34787,
+  "entry_count": 34791,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -57280,10 +57280,6 @@
       "name": "Sciuridae Network TW",
       "type": "Unknown"
     },
-    "202607": {
-      "name": "Speedmax",
-      "type": "Unknown"
-    },
     "131682": {
       "name": "Sciuridae Network TW 2",
       "type": "Network Services"
@@ -63342,10 +63338,6 @@
     },
     "13128": {
       "name": "IT-Dienstleistungszentrum Berlin",
-      "type": "Unknown"
-    },
-    "268480": {
-      "name": "ALTA VELOCIDADE TELECOMUNICACOES LTDA",
       "type": "Unknown"
     },
     "19881": {
@@ -105798,7 +105790,7 @@
     },
     "62490": {
       "name": "COMINTECH",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "141198": {
       "name": "TLink Communication",
@@ -105851,10 +105843,6 @@
     "219490": {
       "name": "GOELTZ",
       "type": "Unknown"
-    },
-    "219489": {
-      "name": "MZKNET",
-      "type": "Educational/Research"
     },
     "395035": {
       "name": "LiveOak Fiber",
@@ -105988,10 +105976,6 @@
       "name": "YIFUNET",
       "type": "Unknown"
     },
-    "219458": {
-      "name": "FARCALLER-NET",
-      "type": "Educational/Research"
-    },
     "400609": {
       "name": "LOOPHOLE-LABS",
       "type": "Enterprise"
@@ -106026,6 +106010,30 @@
     },
     "267785": {
       "name": "267785",
+      "type": "Unknown"
+    },
+    "141745": {
+      "name": "MOGHBAZARDOTNET-AS-AP",
+      "type": "Unknown"
+    },
+    "268061": {
+      "name": "ASN268061",
+      "type": "Unknown"
+    },
+    "402625": {
+      "name": "WT-01",
+      "type": "Unknown"
+    },
+    "219453": {
+      "name": "pvamerongen",
+      "type": "Unknown"
+    },
+    "396196": {
+      "name": "PRIORITY-COMM-CLOUD-SERVICES",
+      "type": "Unknown"
+    },
+    "219449": {
+      "name": "HANDILY-LABS",
       "type": "Unknown"
     },
     "22822": {
@@ -139147,6 +139155,14 @@
     "133371": {
       "name": "SOKKALINK-NAP",
       "type": "NSP"
+    },
+    "219489": {
+      "name": "MZKNET",
+      "type": "Educational/Research"
+    },
+    "219458": {
+      "name": "FARCALLER-NET",
+      "type": "Educational/Research"
     },
     "263317": {
       "name": "ASN263317",
