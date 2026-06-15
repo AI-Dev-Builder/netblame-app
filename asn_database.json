@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-14T00:35:10.178Z",
+  "updated_at": "2026-06-15T00:37:02.395Z",
   "source": "PeeringDB",
-  "entry_count": 34791,
+  "entry_count": 34799,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -105734,7 +105734,7 @@
     },
     "43141": {
       "name": "Associazione SWISS INNOVATIVE ARTS & TECHNOLOGIES INSTITUTE (SIATI)",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "206815": {
       "name": "United Fiber to the home",
@@ -105746,7 +105746,7 @@
     },
     "402602": {
       "name": "HFS-01",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "133588": {
       "name": "Cambodian Network Exchange Co., Ltd.",
@@ -105958,7 +105958,7 @@
     },
     "219455": {
       "name": "ALEKSWILC",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "274941": {
       "name": "274941",
@@ -105981,7 +105981,7 @@
       "type": "Enterprise"
     },
     "154709": {
-      "name": "IDNIC-J2SN-AS-ID",
+      "name": "Jitu Solusindo Nusantara",
       "type": "Cable/DSL/ISP"
     },
     "33736": {
@@ -106034,6 +106034,38 @@
     },
     "219449": {
       "name": "HANDILY-LABS",
+      "type": "Unknown"
+    },
+    "219479": {
+      "name": "MeGunes",
+      "type": "Unknown"
+    },
+    "197683": {
+      "name": "ANONSYS",
+      "type": "Unknown"
+    },
+    "135045": {
+      "name": "SSRB3-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "402366": {
+      "name": "SOHEIL-DS",
+      "type": "Cable/DSL/ISP"
+    },
+    "213473": {
+      "name": "kalaam-KSA",
+      "type": "Cable/DSL/ISP"
+    },
+    "211818": {
+      "name": "DDC-LND",
+      "type": "Unknown"
+    },
+    "207847": {
+      "name": "CloudBlast",
+      "type": "Unknown"
+    },
+    "211370": {
+      "name": "cve",
       "type": "Unknown"
     },
     "22822": {
