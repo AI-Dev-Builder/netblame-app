@@ -1,9 +1,13 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-15T00:37:02.395Z",
-  "source": "PeeringDB",
-  "entry_count": 34799,
+  "updated_at": "2026-06-16T00:42:49.079Z",
+  "source": "PeeringDB + RIPE NCC RIS",
+  "entry_count": 34800,
   "entries": {
+    "originating": {
+      "name": "ASoriginating",
+      "type": "Unknown"
+    },
     "4436": {
       "name": "GTT Communications (AS4436)",
       "type": "NSP"
