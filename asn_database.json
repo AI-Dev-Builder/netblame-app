@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-17T00:37:31.990Z",
+  "updated_at": "2026-06-18T00:38:35.347Z",
   "source": "PeeringDB",
-  "entry_count": 34796,
+  "entry_count": 34809,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -42524,10 +42524,6 @@
       "name": "SENSOTELECOM",
       "type": "Content"
     },
-    "396986": {
-      "name": "ByteDance",
-      "type": "Content"
-    },
     "35136": {
       "name": "LVIV-IX Route Servers",
       "type": "Route Server"
@@ -73368,6 +73364,10 @@
       "name": "Namex Napoli Route Servers",
       "type": "Route Server"
     },
+    "10080": {
+      "name": "Interconnect Networks Pty Ltd",
+      "type": "Cable/DSL/ISP"
+    },
     "150034": {
       "name": "FOFO NETWORKS PVT LTD",
       "type": "Cable/DSL/ISP"
@@ -83588,10 +83588,6 @@
       "name": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES",
       "type": "Government"
     },
-    "152373": {
-      "name": "Anugerah Media Data Nusantara, PT",
-      "type": "Cable/DSL/ISP"
-    },
     "134114": {
       "name": "Dress Group",
       "type": "Unknown"
@@ -85525,7 +85521,7 @@
       "type": "Unknown"
     },
     "137458": {
-      "name": "Mcbroad Enterprise",
+      "name": "Mcbroad (AS137458)",
       "type": "Unknown"
     },
     "215551": {
@@ -90111,6 +90107,10 @@
     "214147": {
       "name": "Ka Ho Ng",
       "type": "Educational/Research"
+    },
+    "214453": {
+      "name": "Jandutech",
+      "type": "Content"
     },
     "28686": {
       "name": "Aveniq",
@@ -97024,6 +97024,10 @@
       "name": "TRANS AMERICAS FIBER",
       "type": "Network Services"
     },
+    "401903": {
+      "name": "Crimson Pacific Networks",
+      "type": "Educational/Research"
+    },
     "153756": {
       "name": "DBYTE FACILITY NLD",
       "type": "Unknown"
@@ -97835,10 +97839,6 @@
     "36367": {
       "name": "AGN-TECH",
       "type": "Unknown"
-    },
-    "14291": {
-      "name": "Antietam Broadband",
-      "type": "Cable/DSL/ISP"
     },
     "395881": {
       "name": "SKYLINKHOSTINGLLC",
@@ -101836,6 +101836,10 @@
       "name": "CloudAfrica Hosting (PTY) LTD",
       "type": "NSP"
     },
+    "205414": {
+      "name": "Nerdlab",
+      "type": "Unknown"
+    },
     "215030": {
       "name": "AspireHosting",
       "type": "Unknown"
@@ -105600,10 +105604,6 @@
       "name": "Uniserve Communications Anycast DNS",
       "type": "Network Services"
     },
-    "273502": {
-      "name": "LIVRE FIBRA INTERNET",
-      "type": "Unknown"
-    },
     "54861": {
       "name": "Sahara Compute",
       "type": "Unknown"
@@ -105770,7 +105770,7 @@
     },
     "212443": {
       "name": "Leonet GmbH",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "199533": {
       "name": "Vadian.Net (AS199533)",
@@ -105876,10 +105876,6 @@
       "name": "BRAWO-NETWORK-SERVICES",
       "type": "Unknown"
     },
-    "329683": {
-      "name": "ARCEP TOGO NET",
-      "type": "Enterprise"
-    },
     "59880": {
       "name": "POLARIS-AS",
       "type": "Unknown"
@@ -105921,7 +105917,7 @@
       "type": "Cable/DSL/ISP"
     },
     "33736": {
-      "name": "DENTALASSOCIATESWI",
+      "name": "Dental Associates",
       "type": "Unknown"
     },
     "214060": {
@@ -106036,6 +106032,10 @@
       "name": "MINORI-NETWORK",
       "type": "Unknown"
     },
+    "219441": {
+      "name": "NEKONODE",
+      "type": "Content"
+    },
     "39212": {
       "name": "andeo",
       "type": "Unknown"
@@ -106091,6 +106091,50 @@
     "329370": {
       "name": "ESPAÇONET - TELECOMUNICAÇOES, (SU), LDA",
       "type": "Cable/DSL/ISP"
+    },
+    "132023": {
+      "name": "TNETPH-AS-AP",
+      "type": "Unknown"
+    },
+    "402605": {
+      "name": "TSFT HOLDINGS",
+      "type": "Network Services"
+    },
+    "142433": {
+      "name": "DATAWAVE-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "395727": {
+      "name": "ASN-INTELLIC",
+      "type": "Unknown"
+    },
+    "219418": {
+      "name": "Jan Hill",
+      "type": "Content"
+    },
+    "219412": {
+      "name": "Oxiwave-Internet",
+      "type": "Unknown"
+    },
+    "219417": {
+      "name": "SPEEDI-HEBERG",
+      "type": "Unknown"
+    },
+    "219495": {
+      "name": "bennetgallein",
+      "type": "Unknown"
+    },
+    "275671": {
+      "name": "ASN275671",
+      "type": "Unknown"
+    },
+    "272865": {
+      "name": "272865",
+      "type": "Unknown"
+    },
+    "269669": {
+      "name": "ASN269669",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -126136,6 +126180,10 @@
       "name": "FS Veri Merkezi Internet Teknolojileri",
       "type": "Unknown"
     },
+    "211358": {
+      "name": "PP-Networks Solutions, IT",
+      "type": "Content"
+    },
     "211814": {
       "name": "Fortis Telekomunikasyon",
       "type": "Cable/DSL/ISP"
@@ -130768,10 +130816,6 @@
       "name": "BLACKFAOS",
       "type": "Cable/DSL/ISP"
     },
-    "10080": {
-      "name": "Interconnect Networks Pty Ltd",
-      "type": "Cable/DSL/ISP"
-    },
     "329170": {
       "name": "Boss Telecom",
       "type": "Unknown"
@@ -132145,7 +132189,7 @@
       "type": "Cable/DSL/ISP"
     },
     "151354": {
-      "name": "Mcbroad IT Solutions",
+      "name": "Mcbroad",
       "type": "Cable/DSL/ISP"
     },
     "209428": {
@@ -134278,6 +134322,10 @@
     },
     "142333": {
       "name": "PT Triguna Akses Teknologi",
+      "type": "Cable/DSL/ISP"
+    },
+    "152373": {
+      "name": "Anugerah Media Data Nusantara, PT",
       "type": "Cable/DSL/ISP"
     },
     "397606": {
@@ -137716,10 +137764,6 @@
       "name": "JT TELECOM INTERNATIONAL PTE.LTD.",
       "type": "Cable/DSL/ISP"
     },
-    "401903": {
-      "name": "Crimson Pacific Networks",
-      "type": "Educational/Research"
-    },
     "213700": {
       "name": "Yuhan Wang",
       "type": "Non-Profit"
@@ -137895,6 +137939,10 @@
     "215281": {
       "name": "Orbital Network",
       "type": "NSP"
+    },
+    "14291": {
+      "name": "Antietam Broadband",
+      "type": "Cable/DSL/ISP"
     },
     "396015": {
       "name": "Crestline Networks",
@@ -138624,10 +138672,6 @@
       "name": "Van Berkel Landschap & Infra B.V.",
       "type": "Unknown"
     },
-    "205414": {
-      "name": "Nerdlab",
-      "type": "Unknown"
-    },
     "142395": {
       "name": "PT Global Internet Indonesia",
       "type": "Cable/DSL/ISP"
@@ -139160,6 +139204,10 @@
       "name": "Netelkaar B.V.",
       "type": "NSP"
     },
+    "273502": {
+      "name": "LIVRE FIBRA INTERNET LTDA.",
+      "type": "Cable/DSL/ISP"
+    },
     "329759": {
       "name": "Frostbyte Networks",
       "type": "Unknown"
@@ -139171,6 +139219,10 @@
     "219489": {
       "name": "MZKNET",
       "type": "Educational/Research"
+    },
+    "329683": {
+      "name": "ARCEP TOGO NET",
+      "type": "Enterprise"
     },
     "219458": {
       "name": "FARCALLER-NET",
