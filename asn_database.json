@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-18T00:38:35.347Z",
+  "updated_at": "2026-06-19T00:41:41.668Z",
   "source": "PeeringDB",
-  "entry_count": 34809,
+  "entry_count": 34829,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -29753,7 +29753,7 @@
       "type": "Unknown"
     },
     "20264": {
-      "name": "Webair Internet Development ",
+      "name": "Webair (AS20264)",
       "type": "Unknown"
     },
     "36057": {
@@ -42522,6 +42522,10 @@
     },
     "198034": {
       "name": "SENSOTELECOM",
+      "type": "Content"
+    },
+    "396986": {
+      "name": "ByteDance",
       "type": "Content"
     },
     "35136": {
@@ -65276,10 +65280,6 @@
       "name": "Hostingan Awan Indonesia",
       "type": "Cable/DSL/ISP"
     },
-    "328288": {
-      "name": "Belanet",
-      "type": "Cable/DSL/ISP"
-    },
     "147112": {
       "name": "Meetaza Prawira Media",
       "type": "Unknown"
@@ -76493,7 +76493,7 @@
       "type": "Unknown"
     },
     "199393": {
-      "name": "MAKEAPP CLOUD LTD",
+      "name": "Cloud8 Ltd",
       "type": "NSP"
     },
     "198959": {
@@ -80206,7 +80206,7 @@
     },
     "327727": {
       "name": "C-Squared Limited",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "216265": {
       "name": "Aristo Networks",
@@ -85797,7 +85797,7 @@
       "type": "Cable/DSL/ISP"
     },
     "17433": {
-      "name": "Hytron Network Services",
+      "name": "Hytron Network Services (US) LLC - AS17433",
       "type": "Cable/DSL/ISP"
     },
     "273023": {
@@ -94242,7 +94242,7 @@
     },
     "54419": {
       "name": "Lightpath Phoenix",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "272666": {
       "name": "Dconekte Multimidia LTDA",
@@ -95502,7 +95502,7 @@
     },
     "43030": {
       "name": "Tajik National Research Education Network",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "274825": {
       "name": "LAINER TELECOMUNICAÇÕES LTDA",
@@ -102054,7 +102054,7 @@
     },
     "63865": {
       "name": "PT Mataram Data Center",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "152876": {
       "name": "COMOTA",
@@ -103945,7 +103945,7 @@
       "type": "Unknown"
     },
     "393710": {
-      "name": "Webair Internet Development",
+      "name": "Webair Internet Development Company (AS393710)",
       "type": "Unknown"
     },
     "396528": {
@@ -105937,7 +105937,7 @@
       "type": "Unknown"
     },
     "154602": {
-      "name": "BACK WAVES BROADBAND",
+      "name": "BACK WAVES BUSINESS",
       "type": "Cable/DSL/ISP"
     },
     "267785": {
@@ -105950,7 +105950,7 @@
     },
     "268061": {
       "name": "ASN268061",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "402625": {
       "name": "WT-01",
@@ -106072,10 +106072,6 @@
       "name": "S3Company",
       "type": "Unknown"
     },
-    "219421": {
-      "name": "MIARECKI-NET",
-      "type": "Educational/Research"
-    },
     "35142": {
       "name": "BLX",
       "type": "Unknown"
@@ -106108,13 +106104,9 @@
       "name": "ASN-INTELLIC",
       "type": "Unknown"
     },
-    "219418": {
-      "name": "Jan Hill",
-      "type": "Content"
-    },
     "219412": {
       "name": "Oxiwave-Internet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "219417": {
       "name": "SPEEDI-HEBERG",
@@ -106134,7 +106126,83 @@
     },
     "269669": {
       "name": "ASN269669",
+      "type": "Cable/DSL/ISP"
+    },
+    "134213": {
+      "name": "Netify",
+      "type": "Cable/DSL/ISP"
+    },
+    "402648": {
+      "name": "ORBITFOUR-ASN-1",
       "type": "Unknown"
+    },
+    "273284": {
+      "name": "273284",
+      "type": "NSP"
+    },
+    "142613": {
+      "name": "RBCC-AS-AP",
+      "type": "Unknown"
+    },
+    "12027": {
+      "name": "Hytron Network Services (US) LLC - AS12027",
+      "type": "Cable/DSL/ISP"
+    },
+    "401434": {
+      "name": "Hytron Network Services (US) LLC - AS401434",
+      "type": "Unknown"
+    },
+    "205880": {
+      "name": "Hytron Network Services (US) LLC - AS205880",
+      "type": "Cable/DSL/ISP"
+    },
+    "151407": {
+      "name": "Hytron Network Services (US) LLC - AS151407",
+      "type": "Unknown"
+    },
+    "41481": {
+      "name": "Hirslanden",
+      "type": "Enterprise"
+    },
+    "219524": {
+      "name": "France-IX Paris Essentiel Route Servers",
+      "type": "Route Server"
+    },
+    "49879": {
+      "name": "HOSTHANE",
+      "type": "Unknown"
+    },
+    "29531": {
+      "name": "VM-AS",
+      "type": "Unknown"
+    },
+    "213988": {
+      "name": "NEROX",
+      "type": "Unknown"
+    },
+    "328574": {
+      "name": "ORG-NCA3-AFRINIC",
+      "type": "Unknown"
+    },
+    "43183": {
+      "name": "SWISSSIGN",
+      "type": "Unknown"
+    },
+    "401141": {
+      "name": "NY-DC",
+      "type": "Unknown"
+    },
+    "21867": {
+      "name": "Lightpath Columbus",
+      "type": "NSP"
+    },
+    "219407": {
+      "name": "German Khanin",
+      "type": "NSP"
+    },
+    "402630": {
+      "name": "Vigilbase",
+      "type": "Enterprise"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -110613,7 +110681,7 @@
       "type": "Cable/DSL/ISP"
     },
     "9848": {
-      "name": "Sejong Telecom",
+      "name": "Sejong Networks",
       "type": "NSP"
     },
     "327885": {
@@ -127896,6 +127964,10 @@
       "name": "Sumofiber of Texas",
       "type": "Cable/DSL/ISP"
     },
+    "328288": {
+      "name": "Belanet",
+      "type": "Cable/DSL/ISP"
+    },
     "136288": {
       "name": "Sai Prasad Intenet Services",
       "type": "Cable/DSL/ISP"
@@ -131445,7 +131517,7 @@
       "type": "Unknown"
     },
     "202662": {
-      "name": "Hytron Network Services Limited",
+      "name": "Hytron Network Services (US) LLC - AS202662",
       "type": "Cable/DSL/ISP"
     },
     "150650": {
@@ -132041,7 +132113,7 @@
       "type": "Educational/Research"
     },
     "150786": {
-      "name": "MHK-IX Content Network",
+      "name": "Maharlika Content",
       "type": "Content"
     },
     "266282": {
@@ -139036,10 +139108,6 @@
       "name": "Compatible Network (AS402410)",
       "type": "Cable/DSL/ISP"
     },
-    "142258": {
-      "name": "Pesona Network Mediautama",
-      "type": "Cable/DSL/ISP"
-    },
     "198681": {
       "name": "Reia Network",
       "type": "Cable/DSL/ISP"
@@ -139221,7 +139289,7 @@
       "type": "Educational/Research"
     },
     "329683": {
-      "name": "ARCEP TOGO NET",
+      "name": "ARCEPNet",
       "type": "Enterprise"
     },
     "219458": {
@@ -139239,6 +139307,18 @@
     "154529": {
       "name": "Innolens Media and Broadcasting Limited (MAVX)",
       "type": "Cable/DSL/ISP"
+    },
+    "219421": {
+      "name": "MIARECKI-NET",
+      "type": "Educational/Research"
+    },
+    "219418": {
+      "name": "Jan Hill",
+      "type": "Content"
+    },
+    "328460": {
+      "name": "ORG-EL6-AFRINIC",
+      "type": "NSP"
     }
   }
 }
