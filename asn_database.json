@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-19T00:41:41.668Z",
+  "updated_at": "2026-06-20T00:32:55.850Z",
   "source": "PeeringDB",
-  "entry_count": 34829,
+  "entry_count": 34836,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -12666,7 +12666,7 @@
     },
     "24095": {
       "name": "VITRO 24095",
-      "type": "Route Server"
+      "type": "Content"
     },
     "9752": {
       "name": "Flipkart Internet Private Limited",
@@ -25808,6 +25808,10 @@
       "name": "PIERRE EMERIAUD",
       "type": "Non-Profit"
     },
+    "49559": {
+      "name": "IPT-1-IX",
+      "type": "Content"
+    },
     "206165": {
       "name": "BreizhIX Route Servers",
       "type": "Route Server"
@@ -33162,7 +33166,7 @@
     },
     "7629": {
       "name": "VITRO 7629",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "30886": {
       "name": "KOM i TEX",
@@ -52736,10 +52740,6 @@
       "name": "Enfusion",
       "type": "Enterprise"
     },
-    "270021": {
-      "name": "Cooperativa La Para Ltda.",
-      "type": "Cable/DSL/ISP"
-    },
     "60721": {
       "name": "Bursabil Teknoloji",
       "type": "Unknown"
@@ -71491,10 +71491,6 @@
     "42532": {
       "name": "Veesp SIA",
       "type": "Content"
-    },
-    "203199": {
-      "name": "UNUM",
-      "type": "Unknown"
     },
     "45736": {
       "name": "eSys Technologies",
@@ -91266,7 +91262,7 @@
     },
     "213822": {
       "name": "Martinus Buijs trading as BuijsIT",
-      "type": "Unknown"
+      "type": "Content"
     },
     "397263": {
       "name": "Techloq Limited",
@@ -100974,7 +100970,7 @@
     },
     "266375": {
       "name": "R. N. Informatica Ltda - ME",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "198112": {
       "name": "Leszek Checik trading as PROSAT S.C.",
@@ -105445,7 +105441,7 @@
       "type": "Unknown"
     },
     "197237": {
-      "name": "BELGGNET",
+      "name": "Beltran Gallego Gutierrez",
       "type": "Unknown"
     },
     "154092": {
@@ -105953,8 +105949,8 @@
       "type": "Cable/DSL/ISP"
     },
     "402625": {
-      "name": "WT-01",
-      "type": "Unknown"
+      "name": "BLACKIEOPS-ARIN-01",
+      "type": "Content"
     },
     "219453": {
       "name": "pvamerongen",
@@ -105994,7 +105990,7 @@
     },
     "207847": {
       "name": "CloudBlast",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "211370": {
       "name": "cve",
@@ -106116,10 +106112,6 @@
       "name": "bennetgallein",
       "type": "Unknown"
     },
-    "275671": {
-      "name": "ASN275671",
-      "type": "Unknown"
-    },
     "272865": {
       "name": "272865",
       "type": "Unknown"
@@ -106203,6 +106195,46 @@
     "402630": {
       "name": "Vigilbase",
       "type": "Enterprise"
+    },
+    "397570": {
+      "name": "RIGHT-TECH-INTERNET-INC",
+      "type": "Unknown"
+    },
+    "402654": {
+      "name": "LHS Networks",
+      "type": "Network Services"
+    },
+    "154719": {
+      "name": "IDNIC-PNS-AS-ID",
+      "type": "Unknown"
+    },
+    "133458": {
+      "name": "FSCJCL-AS-AP",
+      "type": "Unknown"
+    },
+    "219419": {
+      "name": "Whisper Security",
+      "type": "Enterprise"
+    },
+    "266595": {
+      "name": "ASN266595",
+      "type": "Unknown"
+    },
+    "274798": {
+      "name": "ASN274798",
+      "type": "Unknown"
+    },
+    "64179": {
+      "name": "Zux PY",
+      "type": "NSP"
+    },
+    "214001": {
+      "name": "Sharqtelecom-AS",
+      "type": "Enterprise"
+    },
+    "154348": {
+      "name": "SKY47LIMITED-AS-AP",
+      "type": "NSP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -112585,7 +112617,7 @@
       "type": "NSP"
     },
     "203923": {
-      "name": "HOYOVERSE - AS203923",
+      "name": "Hoyoverse Network",
       "type": "Cable/DSL/ISP"
     },
     "135423": {
@@ -115910,7 +115942,7 @@
     },
     "264288": {
       "name": "GNET PROVEDOR",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "48919": {
       "name": "UACITY",
@@ -122907,6 +122939,10 @@
     "263994": {
       "name": "HELIO B. MARTINS JUNIOR - ME",
       "type": "NSP"
+    },
+    "270021": {
+      "name": "Cooperativa La Para Ltda.",
+      "type": "Cable/DSL/ISP"
     },
     "270717": {
       "name": "LUCAS MORO GONCALVES COMUNICACAO MULTIMIDIA",
@@ -132644,10 +132680,6 @@
       "name": "SWDconnect",
       "type": "NSP"
     },
-    "151494": {
-      "name": "Elysia Network",
-      "type": "Educational/Research"
-    },
     "54657": {
       "name": "Systec Computer Process",
       "type": "Network Services"
@@ -134896,10 +134928,6 @@
       "name": "Blitar Sarana Data",
       "type": "Cable/DSL/ISP"
     },
-    "61740": {
-      "name": "Telecab Telecomunicações",
-      "type": "Unknown"
-    },
     "215011": {
       "name": "NXTHDR",
       "type": "Educational/Research"
@@ -136600,10 +136628,6 @@
       "name": "Hubcom Techno System",
       "type": "Content"
     },
-    "213707": {
-      "name": "UKNOC - AS213707",
-      "type": "Non-Profit"
-    },
     "216192": {
       "name": "HIPERONLINE",
       "type": "Content"
@@ -137982,7 +138006,7 @@
     },
     "208259": {
       "name": "AVENSTORE",
-      "type": "NSP"
+      "type": "Network Services"
     },
     "154137": {
       "name": "HLINK",
@@ -139315,6 +139339,10 @@
     "219418": {
       "name": "Jan Hill",
       "type": "Content"
+    },
+    "275671": {
+      "name": "Ouronet",
+      "type": "Cable/DSL/ISP"
     },
     "328460": {
       "name": "ORG-EL6-AFRINIC",
