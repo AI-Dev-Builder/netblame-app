@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-20T00:32:55.850Z",
+  "updated_at": "2026-06-21T00:35:42.785Z",
   "source": "PeeringDB",
-  "entry_count": 34836,
+  "entry_count": 34841,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -88826,7 +88826,7 @@
     },
     "273143": {
       "name": "SIGNAL PERU",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "270785": {
       "name": "PRNET PROVEDOR DE INTERNET LTDA",
@@ -106233,8 +106233,28 @@
       "type": "Enterprise"
     },
     "154348": {
-      "name": "SKY47LIMITED-AS-AP",
+      "name": "SKY47 Limited",
       "type": "NSP"
+    },
+    "154726": {
+      "name": "SIVPL-AS-AP",
+      "type": "Unknown"
+    },
+    "154589": {
+      "name": "IDNIC-VELONIX-AS-ID",
+      "type": "Unknown"
+    },
+    "10977": {
+      "name": "JianyueLab Global Network",
+      "type": "Cable/DSL/ISP"
+    },
+    "328297": {
+      "name": "ORG-QL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "219464": {
+      "name": "ForestsNet Cloud",
+      "type": "Enterprise"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -125146,7 +125166,7 @@
     },
     "212024": {
       "name": "RISSON",
-      "type": "Educational/Research"
+      "type": "Enterprise"
     },
     "8496": {
       "name": "Optibit",
