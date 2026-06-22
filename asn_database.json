@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-21T00:35:42.785Z",
+  "updated_at": "2026-06-22T00:36:03.448Z",
   "source": "PeeringDB",
-  "entry_count": 34841,
+  "entry_count": 34848,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -30887,10 +30887,6 @@
     "41139": {
       "name": "Stuttgart-IX Route Servers",
       "type": "Route Server"
-    },
-    "136176": {
-      "name": "Cyber Solutions",
-      "type": "Cable/DSL/ISP"
     },
     "29312": {
       "name": "Comune di Milano",
@@ -67706,7 +67702,7 @@
     },
     "57797": {
       "name": "SYSLEVEL",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "398173": {
       "name": "Seagate",
@@ -97938,7 +97934,7 @@
     },
     "149870": {
       "name": "XTREME NET (PVT.) LIMITED",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "329578": {
       "name": "UrbanXConnect (PTY) LTD",
@@ -101840,10 +101836,6 @@
       "name": "AspireHosting",
       "type": "Unknown"
     },
-    "401707": {
-      "name": "ARPHOST",
-      "type": "NSP"
-    },
     "61623": {
       "name": "Vellon Servicos de Comunicacao Mult e Digitais",
       "type": "Unknown"
@@ -105601,8 +105593,8 @@
       "type": "Network Services"
     },
     "54861": {
-      "name": "Sahara Compute",
-      "type": "Unknown"
+      "name": "Codature LLC",
+      "type": "NSP"
     },
     "274172": {
       "name": "OMIX",
@@ -106028,10 +106020,6 @@
       "name": "MINORI-NETWORK",
       "type": "Unknown"
     },
-    "219441": {
-      "name": "NEKONODE",
-      "type": "Content"
-    },
     "39212": {
       "name": "andeo",
       "type": "Unknown"
@@ -106255,6 +106243,30 @@
     "219464": {
       "name": "ForestsNet Cloud",
       "type": "Enterprise"
+    },
+    "329119": {
+      "name": "ORG-PNPS1-AFRINIC",
+      "type": "Unknown"
+    },
+    "401518": {
+      "name": "OAI-01",
+      "type": "Unknown"
+    },
+    "402446": {
+      "name": "CYBERVERSE (NA)",
+      "type": "Cable/DSL/ISP"
+    },
+    "272876": {
+      "name": "272876",
+      "type": "Unknown"
+    },
+    "197761": {
+      "name": "hostslim-as",
+      "type": "Unknown"
+    },
+    "203938": {
+      "name": "SAMUEL-COSGROVE",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -113818,6 +113830,10 @@
     },
     "136358": {
       "name": "Omsai Cable Systems India",
+      "type": "Cable/DSL/ISP"
+    },
+    "136176": {
+      "name": "Cyber Solutions BD",
       "type": "Cable/DSL/ISP"
     },
     "18103": {
@@ -138792,6 +138808,10 @@
       "name": "PT Global Internet Indonesia",
       "type": "Cable/DSL/ISP"
     },
+    "401707": {
+      "name": "ARPHOST",
+      "type": "NSP"
+    },
     "201623": {
       "name": "DutchEllie",
       "type": "Educational/Research"
@@ -139344,6 +139364,10 @@
       "name": "ASN263317",
       "type": "Cable/DSL/ISP"
     },
+    "219441": {
+      "name": "NEKONODE",
+      "type": "Content"
+    },
     "219505": {
       "name": "GERNOTH",
       "type": "Educational/Research"
@@ -139353,7 +139377,7 @@
       "type": "Cable/DSL/ISP"
     },
     "219421": {
-      "name": "MIARECKI-NET",
+      "name": "Jonatan Miarecki",
       "type": "Educational/Research"
     },
     "219418": {
@@ -139366,6 +139390,10 @@
     },
     "328460": {
       "name": "ORG-EL6-AFRINIC",
+      "type": "NSP"
+    },
+    "40792": {
+      "name": "CYBERVERSE-NG",
       "type": "NSP"
     }
   }
