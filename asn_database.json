@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-22T00:36:03.448Z",
+  "updated_at": "2026-06-23T00:33:37.800Z",
   "source": "PeeringDB",
-  "entry_count": 34848,
+  "entry_count": 34850,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -12360,10 +12360,6 @@
       "name": "OpusV",
       "type": "NSP"
     },
-    "133389": {
-      "name": "Acurus Networks",
-      "type": "NSP"
-    },
     "62523": {
       "name": "CIRBN",
       "type": "Cable/DSL/ISP"
@@ -16388,10 +16384,6 @@
       "name": "OmniNet Ltd",
       "type": "Cable/DSL/ISP"
     },
-    "59099": {
-      "name": "Cloud and SDN Laboratory for Experiment",
-      "type": "Educational/Research"
-    },
     "264208": {
       "name": "L L NET COMERCIO E SERVIÇO DE INFORMATICA LTDA ME",
       "type": "Cable/DSL/ISP"
@@ -17890,10 +17882,6 @@
     },
     "12305": {
       "name": "G9",
-      "type": "Cable/DSL/ISP"
-    },
-    "264400": {
-      "name": "VIDEOSAT SERVICOS DE INFORMATICA",
       "type": "Cable/DSL/ISP"
     },
     "52260": {
@@ -58138,7 +58126,7 @@
     },
     "212708": {
       "name": "Victor-Lourme",
-      "type": "Cable/DSL/ISP"
+      "type": "Enterprise"
     },
     "265236": {
       "name": "Portobello",
@@ -61049,8 +61037,8 @@
       "type": "Enterprise"
     },
     "62028": {
-      "name": "Bedniy Alexander Sergeevich",
-      "type": "Unknown"
+      "name": "Freie Netze Suedhessen",
+      "type": "Cable/DSL/ISP"
     },
     "263509": {
       "name": "Turbovip Telecom Ltda",
@@ -75842,7 +75830,7 @@
     },
     "33967": {
       "name": "Lancashire County Council",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "207718": {
       "name": "Ru-hoster",
@@ -78615,10 +78603,6 @@
     "4782": {
       "name": "Chunghwa Telecom Co. AS4782",
       "type": "Unknown"
-    },
-    "197963": {
-      "name": "BlazeHost.cz",
-      "type": "Network Services"
     },
     "50558": {
       "name": "Rayaneh Pardazan Baran Co.",
@@ -81450,10 +81434,6 @@
     },
     "216316": {
       "name": "COCON",
-      "type": "Enterprise"
-    },
-    "215987": {
-      "name": "Soliaweb",
       "type": "Enterprise"
     },
     "63182": {
@@ -88768,10 +88748,6 @@
       "name": "EHL",
       "type": "Educational/Research"
     },
-    "216216": {
-      "name": "Euiseo Cha",
-      "type": "Unknown"
-    },
     "329433": {
       "name": "Develop Net (PTY) LTD",
       "type": "Unknown"
@@ -88839,10 +88815,6 @@
     "206519": {
       "name": "ZINA",
       "type": "Cable/DSL/ISP"
-    },
-    "214166": {
-      "name": "Woojin Roh",
-      "type": "Unknown"
     },
     "21927": {
       "name": "Paducah IX Route Servers",
@@ -94416,6 +94388,10 @@
       "name": "Lambda Cloud",
       "type": "NSP"
     },
+    "213370": {
+      "name": "NETOMAT",
+      "type": "Unknown"
+    },
     "133464": {
       "name": "RTDS Network ICT Solutions Inc.",
       "type": "Cable/DSL/ISP"
@@ -98033,8 +98009,8 @@
       "type": "Unknown"
     },
     "206392": {
-      "name": "Hackworth Ltd",
-      "type": "Unknown"
+      "name": "HACKWORTH_UK",
+      "type": "Enterprise"
     },
     "272740": {
       "name": "ALLIANCE NET BANDA LARGA LTDA",
@@ -102558,7 +102534,7 @@
     },
     "213876": {
       "name": "Qiyuan Chen",
-      "type": "Cable/DSL/ISP"
+      "type": "Educational/Research"
     },
     "154443": {
       "name": "Kmhars IT Solutions Corporation, Kmhars IT Solutions Corporation",
@@ -105004,10 +104980,6 @@
       "name": "SISTEMDC",
       "type": "Unknown"
     },
-    "329747": {
-      "name": "BAHARI DATA FIBRE",
-      "type": "Unknown"
-    },
     "274415": {
       "name": "JESUS CASTRO LOPEZ",
       "type": "Cable/DSL/ISP"
@@ -105522,7 +105494,7 @@
     },
     "25085": {
       "name": "ALUE NETWORK",
-      "type": "Non-Profit"
+      "type": "Network Services"
     },
     "55134": {
       "name": "SKYNET360 LLC",
@@ -106121,7 +106093,7 @@
       "type": "NSP"
     },
     "142613": {
-      "name": "RBCC-AS-AP",
+      "name": "Red Bend Catholic College",
       "type": "Unknown"
     },
     "12027": {
@@ -106249,7 +106221,7 @@
       "type": "Unknown"
     },
     "401518": {
-      "name": "OAI-01",
+      "name": "OpenAI",
       "type": "Unknown"
     },
     "402446": {
@@ -106266,6 +106238,38 @@
     },
     "203938": {
       "name": "SAMUEL-COSGROVE",
+      "type": "Unknown"
+    },
+    "149832": {
+      "name": "TIMESCOMMUNICATION-AS-AP",
+      "type": "Unknown"
+    },
+    "47506": {
+      "name": "NEXANET",
+      "type": "Unknown"
+    },
+    "329731": {
+      "name": "Digital Delta IX Route Servers",
+      "type": "Route Server"
+    },
+    "274153": {
+      "name": "274153",
+      "type": "Unknown"
+    },
+    "219383": {
+      "name": "LewisAS",
+      "type": "Unknown"
+    },
+    "201744": {
+      "name": "ByteFlare",
+      "type": "Unknown"
+    },
+    "219494": {
+      "name": "HACKWORTH_UK_2",
+      "type": "Enterprise"
+    },
+    "48218": {
+      "name": "HiHo",
       "type": "Unknown"
     },
     "22822": {
@@ -139236,6 +139240,10 @@
       "name": "Nexarube",
       "type": "Unknown"
     },
+    "329747": {
+      "name": "BAHARI DATA FIBRE",
+      "type": "Cable/DSL/ISP"
+    },
     "151755": {
       "name": "L&T Network Services Private Limited",
       "type": "Network Services"
@@ -139253,7 +139261,7 @@
       "type": "Network Services"
     },
     "402547": {
-      "name": "JWYNEGARJR-INC",
+      "name": "J Wynegar Jr",
       "type": "Content"
     },
     "203669": {
