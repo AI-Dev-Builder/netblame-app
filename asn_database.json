@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-23T00:33:37.800Z",
+  "updated_at": "2026-06-24T00:28:08.035Z",
   "source": "PeeringDB",
-  "entry_count": 34850,
+  "entry_count": 34858,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1135,10 +1135,6 @@
     "8844": {
       "name": "CI-Net Limited",
       "type": "Cable/DSL/ISP"
-    },
-    "65536": {
-      "name": "PeeringDB Example 32-bit Network",
-      "type": "Unknown"
     },
     "2686": {
       "name": "AT&T EMEA",
@@ -4385,7 +4381,7 @@
       "type": "Content"
     },
     "35574": {
-      "name": "IGT Lottery",
+      "name": "Brightstar Lottery S.p.A.",
       "type": "Cable/DSL/ISP"
     },
     "5578": {
@@ -11355,10 +11351,6 @@
     "53112": {
       "name": "Sulnet",
       "type": "Cable/DSL/ISP"
-    },
-    "263311": {
-      "name": "IP2 INTERNET",
-      "type": "NSP"
     },
     "11170": {
       "name": "Roller Network",
@@ -19935,10 +19927,6 @@
     "327799": {
       "name": "VIETTEL BURUNDI",
       "type": "Cable/DSL/ISP"
-    },
-    "48832": {
-      "name": "Linkdotnet-Jordan",
-      "type": "Unknown"
     },
     "28577": {
       "name": "AZEVEDO E FLORIANI TELECOMUNICAÇÕES",
@@ -33522,10 +33510,6 @@
     },
     "19834": {
       "name": "Conversant US Central",
-      "type": "Content"
-    },
-    "137413": {
-      "name": "Cambodian Network Exchange Co., Ltd. Anycast",
       "type": "Content"
     },
     "266713": {
@@ -58126,7 +58110,7 @@
     },
     "212708": {
       "name": "Victor-Lourme",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "265236": {
       "name": "Portobello",
@@ -66765,8 +66749,8 @@
       "type": "Unknown"
     },
     "13443": {
-      "name": "LinkedIn AS13443",
-      "type": "Unknown"
+      "name": "LinkedIn Corp",
+      "type": "Enterprise"
     },
     "210374": {
       "name": "Final Space Network",
@@ -70130,10 +70114,6 @@
     },
     "206315": {
       "name": "Shucheng Li",
-      "type": "Unknown"
-    },
-    "60445": {
-      "name": "DODO (AS60445)",
       "type": "Unknown"
     },
     "13316": {
@@ -99353,7 +99333,7 @@
       "type": "Unknown"
     },
     "55078": {
-      "name": "DIVING BELL DEV",
+      "name": "Diving Bell Dev",
       "type": "Unknown"
     },
     "263351": {
@@ -101238,7 +101218,7 @@
     },
     "133831": {
       "name": "PT Irama Media FlashNet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "399823": {
       "name": "GOIP GLOBALNET SOLUTIONS LLC",
@@ -105644,10 +105624,6 @@
       "name": "HFS-01",
       "type": "Enterprise"
     },
-    "133588": {
-      "name": "Cambodian Network Exchange Co., Ltd.",
-      "type": "Content"
-    },
     "153549": {
       "name": "MUI Technology Company Limited",
       "type": "Content"
@@ -105794,7 +105770,7 @@
     },
     "137359": {
       "name": "SKYREACH-AS-ID",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "214647": {
       "name": "YADDA",
@@ -106271,6 +106247,46 @@
     "48218": {
       "name": "HiHo",
       "type": "Unknown"
+    },
+    "219381": {
+      "name": "DE-MKILSEDERENE-20260618",
+      "type": "Enterprise"
+    },
+    "151198": {
+      "name": "IDNIC-NEXZET-AS-ID",
+      "type": "Unknown"
+    },
+    "209620": {
+      "name": "MCGMBH",
+      "type": "Unknown"
+    },
+    "219402": {
+      "name": "Wiese",
+      "type": "Unknown"
+    },
+    "275741": {
+      "name": "ASN275741",
+      "type": "Unknown"
+    },
+    "219362": {
+      "name": "FynnHuppke",
+      "type": "Unknown"
+    },
+    "219367": {
+      "name": "PITEA-AS",
+      "type": "Unknown"
+    },
+    "154723": {
+      "name": "OPTICA-AS-AP",
+      "type": "Unknown"
+    },
+    "219378": {
+      "name": "SAKARIN-NETWORK",
+      "type": "Unknown"
+    },
+    "402663": {
+      "name": "PHOENIXNET-LABS",
+      "type": "Enterprise"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -108539,6 +108555,10 @@
     "60294": {
       "name": "Deutsche Glasfaser",
       "type": "Cable/DSL/ISP"
+    },
+    "263311": {
+      "name": "IP2 INTERNET",
+      "type": "NSP"
     },
     "132876": {
       "name": "SYMPHONY THAI - IP Transit",
@@ -110832,6 +110852,10 @@
       "name": "Holy See",
       "type": "Non-Profit"
     },
+    "48832": {
+      "name": "Linkdotnet-Jordan",
+      "type": "NSP"
+    },
     "202831": {
       "name": "Ablaykhan Akylbekovich Sharimov",
       "type": "Content"
@@ -111757,7 +111781,7 @@
       "type": "Unknown"
     },
     "5526": {
-      "name": "PSSK",
+      "name": "GENERACJA-pl",
       "type": "Cable/DSL/ISP"
     },
     "199250": {
@@ -114799,6 +114823,10 @@
     "264641": {
       "name": "LanProject",
       "type": "Cable/DSL/ISP"
+    },
+    "137413": {
+      "name": "Cambodian Network Exchange Co., Ltd.",
+      "type": "Content"
     },
     "199421": {
       "name": "MTI Teleport",
@@ -128025,7 +128053,7 @@
       "type": "Cable/DSL/ISP"
     },
     "141389": {
-      "name": "GOIP BUSINESS SOLUTION",
+      "name": "GOIP Telecom (Asia Pacific) Pte. Ltd.",
       "type": "NSP"
     },
     "197480": {
@@ -139351,6 +139379,10 @@
     "329759": {
       "name": "Frostbyte Networks",
       "type": "Unknown"
+    },
+    "133588": {
+      "name": "Cambodian Network Exchange Co., Ltd. Anycast",
+      "type": "Content"
     },
     "133371": {
       "name": "SOKKALINK-NAP",
