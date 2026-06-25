@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-24T00:28:08.035Z",
+  "updated_at": "2026-06-25T00:32:53.996Z",
   "source": "PeeringDB",
-  "entry_count": 34858,
+  "entry_count": 34873,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -25784,10 +25784,6 @@
       "name": "PIERRE EMERIAUD",
       "type": "Non-Profit"
     },
-    "49559": {
-      "name": "IPT-1-IX",
-      "type": "Content"
-    },
     "206165": {
       "name": "BreizhIX Route Servers",
       "type": "Route Server"
@@ -42837,7 +42833,7 @@
       "type": "Content"
     },
     "200651": {
-      "name": "FlokiNET",
+      "name": "FlokiNET ehf",
       "type": "Unknown"
     },
     "263222": {
@@ -65514,7 +65510,7 @@
     },
     "141317": {
       "name": "Neha Infonet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "131986": {
       "name": "ITOCHU Cable Systems",
@@ -76138,7 +76134,7 @@
     },
     "150315": {
       "name": "Virtury Cloud Pakistan",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "329230": {
       "name": "Pronto Broadband Solutions",
@@ -79919,6 +79915,10 @@
     "138590": {
       "name": "Prime Networks",
       "type": "Cable/DSL/ISP"
+    },
+    "205020": {
+      "name": "DataGrid Network GmbH",
+      "type": "Network Services"
     },
     "273336": {
       "name": "Opensat Soluções em segunça LTDA",
@@ -96814,7 +96814,7 @@
     },
     "10821": {
       "name": "PIONEERINTERNET",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "589": {
       "name": "University of North Texas",
@@ -101784,10 +101784,6 @@
       "name": "CloudAfrica Hosting (PTY) LTD",
       "type": "NSP"
     },
-    "205414": {
-      "name": "Nerdlab",
-      "type": "Unknown"
-    },
     "215030": {
       "name": "AspireHosting",
       "type": "Unknown"
@@ -105124,10 +105120,6 @@
       "name": "STEPAN ODINTSOV PR BEOGRAD",
       "type": "Unknown"
     },
-    "402425": {
-      "name": "QOREXA LABS",
-      "type": "Unknown"
-    },
     "25488": {
       "name": "Comune di Novara",
       "type": "Unknown"
@@ -105768,10 +105760,6 @@
       "name": "IntraceX",
       "type": "Network Services"
     },
-    "137359": {
-      "name": "SKYREACH-AS-ID",
-      "type": "Cable/DSL/ISP"
-    },
     "214647": {
       "name": "YADDA",
       "type": "Unknown"
@@ -106001,7 +105989,7 @@
       "type": "Unknown"
     },
     "4849": {
-      "name": "S3Company",
+      "name": "S3 Company",
       "type": "Unknown"
     },
     "35142": {
@@ -106181,7 +106169,7 @@
       "type": "Unknown"
     },
     "10977": {
-      "name": "JianyueLab Global Network",
+      "name": "JianyueLab Global Network Next Generation",
       "type": "Cable/DSL/ISP"
     },
     "328297": {
@@ -106287,6 +106275,58 @@
     "402663": {
       "name": "PHOENIXNET-LABS",
       "type": "Enterprise"
+    },
+    "402549": {
+      "name": "TERRASERVERS-NET",
+      "type": "Cable/DSL/ISP"
+    },
+    "154711": {
+      "name": "ANYLINKNET-AS-AP",
+      "type": "Unknown"
+    },
+    "52576": {
+      "name": "ASN52576",
+      "type": "Unknown"
+    },
+    "137503": {
+      "name": "SPIDERNETCOLTD-AS-AP",
+      "type": "Unknown"
+    },
+    "402208": {
+      "name": "121-AND-ONTO",
+      "type": "Unknown"
+    },
+    "216210": {
+      "name": "didimnet",
+      "type": "Unknown"
+    },
+    "213648": {
+      "name": "YORIZON-AS",
+      "type": "Unknown"
+    },
+    "219364": {
+      "name": "Louis-Klaiber",
+      "type": "Unknown"
+    },
+    "219365": {
+      "name": "QYRO",
+      "type": "Unknown"
+    },
+    "21873": {
+      "name": "NEWMN",
+      "type": "Unknown"
+    },
+    "219368": {
+      "name": "Grandify",
+      "type": "Unknown"
+    },
+    "274963": {
+      "name": "274963",
+      "type": "NSP"
+    },
+    "13579": {
+      "name": "13579",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -107542,7 +107582,7 @@
     },
     "25139": {
       "name": "TVCabo Mozambique",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "23756": {
       "name": "Padi Internet, PT",
@@ -110953,7 +110993,7 @@
       "type": "Cable/DSL/ISP"
     },
     "42228": {
-      "name": "BrightStar",
+      "name": "Brightstar",
       "type": "Cable/DSL/ISP"
     },
     "265028": {
@@ -112331,6 +112371,10 @@
     "266080": {
       "name": "CMA MULTIMIDIA TELECOMUNICACAOES",
       "type": "Cable/DSL/ISP"
+    },
+    "49559": {
+      "name": "IPT-1-IX-EU",
+      "type": "NSP"
     },
     "204092": {
       "name": "GRIFON",
@@ -117469,8 +117513,8 @@
       "type": "Cable/DSL/ISP"
     },
     "61595": {
-      "name": "TELIC TECHNOLOGIES",
-      "type": "Network Services"
+      "name": "TGlobal Networks - Brasil",
+      "type": "NSP"
     },
     "267289": {
       "name": "SCON FIBRAS",
@@ -128468,6 +128512,10 @@
       "name": "Ledyvanha Meneses Alencar",
       "type": "Cable/DSL/ISP"
     },
+    "7607": {
+      "name": "JT TELECOM - AS7607",
+      "type": "Cable/DSL/ISP"
+    },
     "262435": {
       "name": "BASETELCO",
       "type": "Cable/DSL/ISP"
@@ -138836,6 +138884,10 @@
       "name": "Van Berkel Landschap & Infra B.V.",
       "type": "Unknown"
     },
+    "205414": {
+      "name": "Nerdlab",
+      "type": "Unknown"
+    },
     "142395": {
       "name": "PT Global Internet Indonesia",
       "type": "Cable/DSL/ISP"
@@ -139288,6 +139340,10 @@
       "name": "Giotsas",
       "type": "Network Services"
     },
+    "402425": {
+      "name": "QOREXA LABS",
+      "type": "Route Server"
+    },
     "402547": {
       "name": "J Wynegar Jr",
       "type": "Content"
@@ -139391,6 +139447,10 @@
     "219489": {
       "name": "MZKNET",
       "type": "Educational/Research"
+    },
+    "137359": {
+      "name": "SKYREACH-AS-ID",
+      "type": "Cable/DSL/ISP"
     },
     "329683": {
       "name": "ARCEPNet",
