@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-25T00:32:53.996Z",
+  "updated_at": "2026-06-26T00:34:07.234Z",
   "source": "PeeringDB",
-  "entry_count": 34873,
+  "entry_count": 34881,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -33905,7 +33905,7 @@
       "type": "Content"
     },
     "136625": {
-      "name": "Ookla Telecom",
+      "name": "OOKLA TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "33452": {
@@ -66224,6 +66224,10 @@
       "name": "P.D.S. Server Network",
       "type": "Unknown"
     },
+    "7607": {
+      "name": "JT TELECOM - AS7607",
+      "type": "Cable/DSL/ISP"
+    },
     "5422": {
       "name": "Superonline Iletisim Hizmetleri",
       "type": "Unknown"
@@ -67697,7 +67701,7 @@
       "type": "Route Server"
     },
     "400519": {
-      "name": "playit.gg",
+      "name": "Playit",
       "type": "Network Services"
     },
     "52312": {
@@ -72375,6 +72379,10 @@
     "142615": {
       "name": "SARKER COMMUNICATION",
       "type": "Unknown"
+    },
+    "202348": {
+      "name": "Ylem",
+      "type": "Non-Profit"
     },
     "141810": {
       "name": "AMS-IX Hyderabad Route Servers",
@@ -78194,7 +78202,7 @@
     },
     "198125": {
       "name": "CONXT",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "142314": {
       "name": "Dinas Komunikasi Informatika Persandian dan Statistik Kabupaten Buleleng",
@@ -88624,10 +88632,6 @@
       "name": "CAWEB INFORMATICA LTDA",
       "type": "Unknown"
     },
-    "268842": {
-      "name": "Igap Net",
-      "type": "Cable/DSL/ISP"
-    },
     "210731": {
       "name": "Forening for DotSrc",
       "type": "Unknown"
@@ -93239,6 +93243,10 @@
     "18118": {
       "name": "CITIC Networks Management",
       "type": "Cable/DSL/ISP"
+    },
+    "31561": {
+      "name": "nine",
+      "type": "Route Server"
     },
     "41925": {
       "name": "IZET-Chelyabinsk",
@@ -103233,7 +103241,7 @@
       "type": "NSP"
     },
     "131651": {
-      "name": "Lazco (TW-DEV)",
+      "name": "Lazco (VIP)",
       "type": "Unknown"
     },
     "133375": {
@@ -104329,7 +104337,7 @@
       "type": "Unknown"
     },
     "63179": {
-      "name": "TWITTER",
+      "name": "xAI",
       "type": "Unknown"
     },
     "23193": {
@@ -104944,10 +104952,6 @@
       "name": "VIKING",
       "type": "Unknown"
     },
-    "213678": {
-      "name": "CYBERMAX",
-      "type": "Unknown"
-    },
     "203648": {
       "name": "TERANET",
       "type": "Cable/DSL/ISP"
@@ -105119,6 +105123,10 @@
     "198753": {
       "name": "STEPAN ODINTSOV PR BEOGRAD",
       "type": "Unknown"
+    },
+    "402425": {
+      "name": "QOREXA LABS",
+      "type": "Cable/DSL/ISP"
     },
     "25488": {
       "name": "Comune di Novara",
@@ -105546,7 +105554,7 @@
     },
     "49169": {
       "name": "SC ETA2U",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "211136": {
       "name": "CERT-EU",
@@ -105958,11 +105966,11 @@
     },
     "39212": {
       "name": "andeo",
-      "type": "Unknown"
+      "type": "Content"
     },
     "219437": {
-      "name": "CY-OCTACHORONST-20260612",
-      "type": "Unknown"
+      "name": "OCTACHORON STUDIO LTD",
+      "type": "Content"
     },
     "273851": {
       "name": "273851",
@@ -106237,12 +106245,12 @@
       "type": "Unknown"
     },
     "219381": {
-      "name": "DE-MKILSEDERENE-20260618",
+      "name": "DE-ILSEDER-ENERGIE",
       "type": "Enterprise"
     },
     "151198": {
-      "name": "IDNIC-NEXZET-AS-ID",
-      "type": "Unknown"
+      "name": "PT Nexzet Network Digital",
+      "type": "Cable/DSL/ISP"
     },
     "209620": {
       "name": "MCGMBH",
@@ -106266,10 +106274,6 @@
     },
     "154723": {
       "name": "OPTICA-AS-AP",
-      "type": "Unknown"
-    },
-    "219378": {
-      "name": "SAKARIN-NETWORK",
       "type": "Unknown"
     },
     "402663": {
@@ -106326,6 +106330,38 @@
     },
     "13579": {
       "name": "13579",
+      "type": "Unknown"
+    },
+    "209346": {
+      "name": "UMB-AG",
+      "type": "Unknown"
+    },
+    "61079": {
+      "name": "DIGI-IT",
+      "type": "Unknown"
+    },
+    "200999": {
+      "name": "pl-cloudferro",
+      "type": "Unknown"
+    },
+    "219352": {
+      "name": "KuronekoServer",
+      "type": "Unknown"
+    },
+    "264967": {
+      "name": "ASN264967",
+      "type": "Unknown"
+    },
+    "275684": {
+      "name": "ASN275684",
+      "type": "Unknown"
+    },
+    "1282": {
+      "name": "COGENT-1282",
+      "type": "Unknown"
+    },
+    "219380": {
+      "name": "ADNAANSIDDIQI",
       "type": "Unknown"
     },
     "22822": {
@@ -128512,10 +128548,6 @@
       "name": "Ledyvanha Meneses Alencar",
       "type": "Cable/DSL/ISP"
     },
-    "7607": {
-      "name": "JT TELECOM - AS7607",
-      "type": "Cable/DSL/ISP"
-    },
     "262435": {
       "name": "BASETELCO",
       "type": "Cable/DSL/ISP"
@@ -130655,10 +130687,6 @@
     "134876": {
       "name": "KHETAN TELECOMMUNICATIONS PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
-    },
-    "202348": {
-      "name": "Ylem",
-      "type": "Non-Profit"
     },
     "329159": {
       "name": "TechTribe",
@@ -136064,6 +136092,10 @@
       "name": "Mopos Communications A.S",
       "type": "NSP"
     },
+    "268842": {
+      "name": "Igap Net",
+      "type": "Cable/DSL/ISP"
+    },
     "214223": {
       "name": "FPNET",
       "type": "Network Services"
@@ -137247,10 +137279,6 @@
     "153722": {
       "name": "UMAK FIBERNET",
       "type": "Cable/DSL/ISP"
-    },
-    "31561": {
-      "name": "nine",
-      "type": "Route Server"
     },
     "152836": {
       "name": "Ganesha Data Nusantara",
@@ -139312,6 +139340,10 @@
       "name": "NXLAYER",
       "type": "Enterprise"
     },
+    "213678": {
+      "name": "CYBERMAX",
+      "type": "Unknown"
+    },
     "329715": {
       "name": "BENJILINK LTD",
       "type": "Enterprise"
@@ -139339,10 +139371,6 @@
     "207135": {
       "name": "Giotsas",
       "type": "Network Services"
-    },
-    "402425": {
-      "name": "QOREXA LABS",
-      "type": "Route Server"
     },
     "402547": {
       "name": "J Wynegar Jr",
@@ -139495,6 +139523,10 @@
     "40792": {
       "name": "CYBERVERSE-NG",
       "type": "NSP"
+    },
+    "219378": {
+      "name": "SAKARIN-NETWORK",
+      "type": "Unknown"
     }
   }
 }
