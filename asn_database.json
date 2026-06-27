@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-26T00:34:07.234Z",
+  "updated_at": "2026-06-27T00:32:04.800Z",
   "source": "PeeringDB",
-  "entry_count": 34881,
+  "entry_count": 34895,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -18985,7 +18985,7 @@
       "type": "NSP"
     },
     "43578": {
-      "name": "bitNAP Datacenter",
+      "name": "Templus Datacenter",
       "type": "Unknown"
     },
     "264862": {
@@ -48188,10 +48188,6 @@
       "name": "Allness IT",
       "type": "Unknown"
     },
-    "35197": {
-      "name": "Virtual ISP",
-      "type": "Cable/DSL/ISP"
-    },
     "269520": {
       "name": "Sidinei Antonio Alves",
       "type": "Unknown"
@@ -51773,7 +51769,7 @@
       "type": "Unknown"
     },
     "270429": {
-      "name": "UNAFIBER PLANALTINA LTDA",
+      "name": "DFOX TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "27717": {
@@ -56450,7 +56446,7 @@
     },
     "131921": {
       "name": "GMO CLOUD",
-      "type": "Unknown"
+      "type": "Content"
     },
     "48190": {
       "name": "T2 Ekaterinburg",
@@ -90176,10 +90172,6 @@
       "name": "Microlink Fibra",
       "type": "Cable/DSL/ISP"
     },
-    "22295": {
-      "name": "Advin Servers AS22295",
-      "type": "Cable/DSL/ISP"
-    },
     "213884": {
       "name": "FAST-FIBER",
       "type": "Unknown"
@@ -96647,10 +96639,6 @@
     "206115": {
       "name": "MIKRON-BILISIM",
       "type": "Educational/Research"
-    },
-    "153774": {
-      "name": "Microcyber Data Indonesia",
-      "type": "Cable/DSL/ISP"
     },
     "34121": {
       "name": "RUSAL MANAGEMENT",
@@ -106121,7 +106109,7 @@
       "type": "NSP"
     },
     "219407": {
-      "name": "German Khanin",
+      "name": "ru-transit-MITIGATION",
       "type": "NSP"
     },
     "402630": {
@@ -106150,7 +106138,7 @@
     },
     "266595": {
       "name": "ASN266595",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "274798": {
       "name": "ASN274798",
@@ -106363,6 +106351,54 @@
     "219380": {
       "name": "ADNAANSIDDIQI",
       "type": "Unknown"
+    },
+    "137495": {
+      "name": "SKN-NZ-AS",
+      "type": "Unknown"
+    },
+    "43525": {
+      "name": "TRENCHANT-AS",
+      "type": "Unknown"
+    },
+    "141933": {
+      "name": "IDNIC-SID-AS-ID",
+      "type": "Unknown"
+    },
+    "214682": {
+      "name": "Epro_io",
+      "type": "Unknown"
+    },
+    "62468": {
+      "name": "HKCLOUDX",
+      "type": "Unknown"
+    },
+    "329441": {
+      "name": "ORG-FMCL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "49520": {
+      "name": "USTERTECHNOLOGIES-AS",
+      "type": "Unknown"
+    },
+    "141045": {
+      "name": "CIVILNETWORK-AS-AP",
+      "type": "Unknown"
+    },
+    "136403": {
+      "name": "IDNIC-PENOL-ID",
+      "type": "Unknown"
+    },
+    "219340": {
+      "name": "KUSIGMA",
+      "type": "Enterprise"
+    },
+    "219348": {
+      "name": "XIONGROUP",
+      "type": "Unknown"
+    },
+    "263844": {
+      "name": "Columbia/UFMG PEERING Research Testbed AS263844",
+      "type": "Educational/Research"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -120930,7 +120966,7 @@
     },
     "50475": {
       "name": "Point of Trade Co.",
-      "type": "Network Services"
+      "type": "Content"
     },
     "269347": {
       "name": "R.E. DUTRA PROVEDOR DE INTERNET",
@@ -121182,6 +121218,10 @@
     },
     "263750": {
       "name": "Si Net",
+      "type": "Cable/DSL/ISP"
+    },
+    "35197": {
+      "name": "Virtual ISP",
       "type": "Cable/DSL/ISP"
     },
     "139786": {
@@ -131001,7 +131041,7 @@
       "type": "Educational/Research"
     },
     "149976": {
-      "name": "Adhelin Data Solution",
+      "name": "ADSNET.ID",
       "type": "Cable/DSL/ISP"
     },
     "201636": {
@@ -131093,8 +131133,8 @@
       "type": "Cable/DSL/ISP"
     },
     "206216": {
-      "name": "Advin Servers",
-      "type": "Content"
+      "name": "Advin Servers - AS206216",
+      "type": "Cable/DSL/ISP"
     },
     "204082": {
       "name": "Philippe Bonvin",
@@ -133402,7 +133442,7 @@
     },
     "47600": {
       "name": "RUBIX DATACENTER",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "197483": {
       "name": "AD SYSTEMS",
@@ -136572,6 +136612,10 @@
       "name": "EXAGENIUS",
       "type": "Enterprise"
     },
+    "22295": {
+      "name": "Advin Servers - AS22295",
+      "type": "Cable/DSL/ISP"
+    },
     "213866": {
       "name": "Grupo Rojas Silva",
       "type": "Content"
@@ -137946,6 +137990,10 @@
     },
     "153480": {
       "name": "Andal Ciptamedia Sarana",
+      "type": "Cable/DSL/ISP"
+    },
+    "153774": {
+      "name": "Microcyber Data Indonesia",
       "type": "Cable/DSL/ISP"
     },
     "212691": {
@@ -139527,6 +139575,14 @@
     "219378": {
       "name": "SAKARIN-NETWORK",
       "type": "Unknown"
+    },
+    "219332": {
+      "name": "Pmman Network",
+      "type": "Educational/Research"
+    },
+    "329311": {
+      "name": "Unitic-Limited",
+      "type": "Enterprise"
     }
   }
 }
