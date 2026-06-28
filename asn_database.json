@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-27T00:32:04.800Z",
+  "updated_at": "2026-06-28T00:31:42.635Z",
   "source": "PeeringDB",
-  "entry_count": 34895,
+  "entry_count": 34900,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -91922,7 +91922,7 @@
     },
     "401555": {
       "name": "Blockcast",
-      "type": "Unknown"
+      "type": "Content"
     },
     "58224": {
       "name": "TCI",
@@ -92454,7 +92454,7 @@
     },
     "213409": {
       "name": "Lynqia Network",
-      "type": "Content"
+      "type": "NSP"
     },
     "150623": {
       "name": "HOSTDZIRE WEB SERVICES",
@@ -105586,7 +105586,7 @@
     },
     "219529": {
       "name": "Yulia Kurganova",
-      "type": "Unknown"
+      "type": "Content"
     },
     "44300": {
       "name": "IPLS",
@@ -106399,6 +106399,26 @@
     "263844": {
       "name": "Columbia/UFMG PEERING Research Testbed AS263844",
       "type": "Educational/Research"
+    },
+    "212147": {
+      "name": "PGHK-AS",
+      "type": "Unknown"
+    },
+    "268294": {
+      "name": "ASN268294",
+      "type": "Unknown"
+    },
+    "219347": {
+      "name": "Andi",
+      "type": "Non-Profit"
+    },
+    "272345": {
+      "name": "272345",
+      "type": "Unknown"
+    },
+    "154650": {
+      "name": "IRINN-SKYAERO-AS-IN",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -135145,7 +135165,7 @@
       "type": "NSP"
     },
     "63145": {
-      "name": "Manchitas USA Corp",
+      "name": "DFW-IX",
       "type": "Content"
     },
     "140016": {
