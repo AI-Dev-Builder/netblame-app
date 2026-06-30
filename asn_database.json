@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-29T00:33:09.597Z",
+  "updated_at": "2026-06-30T00:32:17.024Z",
   "source": "PeeringDB",
-  "entry_count": 34775,
+  "entry_count": 34772,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -13357,7 +13357,7 @@
       "type": "Cable/DSL/ISP"
     },
     "47169": {
-      "name": "MVM NET Zrt.",
+      "name": "Pro-M Zrt.",
       "type": "NSP"
     },
     "19693": {
@@ -40844,10 +40844,6 @@
       "name": "UP INTERNET TELECOMUNICAÇÕES LTDA",
       "type": "NSP"
     },
-    "394119": {
-      "name": "eXperimental Computing Facility",
-      "type": "Educational/Research"
-    },
     "14525": {
       "name": "Stellar Technologies Inc.",
       "type": "NSP"
@@ -55863,10 +55859,6 @@
     "268365": {
       "name": "VALDEMIR DE SANTANA ROLIM - ELETROTEL",
       "type": "Cable/DSL/ISP"
-    },
-    "271386": {
-      "name": "L DA SILVA SANTOS INFORMATICA",
-      "type": "NSP"
     },
     "22500": {
       "name": "MAW COMMUNICATIONS",
@@ -76448,10 +76440,6 @@
       "name": "HOR.NET Polska",
       "type": "Unknown"
     },
-    "272268": {
-      "name": "Atar Net",
-      "type": "NSP"
-    },
     "269919": {
       "name": "HONDUVISION SRL",
       "type": "Unknown"
@@ -77230,10 +77218,6 @@
     },
     "32528": {
       "name": "Ross Productions",
-      "type": "Unknown"
-    },
-    "272271": {
-      "name": "SALVADORTECH TELECOMUNICACOES",
       "type": "Unknown"
     },
     "151340": {
@@ -78438,7 +78422,7 @@
     },
     "51087": {
       "name": "Bling Network",
-      "type": "Non-Profit"
+      "type": "NSP"
     },
     "197762": {
       "name": "ConstantinHerold",
@@ -81542,7 +81526,7 @@
     },
     "31919": {
       "name": "Blue Ridge Mountain Electric Membership Corporation - BRM EMC",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "152156": {
       "name": "Naruto",
@@ -81599,10 +81583,6 @@
     "152179": {
       "name": "HongKong Global Network",
       "type": "Cable/DSL/ISP"
-    },
-    "273374": {
-      "name": "BLACK FIBRA TELECOM LTDA",
-      "type": "Unknown"
     },
     "37184": {
       "name": "Powertel Communications",
@@ -84454,10 +84434,6 @@
     },
     "215792": {
       "name": "swn-neuwied",
-      "type": "Unknown"
-    },
-    "272164": {
-      "name": "ALTA REDE NETWORK PROVEDOR DE INTERNET LTDA ME",
       "type": "Unknown"
     },
     "328222": {
@@ -89754,7 +89730,7 @@
     },
     "20200": {
       "name": "Hongshin",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "50551": {
       "name": "EURO PC Piotr Kwasnik",
@@ -92218,7 +92194,7 @@
     },
     "213449": {
       "name": "JOW",
-      "type": "Content"
+      "type": "NSP"
     },
     "212770": {
       "name": "AKILLIBULUT",
@@ -93376,10 +93352,6 @@
       "name": "KHTech",
       "type": "Cable/DSL/ISP"
     },
-    "142593": {
-      "name": "Lakshmipur Communication Network",
-      "type": "Unknown"
-    },
     "12070": {
       "name": "Anycast",
       "type": "Unknown"
@@ -93588,17 +93560,13 @@
       "name": "IQ-FIBER",
       "type": "Unknown"
     },
-    "274786": {
-      "name": "TF TELECOM LTDA",
-      "type": "Cable/DSL/ISP"
-    },
     "768": {
       "name": "NNIC AS768",
       "type": "Unknown"
     },
     "139549": {
       "name": "Crisp Enterprises",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "208389": {
       "name": "FOCUSIT",
@@ -100821,7 +100789,7 @@
       "type": "NSP"
     },
     "202473": {
-      "name": "PSC-Net",
+      "name": "PSCNet",
       "type": "Cable/DSL/ISP"
     },
     "14958": {
@@ -102752,10 +102720,6 @@
       "name": "Uscloud Inc",
       "type": "Unknown"
     },
-    "272082": {
-      "name": "JARM TELECOMUNICACIONES SRL",
-      "type": "Unknown"
-    },
     "214267": {
       "name": "serversistemleri",
       "type": "Unknown"
@@ -103814,7 +103778,7 @@
     },
     "275737": {
       "name": "GO-NET TELECOM",
-      "type": "NSP"
+      "type": "Unknown"
     },
     "45586": {
       "name": "Auckland Grammar School",
@@ -105752,10 +105716,6 @@
       "name": "SAMUEL-COSGROVE",
       "type": "Unknown"
     },
-    "149832": {
-      "name": "TIMESCOMMUNICATION-AS-AP",
-      "type": "Unknown"
-    },
     "47506": {
       "name": "NEXANET",
       "type": "Unknown"
@@ -105814,11 +105774,11 @@
     },
     "154723": {
       "name": "OPTICA-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "402663": {
       "name": "PHOENIXNET-LABS",
-      "type": "Enterprise"
+      "type": "Network Services"
     },
     "402549": {
       "name": "TERRASERVERS-NET",
@@ -105957,7 +105917,7 @@
       "type": "Unknown"
     },
     "268294": {
-      "name": "ASN268294",
+      "name": "NOVOLINK - ASN268294",
       "type": "NSP"
     },
     "219347": {
@@ -105970,7 +105930,7 @@
     },
     "154650": {
       "name": "IRINN-SKYAERO-AS-IN",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "210814": {
       "name": "VUNIFY",
@@ -105983,6 +105943,30 @@
     "265979": {
       "name": "ASN265979",
       "type": "Cable/DSL/ISP"
+    },
+    "55722": {
+      "name": "CENPAC-AS-AP",
+      "type": "Unknown"
+    },
+    "402619": {
+      "name": "INTELOC",
+      "type": "Unknown"
+    },
+    "219324": {
+      "name": "GUOLIN-AS",
+      "type": "Unknown"
+    },
+    "265805": {
+      "name": "265805",
+      "type": "Unknown"
+    },
+    "200823": {
+      "name": "MHost-AS",
+      "type": "Unknown"
+    },
+    "219327": {
+      "name": "DISASTER",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -110670,7 +110654,7 @@
     },
     "58717": {
       "name": "Summit Communications Limited AS58717",
-      "type": "NSP"
+      "type": "Unknown"
     },
     "38200": {
       "name": "BTS Communications",
@@ -126441,7 +126425,7 @@
       "type": "Cable/DSL/ISP"
     },
     "211623": {
-      "name": "NAML B.V.",
+      "name": "OXAR B.V.",
       "type": "Network Services"
     },
     "211694": {
@@ -127103,10 +127087,6 @@
     "399840": {
       "name": "A&KK Group Inc",
       "type": "Enterprise"
-    },
-    "328695": {
-      "name": "Witronics",
-      "type": "Unknown"
     },
     "139983": {
       "name": "BCmedia",
@@ -127771,10 +127751,6 @@
     "25163": {
       "name": "21st Century Technologies",
       "type": "Network Services"
-    },
-    "272210": {
-      "name": "GIRO TELECOMUNICACOES DO BRASIL",
-      "type": "Cable/DSL/ISP"
     },
     "139704": {
       "name": "AGB Communication AS139704",
@@ -131730,7 +131706,7 @@
     },
     "151188": {
       "name": "404 Network Information Co.",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "149548": {
       "name": "D NET BROADBAND",
@@ -136944,6 +136920,10 @@
       "name": "PE Ruslan Ulyanov",
       "type": "Enterprise"
     },
+    "142593": {
+      "name": "Lakshmipur Communication Network",
+      "type": "Unknown"
+    },
     "212513": {
       "name": "OSNET TELEKOM",
       "type": "Network Services"
@@ -138841,7 +138821,7 @@
       "type": "Cable/DSL/ISP"
     },
     "142258": {
-      "name": "Pesona Network Mediautama",
+      "name": "PESONA NET",
       "type": "Cable/DSL/ISP"
     },
     "198681": {
@@ -139103,6 +139083,14 @@
     "219406": {
       "name": "Moritz Beck",
       "type": "Educational/Research"
+    },
+    "219428": {
+      "name": "CozyCode",
+      "type": "Unknown"
+    },
+    "329737": {
+      "name": "AZANET",
+      "type": "Unknown"
     }
   }
 }
