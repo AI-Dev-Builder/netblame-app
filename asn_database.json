@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-06-30T00:32:17.024Z",
+  "updated_at": "2026-07-01T00:33:22.615Z",
   "source": "PeeringDB",
-  "entry_count": 34772,
+  "entry_count": 34780,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -20556,10 +20556,6 @@
       "name": "Conway Corp",
       "type": "Unknown"
     },
-    "9179": {
-      "name": "FidoNet AnyCast",
-      "type": "Content"
-    },
     "327818": {
       "name": "BENIN-IX",
       "type": "Unknown"
@@ -22787,10 +22783,6 @@
     "56534": {
       "name": "Comfortel",
       "type": "NSP"
-    },
-    "198525": {
-      "name": "ClimaxNET",
-      "type": "Cable/DSL/ISP"
     },
     "13150": {
       "name": "Cato Networks",
@@ -27859,10 +27851,6 @@
     "136242": {
       "name": "OneSchool Global Ltd",
       "type": "Unknown"
-    },
-    "57513": {
-      "name": "Mobile interim company 1 S.A.L.",
-      "type": "Cable/DSL/ISP"
     },
     "396319": {
       "name": "CloudVPN Inc.",
@@ -47624,10 +47612,6 @@
       "name": "10VPN Research Network",
       "type": "Educational/Research"
     },
-    "6250": {
-      "name": "NeoNova Network Services",
-      "type": "Unknown"
-    },
     "264902": {
       "name": "Clesat Comunicação e Manutenção em Eletro.LDTA ME",
       "type": "Cable/DSL/ISP"
@@ -60047,6 +60031,10 @@
     "60544": {
       "name": "Runet Business Systems",
       "type": "Enterprise"
+    },
+    "23344": {
+      "name": "Disney Streaming Edge",
+      "type": "Content"
     },
     "207495": {
       "name": "Safor Wifi",
@@ -79841,7 +79829,7 @@
       "type": "Content"
     },
     "327727": {
-      "name": "C-Squared Limited",
+      "name": "CSquared Limited",
       "type": "Cable/DSL/ISP"
     },
     "216265": {
@@ -91766,7 +91754,7 @@
     },
     "211494": {
       "name": "NARAYANA",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "153095": {
       "name": "Syahtelindo Putra Bangsa",
@@ -95962,7 +95950,7 @@
     },
     "153111": {
       "name": "Jaringan Kita Bersama",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "196742": {
       "name": "Ekran",
@@ -97077,7 +97065,7 @@
       "type": "NSP"
     },
     "45683": {
-      "name": "NTT-ME (JPDC)",
+      "name": "NTT ME (JPDC)",
       "type": "Unknown"
     },
     "213115": {
@@ -97470,10 +97458,6 @@
     },
     "32513": {
       "name": "BATTELLE MEMORIAL INSTITUTE",
-      "type": "Unknown"
-    },
-    "401919": {
-      "name": "LCH Holdings LLC",
       "type": "Unknown"
     },
     "152626": {
@@ -101221,7 +101205,7 @@
       "type": "Unknown"
     },
     "201853": {
-      "name": "CatgirlCloud",
+      "name": "catgirl.cloud",
       "type": "Unknown"
     },
     "28172": {
@@ -103726,7 +103710,7 @@
     },
     "198624": {
       "name": "HEXADO",
-      "type": "Unknown"
+      "type": "Content"
     },
     "203090": {
       "name": "BitsFlowCloud",
@@ -105520,10 +105504,6 @@
       "name": "ESPAÇONET - TELECOMUNICAÇOES, (SU), LDA",
       "type": "Cable/DSL/ISP"
     },
-    "132023": {
-      "name": "TNETPH-AS-AP",
-      "type": "Unknown"
-    },
     "402605": {
       "name": "TSFT HOLDINGS",
       "type": "Network Services"
@@ -105645,8 +105625,8 @@
       "type": "Unknown"
     },
     "133458": {
-      "name": "FSCJCL-AS-AP",
-      "type": "Unknown"
+      "name": "FPT Smart Cloud Japan Co., Ltd",
+      "type": "Enterprise"
     },
     "219419": {
       "name": "Whisper Security",
@@ -105966,6 +105946,34 @@
     },
     "219327": {
       "name": "DISASTER",
+      "type": "Unknown"
+    },
+    "272494": {
+      "name": "ASN272494",
+      "type": "Unknown"
+    },
+    "329598": {
+      "name": "ORG-IACT1-AFRINIC",
+      "type": "Unknown"
+    },
+    "139327": {
+      "name": "UCloud HK",
+      "type": "Unknown"
+    },
+    "154273": {
+      "name": "DPDI-AS-AP",
+      "type": "Unknown"
+    },
+    "201043": {
+      "name": "emmatech",
+      "type": "Unknown"
+    },
+    "219307": {
+      "name": "TV Plus",
+      "type": "Unknown"
+    },
+    "219351": {
+      "name": "nevivurn",
       "type": "Unknown"
     },
     "22822": {
@@ -110748,6 +110756,10 @@
       "name": "Lancaster-Lebanon IU13 WAN",
       "type": "Educational/Research"
     },
+    "9179": {
+      "name": "OfficeNet",
+      "type": "NSP"
+    },
     "200625": {
       "name": "MAPNET",
       "type": "Non-Profit"
@@ -111278,6 +111290,10 @@
     },
     "199811": {
       "name": "Wifx",
+      "type": "Cable/DSL/ISP"
+    },
+    "198525": {
+      "name": "ClimaxNET",
       "type": "Cable/DSL/ISP"
     },
     "14522": {
@@ -112743,6 +112759,10 @@
     "266610": {
       "name": "G3 TELECOMUNICACOES GLOBAL",
       "type": "Network Services"
+    },
+    "57513": {
+      "name": "Mobile interim company 1 S.A.L.",
+      "type": "Cable/DSL/ISP"
     },
     "396303": {
       "name": "Nato Internet Service (Experimental)",
@@ -120636,6 +120656,10 @@
       "name": "LeapSwitch Networks",
       "type": "Content"
     },
+    "6250": {
+      "name": "NRTC Network/Member Services",
+      "type": "Non-Profit"
+    },
     "139771": {
       "name": "Alpha Network",
       "type": "Cable/DSL/ISP"
@@ -125683,10 +125707,6 @@
     "142049": {
       "name": "Launch Crew",
       "type": "Cable/DSL/ISP"
-    },
-    "23344": {
-      "name": "Disney Streaming Edge",
-      "type": "Content"
     },
     "952": {
       "name": "Hop",
@@ -137740,6 +137760,10 @@
       "name": "enum",
       "type": "Unknown"
     },
+    "401919": {
+      "name": "LCH Holdings LLC",
+      "type": "Enterprise"
+    },
     "152436": {
       "name": "Erajaya Telco Indonesia",
       "type": "Cable/DSL/ISP"
@@ -138002,7 +138026,7 @@
     },
     "32042": {
       "name": "EVERGATE-NETWORKS",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "329533": {
       "name": "WANDERPORT NETWORKS MOZAMBIQUE",
@@ -138389,8 +138413,8 @@
       "type": "Cable/DSL/ISP"
     },
     "204464": {
-      "name": "NextHost",
-      "type": "Enterprise"
+      "name": "NextServ LLC",
+      "type": "NSP"
     },
     "203534": {
       "name": "On1x",
@@ -139048,6 +139072,10 @@
       "name": "Jonatan Miarecki",
       "type": "Educational/Research"
     },
+    "132023": {
+      "name": "TNETPH-AS-AP",
+      "type": "Unknown"
+    },
     "219418": {
       "name": "Jan Hill",
       "type": "Content"
@@ -139090,6 +139118,10 @@
     },
     "329737": {
       "name": "AZANET",
+      "type": "Unknown"
+    },
+    "201107": {
+      "name": "GIACOM-ISP",
       "type": "Unknown"
     }
   }
