@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-01T00:33:22.615Z",
+  "updated_at": "2026-07-02T00:32:38.241Z",
   "source": "PeeringDB",
-  "entry_count": 34780,
+  "entry_count": 34783,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -23259,6 +23259,10 @@
     "59125": {
       "name": "CYBERHOME",
       "type": "Cable/DSL/ISP"
+    },
+    "197938": {
+      "name": "DK-TLD-ANY-1",
+      "type": "Unknown"
     },
     "20755": {
       "name": "net-lab GmbH",
@@ -63228,10 +63232,6 @@
       "name": "CNIX-NETWORKS",
       "type": "Unknown"
     },
-    "395735": {
-      "name": "Drivenets",
-      "type": "Unknown"
-    },
     "141384": {
       "name": "ISOC Research Network",
       "type": "Non-Profit"
@@ -69110,7 +69110,7 @@
     },
     "271258": {
       "name": "ERICK TELECOM",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "213396": {
       "name": "Maenken Systems AS213396",
@@ -69830,6 +69830,10 @@
     },
     "206315": {
       "name": "Shucheng Li",
+      "type": "Unknown"
+    },
+    "60445": {
+      "name": "CORPONYM-NET",
       "type": "Unknown"
     },
     "13316": {
@@ -77216,10 +77220,6 @@
       "name": "Inovasi Teknologi Pintar",
       "type": "Cable/DSL/ISP"
     },
-    "38784": {
-      "name": "Global Inti Corporatama AS38784",
-      "type": "Unknown"
-    },
     "198527": {
       "name": "Haolin Li",
       "type": "Unknown"
@@ -78124,10 +78124,6 @@
       "name": "Luogu",
       "type": "Enterprise"
     },
-    "198005": {
-      "name": "Andrzejewski-David",
-      "type": "Educational/Research"
-    },
     "5486": {
       "name": "Partner Communications AS5486",
       "type": "Unknown"
@@ -78851,10 +78847,6 @@
     "142125": {
       "name": "Capti Networks Pty Ltd",
       "type": "Cable/DSL/ISP"
-    },
-    "47813": {
-      "name": "Atomlantis Network, LLC.",
-      "type": "Unknown"
     },
     "949": {
       "name": "xTom United States",
@@ -80840,10 +80832,6 @@
       "name": "Circula Net",
       "type": "Cable/DSL/ISP"
     },
-    "395265": {
-      "name": "AKMATORI",
-      "type": "Network Services"
-    },
     "147135": {
       "name": "SALAMNET",
       "type": "Cable/DSL/ISP"
@@ -81414,10 +81402,6 @@
     },
     "329124": {
       "name": "True Technologies",
-      "type": "Unknown"
-    },
-    "399756": {
-      "name": "The Fiber.Company",
       "type": "Unknown"
     },
     "400786": {
@@ -84706,10 +84690,6 @@
     },
     "3646": {
       "name": "Sprint  - AS3646",
-      "type": "Unknown"
-    },
-    "215139": {
-      "name": "YAXSHI XIZMAT TELECOM ISP (215139)",
       "type": "Unknown"
     },
     "150624": {
@@ -89824,10 +89804,6 @@
       "name": "Cochise Internet Services",
       "type": "Unknown"
     },
-    "213856": {
-      "name": "Hong Kong TOHU Technology Limited",
-      "type": "Cable/DSL/ISP"
-    },
     "269667": {
       "name": "Ronaldo Souza Correia -ME",
       "type": "Unknown"
@@ -91876,10 +91852,6 @@
       "name": "InfoSecEdu",
       "type": "Content"
     },
-    "401477": {
-      "name": "RubyHost",
-      "type": "Unknown"
-    },
     "213444": {
       "name": "cucinelli-spa",
       "type": "Unknown"
@@ -92107,10 +92079,6 @@
     "213981": {
       "name": "RTLP",
       "type": "Unknown"
-    },
-    "401614": {
-      "name": "7NETS",
-      "type": "NSP"
     },
     "273970": {
       "name": "SCHRAMM CRISTIAN SAMUEL (Samuel-SI Internet)",
@@ -94465,7 +94433,7 @@
       "type": "Unknown"
     },
     "214931": {
-      "name": "ALUE",
+      "name": "ALUE NETWORK @AS214931",
       "type": "Non-Profit"
     },
     "213640": {
@@ -98256,10 +98224,6 @@
       "name": "PT Melesat Prima Nusantara",
       "type": "Unknown"
     },
-    "212032": {
-      "name": "DirectPath Communications Limited",
-      "type": "Cable/DSL/ISP"
-    },
     "205507": {
       "name": "NURI KOINOT",
       "type": "Unknown"
@@ -101231,10 +101195,6 @@
     "154208": {
       "name": "PT GIRI DATA SOLUSINDO",
       "type": "NSP"
-    },
-    "400161": {
-      "name": "HAWAIIRESEARCH",
-      "type": "Unknown"
     },
     "329045": {
       "name": "Ilitha Infrastructure (Pty) Ltd",
@@ -104264,10 +104224,6 @@
       "name": "Concardis",
       "type": "Unknown"
     },
-    "146888": {
-      "name": "Cloud8In Technologies",
-      "type": "Unknown"
-    },
     "214861": {
       "name": "CloudExa-Hosting",
       "type": "Unknown"
@@ -105794,7 +105750,7 @@
     },
     "219365": {
       "name": "QYRO",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "21873": {
       "name": "NEWMN",
@@ -105900,10 +105856,6 @@
       "name": "NOVOLINK - ASN268294",
       "type": "NSP"
     },
-    "219347": {
-      "name": "Andi",
-      "type": "Non-Profit"
-    },
     "272345": {
       "name": "272345",
       "type": "Unknown"
@@ -105974,6 +105926,58 @@
     },
     "219351": {
       "name": "nevivurn",
+      "type": "Unknown"
+    },
+    "402212": {
+      "name": "NICKTRONICIT",
+      "type": "Unknown"
+    },
+    "13854": {
+      "name": "ORG-TJSE1-AFRINIC",
+      "type": "Unknown"
+    },
+    "209657": {
+      "name": "APELSIN-AS",
+      "type": "Unknown"
+    },
+    "56367": {
+      "name": "ALUE NETWORK @AS56367",
+      "type": "Network Services"
+    },
+    "275781": {
+      "name": "ASN275781",
+      "type": "Network Services"
+    },
+    "219300": {
+      "name": "Geesefly Networks",
+      "type": "Cable/DSL/ISP"
+    },
+    "42089": {
+      "name": "MISSME-AS",
+      "type": "Unknown"
+    },
+    "274950": {
+      "name": "WOW",
+      "type": "Cable/DSL/ISP"
+    },
+    "26939": {
+      "name": "NRNET",
+      "type": "Unknown"
+    },
+    "219315": {
+      "name": "Government of Eirenia",
+      "type": "Government"
+    },
+    "213515": {
+      "name": "Honeybank-Studios",
+      "type": "Unknown"
+    },
+    "256": {
+      "name": "DNIC-AS-00256",
+      "type": "Unknown"
+    },
+    "219297": {
+      "name": "c0redev-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -128350,7 +128354,7 @@
     },
     "209552": {
       "name": "Siroky Network Solutions , BE",
-      "type": "Route Server"
+      "type": "Educational/Research"
     },
     "328727": {
       "name": "Simba Fiber Africa Limited",
@@ -131012,10 +131016,6 @@
       "name": "SILKGLOBAL DOMINICANA",
       "type": "Cable/DSL/ISP"
     },
-    "200508": {
-      "name": "SOROK76",
-      "type": "Content"
-    },
     "150185": {
       "name": "Prima Nala Mandiri",
       "type": "Cable/DSL/ISP"
@@ -131996,6 +131996,10 @@
       "name": "ATM TELECOM",
       "type": "Cable/DSL/ISP"
     },
+    "38784": {
+      "name": "Global Inti Corporatama AS38784",
+      "type": "Unknown"
+    },
     "198663": {
       "name": "Nexarub",
       "type": "Unknown"
@@ -132359,6 +132363,10 @@
     "209998": {
       "name": "ActiveNet",
       "type": "Unknown"
+    },
+    "198005": {
+      "name": "Andrzejewski-David",
+      "type": "Educational/Research"
     },
     "32872": {
       "name": "Difficult Computing",
@@ -133563,10 +133571,6 @@
     "266677": {
       "name": "FILA NET",
       "type": "Cable/DSL/ISP"
-    },
-    "398759": {
-      "name": "Boostchicken.dev",
-      "type": "Network Services"
     },
     "215849": {
       "name": "Tristan Klock",
@@ -138880,6 +138884,10 @@
       "name": "PT PANHA NETWORK SOLUTION",
       "type": "Enterprise"
     },
+    "146888": {
+      "name": "Cloud8In Technologies",
+      "type": "Cable/DSL/ISP"
+    },
     "154466": {
       "name": "OJI COMMUNICATIONS PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
@@ -139103,6 +139111,10 @@
     "329311": {
       "name": "Unitic-Limited",
       "type": "Enterprise"
+    },
+    "219347": {
+      "name": "Andi",
+      "type": "Cable/DSL/ISP"
     },
     "402673": {
       "name": "AtomRoute Global Network (US) LLC",
