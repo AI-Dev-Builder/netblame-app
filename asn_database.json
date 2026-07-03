@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-02T00:32:38.241Z",
+  "updated_at": "2026-07-03T02:03:32.593Z",
   "source": "PeeringDB",
-  "entry_count": 34783,
+  "entry_count": 34794,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -25108,10 +25108,6 @@
       "name": "Beijing ShuJuJia Technology Co., Ltd.",
       "type": "Unknown"
     },
-    "57269": {
-      "name": "Digi Spain Telecom",
-      "type": "Cable/DSL/ISP"
-    },
     "4528": {
       "name": "The University of Hong Kong",
       "type": "Educational/Research"
@@ -49306,6 +49302,10 @@
     },
     "48755": {
       "name": "Flower Era",
+      "type": "Unknown"
+    },
+    "209557": {
+      "name": "GEELINX-AS",
       "type": "Unknown"
     },
     "61201": {
@@ -84974,7 +84974,7 @@
     },
     "197275": {
       "name": "ASLINKTELECOMNN",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "27392": {
       "name": "639-DATACENTERS",
@@ -91217,7 +91217,7 @@
       "type": "Content"
     },
     "213615": {
-      "name": "OD CLOUD",
+      "name": "DIVERSITY CLOUD EUROPE",
       "type": "Content"
     },
     "329457": {
@@ -96283,10 +96283,6 @@
     "153925": {
       "name": "PT Timeless Network Group",
       "type": "Network Services"
-    },
-    "205941": {
-      "name": "Lungu Stefan Gabriel",
-      "type": "NSP"
     },
     "43905": {
       "name": "SPACE NORWAY SATCOM AS",
@@ -103158,7 +103154,7 @@
     },
     "274366": {
       "name": "Royal Company Infinity",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "201407": {
       "name": "Serverora",
@@ -104572,10 +104568,6 @@
       "name": "STEPAN ODINTSOV PR BEOGRAD",
       "type": "Unknown"
     },
-    "402425": {
-      "name": "QOREXA LABS",
-      "type": "Cable/DSL/ISP"
-    },
     "25488": {
       "name": "Comune di Novara",
       "type": "Unknown"
@@ -105472,10 +105464,6 @@
       "name": "ASN-INTELLIC",
       "type": "Unknown"
     },
-    "219412": {
-      "name": "Oxiwave-Internet",
-      "type": "Cable/DSL/ISP"
-    },
     "219417": {
       "name": "SPEEDI-HEBERG",
       "type": "Unknown"
@@ -105650,6 +105638,10 @@
     },
     "203938": {
       "name": "SAMUEL-COSGROVE",
+      "type": "Unknown"
+    },
+    "149832": {
+      "name": "TIMESCOMMUNICATION-AS-AP",
       "type": "Unknown"
     },
     "47506": {
@@ -105978,6 +105970,42 @@
     },
     "219297": {
       "name": "c0redev-AS",
+      "type": "Unknown"
+    },
+    "154729": {
+      "name": "IDNIC-ARKANOVA-AS-ID",
+      "type": "Unknown"
+    },
+    "219291": {
+      "name": "OTETE-RU-ASN",
+      "type": "Cable/DSL/ISP"
+    },
+    "20879": {
+      "name": "DIGI PT",
+      "type": "Cable/DSL/ISP"
+    },
+    "25311": {
+      "name": "DIGI BE",
+      "type": "Cable/DSL/ISP"
+    },
+    "41852": {
+      "name": "DIGI UK",
+      "type": "Cable/DSL/ISP"
+    },
+    "219359": {
+      "name": "EDGE-AS",
+      "type": "Unknown"
+    },
+    "402270": {
+      "name": "SOFTERYX-INC",
+      "type": "Network Services"
+    },
+    "274299": {
+      "name": "274299",
+      "type": "Unknown"
+    },
+    "14475": {
+      "name": "D4-NETW",
       "type": "Unknown"
     },
     "22822": {
@@ -112317,7 +112345,7 @@
       "type": "NSP"
     },
     "197658": {
-      "name": "Konstantin Beug",
+      "name": "KBEUG-NETWORK",
       "type": "Educational/Research"
     },
     "134043": {
@@ -137354,7 +137382,7 @@
     },
     "274468": {
       "name": "ENTEC SERVICOS DE TELECOMUNICACOES LTDA",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "329535": {
       "name": "ONSITE AFRICA LTD",
@@ -137535,6 +137563,10 @@
     "62517": {
       "name": "Taiwan Telecom, Inc.(Premium)",
       "type": "Network Services"
+    },
+    "205941": {
+      "name": "Lungu Stefan Gabriel",
+      "type": "NSP"
     },
     "401896": {
       "name": "MISIU LLC",
@@ -138944,6 +138976,10 @@
       "name": "Giotsas",
       "type": "Network Services"
     },
+    "402425": {
+      "name": "QOREXA LABS",
+      "type": "Content"
+    },
     "402547": {
       "name": "J Wynegar Jr",
       "type": "Content"
@@ -139088,6 +139124,10 @@
       "name": "Jan Hill",
       "type": "Content"
     },
+    "219412": {
+      "name": "Oxiwave-Internet",
+      "type": "Cable/DSL/ISP"
+    },
     "275671": {
       "name": "Ouronet",
       "type": "Cable/DSL/ISP"
@@ -139135,6 +139175,10 @@
     "201107": {
       "name": "GIACOM-ISP",
       "type": "Unknown"
+    },
+    "203291": {
+      "name": "FrysLÂN",
+      "type": "NSP"
     }
   }
 }
