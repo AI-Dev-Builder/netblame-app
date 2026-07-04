@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-03T02:03:32.593Z",
+  "updated_at": "2026-07-04T02:01:25.977Z",
   "source": "PeeringDB",
-  "entry_count": 34794,
+  "entry_count": 34801,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -19287,6 +19287,10 @@
     "37303": {
       "name": "Airtel Madagascar",
       "type": "Cable/DSL/ISP"
+    },
+    "131745": {
+      "name": "Cybertechtonic Pratama AS131745",
+      "type": "Enterprise"
     },
     "62068": {
       "name": "SpectraIP B.V.",
@@ -68913,7 +68917,7 @@
       "type": "Cable/DSL/ISP"
     },
     "205789": {
-      "name": "Allienet",
+      "name": "Eden",
       "type": "Unknown"
     },
     "210383": {
@@ -74467,10 +74471,6 @@
     "212110": {
       "name": "NETMAX TELEKOMUNIKASYON",
       "type": "Unknown"
-    },
-    "200259": {
-      "name": "The American University of Paris",
-      "type": "Educational/Research"
     },
     "136851": {
       "name": "ARDETAMEDIA GLOBAL KOMPUTINDO",
@@ -90338,7 +90338,7 @@
     },
     "273495": {
       "name": "JS TELECOM LTDA",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "51": {
       "name": "Headquarters, USAISC (AS51)",
@@ -93154,7 +93154,7 @@
     },
     "270654": {
       "name": "CONECTA GOLD PROVEDORES DE ACESSO LTDA",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "153759": {
       "name": "DE-CIX IN Layer 3 Services",
@@ -94891,10 +94891,6 @@
     "141459": {
       "name": "Clean Network",
       "type": "Unknown"
-    },
-    "207155": {
-      "name": "Stormnet Hosting",
-      "type": "NSP"
     },
     "213471": {
       "name": "IPPNOC",
@@ -103686,7 +103682,7 @@
     },
     "154635": {
       "name": "G-Connect Systems & Trading",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "153719": {
       "name": "Queens link technology",
@@ -104780,10 +104776,6 @@
       "name": "Formosa",
       "type": "Enterprise"
     },
-    "402567": {
-      "name": "THANKYOU-AI",
-      "type": "Enterprise"
-    },
     "3930": {
       "name": "Federal Energy Regulatory Commission",
       "type": "Unknown"
@@ -105713,7 +105705,7 @@
       "type": "Cable/DSL/ISP"
     },
     "154711": {
-      "name": "ANYLINKNET-AS-AP",
+      "name": "ANYLINK NET SDN. BHD.",
       "type": "Unknown"
     },
     "52576": {
@@ -105961,7 +105953,7 @@
       "type": "Government"
     },
     "213515": {
-      "name": "Honeybank-Studios",
+      "name": "Honeybank Studios LTD",
       "type": "Unknown"
     },
     "256": {
@@ -105975,10 +105967,6 @@
     "154729": {
       "name": "IDNIC-ARKANOVA-AS-ID",
       "type": "Unknown"
-    },
-    "219291": {
-      "name": "OTETE-RU-ASN",
-      "type": "Cable/DSL/ISP"
     },
     "20879": {
       "name": "DIGI PT",
@@ -106006,7 +105994,39 @@
     },
     "14475": {
       "name": "D4-NETW",
+      "type": "NSP"
+    },
+    "20476": {
+      "name": "RESERVED-IPADMIN",
       "type": "Unknown"
+    },
+    "206247": {
+      "name": "MATVINE-NET",
+      "type": "Enterprise"
+    },
+    "201038": {
+      "name": "MPARA1",
+      "type": "Unknown"
+    },
+    "219363": {
+      "name": "ORLIVA",
+      "type": "Unknown"
+    },
+    "329773": {
+      "name": "ORG-MHBL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "402615": {
+      "name": "Internet Colocation Thunder Bay",
+      "type": "NSP"
+    },
+    "402668": {
+      "name": "ONE-FREE-COMPUTER-TRANSIT",
+      "type": "Educational/Research"
+    },
+    "273861": {
+      "name": "FASTNET SOLUTIONS",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -110339,10 +110359,6 @@
     "49933": {
       "name": "Alexander Karl",
       "type": "NSP"
-    },
-    "131745": {
-      "name": "Cybertechtonic Pratama AS131745",
-      "type": "Enterprise"
     },
     "134883": {
       "name": "Wsns",
@@ -131200,6 +131216,10 @@
       "name": "Synapsis.io AS6145",
       "type": "Network Services"
     },
+    "200259": {
+      "name": "The American University of Paris",
+      "type": "Educational/Research"
+    },
     "150671": {
       "name": "MANSOORAH TELECOMMUNICATIONS",
       "type": "Cable/DSL/ISP"
@@ -136502,7 +136522,7 @@
     },
     "9947": {
       "name": "kt cloud",
-      "type": "Route Server"
+      "type": "Network Services"
     },
     "401604": {
       "name": "Colocataires",
@@ -137276,6 +137296,10 @@
       "name": "PT RAJASA SINERGI KOMUNIKASI",
       "type": "Cable/DSL/ISP"
     },
+    "207155": {
+      "name": "Stormnet Hosting",
+      "type": "NSP"
+    },
     "207099": {
       "name": "RICKARDANDRI",
       "type": "Unknown"
@@ -137537,7 +137561,7 @@
       "type": "Cable/DSL/ISP"
     },
     "153774": {
-      "name": "Microcyber Data Indonesia",
+      "name": "Microcyber Data Indonesia, PT",
       "type": "Cable/DSL/ISP"
     },
     "212691": {
@@ -139027,6 +139051,10 @@
     "402566": {
       "name": "MODERN-CONNECTIVITY",
       "type": "NSP"
+    },
+    "402567": {
+      "name": "THANKYOU-AI",
+      "type": "Enterprise"
     },
     "197166": {
       "name": "Gotschna",
