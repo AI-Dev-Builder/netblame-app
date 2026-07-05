@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-04T02:01:25.977Z",
+  "updated_at": "2026-07-05T02:09:52.378Z",
   "source": "PeeringDB",
-  "entry_count": 34801,
+  "entry_count": 34803,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -623,10 +623,6 @@
     "43376": {
       "name": "DOTRO Telecom",
       "type": "Cable/DSL/ISP"
-    },
-    "25443": {
-      "name": "International Data Group",
-      "type": "Content"
     },
     "13680": {
       "name": "HGTN.net",
@@ -10331,6 +10327,10 @@
     "38781": {
       "name": "Mitra Abdi Solusi",
       "type": "Enterprise"
+    },
+    "132839": {
+      "name": "POWERLINE-AS-AP",
+      "type": "NSP"
     },
     "58621": {
       "name": "Vodien Internet Solutions Pte Ltd",
@@ -42568,10 +42568,6 @@
       "name": "EES COMUNICACAO MULTIMIDIA",
       "type": "Unknown"
     },
-    "209093": {
-      "name": "Frachtwerk",
-      "type": "NSP"
-    },
     "51845": {
       "name": "WATERSTONS",
       "type": "Unknown"
@@ -63424,10 +63420,6 @@
       "name": "Now IT Solutions",
       "type": "Unknown"
     },
-    "210860": {
-      "name": "EDEKA DIGITAL",
-      "type": "Unknown"
-    },
     "62163": {
       "name": "IP River Limited",
       "type": "Network Services"
@@ -67043,10 +67035,6 @@
     "141660": {
       "name": "Wahyu Akses Koneksi Riau",
       "type": "Cable/DSL/ISP"
-    },
-    "149285": {
-      "name": "Mythra",
-      "type": "Unknown"
     },
     "399932": {
       "name": "Tekvizion",
@@ -72023,10 +72011,6 @@
     "52960": {
       "name": "WIFI BAHIA",
       "type": "NSP"
-    },
-    "14107": {
-      "name": "Preferred Connections",
-      "type": "Unknown"
     },
     "60464": {
       "name": "Supernet UK",
@@ -78578,10 +78562,6 @@
     },
     "272555": {
       "name": "New Connect Telecomunicações Ltda",
-      "type": "Unknown"
-    },
-    "197569": {
-      "name": "BASED ON WHAT LLC",
       "type": "Unknown"
     },
     "151633": {
@@ -105674,7 +105654,7 @@
     },
     "209620": {
       "name": "MCGMBH",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "219402": {
       "name": "Wiese",
@@ -105686,10 +105666,6 @@
     },
     "219362": {
       "name": "FynnHuppke",
-      "type": "Unknown"
-    },
-    "219367": {
-      "name": "PITEA-AS",
       "type": "Unknown"
     },
     "154723": {
@@ -105722,7 +105698,7 @@
     },
     "216210": {
       "name": "didimnet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "213648": {
       "name": "YORIZON-AS",
@@ -105954,7 +105930,7 @@
     },
     "213515": {
       "name": "Honeybank Studios LTD",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "256": {
       "name": "DNIC-AS-00256",
@@ -106020,13 +105996,41 @@
       "name": "Internet Colocation Thunder Bay",
       "type": "NSP"
     },
-    "402668": {
-      "name": "ONE-FREE-COMPUTER-TRANSIT",
-      "type": "Educational/Research"
-    },
     "273861": {
       "name": "FASTNET SOLUTIONS",
       "type": "Cable/DSL/ISP"
+    },
+    "275786": {
+      "name": "ASN275786",
+      "type": "NSP"
+    },
+    "274974": {
+      "name": "274974",
+      "type": "Unknown"
+    },
+    "154749": {
+      "name": "BKONLINE1-AS-AP",
+      "type": "Unknown"
+    },
+    "57247": {
+      "name": "Motus",
+      "type": "Unknown"
+    },
+    "152056": {
+      "name": "IDNIC-SGU-AS-ID",
+      "type": "Unknown"
+    },
+    "1106": {
+      "name": "Nationale Speeltuin",
+      "type": "Educational/Research"
+    },
+    "219289": {
+      "name": "ISVORO-NET",
+      "type": "Unknown"
+    },
+    "214209": {
+      "name": "INTERNET-MAGNATE",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -109943,10 +109947,6 @@
     "395089": {
       "name": "Hextet Systems",
       "type": "Educational/Research"
-    },
-    "203038": {
-      "name": "QuxLabs",
-      "type": "NSP"
     },
     "58868": {
       "name": "TechPath",
@@ -127000,10 +127000,6 @@
       "name": "Tacom",
       "type": "Unknown"
     },
-    "142641": {
-      "name": "Yuze Zhang",
-      "type": "Unknown"
-    },
     "203432": {
       "name": "FAImaison",
       "type": "Unknown"
@@ -132619,6 +132615,10 @@
     "60812": {
       "name": "1-IX UA Route Servers",
       "type": "Route Server"
+    },
+    "197569": {
+      "name": "BASED ON WHAT LLC",
+      "type": "Unknown"
     },
     "271126": {
       "name": "ONDANET PE",
@@ -139168,6 +139168,10 @@
       "name": "CYBERVERSE-NG",
       "type": "NSP"
     },
+    "219367": {
+      "name": "PITEA-AS",
+      "type": "Non-Profit"
+    },
     "219378": {
       "name": "SAKARIN-NETWORK",
       "type": "Unknown"
@@ -139207,6 +139211,10 @@
     "203291": {
       "name": "FrysLÂN",
       "type": "NSP"
+    },
+    "402668": {
+      "name": "ONE-FREE-COMPUTER-TRANSIT",
+      "type": "Educational/Research"
     }
   }
 }
