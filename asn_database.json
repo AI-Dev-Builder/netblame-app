@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-05T02:09:52.378Z",
+  "updated_at": "2026-07-06T02:14:43.196Z",
   "source": "PeeringDB",
-  "entry_count": 34803,
+  "entry_count": 34808,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -59349,7 +59349,7 @@
       "type": "Cable/DSL/ISP"
     },
     "212828": {
-      "name": "twopeaks digital e.U.",
+      "name": "twopeaks digital GmbH",
       "type": "Enterprise"
     },
     "42012": {
@@ -105836,10 +105836,6 @@
       "name": "ASN265979",
       "type": "Cable/DSL/ISP"
     },
-    "55722": {
-      "name": "CENPAC-AS-AP",
-      "type": "Unknown"
-    },
     "402619": {
       "name": "INTELOC",
       "type": "Unknown"
@@ -106030,6 +106026,26 @@
     },
     "214209": {
       "name": "INTERNET-MAGNATE",
+      "type": "Unknown"
+    },
+    "329768": {
+      "name": "ORG-CWL3-AFRINIC",
+      "type": "Unknown"
+    },
+    "219283": {
+      "name": "HAOHAO-ZHANG",
+      "type": "Unknown"
+    },
+    "151165": {
+      "name": "TRANSMEDIADIGICOMM-AS-IN",
+      "type": "Unknown"
+    },
+    "154728": {
+      "name": "IDNIC-TBAS-ID",
+      "type": "Unknown"
+    },
+    "219299": {
+      "name": "khinkali-as",
       "type": "Unknown"
     },
     "22822": {
@@ -139195,6 +139211,10 @@
     "219406": {
       "name": "Moritz Beck",
       "type": "Educational/Research"
+    },
+    "55722": {
+      "name": "CENPAC-AS-AP",
+      "type": "NSP"
     },
     "219428": {
       "name": "CozyCode",
