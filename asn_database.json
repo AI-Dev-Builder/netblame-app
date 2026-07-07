@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-06T02:14:43.196Z",
+  "updated_at": "2026-07-07T02:10:29.780Z",
   "source": "PeeringDB",
-  "entry_count": 34808,
+  "entry_count": 34817,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -9067,6 +9067,10 @@
     "58329": {
       "name": "rackplace",
       "type": "Content"
+    },
+    "49962": {
+      "name": "ALUE-NET",
+      "type": "Educational/Research"
     },
     "38794": {
       "name": "United Information Highway (UIH)",
@@ -43228,6 +43232,10 @@
       "name": "MICRONET TELECOM",
       "type": "Cable/DSL/ISP"
     },
+    "139058": {
+      "name": "Tachileik Net (TCLNET)",
+      "type": "Cable/DSL/ISP"
+    },
     "32398": {
       "name": "Real Image Internet",
       "type": "Cable/DSL/ISP"
@@ -55555,10 +55563,6 @@
     "55366": {
       "name": "Bupa",
       "type": "Enterprise"
-    },
-    "137134": {
-      "name": "ZeaCloud-AS137134",
-      "type": "Unknown"
     },
     "212623": {
       "name": "NysaNet sp. z o.o.",
@@ -67930,7 +67934,7 @@
     },
     "9920": {
       "name": "IMPROVE SYSTEM TECHNOLOGY CO.",
-      "type": "Educational/Research"
+      "type": "Enterprise"
     },
     "142370": {
       "name": "Master Star Network",
@@ -72234,10 +72238,6 @@
     },
     "263497": {
       "name": "DH ONLINE INTERNET",
-      "type": "Cable/DSL/ISP"
-    },
-    "146942": {
-      "name": "PSNET SOLUTIONS",
       "type": "Cable/DSL/ISP"
     },
     "135168": {
@@ -87812,10 +87812,6 @@
       "name": "Telnet Ltd",
       "type": "Unknown"
     },
-    "215000": {
-      "name": "CountryConnect",
-      "type": "Unknown"
-    },
     "29388": {
       "name": "Best Telecom ISP",
       "type": "Unknown"
@@ -102817,7 +102813,7 @@
       "type": "Cable/DSL/ISP"
     },
     "212994": {
-      "name": "EUROLINK",
+      "name": "MEDIA INVESTCOM",
       "type": "Unknown"
     },
     "208663": {
@@ -103741,7 +103737,7 @@
       "type": "Unknown"
     },
     "154205": {
-      "name": "Susu Teknologi Indonesia",
+      "name": "PT Susu Teknologi Indonesia",
       "type": "Unknown"
     },
     "151347": {
@@ -105762,7 +105758,7 @@
     },
     "137495": {
       "name": "SKN-NZ-AS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "43525": {
       "name": "TRENCHANT-AS",
@@ -105869,8 +105865,8 @@
       "type": "Unknown"
     },
     "154273": {
-      "name": "DPDI-AS-AP",
-      "type": "Unknown"
+      "name": "DMCI Project Developers, Inc.",
+      "type": "Network Services"
     },
     "201043": {
       "name": "emmatech",
@@ -105937,7 +105933,7 @@
       "type": "Unknown"
     },
     "154729": {
-      "name": "IDNIC-ARKANOVA-AS-ID",
+      "name": "PT Arkanova Cipta Inovasi",
       "type": "Unknown"
     },
     "20879": {
@@ -106046,6 +106042,30 @@
     },
     "219299": {
       "name": "khinkali-as",
+      "type": "Unknown"
+    },
+    "133368": {
+      "name": "NET3LINK-AS-AP",
+      "type": "Unknown"
+    },
+    "151781": {
+      "name": "RABBITINTERNET-AS-AP",
+      "type": "Unknown"
+    },
+    "219272": {
+      "name": "TECHZOLO",
+      "type": "Unknown"
+    },
+    "219271": {
+      "name": "DK-MATHIASJELLE-20260704",
+      "type": "Unknown"
+    },
+    "402691": {
+      "name": "SEL01",
+      "type": "Unknown"
+    },
+    "267847": {
+      "name": "267847",
       "type": "Unknown"
     },
     "22822": {
@@ -123852,6 +123872,10 @@
       "name": "Myworld Internet Services",
       "type": "Cable/DSL/ISP"
     },
+    "137134": {
+      "name": "ZeaCloud-AS137134",
+      "type": "Content"
+    },
     "139689": {
       "name": "Rahul Enterprise",
       "type": "NSP"
@@ -130416,6 +130440,10 @@
       "name": "Optua",
       "type": "Cable/DSL/ISP"
     },
+    "146942": {
+      "name": "PSNET SOLUTIONS",
+      "type": "Cable/DSL/ISP"
+    },
     "35657": {
       "name": "WLANcloud",
       "type": "Unknown"
@@ -135628,6 +135656,10 @@
       "name": "Vort Cloud",
       "type": "Content"
     },
+    "215000": {
+      "name": "CountryConnect",
+      "type": "Cable/DSL/ISP"
+    },
     "142629": {
       "name": "GigaFiber",
       "type": "Cable/DSL/ISP"
@@ -139235,6 +139267,10 @@
     "402668": {
       "name": "ONE-FREE-COMPUTER-TRANSIT",
       "type": "Educational/Research"
+    },
+    "206963": {
+      "name": "SprintCDN",
+      "type": "Content"
     }
   }
 }
