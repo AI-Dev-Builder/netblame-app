@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-07T02:10:29.780Z",
+  "updated_at": "2026-07-08T01:50:58.029Z",
   "source": "PeeringDB",
-  "entry_count": 34817,
+  "entry_count": 34828,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -9069,8 +9069,8 @@
       "type": "Content"
     },
     "49962": {
-      "name": "ALUE-NET",
-      "type": "Educational/Research"
+      "name": "ALUE NETWORK @AS49962",
+      "type": "Network Services"
     },
     "38794": {
       "name": "United Information Highway (UIH)",
@@ -10363,10 +10363,6 @@
     "27026": {
       "name": "networkMaryland",
       "type": "Non-Profit"
-    },
-    "132426": {
-      "name": "Altel Communications Sdn Bhd",
-      "type": "NSP"
     },
     "20771": {
       "name": "Caucasus Online",
@@ -12904,10 +12900,6 @@
       "name": "Universidad Nacional de La Plata (UNLP)",
       "type": "Educational/Research"
     },
-    "133444": {
-      "name": "Net2One Sdn Bhd",
-      "type": "NSP"
-    },
     "52746": {
       "name": "Primanet Informatica LTDA",
       "type": "Cable/DSL/ISP"
@@ -15111,10 +15103,6 @@
     "393670": {
       "name": "Southern Fibernet",
       "type": "NSP"
-    },
-    "202119": {
-      "name": "MALTHETANKRED",
-      "type": "Unknown"
     },
     "133385": {
       "name": "ATOM Myanmar",
@@ -25115,6 +25103,10 @@
     "56019": {
       "name": "Beijing ShuJuJia Technology Co., Ltd.",
       "type": "Unknown"
+    },
+    "57269": {
+      "name": "DIGI ES",
+      "type": "Cable/DSL/ISP"
     },
     "4528": {
       "name": "The University of Hong Kong",
@@ -36840,10 +36832,6 @@
       "name": "CyberHouse",
       "type": "Unknown"
     },
-    "42360": {
-      "name": "SSP Europe",
-      "type": "Unknown"
-    },
     "40980": {
       "name": "Telematica Internet Service Provider",
       "type": "Unknown"
@@ -47023,6 +47011,10 @@
     "61031": {
       "name": "Escomtel Backbone Network",
       "type": "Cable/DSL/ISP"
+    },
+    "207972": {
+      "name": "ASparago",
+      "type": "Content"
     },
     "40272": {
       "name": "ALLENINSTITUTE",
@@ -67162,6 +67154,10 @@
     },
     "328659": {
       "name": "Vobiss Solutions",
+      "type": "Unknown"
+    },
+    "208420": {
+      "name": "XTB",
       "type": "Unknown"
     },
     "272215": {
@@ -94529,7 +94525,7 @@
       "type": "Unknown"
     },
     "209866": {
-      "name": "vort.sh",
+      "name": "Vort Cloud",
       "type": "Content"
     },
     "213784": {
@@ -95198,10 +95194,6 @@
     },
     "401753": {
       "name": "BIXCE",
-      "type": "Content"
-    },
-    "213438": {
-      "name": "colocatel-inc",
       "type": "Content"
     },
     "210016": {
@@ -100216,6 +100208,10 @@
       "name": "SPEED-NET Arkadiusz Broniecki",
       "type": "Cable/DSL/ISP"
     },
+    "9442": {
+      "name": "NIXI, De-cix Interwire Internet Services Private Limited",
+      "type": "Unknown"
+    },
     "132295": {
       "name": "Jahid Communication",
       "type": "Cable/DSL/ISP"
@@ -101737,7 +101733,7 @@
       "type": "Unknown"
     },
     "154109": {
-      "name": "Hosting Oxygen, Hosting Oxygen",
+      "name": "Hosting Oxygen",
       "type": "Unknown"
     },
     "215388": {
@@ -103738,7 +103734,7 @@
     },
     "154205": {
       "name": "PT Susu Teknologi Indonesia",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "151347": {
       "name": "Aerpace",
@@ -106030,7 +106026,7 @@
     },
     "219283": {
       "name": "HAOHAO-ZHANG",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "151165": {
       "name": "TRANSMEDIADIGICOMM-AS-IN",
@@ -106052,14 +106048,6 @@
       "name": "RABBITINTERNET-AS-AP",
       "type": "Unknown"
     },
-    "219272": {
-      "name": "TECHZOLO",
-      "type": "Unknown"
-    },
-    "219271": {
-      "name": "DK-MATHIASJELLE-20260704",
-      "type": "Unknown"
-    },
     "402691": {
       "name": "SEL01",
       "type": "Unknown"
@@ -106067,6 +106055,46 @@
     "267847": {
       "name": "267847",
       "type": "Unknown"
+    },
+    "219267": {
+      "name": "BO-AS",
+      "type": "Unknown"
+    },
+    "154056": {
+      "name": "IDNIC-METADATA-AS-ID",
+      "type": "Unknown"
+    },
+    "43232": {
+      "name": "TELEVID-AS16",
+      "type": "Cable/DSL/ISP"
+    },
+    "199813": {
+      "name": "ALPSIX",
+      "type": "Unknown"
+    },
+    "138752": {
+      "name": "SOBPL-AS",
+      "type": "Unknown"
+    },
+    "270349": {
+      "name": "ASN270349",
+      "type": "Unknown"
+    },
+    "33901": {
+      "name": "CONNECTA-AS",
+      "type": "Unknown"
+    },
+    "274939": {
+      "name": "274939",
+      "type": "NSP"
+    },
+    "153665": {
+      "name": "IDNIC-BORNEOMEGALINK-AS-ID",
+      "type": "Unknown"
+    },
+    "402698": {
+      "name": "MINUTE",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -109267,6 +109295,10 @@
     "46416": {
       "name": "BankOnIT",
       "type": "Cable/DSL/ISP"
+    },
+    "202119": {
+      "name": "MALTHETANKRED",
+      "type": "Educational/Research"
     },
     "17483": {
       "name": "City Online services Limited",
@@ -125188,10 +125220,6 @@
       "name": "Juli Jane",
       "type": "Non-Profit"
     },
-    "141712": {
-      "name": "luYs, Cloud.",
-      "type": "NSP"
-    },
     "211869": {
       "name": "Nicholis du Toit",
       "type": "Educational/Research"
@@ -130140,6 +130168,10 @@
       "name": "Olean Permata Telematika",
       "type": "Content"
     },
+    "203024": {
+      "name": "Gamelab",
+      "type": "Educational/Research"
+    },
     "56410": {
       "name": "Host Ireland",
       "type": "Cable/DSL/ISP"
@@ -132306,6 +132338,10 @@
     },
     "39937": {
       "name": "LTech Solutions",
+      "type": "Network Services"
+    },
+    "198180": {
+      "name": "Gabriele-Sabatino",
       "type": "Network Services"
     },
     "198219": {
@@ -135653,7 +135689,7 @@
       "type": "Non-Profit"
     },
     "214299": {
-      "name": "Vort Cloud",
+      "name": "GeekCloud Sp. z o.o.",
       "type": "Content"
     },
     "215000": {
@@ -137379,6 +137415,10 @@
     "152758": {
       "name": "ADILINK",
       "type": "Cable/DSL/ISP"
+    },
+    "213438": {
+      "name": "colocatel-inc",
+      "type": "Content"
     },
     "211626": {
       "name": "ASRO 🪐",
@@ -139230,7 +139270,7 @@
     },
     "329311": {
       "name": "Unitic-Limited",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "219347": {
       "name": "Andi",
@@ -139271,6 +139311,10 @@
     "206963": {
       "name": "SprintCDN",
       "type": "Content"
+    },
+    "219411": {
+      "name": "KeyArg",
+      "type": "Enterprise"
     }
   }
 }
