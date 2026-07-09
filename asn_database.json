@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-08T01:50:58.029Z",
+  "updated_at": "2026-07-09T02:03:57.316Z",
   "source": "PeeringDB",
-  "entry_count": 34828,
+  "entry_count": 34842,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -5802,7 +5802,7 @@
     },
     "11798": {
       "name": "Ace Data Centers, Inc.",
-      "type": "Content"
+      "type": "Enterprise"
     },
     "29404": {
       "name": "Elbracht-Computer NGS",
@@ -9070,7 +9070,7 @@
     },
     "49962": {
       "name": "ALUE NETWORK @AS49962",
-      "type": "Network Services"
+      "type": "Enterprise"
     },
     "38794": {
       "name": "United Information Highway (UIH)",
@@ -19229,8 +19229,8 @@
       "type": "NSP"
     },
     "57822": {
-      "name": "OTT Russia End-users",
-      "type": "Unknown"
+      "name": "KEYPOINT-NSK",
+      "type": "Content"
     },
     "59954": {
       "name": "KEYPOINT-SPB",
@@ -34704,6 +34704,10 @@
       "name": "EVEO",
       "type": "Enterprise"
     },
+    "265540": {
+      "name": "ALTAN REDES",
+      "type": "NSP"
+    },
     "15566": {
       "name": "Infotechna",
       "type": "Cable/DSL/ISP"
@@ -44894,7 +44898,7 @@
     },
     "208505": {
       "name": "TurtleBit",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "264404": {
       "name": "NETGOOL TELECOMUNICACOES",
@@ -67157,7 +67161,7 @@
       "type": "Unknown"
     },
     "208420": {
-      "name": "XTB",
+      "name": "XTB S.A. - AS208420",
       "type": "Unknown"
     },
     "272215": {
@@ -87686,7 +87690,7 @@
     },
     "214329": {
       "name": "BGP Network LLC",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "201896": {
       "name": "MEDIACTIVE 24/7",
@@ -97672,10 +97676,6 @@
       "name": "Buana Menara Indonesia - BUANANET",
       "type": "Cable/DSL/ISP"
     },
-    "215760": {
-      "name": "DisPaisy Enterprises",
-      "type": "Educational/Research"
-    },
     "210008": {
       "name": "Webbing_LTD",
       "type": "Unknown"
@@ -103112,10 +103112,6 @@
       "name": "TIANSHOME-01",
       "type": "Unknown"
     },
-    "402292": {
-      "name": "Fyra Stack",
-      "type": "Enterprise"
-    },
     "271939": {
       "name": "REDES ELIAS",
       "type": "Unknown"
@@ -104888,10 +104884,6 @@
       "name": "BWC",
       "type": "Unknown"
     },
-    "149942": {
-      "name": "Visioner Lima Solusindo",
-      "type": "Unknown"
-    },
     "219540": {
       "name": "ERA-IX Route Servers Vienna",
       "type": "Route Server"
@@ -105725,8 +105717,8 @@
       "type": "Unknown"
     },
     "61079": {
-      "name": "DIGI-IT",
-      "type": "Unknown"
+      "name": "DIGI IT",
+      "type": "Cable/DSL/ISP"
     },
     "200999": {
       "name": "pl-cloudferro",
@@ -105932,6 +105924,10 @@
       "name": "PT Arkanova Cipta Inovasi",
       "type": "Unknown"
     },
+    "219291": {
+      "name": "OTETE-RU-ASN",
+      "type": "Unknown"
+    },
     "20879": {
       "name": "DIGI PT",
       "type": "Cable/DSL/ISP"
@@ -106062,7 +106058,7 @@
     },
     "154056": {
       "name": "IDNIC-METADATA-AS-ID",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "43232": {
       "name": "TELEVID-AS16",
@@ -106095,6 +106091,50 @@
     "402698": {
       "name": "MINUTE",
       "type": "Cable/DSL/ISP"
+    },
+    "275636": {
+      "name": "ASN275636",
+      "type": "Unknown"
+    },
+    "15754": {
+      "name": "TAXTELECOM",
+      "type": "Unknown"
+    },
+    "140066": {
+      "name": "IDNIC-LINTASNETWORK-AS-ID",
+      "type": "Unknown"
+    },
+    "219249": {
+      "name": "SHILNET",
+      "type": "Unknown"
+    },
+    "219265": {
+      "name": "FROP-AS",
+      "type": "Unknown"
+    },
+    "327728": {
+      "name": "ORG-CTN1-AFRINIC",
+      "type": "Unknown"
+    },
+    "274073": {
+      "name": "274073",
+      "type": "Unknown"
+    },
+    "219242": {
+      "name": "XHH-NETWORKS",
+      "type": "Unknown"
+    },
+    "961": {
+      "name": "Achieve Wireless",
+      "type": "Educational/Research"
+    },
+    "219240": {
+      "name": "Snownet",
+      "type": "Unknown"
+    },
+    "402718": {
+      "name": "TUNSLAB",
+      "type": "Content"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -115183,10 +115223,6 @@
     "50817": {
       "name": "PITER-IX Saint-Petersburg Route Servers",
       "type": "Route Server"
-    },
-    "265540": {
-      "name": "ALTAN REDES",
-      "type": "NSP"
     },
     "29056": {
       "name": "Citycom Telekommunikation",
@@ -126710,7 +126746,7 @@
     },
     "57777": {
       "name": "Massar's Network",
-      "type": "Network Services"
+      "type": "Content"
     },
     "211088": {
       "name": "Xynonet",
@@ -137960,6 +137996,10 @@
       "name": "CORELOCATED GLOBAL",
       "type": "NSP"
     },
+    "215760": {
+      "name": "DisPaisy Enterprises",
+      "type": "Educational/Research"
+    },
     "154174": {
       "name": "AMITY UNIVERSITY HARYANA",
       "type": "Cable/DSL/ISP"
@@ -138956,6 +138996,10 @@
       "name": "Somnet de México",
       "type": "Network Services"
     },
+    "402292": {
+      "name": "Fyra Stack",
+      "type": "Content"
+    },
     "150468": {
       "name": "Bintang Teknologi Sejahtera",
       "type": "Cable/DSL/ISP"
@@ -139168,6 +139212,10 @@
       "name": "OwO Intranet Services",
       "type": "Network Services"
     },
+    "149942": {
+      "name": "Visioner Lima Solusindo",
+      "type": "Cable/DSL/ISP"
+    },
     "274310": {
       "name": "ULTRANET COLOMBIA",
       "type": "Cable/DSL/ISP"
@@ -139315,6 +139363,14 @@
     "219411": {
       "name": "KeyArg",
       "type": "Enterprise"
+    },
+    "152496": {
+      "name": "NIPL0512-AS-IN",
+      "type": "Cable/DSL/ISP"
+    },
+    "219248": {
+      "name": "PROJECTV6",
+      "type": "Educational/Research"
     }
   }
 }
