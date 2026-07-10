@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-09T02:03:57.316Z",
+  "updated_at": "2026-07-10T02:02:19.650Z",
   "source": "PeeringDB",
-  "entry_count": 34842,
+  "entry_count": 34861,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -22020,10 +22020,6 @@
       "name": "EUROSAT Argentina",
       "type": "Unknown"
     },
-    "11472": {
-      "name": "Your Town Online",
-      "type": "Cable/DSL/ISP"
-    },
     "47013": {
       "name": "Colocation America AS47013",
       "type": "NSP"
@@ -30233,7 +30229,7 @@
       "type": "Cable/DSL/ISP"
     },
     "22423": {
-      "name": "Altima Telecom",
+      "name": "Koodo Internet",
       "type": "Cable/DSL/ISP"
     },
     "37027": {
@@ -34450,6 +34446,10 @@
     },
     "15093": {
       "name": "New Wave Communications",
+      "type": "Unknown"
+    },
+    "132721": {
+      "name": "GNADS-AS-AP",
       "type": "Unknown"
     },
     "135330": {
@@ -45069,7 +45069,7 @@
       "type": "Unknown"
     },
     "136499": {
-      "name": "Cloudland Limited AK01/SY01",
+      "name": "Cloudland Limited CL3/SY01",
       "type": "Enterprise"
     },
     "26389": {
@@ -65748,9 +65748,13 @@
       "name": "Ynet Telecom Solutions",
       "type": "Unknown"
     },
+    "42503": {
+      "name": "Oktawave AS42503",
+      "type": "Content"
+    },
     "201743": {
       "name": "Oktawave AS201743",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "271725": {
       "name": "T BRENO PEREIRA ASSUNCAO",
@@ -72725,7 +72729,7 @@
       "type": "Unknown"
     },
     "204677": {
-      "name": "CNIX Limited AS204677",
+      "name": "Sky Digital Co., AS204677",
       "type": "Unknown"
     },
     "265050": {
@@ -87072,10 +87076,6 @@
       "name": "Total Communications and Security",
       "type": "Cable/DSL/ISP"
     },
-    "150215": {
-      "name": "Era Bangun Indonesia",
-      "type": "Cable/DSL/ISP"
-    },
     "263898": {
       "name": "Total Digital",
       "type": "NSP"
@@ -91221,7 +91221,7 @@
       "type": "Unknown"
     },
     "213622": {
-      "name": "Falcon Networks",
+      "name": "Falcon Global Networks",
       "type": "NSP"
     },
     "401593": {
@@ -96430,7 +96430,7 @@
     },
     "32772": {
       "name": "TRANS AMERICAS FIBER",
-      "type": "Network Services"
+      "type": "NSP"
     },
     "401903": {
       "name": "Crimson Pacific Networks",
@@ -97675,6 +97675,10 @@
     "150967": {
       "name": "Buana Menara Indonesia - BUANANET",
       "type": "Cable/DSL/ISP"
+    },
+    "215760": {
+      "name": "DisPaisy Enterprises",
+      "type": "Educational/Research"
     },
     "210008": {
       "name": "Webbing_LTD",
@@ -100922,7 +100926,7 @@
     },
     "329458": {
       "name": "FieldBase Services Limited",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "201957": {
       "name": "EthernalCloud",
@@ -101106,7 +101110,7 @@
     },
     "56718": {
       "name": "Redshelf Ltd",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "154014": {
       "name": "NEXGEN PVT (LTD), NEXGEN PVT (LTD)",
@@ -105340,10 +105344,6 @@
       "name": "PMV1SHH-AS",
       "type": "Unknown"
     },
-    "198586": {
-      "name": "HostNow",
-      "type": "Unknown"
-    },
     "219431": {
       "name": "MANEKO-AS",
       "type": "Content"
@@ -105810,7 +105810,7 @@
     },
     "210814": {
       "name": "VUNIFY",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "219339": {
       "name": "OpenHades",
@@ -105926,7 +105926,7 @@
     },
     "219291": {
       "name": "OTETE-RU-ASN",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "20879": {
       "name": "DIGI PT",
@@ -105950,7 +105950,7 @@
     },
     "274299": {
       "name": "274299",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "14475": {
       "name": "D4-NETW",
@@ -106042,6 +106042,10 @@
     },
     "151781": {
       "name": "RABBITINTERNET-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "219272": {
+      "name": "TECHZOLO",
       "type": "Unknown"
     },
     "402691": {
@@ -106073,8 +106077,8 @@
       "type": "Unknown"
     },
     "270349": {
-      "name": "ASN270349",
-      "type": "Unknown"
+      "name": "URANOX TELECOM",
+      "type": "Cable/DSL/ISP"
     },
     "33901": {
       "name": "CONNECTA-AS",
@@ -106135,6 +106139,74 @@
     "402718": {
       "name": "TUNSLAB",
       "type": "Content"
+    },
+    "197791": {
+      "name": "Danylo_Tereshchenko",
+      "type": "Enterprise"
+    },
+    "219255": {
+      "name": "Lee-World",
+      "type": "Network Services"
+    },
+    "59706": {
+      "name": "RWC",
+      "type": "Unknown"
+    },
+    "154738": {
+      "name": "IDNIC-DATATRAN-AS-ID",
+      "type": "Unknown"
+    },
+    "219384": {
+      "name": "SATCORE",
+      "type": "Network Services"
+    },
+    "219237": {
+      "name": "CH-ALIMOHAMMADP-20260706",
+      "type": "Educational/Research"
+    },
+    "57184": {
+      "name": "KT MAZ LLC",
+      "type": "Cable/DSL/ISP"
+    },
+    "219235": {
+      "name": "Braeuning",
+      "type": "Unknown"
+    },
+    "59770": {
+      "name": "GARANT-AS",
+      "type": "Cable/DSL/ISP"
+    },
+    "209155": {
+      "name": "onehostplanet",
+      "type": "Unknown"
+    },
+    "44166": {
+      "name": "NTD-AS",
+      "type": "Unknown"
+    },
+    "219239": {
+      "name": "CloudSlice",
+      "type": "Unknown"
+    },
+    "219236": {
+      "name": "WolfGirls Corp",
+      "type": "Cable/DSL/ISP"
+    },
+    "264385": {
+      "name": "ASN264385",
+      "type": "Unknown"
+    },
+    "219261": {
+      "name": "OUNASKAIRA-AS",
+      "type": "Unknown"
+    },
+    "61576": {
+      "name": "Columbia/UFMG PEERING Research Testbed AS61576",
+      "type": "Educational/Research"
+    },
+    "200283": {
+      "name": "SENKRONET",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -107557,7 +107629,7 @@
       "type": "NSP"
     },
     "197754": {
-      "name": "Christiaan Goossens",
+      "name": "AS197754",
       "type": "Unknown"
     },
     "50304": {
@@ -111234,6 +111306,10 @@
     },
     "134850": {
       "name": "WAY 2 INTERNET",
+      "type": "Cable/DSL/ISP"
+    },
+    "11472": {
+      "name": "Your Town Online",
       "type": "Cable/DSL/ISP"
     },
     "43656": {
@@ -128192,10 +128268,6 @@
       "name": "Waluya Istana Nusantara",
       "type": "NSP"
     },
-    "42503": {
-      "name": "Oktawave AS42503",
-      "type": "Unknown"
-    },
     "398816": {
       "name": "FLUME-01",
       "type": "Cable/DSL/ISP"
@@ -135468,6 +135540,10 @@
       "name": "VERIRA",
       "type": "Content"
     },
+    "150215": {
+      "name": "Era Bangun Indonesia",
+      "type": "Cable/DSL/ISP"
+    },
     "272477": {
       "name": "NDL CONNECT COMUNICACAO",
       "type": "Cable/DSL/ISP"
@@ -137996,10 +138072,6 @@
       "name": "CORELOCATED GLOBAL",
       "type": "NSP"
     },
-    "215760": {
-      "name": "DisPaisy Enterprises",
-      "type": "Educational/Research"
-    },
     "154174": {
       "name": "AMITY UNIVERSITY HARYANA",
       "type": "Cable/DSL/ISP"
@@ -139264,6 +139336,10 @@
       "name": "ASN263317",
       "type": "Cable/DSL/ISP"
     },
+    "198586": {
+      "name": "HostNow",
+      "type": "Network Services"
+    },
     "219441": {
       "name": "NEKONODE",
       "type": "Content"
@@ -139317,7 +139393,7 @@
       "type": "Educational/Research"
     },
     "329311": {
-      "name": "Unitic-Limited",
+      "name": "Unitic Limited",
       "type": "Cable/DSL/ISP"
     },
     "219347": {
