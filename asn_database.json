@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-10T02:02:19.650Z",
+  "updated_at": "2026-07-11T01:49:30.124Z",
   "source": "PeeringDB",
-  "entry_count": 34861,
+  "entry_count": 34865,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -16653,7 +16653,7 @@
       "type": "NSP"
     },
     "17771": {
-      "name": "Southern Online Bio Technologies Limited",
+      "name": "Solana Biofuels Limited",
       "type": "Cable/DSL/ISP"
     },
     "61094": {
@@ -35648,10 +35648,6 @@
       "name": "TECHNIK INFORMATICA",
       "type": "Unknown"
     },
-    "21388": {
-      "name": "CM Telecom B.V.",
-      "type": "Content"
-    },
     "206442": {
       "name": "Rawi-Net",
       "type": "Cable/DSL/ISP"
@@ -45213,8 +45209,8 @@
       "type": "NSP"
     },
     "208464": {
-      "name": "RLKT-NETWORKS",
-      "type": "Content"
+      "name": "REZZO",
+      "type": "Cable/DSL/ISP"
     },
     "46615": {
       "name": "Texcor, LLC",
@@ -60688,10 +60684,6 @@
       "name": "BRASILNETS COM. ATAC. DE EQ. INFORMATICA",
       "type": "Unknown"
     },
-    "270961": {
-      "name": "SIM INTERNET PROVEDORES DE INTERNET",
-      "type": "Unknown"
-    },
     "206621": {
       "name": "IT-Karkas",
       "type": "NSP"
@@ -73680,6 +73672,10 @@
       "name": "Kazan (Volga region) Federal University",
       "type": "Unknown"
     },
+    "203218": {
+      "name": "No longer existant",
+      "type": "Educational/Research"
+    },
     "69": {
       "name": "UPENN Networking Lab",
       "type": "Unknown"
@@ -75494,6 +75490,10 @@
     },
     "150913": {
       "name": "Alam Daur Nusantara",
+      "type": "Cable/DSL/ISP"
+    },
+    "199531": {
+      "name": "DESEM",
       "type": "Cable/DSL/ISP"
     },
     "33967": {
@@ -78307,10 +78307,6 @@
     "61401": {
       "name": "neutralia",
       "type": "Content"
-    },
-    "273788": {
-      "name": "CATARATAS NET",
-      "type": "Unknown"
     },
     "200184": {
       "name": "Surfboard Holding",
@@ -82027,10 +82023,6 @@
     "150529": {
       "name": "Sukha Karya Teknologi",
       "type": "Cable/DSL/ISP"
-    },
-    "205059": {
-      "name": "SavasCloud",
-      "type": "Unknown"
     },
     "262637": {
       "name": "NETPRIMUS TECNOLOGIA LTDA",
@@ -87697,8 +87689,8 @@
       "type": "Content"
     },
     "214326": {
-      "name": "PERGAUD_Erwan",
-      "type": "Network Services"
+      "name": "MixTelecom",
+      "type": "Cable/DSL/ISP"
     },
     "273132": {
       "name": "VALLE ISP S.A.S.",
@@ -93512,10 +93504,6 @@
       "name": "Leonard Paschek",
       "type": "Educational/Research"
     },
-    "210361": {
-      "name": "DU jiarui",
-      "type": "Unknown"
-    },
     "138244": {
       "name": "HOSTZOP CLOUD SERVICES",
       "type": "Unknown"
@@ -94528,10 +94516,6 @@
       "name": "BEAPI",
       "type": "Unknown"
     },
-    "209866": {
-      "name": "Vort Cloud",
-      "type": "Content"
-    },
     "213784": {
       "name": "TNGNET B.V. (AS213784)",
       "type": "Unknown"
@@ -94751,10 +94735,6 @@
     "8241": {
       "name": "Nets and Services (AS8241)",
       "type": "NSP"
-    },
-    "44125": {
-      "name": "Luganet (AS44125)",
-      "type": "Unknown"
     },
     "134480": {
       "name": "Sunlit Network",
@@ -98072,10 +98052,6 @@
       "name": "MUONA",
       "type": "Cable/DSL/ISP"
     },
-    "209764": {
-      "name": "RAIDVM",
-      "type": "Unknown"
-    },
     "264315": {
       "name": "CICLO TECNOLOGIA DA INFORMACAO LTDA - - ME",
       "type": "Unknown"
@@ -101118,10 +101094,6 @@
     },
     "197184": {
       "name": "Orbital Ltd",
-      "type": "Cable/DSL/ISP"
-    },
-    "201823": {
-      "name": "Andrii Kovtun",
       "type": "Cable/DSL/ISP"
     },
     "62392": {
@@ -106133,7 +106105,7 @@
       "type": "Educational/Research"
     },
     "219240": {
-      "name": "Snownet",
+      "name": "YUKI-AS",
       "type": "Unknown"
     },
     "402718": {
@@ -106206,6 +106178,58 @@
     },
     "200283": {
       "name": "SENKRONET",
+      "type": "Unknown"
+    },
+    "140065": {
+      "name": "CIFIPTYLTD-AS-AP",
+      "type": "Unknown"
+    },
+    "402704": {
+      "name": "TURRETTECH-AS-01",
+      "type": "Unknown"
+    },
+    "329723": {
+      "name": "Digital Parks SA",
+      "type": "Enterprise"
+    },
+    "141616": {
+      "name": "IDNIC-ORBITE-AS-ID",
+      "type": "Unknown"
+    },
+    "154590": {
+      "name": "IDNIC-SERA-AS-ID",
+      "type": "Unknown"
+    },
+    "401869": {
+      "name": "Shine Summit LLC",
+      "type": "Enterprise"
+    },
+    "138748": {
+      "name": "KUMARNET-AS-IN",
+      "type": "Unknown"
+    },
+    "274916": {
+      "name": "Hiesoft srl",
+      "type": "Cable/DSL/ISP"
+    },
+    "64180": {
+      "name": "PIT - Colombia - Cucuta Route Servers",
+      "type": "Route Server"
+    },
+    "64181": {
+      "name": "PIT - Colombia - Pasto Route Servers",
+      "type": "Route Server"
+    },
+    "64175": {
+      "name": "PIT - Ecuador - Quito - Route Servers NEW",
+      "type": "Route Server"
+    },
+    "64176": {
+      "name": "PIT - Ecuador - Guayaquil - Route Servers",
+      "type": "Route Server"
+    },
+    "274920": {
+      "name": "IP Services PIT Ecuador",
       "type": "Unknown"
     },
     "22822": {
@@ -124202,7 +124226,7 @@
     },
     "268056": {
       "name": "LEXCOM TELECOM",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "271131": {
       "name": "Giga Sul Telecom",
@@ -128693,7 +128717,7 @@
       "type": "Unknown"
     },
     "208733": {
-      "name": "Erick Hoffmann",
+      "name": "Freifunk Vechta",
       "type": "Educational/Research"
     },
     "48266": {
@@ -131130,10 +131154,6 @@
     },
     "136258": {
       "name": "ONEPROVIDER",
-      "type": "Enterprise"
-    },
-    "203218": {
-      "name": "Papadakis IT",
       "type": "Enterprise"
     },
     "139982": {
@@ -134676,10 +134696,6 @@
       "name": "Interlink Telecom Public Company Limited",
       "type": "Unknown"
     },
-    "51276": {
-      "name": "Limited Responsibility Society \"KomProektServis\"",
-      "type": "Content"
-    },
     "215219": {
       "name": "Florian Berthold trading as Sub-Net e.U.",
       "type": "Educational/Research"
@@ -137184,10 +137200,6 @@
       "name": "PIO",
       "type": "Enterprise"
     },
-    "215096": {
-      "name": "PE Ruslan Ulyanov",
-      "type": "Enterprise"
-    },
     "142593": {
       "name": "Lakshmipur Communication Network",
       "type": "Unknown"
@@ -137399,6 +137411,10 @@
     "15143": {
       "name": "TOMORIN",
       "type": "Enterprise"
+    },
+    "209866": {
+      "name": "Vort Cloud",
+      "type": "Content"
     },
     "203222": {
       "name": "Adam Jarosz trading as Zaklad Elektroniczny P.A. Jarosz s.c.",
