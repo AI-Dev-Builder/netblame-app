@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-11T01:49:30.124Z",
+  "updated_at": "2026-07-12T01:51:55.334Z",
   "source": "PeeringDB",
-  "entry_count": 34865,
+  "entry_count": 34873,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -16150,7 +16150,7 @@
     },
     "203724": {
       "name": "Skyhigh Security AS203724",
-      "type": "Enterprise"
+      "type": "NSP"
     },
     "29081": {
       "name": "WVNET Information & Kommunikation GmbH",
@@ -32534,7 +32534,7 @@
     },
     "205272": {
       "name": "Skyhigh Security AS205272",
-      "type": "Enterprise"
+      "type": "NSP"
     },
     "24134": {
       "name": "Cnlink AS24134",
@@ -79952,6 +79952,10 @@
       "name": "ARLEQUIM TECHNOLOGIES S.A.",
       "type": "Unknown"
     },
+    "216456": {
+      "name": "dcent",
+      "type": "NSP"
+    },
     "328601": {
       "name": "Compagnie Financiere du Congo S.a.r.l.",
       "type": "Unknown"
@@ -90442,7 +90446,7 @@
     },
     "201893": {
       "name": "BLUE-DOT",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "150955": {
       "name": "Mitra Integra Telekom",
@@ -91961,8 +91965,8 @@
       "type": "NSP"
     },
     "150623": {
-      "name": "HOSTDZIRE WEB SERVICES",
-      "type": "Unknown"
+      "name": "HOSTDZIRE WEB SERVICES PRIVATE LIMITED",
+      "type": "Enterprise"
     },
     "274757": {
       "name": "GRUPO TELECOM - CLM SERVIÇOS DE TELECOMUNICAÇÕES",
@@ -105638,7 +105642,7 @@
     },
     "154711": {
       "name": "ANYLINK NET SDN. BHD.",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "52576": {
       "name": "ASN52576",
@@ -105784,10 +105788,6 @@
       "name": "VUNIFY",
       "type": "Enterprise"
     },
-    "219339": {
-      "name": "OpenHades",
-      "type": "Content"
-    },
     "265979": {
       "name": "ASN265979",
       "type": "Cable/DSL/ISP"
@@ -105921,7 +105921,7 @@
       "type": "Network Services"
     },
     "274299": {
-      "name": "274299",
+      "name": "SERVISYSTEN SAS-AS274299",
       "type": "Cable/DSL/ISP"
     },
     "14475": {
@@ -106018,6 +106018,10 @@
     },
     "219272": {
       "name": "TECHZOLO",
+      "type": "Unknown"
+    },
+    "219271": {
+      "name": "DK-MATHIASJELLE-20260704",
       "type": "Unknown"
     },
     "402691": {
@@ -106230,6 +106234,34 @@
     },
     "274920": {
       "name": "IP Services PIT Ecuador",
+      "type": "Unknown"
+    },
+    "273301": {
+      "name": "273301",
+      "type": "Unknown"
+    },
+    "274976": {
+      "name": "274976",
+      "type": "Unknown"
+    },
+    "402665": {
+      "name": "SLA NETWORK",
+      "type": "Enterprise"
+    },
+    "219229": {
+      "name": "ImpCom",
+      "type": "Unknown"
+    },
+    "394397": {
+      "name": "DASHTEL",
+      "type": "Unknown"
+    },
+    "58377": {
+      "name": "SENTRACOLO-AS-ID",
+      "type": "Unknown"
+    },
+    "214896": {
+      "name": "NETGP-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -123505,7 +123537,7 @@
       "type": "Cable/DSL/ISP"
     },
     "209310": {
-      "name": "Interien Technologies Kft.",
+      "name": "Interien",
       "type": "Unknown"
     },
     "28345": {
@@ -133356,10 +133388,6 @@
       "name": "Lucas Neuber",
       "type": "Non-Profit"
     },
-    "216456": {
-      "name": "dcent",
-      "type": "NSP"
-    },
     "132927": {
       "name": "PING PLUS TECHNOLOGIES PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
@@ -137110,7 +137138,7 @@
     },
     "34565": {
       "name": "TurkIX Sofia RS",
-      "type": "Content"
+      "type": "Route Server"
     },
     "199710": {
       "name": "DAZN",
@@ -139419,6 +139447,10 @@
     "402673": {
       "name": "AtomRoute Global Network (US) LLC",
       "type": "Network Services"
+    },
+    "219339": {
+      "name": "OpenHades",
+      "type": "Content"
     },
     "219406": {
       "name": "Moritz Beck",
