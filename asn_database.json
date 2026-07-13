@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-12T01:51:55.334Z",
+  "updated_at": "2026-07-13T01:54:30.783Z",
   "source": "PeeringDB",
-  "entry_count": 34873,
+  "entry_count": 34878,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -92073,8 +92073,8 @@
       "type": "Unknown"
     },
     "213243": {
-      "name": "BAGLANTI",
-      "type": "Unknown"
+      "name": "Northshield",
+      "type": "Network Services"
     },
     "27271": {
       "name": "URNA-1",
@@ -106021,7 +106021,7 @@
       "type": "Unknown"
     },
     "219271": {
-      "name": "DK-MATHIASJELLE-20260704",
+      "name": "Beriffa Group",
       "type": "Unknown"
     },
     "402691": {
@@ -106136,17 +106136,13 @@
       "name": "SATCORE",
       "type": "Network Services"
     },
-    "219237": {
-      "name": "CH-ALIMOHAMMADP-20260706",
-      "type": "Educational/Research"
-    },
     "57184": {
       "name": "KT MAZ LLC",
       "type": "Cable/DSL/ISP"
     },
     "219235": {
-      "name": "Braeuning",
-      "type": "Unknown"
+      "name": "PAUL BRAEUNING",
+      "type": "NSP"
     },
     "59770": {
       "name": "GARANT-AS",
@@ -106186,10 +106182,6 @@
     },
     "140065": {
       "name": "CIFIPTYLTD-AS-AP",
-      "type": "Unknown"
-    },
-    "402704": {
-      "name": "TURRETTECH-AS-01",
       "type": "Unknown"
     },
     "329723": {
@@ -106262,6 +106254,26 @@
     },
     "214896": {
       "name": "NETGP-AS",
+      "type": "Unknown"
+    },
+    "402729": {
+      "name": "Vorsk Edge",
+      "type": "Unknown"
+    },
+    "219254": {
+      "name": "VanIsle-Networks",
+      "type": "NSP"
+    },
+    "23811": {
+      "name": "JANOG58-NET",
+      "type": "Educational/Research"
+    },
+    "262668": {
+      "name": "ASN262668",
+      "type": "Cable/DSL/ISP"
+    },
+    "206282": {
+      "name": "NMEDIA-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -131193,7 +131205,7 @@
       "type": "Cable/DSL/ISP"
     },
     "149915": {
-      "name": "PT Lintas Daya Nusantara",
+      "name": "PT LINTAS DAYA NUSANTARA",
       "type": "Cable/DSL/ISP"
     },
     "49747": {
@@ -134357,7 +134369,7 @@
       "type": "Content"
     },
     "215502": {
-      "name": "Xing_Qingyu",
+      "name": "Yxom Network",
       "type": "Educational/Research"
     },
     "273162": {
@@ -136702,7 +136714,7 @@
     },
     "213641": {
       "name": "AS213641 Network",
-      "type": "Content"
+      "type": "NSP"
     },
     "135474": {
       "name": "PT. Hafiz Jaya Infotama",
@@ -139429,7 +139441,7 @@
       "type": "Non-Profit"
     },
     "219378": {
-      "name": "SAKARIN-NETWORK",
+      "name": "Sakarin Network",
       "type": "Unknown"
     },
     "219332": {
@@ -139495,6 +139507,14 @@
     "219248": {
       "name": "PROJECTV6",
       "type": "Educational/Research"
+    },
+    "219237": {
+      "name": "CxByte",
+      "type": "Educational/Research"
+    },
+    "402704": {
+      "name": "TURRETTECH-AS-01",
+      "type": "Unknown"
     }
   }
 }
