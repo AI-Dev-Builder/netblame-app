@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-13T01:54:30.783Z",
+  "updated_at": "2026-07-14T01:41:41.419Z",
   "source": "PeeringDB",
-  "entry_count": 34878,
+  "entry_count": 34889,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -34496,10 +34496,6 @@
       "name": "SAIX Saudi Arabia Riyadh Route Servers",
       "type": "Route Server"
     },
-    "265016": {
-      "name": "Atlanet Telecomunicacoes",
-      "type": "Cable/DSL/ISP"
-    },
     "201427": {
       "name": "M2M Uslugi Teleinformatyczne",
       "type": "Cable/DSL/ISP"
@@ -56073,7 +56069,7 @@
       "type": "Unknown"
     },
     "29050": {
-      "name": "Terrecablate",
+      "name": "Terrecablate😉",
       "type": "Cable/DSL/ISP"
     },
     "41415": {
@@ -70776,10 +70772,6 @@
       "name": "RUPKKI",
       "type": "Cable/DSL/ISP"
     },
-    "56504": {
-      "name": "HostCircle AS56504",
-      "type": "Network Services"
-    },
     "139403": {
       "name": "PEMERINTAH KOTA PEMATANGSIANTAR",
       "type": "Unknown"
@@ -71793,7 +71785,7 @@
       "type": "Route Server"
     },
     "64143": {
-      "name": "PIT Santiago - Chile IX - Route Servers",
+      "name": "PIT Santiago - Chile IX - Route Servers (OLD ASN)",
       "type": "Route Server"
     },
     "400799": {
@@ -78870,7 +78862,7 @@
     },
     "48700": {
       "name": "Arexico",
-      "type": "Network Services"
+      "type": "Enterprise"
     },
     "137450": {
       "name": "Western ICT Solutions Services",
@@ -83915,10 +83907,6 @@
     "273482": {
       "name": "CONNECTA TELECOM",
       "type": "NSP"
-    },
-    "53040": {
-      "name": "ALTA CONEXAO TELECOMUNICACOES LTDA",
-      "type": "Route Server"
     },
     "398947": {
       "name": "CABLE COLOR (AS398947)",
@@ -100236,10 +100224,6 @@
       "name": "F-NET MASTER LTDA",
       "type": "Unknown"
     },
-    "213893": {
-      "name": "IPTransit Business LTD",
-      "type": "Unknown"
-    },
     "214785": {
       "name": "369 IntoNet Limited",
       "type": "Unknown"
@@ -102111,10 +102095,6 @@
     "17826": {
       "name": "SATNET India",
       "type": "Network Services"
-    },
-    "329709": {
-      "name": "MetroReach Limited",
-      "type": "Unknown"
     },
     "200332": {
       "name": "Nolan Trapp",
@@ -104394,7 +104374,7 @@
     },
     "272814": {
       "name": "TOVARSAT C.A.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "10273": {
       "name": "Florida Power & Light Company",
@@ -105914,7 +105894,7 @@
     },
     "219359": {
       "name": "EDGE-AS",
-      "type": "Unknown"
+      "type": "Content"
     },
     "402270": {
       "name": "SOFTERYX-INC",
@@ -106021,8 +106001,8 @@
       "type": "Unknown"
     },
     "219271": {
-      "name": "Beriffa Group",
-      "type": "Unknown"
+      "name": "BERIFFANET",
+      "type": "Content"
     },
     "402691": {
       "name": "SEL01",
@@ -106045,7 +106025,7 @@
       "type": "Cable/DSL/ISP"
     },
     "199813": {
-      "name": "ALPSIX",
+      "name": "AlpsIX",
       "type": "Unknown"
     },
     "138752": {
@@ -106110,7 +106090,7 @@
     },
     "219240": {
       "name": "YUKI-AS",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "402718": {
       "name": "TUNSLAB",
@@ -106126,7 +106106,7 @@
     },
     "59706": {
       "name": "RWC",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "154738": {
       "name": "IDNIC-DATATRAN-AS-ID",
@@ -106242,11 +106222,11 @@
     },
     "219229": {
       "name": "ImpCom",
-      "type": "Unknown"
+      "type": "Content"
     },
     "394397": {
       "name": "DASHTEL",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "58377": {
       "name": "SENTRACOLO-AS-ID",
@@ -106274,6 +106254,62 @@
     },
     "206282": {
       "name": "NMEDIA-AS",
+      "type": "Unknown"
+    },
+    "219273": {
+      "name": "DE-CIX STO Maps",
+      "type": "Route Server"
+    },
+    "150718": {
+      "name": "PIONEER-AS-AP",
+      "type": "Unknown"
+    },
+    "205230": {
+      "name": "DESTANNET",
+      "type": "Unknown"
+    },
+    "216381": {
+      "name": "AXIANS",
+      "type": "Unknown"
+    },
+    "38630": {
+      "name": "BANANA-NET",
+      "type": "Unknown"
+    },
+    "274909": {
+      "name": "274909",
+      "type": "Network Services"
+    },
+    "204158": {
+      "name": "ASTRA_ELETTRONICA_SRL",
+      "type": "Unknown"
+    },
+    "64177": {
+      "name": "CHILE IX - RS - Santiago de Chile",
+      "type": "Route Server"
+    },
+    "64178": {
+      "name": "CHILE IX - RS - Valparaiso",
+      "type": "Route Server"
+    },
+    "274929": {
+      "name": "CHILE IX - IP SERVICES",
+      "type": "Unknown"
+    },
+    "219224": {
+      "name": "NEONHOSTDATACENTER",
+      "type": "Content"
+    },
+    "273014": {
+      "name": "273014",
+      "type": "Cable/DSL/ISP"
+    },
+    "402737": {
+      "name": "AS-BOXCLOUD-01",
+      "type": "Unknown"
+    },
+    "219244": {
+      "name": "SundySystems",
       "type": "Unknown"
     },
     "22822": {
@@ -128773,7 +128809,7 @@
       "type": "Content"
     },
     "400304": {
-      "name": "Crunchbits",
+      "name": "Synteq",
       "type": "Content"
     },
     "209018": {
@@ -130191,6 +130227,10 @@
     "329098": {
       "name": "Intech Business Solutions",
       "type": "Cable/DSL/ISP"
+    },
+    "56504": {
+      "name": "HostCircle AS56504",
+      "type": "Network Services"
     },
     "141076": {
       "name": "Arthamas Cipta",
@@ -139015,6 +139055,10 @@
     "200386": {
       "name": "Igor Iamolov",
       "type": "Educational/Research"
+    },
+    "329709": {
+      "name": "MetroReach Limited",
+      "type": "Unknown"
     },
     "149901": {
       "name": "PT Garuda Super Link",
