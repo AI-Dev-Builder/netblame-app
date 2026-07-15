@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-14T01:41:41.419Z",
+  "updated_at": "2026-07-15T01:27:38.520Z",
   "source": "PeeringDB",
-  "entry_count": 34889,
+  "entry_count": 34899,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -19632,10 +19632,6 @@
       "name": "Infonas WLL",
       "type": "NSP"
     },
-    "45686": {
-      "name": "RouteFEED",
-      "type": "Route Server"
-    },
     "37613": {
       "name": "DOLPHIN TELECOMMUNICATION LIMITED",
       "type": "NSP"
@@ -23254,7 +23250,7 @@
     },
     "197938": {
       "name": "DK-TLD-ANY-1",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "20755": {
       "name": "net-lab GmbH",
@@ -71917,7 +71913,7 @@
       "type": "Unknown"
     },
     "202559": {
-      "name": "1-DE",
+      "name": "1-DE FREE",
       "type": "Route Server"
     },
     "264449": {
@@ -75226,7 +75222,7 @@
     },
     "263846": {
       "name": "Planeta Cyber Telecomunicações",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "150630": {
       "name": "Bhima Riddhi Broadband",
@@ -96321,8 +96317,8 @@
       "type": "Educational/Research"
     },
     "22096": {
-      "name": "TIGRISDATA",
-      "type": "NSP"
+      "name": "Tigris Data",
+      "type": "Enterprise"
     },
     "153761": {
       "name": "BRNET-IN",
@@ -96359,10 +96355,6 @@
     "329597": {
       "name": "Microweb",
       "type": "Cable/DSL/ISP"
-    },
-    "137213": {
-      "name": "Romance Cable Network",
-      "type": "Unknown"
     },
     "26879": {
       "name": "AURELIA-TEL",
@@ -102770,7 +102762,7 @@
     },
     "212994": {
       "name": "MEDIA INVESTCOM",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "208663": {
       "name": "Martin Ph. D. Pustka",
@@ -103848,10 +103840,6 @@
       "name": "Wavecomm",
       "type": "Cable/DSL/ISP"
     },
-    "207208": {
-      "name": "Mevspace - Internet Service",
-      "type": "Content"
-    },
     "275723": {
       "name": "Ademir Sulzenco & Cia",
       "type": "Unknown"
@@ -104906,7 +104894,7 @@
     },
     "274172": {
       "name": "OMIX",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "49169": {
       "name": "SC ETA2U",
@@ -106025,7 +106013,7 @@
       "type": "Cable/DSL/ISP"
     },
     "199813": {
-      "name": "AlpsIX",
+      "name": "AlpsIX Route Servers",
       "type": "Unknown"
     },
     "138752": {
@@ -106132,10 +106120,6 @@
       "name": "onehostplanet",
       "type": "Unknown"
     },
-    "44166": {
-      "name": "NTD-AS",
-      "type": "Unknown"
-    },
     "219239": {
       "name": "CloudSlice",
       "type": "Unknown"
@@ -106240,10 +106224,6 @@
       "name": "Vorsk Edge",
       "type": "Unknown"
     },
-    "219254": {
-      "name": "VanIsle-Networks",
-      "type": "NSP"
-    },
     "23811": {
       "name": "JANOG58-NET",
       "type": "Educational/Research"
@@ -106310,6 +106290,38 @@
     },
     "219244": {
       "name": "SundySystems",
+      "type": "Unknown"
+    },
+    "154534": {
+      "name": "IDNIC-TSPNET-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "62550": {
+      "name": "INOVADATA",
+      "type": "Unknown"
+    },
+    "154678": {
+      "name": "IRINN-ASIAGIGA-AS-IN",
+      "type": "Unknown"
+    },
+    "274986": {
+      "name": "Keepit BR-SP",
+      "type": "Content"
+    },
+    "54700": {
+      "name": "LEARN-INTERNAL",
+      "type": "Unknown"
+    },
+    "10755": {
+      "name": "DARTMOUTH-AS",
+      "type": "Educational/Research"
+    },
+    "271741": {
+      "name": "ASN271741",
+      "type": "Unknown"
+    },
+    "11649": {
+      "name": "GUNET",
       "type": "Unknown"
     },
     "22822": {
@@ -120989,7 +121001,7 @@
       "type": "Content"
     },
     "6250": {
-      "name": "NRTC Network/Member Services",
+      "name": "NRTC",
       "type": "Non-Profit"
     },
     "139771": {
@@ -137908,6 +137920,10 @@
       "name": "Myanmar Internet Exchange Association",
       "type": "Network Services"
     },
+    "137213": {
+      "name": "Romance Cable Network",
+      "type": "Cable/DSL/ISP"
+    },
     "215666": {
       "name": "MiniWest",
       "type": "Educational/Research"
@@ -139232,6 +139248,10 @@
       "name": "Vera Byte Telekomunikasyon",
       "type": "Content"
     },
+    "207208": {
+      "name": "Mevspace - Internet Service",
+      "type": "Content"
+    },
     "45189": {
       "name": "SYSTEM 3 NET TECHNOLOGIES",
       "type": "Enterprise"
@@ -139556,9 +139576,29 @@
       "name": "CxByte",
       "type": "Educational/Research"
     },
+    "44166": {
+      "name": "NTD-AS",
+      "type": "Unknown"
+    },
     "402704": {
       "name": "TURRETTECH-AS-01",
       "type": "Unknown"
+    },
+    "219254": {
+      "name": "VanIsle-Networks",
+      "type": "NSP"
+    },
+    "154761": {
+      "name": "PT Bagler Nusantara Interkoneksi",
+      "type": "Cable/DSL/ISP"
+    },
+    "219212": {
+      "name": "HYW-AS",
+      "type": "Enterprise"
+    },
+    "219214": {
+      "name": "REDUX1",
+      "type": "Non-Profit"
     }
   }
 }
