@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-15T01:27:38.520Z",
+  "updated_at": "2026-07-16T01:48:10.224Z",
   "source": "PeeringDB",
-  "entry_count": 34899,
+  "entry_count": 34907,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -2073,7 +2073,7 @@
       "type": "Cable/DSL/ISP"
     },
     "36824": {
-      "name": "LFG",
+      "name": "IDACORE",
       "type": "NSP"
     },
     "25220": {
@@ -2811,10 +2811,6 @@
     "23033": {
       "name": "Wowrack.com",
       "type": "Content"
-    },
-    "39102": {
-      "name": "SatTel Corporation, Ltd",
-      "type": "Cable/DSL/ISP"
     },
     "10075": {
       "name": "Fiber@Home Global Limited",
@@ -4657,7 +4653,7 @@
       "type": "Cable/DSL/ISP"
     },
     "1133": {
-      "name": "University Twente",
+      "name": "University of Twente",
       "type": "Educational/Research"
     },
     "21056": {
@@ -19632,6 +19628,10 @@
       "name": "Infonas WLL",
       "type": "NSP"
     },
+    "45686": {
+      "name": "RouteFEED",
+      "type": "Route Server"
+    },
     "37613": {
       "name": "DOLPHIN TELECOMMUNICATION LIMITED",
       "type": "NSP"
@@ -29018,7 +29018,7 @@
     },
     "265998": {
       "name": "C LINS NET SERVICOS DE INTERNET LTDA - ME",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "34515": {
       "name": "Next Net for Internet and IT Services",
@@ -33345,7 +33345,7 @@
       "type": "Enterprise"
     },
     "42065": {
-      "name": "ZAO ElectronTelecom",
+      "name": "ElectronTelecom",
       "type": "Cable/DSL/ISP"
     },
     "204970": {
@@ -76160,10 +76160,6 @@
       "name": "Qatar General Electricity and Water",
       "type": "Unknown"
     },
-    "264796": {
-      "name": "CABLEMAS",
-      "type": "Cable/DSL/ISP"
-    },
     "40152": {
       "name": "Utah.io",
       "type": "Network Services"
@@ -98794,7 +98790,7 @@
     },
     "204024": {
       "name": "Griffin Bank Ltd",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "15663": {
       "name": "Umbrianet",
@@ -104558,7 +104554,7 @@
     },
     "268023": {
       "name": "USONEX SERVICOS DE TELECOMUNICACOES",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "197338": {
       "name": "SERDNA",
@@ -106049,8 +106045,8 @@
       "type": "Unknown"
     },
     "140066": {
-      "name": "IDNIC-LINTASNETWORK-AS-ID",
-      "type": "Unknown"
+      "name": "PT Lintas Network Akses",
+      "type": "NSP"
     },
     "219249": {
       "name": "SHILNET",
@@ -106237,7 +106233,7 @@
       "type": "Unknown"
     },
     "219273": {
-      "name": "DE-CIX STO Maps",
+      "name": "DE-CIX MAPS Stockholm Route Servers",
       "type": "Route Server"
     },
     "150718": {
@@ -106277,7 +106273,7 @@
       "type": "Unknown"
     },
     "219224": {
-      "name": "NEONHOSTDATACENTER",
+      "name": "Neonhost Datacenter LTDA",
       "type": "Content"
     },
     "273014": {
@@ -106300,10 +106296,6 @@
       "name": "INOVADATA",
       "type": "Unknown"
     },
-    "154678": {
-      "name": "IRINN-ASIAGIGA-AS-IN",
-      "type": "Unknown"
-    },
     "274986": {
       "name": "Keepit BR-SP",
       "type": "Content"
@@ -106322,6 +106314,38 @@
     },
     "11649": {
       "name": "GUNET",
+      "type": "Unknown"
+    },
+    "54448": {
+      "name": "GREENFIELD-COMMUNICATIONS",
+      "type": "Unknown"
+    },
+    "274241": {
+      "name": "274241",
+      "type": "Unknown"
+    },
+    "154689": {
+      "name": "RLINK-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "51510": {
+      "name": "DFDS-AS",
+      "type": "Unknown"
+    },
+    "219206": {
+      "name": "SVR4U-AS",
+      "type": "Unknown"
+    },
+    "206816": {
+      "name": "MAJORLYNX",
+      "type": "Cable/DSL/ISP"
+    },
+    "64173": {
+      "name": "64173",
+      "type": "Unknown"
+    },
+    "274988": {
+      "name": "274988",
       "type": "Unknown"
     },
     "22822": {
@@ -132056,6 +132080,10 @@
       "name": "Pusat Net Media",
       "type": "Cable/DSL/ISP"
     },
+    "264796": {
+      "name": "CABLEMAS",
+      "type": "Cable/DSL/ISP"
+    },
     "139642": {
       "name": "Smart Link",
       "type": "Cable/DSL/ISP"
@@ -139587,6 +139615,10 @@
     "219254": {
       "name": "VanIsle-Networks",
       "type": "NSP"
+    },
+    "154678": {
+      "name": "ASIAGIGA FIBERNET",
+      "type": "Cable/DSL/ISP"
     },
     "154761": {
       "name": "PT Bagler Nusantara Interkoneksi",
