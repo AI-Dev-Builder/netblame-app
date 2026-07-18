@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-17T01:51:31.909Z",
+  "updated_at": "2026-07-18T01:42:01.661Z",
   "source": "PeeringDB",
-  "entry_count": 34892,
+  "entry_count": 34901,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -2801,7 +2801,7 @@
       "type": "Cable/DSL/ISP"
     },
     "29752": {
-      "name": "ZEN-AS29752",
+      "name": "Zenlayer Edge Cloud Network - AS29752",
       "type": "Content"
     },
     "23033": {
@@ -28065,7 +28065,7 @@
       "type": "Unknown"
     },
     "133555": {
-      "name": "DOORPOST Research and Experimentation Network",
+      "name": "Cortex Network Next-generation Research Centre",
       "type": "Educational/Research"
     },
     "205705": {
@@ -34434,7 +34434,7 @@
     },
     "132721": {
       "name": "GNADS-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "135330": {
       "name": "Adcdata.com",
@@ -38809,7 +38809,7 @@
       "type": "Unknown"
     },
     "267478": {
-      "name": "GARDEN SAT PROVEDOR DE INTERNET",
+      "name": "Giga Sinal Telecom LTDA",
       "type": "Cable/DSL/ISP"
     },
     "55792": {
@@ -53553,7 +53553,7 @@
       "type": "Cable/DSL/ISP"
     },
     "4229": {
-      "name": "Zenlayer AS4229",
+      "name": "Zenlayer IP Backbone",
       "type": "Content"
     },
     "140905": {
@@ -76536,10 +76536,6 @@
       "name": "UNIVERSIDADE DE SAO PAULO - AS271755",
       "type": "Unknown"
     },
-    "400451": {
-      "name": "Curium Technologies",
-      "type": "Network Services"
-    },
     "271993": {
       "name": "Phantom Server",
       "type": "Unknown"
@@ -82374,10 +82370,6 @@
     },
     "30139": {
       "name": "UTSG-30139",
-      "type": "Unknown"
-    },
-    "271000": {
-      "name": "MM NET",
       "type": "Unknown"
     },
     "63390": {
@@ -91064,10 +91056,6 @@
       "name": "G-HO.ST Network",
       "type": "Educational/Research"
     },
-    "213671": {
-      "name": "The 4th Utility",
-      "type": "Cable/DSL/ISP"
-    },
     "50841": {
       "name": "POM-IX Route Servers",
       "type": "Route Server"
@@ -92298,7 +92286,7 @@
     },
     "28358": {
       "name": "INTERTELCO TELECOMUNICAÇÕES MULTIMÍDIA LTDA",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "62359": {
       "name": "3Q GmbH",
@@ -101154,7 +101142,7 @@
     },
     "400381": {
       "name": "Centric Fiber Texas, LLC",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "201666": {
       "name": "YSSOFT",
@@ -106212,10 +106200,6 @@
       "name": "AS-BOXCLOUD-01",
       "type": "Unknown"
     },
-    "219244": {
-      "name": "SundySystems",
-      "type": "Unknown"
-    },
     "154534": {
       "name": "IDNIC-TSPNET-AS-ID",
       "type": "Cable/DSL/ISP"
@@ -106291,6 +106275,42 @@
     "273864": {
       "name": "AARONKA",
       "type": "Cable/DSL/ISP"
+    },
+    "57295": {
+      "name": "czk-mk",
+      "type": "Unknown"
+    },
+    "215220": {
+      "name": "TMS25",
+      "type": "Unknown"
+    },
+    "197195": {
+      "name": "UMBRELLA NETWORKS",
+      "type": "Network Services"
+    },
+    "274897": {
+      "name": "274897",
+      "type": "Unknown"
+    },
+    "62610": {
+      "name": "Zenlayer Elastic Compute",
+      "type": "Content"
+    },
+    "63304": {
+      "name": "HILLTOP-BROADBAND",
+      "type": "Unknown"
+    },
+    "53536": {
+      "name": "PRINETIME",
+      "type": "Unknown"
+    },
+    "274228": {
+      "name": "274228",
+      "type": "Unknown"
+    },
+    "402778": {
+      "name": "ATABYTE",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -106693,7 +106713,7 @@
       "type": "NSP"
     },
     "21859": {
-      "name": "Zenlayer Inc",
+      "name": "Zenlayer Edge Cloud Network - AS21859",
       "type": "Content"
     },
     "31122": {
@@ -132616,6 +132636,10 @@
       "name": "WISE CABLE TV - DAVAO",
       "type": "Cable/DSL/ISP"
     },
+    "198077": {
+      "name": "NEEDTG-AS",
+      "type": "Educational/Research"
+    },
     "199705": {
       "name": "Netly LLC",
       "type": "Unknown"
@@ -134191,6 +134215,10 @@
     "54334": {
       "name": "Swiftnode LLC",
       "type": "Unknown"
+    },
+    "271000": {
+      "name": "MM NET",
+      "type": "Cable/DSL/ISP"
     },
     "149364": {
       "name": "PT. AwanBit Data Indonesia",
@@ -136763,6 +136791,10 @@
     "401575": {
       "name": "Jeff Parrish PC Services",
       "type": "NSP"
+    },
+    "213671": {
+      "name": "The 4th Utility",
+      "type": "Cable/DSL/ISP"
     },
     "153038": {
       "name": "Business Zone",
@@ -139555,6 +139587,10 @@
     "219254": {
       "name": "VanIsle-Networks",
       "type": "NSP"
+    },
+    "219244": {
+      "name": "Sundy.Systems",
+      "type": "Content"
     },
     "154678": {
       "name": "ASIAGIGA FIBERNET",
