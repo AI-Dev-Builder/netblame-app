@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-18T01:42:01.661Z",
+  "updated_at": "2026-07-19T01:49:51.085Z",
   "source": "PeeringDB",
-  "entry_count": 34901,
+  "entry_count": 34912,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -34433,7 +34433,7 @@
       "type": "Unknown"
     },
     "132721": {
-      "name": "GNADS-AS-AP",
+      "name": "Gartech Network and Data Solution",
       "type": "Cable/DSL/ISP"
     },
     "135330": {
@@ -65200,6 +65200,10 @@
       "name": "Neha Infonet",
       "type": "Cable/DSL/ISP"
     },
+    "6540": {
+      "name": "SAMUEL-COSGROVE !",
+      "type": "NSP"
+    },
     "131986": {
       "name": "ITOCHU Cable Systems",
       "type": "Cable/DSL/ISP"
@@ -67898,7 +67902,7 @@
     },
     "9920": {
       "name": "IMPROVE SYSTEM TECHNOLOGY CO.",
-      "type": "Enterprise"
+      "type": "Non-Profit"
     },
     "142370": {
       "name": "Master Star Network",
@@ -80774,7 +80778,7 @@
     },
     "149392": {
       "name": "PT Hopnet Tunel Integrasi",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "212665": {
       "name": "SANDEFJORD FIBER",
@@ -106252,17 +106256,9 @@
       "name": "64173",
       "type": "Unknown"
     },
-    "274988": {
-      "name": "274988",
-      "type": "Unknown"
-    },
     "154733": {
       "name": "PT CISFO IRPANSAH GRUP",
       "type": "Cable/DSL/ISP"
-    },
-    "402767": {
-      "name": "ASPITEX-AS",
-      "type": "Enterprise"
     },
     "16789": {
       "name": "YARDI",
@@ -106310,6 +106306,38 @@
     },
     "402778": {
       "name": "ATABYTE",
+      "type": "Unknown"
+    },
+    "131624": {
+      "name": "Dowtek",
+      "type": "Unknown"
+    },
+    "216165": {
+      "name": "HyperNet !",
+      "type": "Unknown"
+    },
+    "219270": {
+      "name": "DXCFTDE",
+      "type": "Cable/DSL/ISP"
+    },
+    "135556": {
+      "name": "MULTIFACTORSSALES-AS-AP",
+      "type": "Unknown"
+    },
+    "269980": {
+      "name": "269980",
+      "type": "Unknown"
+    },
+    "219175": {
+      "name": "oPeras",
+      "type": "Unknown"
+    },
+    "219331": {
+      "name": "FreePKT",
+      "type": "Unknown"
+    },
+    "206208": {
+      "name": "PUSIC-JURAJ-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -125820,6 +125848,10 @@
       "name": "FGLTEL",
       "type": "NSP"
     },
+    "211665": {
+      "name": "Hostrebel, Inc.",
+      "type": "Network Services"
+    },
     "22386": {
       "name": "South African Reserve Bank",
       "type": "Enterprise"
@@ -139366,7 +139398,7 @@
     },
     "197324": {
       "name": "BGP43",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "197194": {
       "name": "KAYAN-IT",
@@ -139607,6 +139639,18 @@
     "219214": {
       "name": "REDUX1",
       "type": "Non-Profit"
+    },
+    "274988": {
+      "name": "274988",
+      "type": "Cable/DSL/ISP"
+    },
+    "402767": {
+      "name": "ASPITEX-AS",
+      "type": "Enterprise"
+    },
+    "219210": {
+      "name": "ZIMO-AS",
+      "type": "Educational/Research"
     }
   }
 }
