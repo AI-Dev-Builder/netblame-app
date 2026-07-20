@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-19T01:49:51.085Z",
+  "updated_at": "2026-07-20T02:06:39.036Z",
   "source": "PeeringDB",
-  "entry_count": 34912,
+  "entry_count": 34909,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -4799,10 +4799,6 @@
     "48072": {
       "name": "ALSATIS",
       "type": "Cable/DSL/ISP"
-    },
-    "20569": {
-      "name": "AinaCom Oy",
-      "type": "NSP"
     },
     "9299": {
       "name": "Philippine Long Distance Company",
@@ -10364,10 +10360,6 @@
       "name": "Scotnet.co.uk Ltd",
       "type": "Cable/DSL/ISP"
     },
-    "47762": {
-      "name": "Magnetic North Software Ltd",
-      "type": "Content"
-    },
     "18480": {
       "name": "General Datatech, LP",
       "type": "Enterprise"
@@ -15259,10 +15251,6 @@
     "197727": {
       "name": "KPN Werkplek",
       "type": "Content"
-    },
-    "53113": {
-      "name": "AGYONET",
-      "type": "Cable/DSL/ISP"
     },
     "45287": {
       "name": "Varnion Technology",
@@ -30152,10 +30140,6 @@
       "name": "EBOX (AS26480)",
       "type": "Cable/DSL/ISP"
     },
-    "264380": {
-      "name": "Server Fast Telecom",
-      "type": "Cable/DSL/ISP"
-    },
     "265995": {
       "name": "lcclLINE CONECT",
       "type": "NSP"
@@ -42628,10 +42612,6 @@
       "name": "BLUIP",
       "type": "Unknown"
     },
-    "209186": {
-      "name": "Kuznetsov Kirill Ivanovich",
-      "type": "Enterprise"
-    },
     "40818": {
       "name": "Instadart, Inc.",
       "type": "Unknown"
@@ -52527,10 +52507,6 @@
     "29414": {
       "name": "Politechnika Bialostocka",
       "type": "Unknown"
-    },
-    "57133": {
-      "name": "Xtreme-Broadband S.A.R.L",
-      "type": "Cable/DSL/ISP"
     },
     "200600": {
       "name": "Seznam.cz datova centra",
@@ -62958,7 +62934,7 @@
     },
     "136009": {
       "name": "SpeedNet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "211090": {
       "name": "DIL Technology AS211090",
@@ -83040,10 +83016,6 @@
       "name": "Exonet B.V.",
       "type": "Content"
     },
-    "213323": {
-      "name": "ZMC MAR GRAPHIC DESIGN SRL-D",
-      "type": "Unknown"
-    },
     "400936": {
       "name": "BlueFur Pacific & West Coast Region",
       "type": "Cable/DSL/ISP"
@@ -83489,7 +83461,7 @@
       "type": "Content"
     },
     "215886": {
-      "name": "Zainco Company for Internet Services and Information Technology JSC",
+      "name": "Zainco Technology for Internet Services and Information Technology",
       "type": "Cable/DSL/ISP"
     },
     "215941": {
@@ -84111,10 +84083,6 @@
     "147231": {
       "name": "Saptranet India Pvt Ltd",
       "type": "Unknown"
-    },
-    "215146": {
-      "name": "Roberto Santo Network",
-      "type": "Educational/Research"
     },
     "62963": {
       "name": "Kersip Operations LLC",
@@ -91019,10 +90987,6 @@
     "32507": {
       "name": "LYON COLLEGE (AS32507)",
       "type": "Unknown"
-    },
-    "213734": {
-      "name": "ZERODESK-LTD",
-      "type": "Cable/DSL/ISP"
     },
     "216244": {
       "name": "datatr",
@@ -99160,10 +99124,6 @@
       "name": "TIMS",
       "type": "Unknown"
     },
-    "136816": {
-      "name": "PT Genz Media Utama",
-      "type": "Cable/DSL/ISP"
-    },
     "394130": {
       "name": "STEALTHBYTE",
       "type": "Unknown"
@@ -103637,7 +103597,7 @@
       "type": "Unknown"
     },
     "213680": {
-      "name": "MOFA-QA",
+      "name": "Ministry of Foreign Affairs",
       "type": "Government"
     },
     "150338": {
@@ -106330,7 +106290,7 @@
     },
     "219175": {
       "name": "oPeras",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "219331": {
       "name": "FreePKT",
@@ -106338,6 +106298,26 @@
     },
     "206208": {
       "name": "PUSIC-JURAJ-AS",
+      "type": "Unknown"
+    },
+    "151849": {
+      "name": "IDNIC-INSPIRASIXTRA-ID",
+      "type": "Unknown"
+    },
+    "219349": {
+      "name": "ANATOLIACORE-TEKNOLOJI",
+      "type": "Unknown"
+    },
+    "402573": {
+      "name": "GAIA-01",
+      "type": "Unknown"
+    },
+    "207267": {
+      "name": "BIRSUNUCUM-ASN",
+      "type": "Network Services"
+    },
+    "152872": {
+      "name": "VL-NET",
       "type": "Unknown"
     },
     "22822": {
@@ -134512,6 +134492,10 @@
       "name": "RackGenius",
       "type": "NSP"
     },
+    "213323": {
+      "name": "ZMC MAR GRAPHIC DESIGN SRL-D",
+      "type": "Unknown"
+    },
     "394883": {
       "name": "VISTABEAM",
       "type": "Cable/DSL/ISP"
@@ -134895,6 +134879,10 @@
     "39089": {
       "name": "Ugletelecom - AS39089",
       "type": "NSP"
+    },
+    "215146": {
+      "name": "Roberto Santo Network",
+      "type": "Educational/Research"
     },
     "39402": {
       "name": "Ferrari-Networks SARL",
@@ -137712,10 +137700,6 @@
       "name": "G7NET AS270423",
       "type": "Cable/DSL/ISP"
     },
-    "13717": {
-      "name": "Aurora Sky Labs",
-      "type": "Content"
-    },
     "215681": {
       "name": "Lea Dickmann",
       "type": "Educational/Research"
@@ -138574,6 +138558,10 @@
     },
     "141796": {
       "name": "VAYU ONLINE PRIVATE LIMITED",
+      "type": "Cable/DSL/ISP"
+    },
+    "136816": {
+      "name": "PT Genz Media Utama",
       "type": "Cable/DSL/ISP"
     },
     "203579": {
