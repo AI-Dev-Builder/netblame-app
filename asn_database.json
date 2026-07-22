@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-21T01:49:51.563Z",
+  "updated_at": "2026-07-22T01:48:37.193Z",
   "source": "PeeringDB",
-  "entry_count": 34921,
+  "entry_count": 34928,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -41176,6 +41176,10 @@
       "name": "IP WORLD",
       "type": "Cable/DSL/ISP"
     },
+    "134220": {
+      "name": "UFONE",
+      "type": "NSP"
+    },
     "268018": {
       "name": "Giga+ Fibra - Sergipe",
       "type": "NSP"
@@ -48584,10 +48588,6 @@
       "name": "DSI DATA",
       "type": "Cable/DSL/ISP"
     },
-    "137542": {
-      "name": "Sayem Online Communication",
-      "type": "Cable/DSL/ISP"
-    },
     "265219": {
       "name": "R C MORAIS MAIA",
       "type": "NSP"
@@ -49337,7 +49337,7 @@
       "type": "Unknown"
     },
     "207439": {
-      "name": "Korves.Net",
+      "name": "Korves.Net USA LLC",
       "type": "NSP"
     },
     "398202": {
@@ -60348,10 +60348,6 @@
       "name": "Pemerintah Kota Batam",
       "type": "Government"
     },
-    "135370": {
-      "name": "Telematika Mitrakreasi",
-      "type": "Unknown"
-    },
     "141858": {
       "name": "CHOTA BHEAM INDUSTRIES",
       "type": "Cable/DSL/ISP"
@@ -65951,6 +65947,10 @@
     "58946": {
       "name": "GRAMEEN COMMUNICATIONS",
       "type": "Unknown"
+    },
+    "210320": {
+      "name": "Fexxio Digital",
+      "type": "Educational/Research"
     },
     "149240": {
       "name": "Megatel Networks Private Limited",
@@ -72928,6 +72928,10 @@
       "name": "DE-CIX Helsinki Route Servers",
       "type": "Route Server"
     },
+    "201410": {
+      "name": "DE-CIX Stockholm Route Servers",
+      "type": "Route Server"
+    },
     "208842": {
       "name": "Frano Jelincic trading as Konektor Brac",
       "type": "Unknown"
@@ -74942,6 +74946,10 @@
     },
     "400260": {
       "name": "Olson Network",
+      "type": "Unknown"
+    },
+    "199897": {
+      "name": "Vexta Data Solutions",
       "type": "Unknown"
     },
     "202330": {
@@ -86523,10 +86531,6 @@
     "214533": {
       "name": "FIRSTROUTE",
       "type": "Unknown"
-    },
-    "44051": {
-      "name": "Fornex Hosting - Germany",
-      "type": "Content"
     },
     "11956": {
       "name": "National Oceanic and Atmospheric Administration",
@@ -101292,10 +101296,6 @@
       "name": "DisPaisy's Projects",
       "type": "Educational/Research"
     },
-    "201269": {
-      "name": "Ivans Lavrentjevs",
-      "type": "Content"
-    },
     "29886": {
       "name": "Eastern Shore of Virginia Broadband Authority",
       "type": "Cable/DSL/ISP"
@@ -103482,7 +103482,7 @@
     },
     "154635": {
       "name": "G-Connect Systems & Trading",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "153719": {
       "name": "Queens link technology",
@@ -104738,7 +104738,7 @@
     },
     "52307": {
       "name": "CORPICO",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "207957": {
       "name": "SERV.HOST GROUP",
@@ -106309,7 +106309,7 @@
       "type": "Unknown"
     },
     "219349": {
-      "name": "AnatoliaCore Teknoloji Limited Sirketi, ANATOLIACORE TEKNOLOJI",
+      "name": "AnatoliaCore Teknoloji",
       "type": "Unknown"
     },
     "402573": {
@@ -106361,12 +106361,52 @@
       "type": "Unknown"
     },
     "274311": {
-      "name": "274311",
+      "name": "INTEROS - INTERNET SERVICE SAS",
       "type": "Unknown"
     },
     "7010": {
       "name": "Nellicus, LLC",
       "type": "Network Services"
+    },
+    "23311": {
+      "name": "Agnico Eagle",
+      "type": "Unknown"
+    },
+    "219189": {
+      "name": "CLNexus LTD",
+      "type": "NSP"
+    },
+    "3944": {
+      "name": "PARTAN-LAB",
+      "type": "Unknown"
+    },
+    "219166": {
+      "name": "labv6-AS",
+      "type": "Educational/Research"
+    },
+    "219319": {
+      "name": "ZERTIX-AS",
+      "type": "Unknown"
+    },
+    "26858": {
+      "name": "Sonic.net, Inc. (TX)",
+      "type": "Cable/DSL/ISP"
+    },
+    "219434": {
+      "name": "AIGARS-AS",
+      "type": "Unknown"
+    },
+    "270114": {
+      "name": "270114",
+      "type": "Unknown"
+    },
+    "400391": {
+      "name": "WGL-107-PACIFIC-WYYERD",
+      "type": "Cable/DSL/ISP"
+    },
+    "274424": {
+      "name": "274424",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -109925,7 +109965,7 @@
       "type": "NSP"
     },
     "264009": {
-      "name": "TBONET SERVICOS DE INFORMATICA E COMUNICACOES",
+      "name": "INFIX TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "9601": {
@@ -118492,10 +118532,6 @@
       "name": "Nettech Infovision",
       "type": "Cable/DSL/ISP"
     },
-    "134220": {
-      "name": "UFONE",
-      "type": "NSP"
-    },
     "397131": {
       "name": "Everythink AS397131",
       "type": "Content"
@@ -123375,10 +123411,6 @@
     "208632": {
       "name": "NetOmnia",
       "type": "Cable/DSL/ISP"
-    },
-    "213106": {
-      "name": "Freifunk Lippe",
-      "type": "Non-Profit"
     },
     "57848": {
       "name": "Sky Walters",
@@ -128540,10 +128572,6 @@
       "name": "Global (India) Tele-Infra",
       "type": "Cable/DSL/ISP"
     },
-    "210320": {
-      "name": "Fexxio Digital",
-      "type": "Educational/Research"
-    },
     "265855": {
       "name": "LEGON TELECOMUNICACIONES",
       "type": "Cable/DSL/ISP"
@@ -129135,10 +129163,6 @@
     "136964": {
       "name": "Wesfarmers Industrial Safety NZ",
       "type": "Enterprise"
-    },
-    "399348": {
-      "name": "JeanComputech Corpoation",
-      "type": "Cable/DSL/ISP"
     },
     "269267": {
       "name": "ProLink Internet Fibra",
@@ -131133,7 +131157,7 @@
       "type": "Cable/DSL/ISP"
     },
     "49911": {
-      "name": "CDN Squared Limited",
+      "name": "DCNet Limited",
       "type": "Content"
     },
     "327862": {
@@ -135612,6 +135636,10 @@
       "name": "CRAMCOMNET S.A",
       "type": "NSP"
     },
+    "44051": {
+      "name": "Fornex Hosting - Germany",
+      "type": "Content"
+    },
     "214556": {
       "name": "Vexura UG (Haftungsbeschraenkt)",
       "type": "NSP"
@@ -137941,7 +137969,7 @@
       "type": "Cable/DSL/ISP"
     },
     "214420": {
-      "name": "CLNexus",
+      "name": "Conor Lewis",
       "type": "Educational/Research"
     },
     "329426": {
@@ -139364,10 +139392,6 @@
       "name": "BENJILINK LTD",
       "type": "Enterprise"
     },
-    "197583": {
-      "name": "Nexarube",
-      "type": "Unknown"
-    },
     "329747": {
       "name": "BAHARI DATA FIBRE",
       "type": "Cable/DSL/ISP"
@@ -139686,6 +139710,10 @@
     },
     "152135": {
       "name": "Cubiscomm Signal Sales, Inc.",
+      "type": "Cable/DSL/ISP"
+    },
+    "154763": {
+      "name": "IRINN-FNS01-AS-IN",
       "type": "Cable/DSL/ISP"
     }
   }
