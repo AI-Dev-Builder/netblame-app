@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-22T01:48:37.193Z",
+  "updated_at": "2026-07-23T01:55:59.393Z",
   "source": "PeeringDB",
-  "entry_count": 34928,
+  "entry_count": 34941,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -2301,7 +2301,7 @@
       "type": "Content"
     },
     "15133": {
-      "name": "Edgecast -  AS15133",
+      "name": "Edgecast - AS15133",
       "type": "Content"
     },
     "9497": {
@@ -6466,7 +6466,7 @@
     },
     "36012": {
       "name": "Hunter Communications",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "50300": {
       "name": "Custodian DataCentres",
@@ -8693,11 +8693,11 @@
       "type": "Content"
     },
     "55391": {
-      "name": "INTERNET MULTIFEED CO.  Transix East",
+      "name": "INTERNET MULTIFEED CO. Transix East",
       "type": "NSP"
     },
     "55392": {
-      "name": "INTERNET MULTIFEED CO.  Transix West",
+      "name": "INTERNET MULTIFEED CO. Transix West",
       "type": "NSP"
     },
     "5017": {
@@ -11505,7 +11505,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263057": {
-      "name": "CLH SERVIÇOS DE COMUNICAÇÃO E MULTIMÍDIA  DE INTERNET  LTDA. ME.",
+      "name": "CLH SERVIÇOS DE COMUNICAÇÃO E MULTIMÍDIA DE INTERNET LTDA. ME.",
       "type": "Cable/DSL/ISP"
     },
     "53597": {
@@ -11613,7 +11613,7 @@
       "type": "Cable/DSL/ISP"
     },
     "30600": {
-      "name": "Cinergy  Metronet",
+      "name": "Cinergy Metronet",
       "type": "Cable/DSL/ISP"
     },
     "61296": {
@@ -11957,7 +11957,7 @@
       "type": "NSP"
     },
     "28978": {
-      "name": "Centralny Osrodek Informatyki Gornictwa S.A.  - COIG",
+      "name": "Centralny Osrodek Informatyki Gornictwa S.A. - COIG",
       "type": "Enterprise"
     },
     "16927": {
@@ -14921,7 +14921,7 @@
       "type": "Cable/DSL/ISP"
     },
     "131584": {
-      "name": "Taiwan Intelligent Fiber Optic Network  Co.,Ltd.",
+      "name": "Taiwan Intelligent Fiber Optic Network Co.,Ltd.",
       "type": "NSP"
     },
     "4557": {
@@ -21653,7 +21653,7 @@
       "type": "Unknown"
     },
     "20119": {
-      "name": "Arrow Group",
+      "name": "Arrow Datacenters Inc",
       "type": "Enterprise"
     },
     "2598": {
@@ -28641,7 +28641,7 @@
       "type": "Cable/DSL/ISP"
     },
     "262352": {
-      "name": "NOVA TELECOM  AS262352",
+      "name": "NOVA TELECOM AS262352",
       "type": "Cable/DSL/ISP"
     },
     "43809": {
@@ -29697,7 +29697,7 @@
       "type": "Unknown"
     },
     "58797": {
-      "name": "QTS  Hong Kong",
+      "name": "QTS Hong Kong",
       "type": "Unknown"
     },
     "46742": {
@@ -31437,7 +31437,7 @@
       "type": "Content"
     },
     "7203": {
-      "name": "LeaseWeb USA  / SFO-12",
+      "name": "LeaseWeb USA / SFO-12",
       "type": "Content"
     },
     "394380": {
@@ -31981,7 +31981,7 @@
       "type": "Unknown"
     },
     "9422": {
-      "name": "SOLNET INDONESIA  AS9422",
+      "name": "SOLNET INDONESIA AS9422",
       "type": "Cable/DSL/ISP"
     },
     "21446": {
@@ -42365,7 +42365,7 @@
       "type": "Unknown"
     },
     "205716": {
-      "name": "Applico Digital  Lab",
+      "name": "Applico Digital Lab",
       "type": "Content"
     },
     "2000": {
@@ -43605,7 +43605,7 @@
       "type": "NSP"
     },
     "9929": {
-      "name": "China Unicom Industrial  Internet Backbone",
+      "name": "China Unicom Industrial Internet Backbone",
       "type": "Unknown"
     },
     "55304": {
@@ -49192,6 +49192,10 @@
       "name": "Deneva",
       "type": "Content"
     },
+    "209294": {
+      "name": "FansNET",
+      "type": "Educational/Research"
+    },
     "269338": {
       "name": "JATO NET TELECOMUNICAÇÕES",
       "type": "Cable/DSL/ISP"
@@ -54581,7 +54585,7 @@
       "type": "Content"
     },
     "264147": {
-      "name": "INTERA COMUNICA  O MULTIMIDIA E INFORMATICA",
+      "name": "INTERA COMUNICA O MULTIMIDIA E INFORMATICA",
       "type": "NSP"
     },
     "208485": {
@@ -55825,7 +55829,7 @@
       "type": "Enterprise"
     },
     "57152": {
-      "name": "Teknet Internet  A.S.",
+      "name": "Teknet Internet A.S.",
       "type": "NSP"
     },
     "266157": {
@@ -56961,7 +56965,7 @@
       "type": "Enterprise"
     },
     "135887": {
-      "name": "Belong  (Telstra Corporation Ltd)",
+      "name": "Belong (Telstra Corporation Ltd)",
       "type": "Cable/DSL/ISP"
     },
     "36127": {
@@ -62261,7 +62265,7 @@
       "type": "Network Services"
     },
     "139388": {
-      "name": "Abhinawa Sumberdaya Asia  - AS139388",
+      "name": "Abhinawa Sumberdaya Asia - AS139388",
       "type": "Content"
     },
     "10798": {
@@ -66389,7 +66393,7 @@
       "type": "Unknown"
     },
     "50651": {
-      "name": "WBD  AS50651",
+      "name": "WBD AS50651",
       "type": "Unknown"
     },
     "395040": {
@@ -71757,7 +71761,7 @@
       "type": "Content"
     },
     "38042": {
-      "name": "Sky Digital Co.,  AS38042",
+      "name": "Sky Digital Co., AS38042",
       "type": "Cable/DSL/ISP"
     },
     "202573": {
@@ -73257,7 +73261,7 @@
       "type": "Cable/DSL/ISP"
     },
     "150239": {
-      "name": "Infrastruktur Cakrawala  Telekomunikasi",
+      "name": "Infrastruktur Cakrawala Telekomunikasi",
       "type": "Network Services"
     },
     "141905": {
@@ -75077,7 +75081,7 @@
       "type": "Unknown"
     },
     "199699": {
-      "name": "GAMGROUP-INET",
+      "name": "GAMGROUP-IT",
       "type": "Content"
     },
     "328329": {
@@ -84029,7 +84033,7 @@
       "type": "Cable/DSL/ISP"
     },
     "52927": {
-      "name": "IBI TELECOM  AS52927",
+      "name": "IBI TELECOM AS52927",
       "type": "Cable/DSL/ISP"
     },
     "215140": {
@@ -84233,7 +84237,7 @@
       "type": "Unknown"
     },
     "273211": {
-      "name": "IX ANDESPARK  PERU",
+      "name": "IX ANDESPARK PERU",
       "type": "Unknown"
     },
     "152376": {
@@ -84573,7 +84577,7 @@
       "type": "Unknown"
     },
     "3646": {
-      "name": "Sprint  - AS3646",
+      "name": "Sprint - AS3646",
       "type": "Unknown"
     },
     "150624": {
@@ -85333,7 +85337,7 @@
       "type": "Cable/DSL/ISP"
     },
     "152111": {
-      "name": "CTCSCI  SINGAPORE",
+      "name": "CTCSCI SINGAPORE",
       "type": "Content"
     },
     "152112": {
@@ -87437,7 +87441,7 @@
       "type": "Cable/DSL/ISP"
     },
     "267933": {
-      "name": "IBI TELECOM  AS267933",
+      "name": "IBI TELECOM AS267933",
       "type": "Cable/DSL/ISP"
     },
     "38303": {
@@ -89305,7 +89309,7 @@
       "type": "NSP"
     },
     "273740": {
-      "name": "ULTRA LINK  LTDA",
+      "name": "ULTRA LINK LTDA",
       "type": "NSP"
     },
     "201532": {
@@ -92794,7 +92798,7 @@
     },
     "266500": {
       "name": "SURF TELECOM S.A.",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "27602": {
       "name": "Pathfinder Broadband",
@@ -93337,7 +93341,7 @@
       "type": "Unknown"
     },
     "273506": {
-      "name": "CNX Projetos e  Tecnologia LTDA",
+      "name": "CNX Projetos e Tecnologia LTDA",
       "type": "Unknown"
     },
     "153": {
@@ -94366,7 +94370,7 @@
     },
     "153673": {
       "name": "Pioneer Nusatama Technology",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "153894": {
       "name": "BADA COMMUNICATIONS",
@@ -94453,7 +94457,7 @@
       "type": "Unknown"
     },
     "198510": {
-      "name": "XTDEF Limited  - AS198510",
+      "name": "XTDEF Limited - AS198510",
       "type": "Cable/DSL/ISP"
     },
     "34223": {
@@ -95713,7 +95717,7 @@
       "type": "Unknown"
     },
     "274463": {
-      "name": "AS274463 -  DMTREVIZAN",
+      "name": "AS274463 - DMTREVIZAN",
       "type": "Cable/DSL/ISP"
     },
     "266401": {
@@ -95825,7 +95829,7 @@
       "type": "Unknown"
     },
     "142501": {
-      "name": "1.10.10.10 - Indian Public DNS  (AS142501)",
+      "name": "1.10.10.10 - Indian Public DNS (AS142501)",
       "type": "Content"
     },
     "142502": {
@@ -97805,7 +97809,7 @@
       "type": "Unknown"
     },
     "401973": {
-      "name": "NEBULA NETWORKS",
+      "name": "Nebula Networks Inc.",
       "type": "Cable/DSL/ISP"
     },
     "401379": {
@@ -100374,7 +100378,7 @@
     },
     "152439": {
       "name": "PT Applewifi Selalu Lancar",
-      "type": "Cable/DSL/ISP"
+      "type": "Enterprise"
     },
     "53902": {
       "name": "Fluxorus Networks",
@@ -106044,10 +106048,6 @@
       "name": "Shine Summit LLC",
       "type": "Enterprise"
     },
-    "138748": {
-      "name": "Kumar Cable Digital Network",
-      "type": "Cable/DSL/ISP"
-    },
     "274916": {
       "name": "Hiesoft srl",
       "type": "Cable/DSL/ISP"
@@ -106298,7 +106298,7 @@
     },
     "219331": {
       "name": "FreePKT",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "206208": {
       "name": "Pusic Jurai",
@@ -106406,6 +106406,58 @@
     },
     "274424": {
       "name": "274424",
+      "type": "Unknown"
+    },
+    "133110": {
+      "name": "IP Core Sdn Bhd",
+      "type": "NSP"
+    },
+    "132990": {
+      "name": "STARNET-AS-IN",
+      "type": "Unknown"
+    },
+    "219157": {
+      "name": "IPv6 Cloud Ltd.",
+      "type": "Non-Profit"
+    },
+    "402180": {
+      "name": "ATG - Lost Hills",
+      "type": "Cable/DSL/ISP"
+    },
+    "210602": {
+      "name": "marbell",
+      "type": "Unknown"
+    },
+    "219257": {
+      "name": "DMF-DIGITALMARKETFRONTIERS",
+      "type": "Unknown"
+    },
+    "402782": {
+      "name": "Taipei Mobile (JP)",
+      "type": "Unknown"
+    },
+    "402728": {
+      "name": "Taipei Mobile (Taiwan)",
+      "type": "Unknown"
+    },
+    "402629": {
+      "name": "Taipei Mobile (Global BB)",
+      "type": "Unknown"
+    },
+    "219192": {
+      "name": "VoltGuard",
+      "type": "Unknown"
+    },
+    "40628": {
+      "name": "OKLAHOMA-OMES",
+      "type": "Unknown"
+    },
+    "267843": {
+      "name": "267843",
+      "type": "Unknown"
+    },
+    "402801": {
+      "name": "ANDRII-NET",
       "type": "Unknown"
     },
     "22822": {
@@ -121772,10 +121824,6 @@
       "name": "DALTONY CARLOS TAVARES CAETANO MUNHOZ ME",
       "type": "Cable/DSL/ISP"
     },
-    "209294": {
-      "name": "FansNET",
-      "type": "Educational/Research"
-    },
     "44061": {
       "name": "SAT-MONT-SERVICE Sp. J.",
       "type": "NSP"
@@ -127665,7 +127713,7 @@
       "type": "Unknown"
     },
     "271951": {
-      "name": "4 EVER PLUG  C.A.",
+      "name": "4 EVER PLUG C.A.",
       "type": "Cable/DSL/ISP"
     },
     "142029": {
@@ -134041,7 +134089,7 @@
       "type": "Educational/Research"
     },
     "271658": {
-      "name": "ALPHANET  SOLUCOES EM INTERNET",
+      "name": "ALPHANET SOLUCOES EM INTERNET",
       "type": "NSP"
     },
     "141773": {
@@ -139671,6 +139719,10 @@
     "402704": {
       "name": "TURRET. TECHNOLOGIES",
       "type": "Unknown"
+    },
+    "138748": {
+      "name": "Kumar Cable Digital Network",
+      "type": "Cable/DSL/ISP"
     },
     "219254": {
       "name": "VanIsle-Networks",
