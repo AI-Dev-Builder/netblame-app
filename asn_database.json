@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-23T01:55:59.393Z",
+  "updated_at": "2026-07-24T01:51:50.188Z",
   "source": "PeeringDB",
-  "entry_count": 34941,
+  "entry_count": 34950,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -30384,10 +30384,6 @@
       "name": "RCOM International",
       "type": "Cable/DSL/ISP"
     },
-    "53232": {
-      "name": "Banner Serviços de Telecom e Internet Ltda.",
-      "type": "Unknown"
-    },
     "266346": {
       "name": "ATIVA INTERNET",
       "type": "Cable/DSL/ISP"
@@ -42903,10 +42899,6 @@
     "268751": {
       "name": "IBV Telecom",
       "type": "Content"
-    },
-    "267934": {
-      "name": "HENRIQUE & SANTOS SERVIÇOS",
-      "type": "Cable/DSL/ISP"
     },
     "63981": {
       "name": "NOVA Technology Development (HK) Ltd",
@@ -60732,10 +60724,6 @@
       "name": "Amiga Net Com. de Equipamentos e Serviço",
       "type": "Cable/DSL/ISP"
     },
-    "211427": {
-      "name": "Origin Solutions",
-      "type": "Unknown"
-    },
     "212972": {
       "name": "Nicolas VUILLERMET",
       "type": "Educational/Research"
@@ -66494,7 +66482,7 @@
     },
     "271992": {
       "name": "ANTIOQUEÑA DE TELECOMUNICACIONES",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "136823": {
       "name": "Arka Data Primatama",
@@ -82872,6 +82860,10 @@
       "name": "SecureVision",
       "type": "NSP"
     },
+    "215502": {
+      "name": "Yxom Network",
+      "type": "Educational/Research"
+    },
     "215583": {
       "name": "ESPORTS HELLAS I.K.E",
       "type": "Unknown"
@@ -87226,7 +87218,7 @@
     },
     "216249": {
       "name": "PHOTONSPARK",
-      "type": "Content"
+      "type": "Enterprise"
     },
     "214466": {
       "name": "Olfe Cloud",
@@ -95470,7 +95462,7 @@
     },
     "150506": {
       "name": "PT Pusat Fiber Indonesia",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "64154": {
       "name": "PIT Chile Lima - PIT LIM Route Servers",
@@ -105841,8 +105833,8 @@
       "type": "Unknown"
     },
     "329768": {
-      "name": "COMTERNET WORLD",
-      "type": "Unknown"
+      "name": "COMTERNET",
+      "type": "Cable/DSL/ISP"
     },
     "219283": {
       "name": "HAOHAO-ZHANG",
@@ -106308,10 +106300,6 @@
       "name": "Inspirasi Internet Xtra",
       "type": "Unknown"
     },
-    "219349": {
-      "name": "AnatoliaCore Teknoloji",
-      "type": "Unknown"
-    },
     "402573": {
       "name": "GAIA-01",
       "type": "Unknown"
@@ -106459,6 +106447,42 @@
     "402801": {
       "name": "ANDRII-NET",
       "type": "Unknown"
+    },
+    "401130": {
+      "name": "SATURN-ASN-01",
+      "type": "Unknown"
+    },
+    "153980": {
+      "name": "BRACAARONG-AS-AP",
+      "type": "Unknown"
+    },
+    "53336": {
+      "name": "BSQL-AS-01",
+      "type": "Unknown"
+    },
+    "213783": {
+      "name": "LIVEMOBILE",
+      "type": "Unknown"
+    },
+    "269045": {
+      "name": "ASN269045",
+      "type": "Unknown"
+    },
+    "219484": {
+      "name": "RIPE-HJC-AS-ID",
+      "type": "Unknown"
+    },
+    "25330": {
+      "name": "FBRX-UA",
+      "type": "Unknown"
+    },
+    "34445": {
+      "name": "SCHECK-AS",
+      "type": "Unknown"
+    },
+    "268487": {
+      "name": "Prisma Telecomunicações",
+      "type": "NSP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -112084,6 +112108,10 @@
       "name": "PPHU GoldNET Dariusz Pluta",
       "type": "Cable/DSL/ISP"
     },
+    "262426": {
+      "name": "ASN262426",
+      "type": "Cable/DSL/ISP"
+    },
     "135876": {
       "name": "AT Broadband",
       "type": "Cable/DSL/ISP"
@@ -114978,7 +115006,7 @@
     },
     "48638": {
       "name": "Cronos NV",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "22645": {
       "name": "LEARN COMM",
@@ -123234,7 +123262,7 @@
     },
     "268624": {
       "name": "Gamers Club",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "138822": {
       "name": "Jaya Komunikasi Indonesia",
@@ -126489,8 +126517,8 @@
       "type": "Cable/DSL/ISP"
     },
     "141309": {
-      "name": "Yaksh Enterprises",
-      "type": "Cable/DSL/ISP"
+      "name": "Yaksh Wifi",
+      "type": "Enterprise"
     },
     "6823": {
       "name": "3C1B Telekom",
@@ -134536,10 +134564,6 @@
       "name": "Skhron",
       "type": "Content"
     },
-    "215502": {
-      "name": "Yxom Network",
-      "type": "Educational/Research"
-    },
     "273162": {
       "name": "PELLEGRINI SKYNET SOLUTIONS SRL",
       "type": "Cable/DSL/ISP"
@@ -138297,7 +138321,7 @@
       "type": "NSP"
     },
     "134315": {
-      "name": "Activline",
+      "name": "Activline Fibernet Private Limited",
       "type": "Cable/DSL/ISP"
     },
     "198020": {
@@ -139760,6 +139784,10 @@
       "name": "ZiMo Wang",
       "type": "Educational/Research"
     },
+    "219349": {
+      "name": "AnatoliaCore Teknoloji",
+      "type": "Enterprise"
+    },
     "152135": {
       "name": "Cubiscomm Signal Sales, Inc.",
       "type": "Cable/DSL/ISP"
@@ -139767,6 +139795,14 @@
     "154763": {
       "name": "IRINN-FNS01-AS-IN",
       "type": "Cable/DSL/ISP"
+    },
+    "401880": {
+      "name": "KESHIA-SERVICES-FINANCIAL-SYSTEMS",
+      "type": "Network Services"
+    },
+    "197740": {
+      "name": "ManuTech-AT",
+      "type": "Non-Profit"
     }
   }
 }
