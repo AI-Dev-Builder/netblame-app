@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-24T01:51:50.188Z",
+  "updated_at": "2026-07-25T01:51:29.231Z",
   "source": "PeeringDB",
-  "entry_count": 34950,
+  "entry_count": 34958,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -71409,7 +71409,7 @@
       "type": "Unknown"
     },
     "211877": {
-      "name": "TurkIX Istanbul RS",
+      "name": "TurkIX External RS",
       "type": "Route Server"
     },
     "2934": {
@@ -81128,6 +81128,10 @@
       "name": "HardCore",
       "type": "Cable/DSL/ISP"
     },
+    "200936": {
+      "name": "Chengjie Guo's Experimental Network (AS200936)",
+      "type": "Educational/Research"
+    },
     "29650": {
       "name": "VIATEL AVAILABILITY SERVICES LIMITED",
       "type": "Unknown"
@@ -90554,7 +90558,7 @@
     },
     "215777": {
       "name": "CINCURA",
-      "type": "Educational/Research"
+      "type": "Content"
     },
     "214498": {
       "name": "McLaren Applied 1",
@@ -93198,7 +93202,7 @@
     },
     "136396": {
       "name": "HOSTOMEGA",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "37526": {
       "name": "TELECEL FASO",
@@ -97974,7 +97978,7 @@
     },
     "154075": {
       "name": "PT Mitra Keutamaan Abadi",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "153969": {
       "name": "JVL STAR CABLE TV,INC.",
@@ -101651,10 +101655,6 @@
     "200772": {
       "name": "Neburst Limited",
       "type": "Enterprise"
-    },
-    "137856": {
-      "name": "Thai Network Information Center Foundation",
-      "type": "Unknown"
     },
     "142238": {
       "name": "PT Josu Global Teknologi",
@@ -105721,7 +105721,7 @@
       "type": "Unknown"
     },
     "219315": {
-      "name": "Government of Eirenia",
+      "name": "Eirenia Internet Services",
       "type": "Government"
     },
     "213515": {
@@ -106483,6 +106483,38 @@
     "268487": {
       "name": "Prisma Telecomunicações",
       "type": "NSP"
+    },
+    "131249": {
+      "name": "SMILEITPTYLTD-AS-AP",
+      "type": "Unknown"
+    },
+    "200275": {
+      "name": "scsynergy-as",
+      "type": "Unknown"
+    },
+    "402790": {
+      "name": "HOSHINET",
+      "type": "Unknown"
+    },
+    "219269": {
+      "name": "LILI-AS",
+      "type": "Unknown"
+    },
+    "271245": {
+      "name": "ASN271245",
+      "type": "Unknown"
+    },
+    "268911": {
+      "name": "ASN268911",
+      "type": "Unknown"
+    },
+    "15304": {
+      "name": "WASHOE-NET",
+      "type": "Unknown"
+    },
+    "219133": {
+      "name": "Schleuniger",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -131393,7 +131425,7 @@
       "type": "Cable/DSL/ISP"
     },
     "149915": {
-      "name": "PT LINTAS DAYA NUSANTARA",
+      "name": "PT Lintas Daya Nusantara",
       "type": "Cable/DSL/ISP"
     },
     "49747": {
@@ -133971,10 +134003,6 @@
     "152129": {
       "name": "Excloud",
       "type": "Enterprise"
-    },
-    "200936": {
-      "name": "Chengjie Guo's Experimental Network (AS200936)",
-      "type": "Educational/Research"
     },
     "329346": {
       "name": "Light Bridge Internet (Pty) Ltd",
@@ -139196,6 +139224,10 @@
       "name": "ByteFizz",
       "type": "Network Services"
     },
+    "137856": {
+      "name": "Thai Network Information Center Foundation",
+      "type": "Unknown"
+    },
     "142205": {
       "name": "NetOz",
       "type": "Unknown"
@@ -139745,7 +139777,7 @@
       "type": "Unknown"
     },
     "138748": {
-      "name": "Kumar Cable Digital Network",
+      "name": "KumarNet",
       "type": "Cable/DSL/ISP"
     },
     "219254": {
