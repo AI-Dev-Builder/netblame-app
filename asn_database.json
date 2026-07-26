@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-25T01:51:29.231Z",
+  "updated_at": "2026-07-26T01:55:06.332Z",
   "source": "PeeringDB",
-  "entry_count": 34958,
+  "entry_count": 34964,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -16823,6 +16823,10 @@
     "58944": {
       "name": "Telin",
       "type": "Cable/DSL/ISP"
+    },
+    "61573": {
+      "name": "IP Telecom (BR)",
+      "type": "NSP"
     },
     "263363": {
       "name": "RADLINK TELECOMUNICACOES",
@@ -71925,7 +71929,7 @@
       "type": "NSP"
     },
     "271943": {
-      "name": "White",
+      "name": "White Telecom S.R.L",
       "type": "Cable/DSL/ISP"
     },
     "209311": {
@@ -72430,7 +72434,7 @@
     },
     "150249": {
       "name": "Atharva",
-      "type": "NSP"
+      "type": "Content"
     },
     "398412": {
       "name": "WEBER COUNTY",
@@ -92844,14 +92848,6 @@
       "name": "Emdadkhodro Iran",
       "type": "Unknown"
     },
-    "16003": {
-      "name": "Fornex Hosting - Netherlands",
-      "type": "Content"
-    },
-    "48040": {
-      "name": "Fornex Hosting - Sweden",
-      "type": "Content"
-    },
     "24512": {
       "name": "HAL-Internet",
       "type": "Unknown"
@@ -97530,7 +97526,7 @@
     },
     "215760": {
       "name": "DisPaisy Enterprises",
-      "type": "Educational/Research"
+      "type": "Cable/DSL/ISP"
     },
     "210008": {
       "name": "Webbing_LTD",
@@ -99131,6 +99127,10 @@
     "203058": {
       "name": "TIMS",
       "type": "Unknown"
+    },
+    "136816": {
+      "name": "PT Genz Media Utama",
+      "type": "Cable/DSL/ISP"
     },
     "394130": {
       "name": "STEALTHBYTE",
@@ -102450,7 +102450,7 @@
     },
     "201345": {
       "name": "Shuma Watanabe",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "402169": {
       "name": "Uscloud Inc",
@@ -106228,10 +106228,6 @@
       "name": "AARONKA",
       "type": "Cable/DSL/ISP"
     },
-    "57295": {
-      "name": "czk-mk",
-      "type": "Unknown"
-    },
     "215220": {
       "name": "TMS25",
       "type": "Unknown"
@@ -106512,8 +106508,28 @@
       "name": "WASHOE-NET",
       "type": "Unknown"
     },
-    "219133": {
-      "name": "Schleuniger",
+    "219134": {
+      "name": "BAGAS",
+      "type": "Unknown"
+    },
+    "3382": {
+      "name": "INDONESIAUNI-AS-AP",
+      "type": "Unknown"
+    },
+    "209763": {
+      "name": "IKINVESTOR-AS",
+      "type": "Unknown"
+    },
+    "219140": {
+      "name": "Skycom-AS",
+      "type": "Unknown"
+    },
+    "402802": {
+      "name": "BJERKERUD AS402802",
+      "type": "Content"
+    },
+    "34452": {
+      "name": "SCHECK-AS 2",
       "type": "Unknown"
     },
     "22822": {
@@ -110175,10 +110191,6 @@
     "201722": {
       "name": "NEXT SRL",
       "type": "Cable/DSL/ISP"
-    },
-    "61573": {
-      "name": "IP Telecom (BR)",
-      "type": "NSP"
     },
     "41722": {
       "name": "Miran",
@@ -119058,7 +119070,7 @@
     },
     "202959": {
       "name": "Lushu Limited",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "209162": {
       "name": "INTERNET HELLAS",
@@ -137428,6 +137440,14 @@
       "name": "ACAB-INC",
       "type": "Educational/Research"
     },
+    "16003": {
+      "name": "Fornex Hosting - Netherlands",
+      "type": "Content"
+    },
+    "48040": {
+      "name": "Fornex Hosting - Sweden",
+      "type": "Content"
+    },
     "137118": {
       "name": "Sparklink.Net",
       "type": "Cable/DSL/ISP"
@@ -138732,10 +138752,6 @@
       "name": "VAYU ONLINE PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
     },
-    "136816": {
-      "name": "PT Genz Media Utama",
-      "type": "Cable/DSL/ISP"
-    },
     "203579": {
       "name": "Aiko Appeldorn",
       "type": "Educational/Research"
@@ -139058,7 +139074,7 @@
     },
     "154482": {
       "name": "PreciseCloud",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "201541": {
       "name": "Nedas Dozorec",
@@ -139812,6 +139828,10 @@
       "name": "Aspitex",
       "type": "Enterprise"
     },
+    "57295": {
+      "name": "czk-mk",
+      "type": "Educational/Research"
+    },
     "219210": {
       "name": "ZiMo Wang",
       "type": "Educational/Research"
@@ -139835,6 +139855,10 @@
     "197740": {
       "name": "ManuTech-AT",
       "type": "Non-Profit"
+    },
+    "219133": {
+      "name": "Schleuniger",
+      "type": "Enterprise"
     }
   }
 }
