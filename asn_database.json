@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-26T01:55:06.332Z",
+  "updated_at": "2026-07-27T02:03:03.254Z",
   "source": "PeeringDB",
-  "entry_count": 34964,
+  "entry_count": 34969,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -56420,10 +56420,6 @@
       "name": "MDASSOCIATES-MAIN",
       "type": "Unknown"
     },
-    "140139": {
-      "name": "Juntoo Gigafiber Services",
-      "type": "Unknown"
-    },
     "136210": {
       "name": "ITSPECTRUM",
       "type": "Cable/DSL/ISP"
@@ -71261,7 +71257,7 @@
       "type": "Unknown"
     },
     "202941": {
-      "name": "Astrava UG",
+      "name": "hostner",
       "type": "NSP"
     },
     "149689": {
@@ -87166,7 +87162,7 @@
     },
     "214432": {
       "name": "Zhilian Technology CO., LTD.",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "135559": {
       "name": "Athena Networks",
@@ -96148,10 +96144,6 @@
       "name": "CLICKNETSPEED ANILTON SANTOS DE SOUSA",
       "type": "Cable/DSL/ISP"
     },
-    "153987": {
-      "name": "Dua Data Komunika",
-      "type": "Unknown"
-    },
     "328976": {
       "name": "KAOPU CLOUD (NIGERIA) LIMITED",
       "type": "Unknown"
@@ -104886,7 +104878,7 @@
     },
     "141198": {
       "name": "TLink Communication",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "208224": {
       "name": "Galaxyweb AG",
@@ -106204,6 +106196,10 @@
       "name": "DFDS",
       "type": "Unknown"
     },
+    "219206": {
+      "name": "SVR4U-AS",
+      "type": "NSP"
+    },
     "206816": {
       "name": "MAJORLYNX",
       "type": "Cable/DSL/ISP"
@@ -106258,7 +106254,7 @@
     },
     "402778": {
       "name": "ATABYTE",
-      "type": "Unknown"
+      "type": "Content"
     },
     "131624": {
       "name": "Dowtek",
@@ -106470,10 +106466,10 @@
     },
     "25330": {
       "name": "FBRX-UA",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "34445": {
-      "name": "SCHECK-AS",
+      "name": "Robert Scheck (AS34445)",
       "type": "Unknown"
     },
     "268487": {
@@ -106529,7 +106525,23 @@
       "type": "Content"
     },
     "34452": {
-      "name": "SCHECK-AS 2",
+      "name": "Robert Scheck (AS34452)",
+      "type": "Unknown"
+    },
+    "150670": {
+      "name": "WLXLIMITED-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "327712": {
+      "name": "ORG-TA23-AFRINIC",
+      "type": "Unknown"
+    },
+    "219143": {
+      "name": "Ace Data Centers II - RIPE",
+      "type": "Enterprise"
+    },
+    "134169": {
+      "name": "CERNEWTECHRES-AS-CN",
       "type": "Unknown"
     },
     "22822": {
@@ -118401,7 +118413,7 @@
       "type": "Content"
     },
     "267129": {
-      "name": "NET+ TELECOM",
+      "name": "KET TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "264927": {
@@ -124731,6 +124743,10 @@
     "44057": {
       "name": "1BTELEKOM",
       "type": "Unknown"
+    },
+    "140139": {
+      "name": "Juntoo Gigafiber Services",
+      "type": "Cable/DSL/ISP"
     },
     "267809": {
       "name": "360NET",
@@ -138115,6 +138131,10 @@
     "43847": {
       "name": "NbIServ",
       "type": "NSP"
+    },
+    "153987": {
+      "name": "Dua Data Komunika",
+      "type": "Cable/DSL/ISP"
     },
     "152048": {
       "name": "Reueus Sumber Data",
