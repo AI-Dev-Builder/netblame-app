@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-27T02:03:03.254Z",
+  "updated_at": "2026-07-28T01:45:13.730Z",
   "source": "PeeringDB",
-  "entry_count": 34969,
+  "entry_count": 34977,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -18667,10 +18667,6 @@
     "33430": {
       "name": "Vantage Technologies Systems Integration",
       "type": "Unknown"
-    },
-    "23367": {
-      "name": "Adaptive Data Networks",
-      "type": "NSP"
     },
     "4755": {
       "name": "Tata Communications AS4755",
@@ -89477,7 +89473,7 @@
       "type": "Enterprise"
     },
     "153221": {
-      "name": "SHARSPIRE OPC",
+      "name": "SHARSPIRE",
       "type": "Enterprise"
     },
     "214147": {
@@ -93582,7 +93578,7 @@
     },
     "213573": {
       "name": "Soluzione Uno",
-      "type": "Content"
+      "type": "Educational/Research"
     },
     "202382": {
       "name": "HYTEL",
@@ -96099,6 +96095,10 @@
     "153925": {
       "name": "PT Timeless Network Group",
       "type": "Network Services"
+    },
+    "205941": {
+      "name": "Lungu Stefan Gabriel",
+      "type": "NSP"
     },
     "43905": {
       "name": "SPACE NORWAY SATCOM AS",
@@ -101052,6 +101052,10 @@
       "name": "CloudAfrica Hosting (PTY) LTD",
       "type": "NSP"
     },
+    "142395": {
+      "name": "PT Global Internet Indonesia",
+      "type": "Cable/DSL/ISP"
+    },
     "215030": {
       "name": "AspireHosting",
       "type": "Unknown"
@@ -104296,10 +104300,6 @@
       "name": "AYSATEC TELECOMUNICACIONES",
       "type": "Unknown"
     },
-    "210132": {
-      "name": "THOMAS-GLANZMANN",
-      "type": "Non-Profit"
-    },
     "37208": {
       "name": "Afcom (SL) Limited",
       "type": "Unknown"
@@ -105203,6 +105203,10 @@
     "4849": {
       "name": "S3 Company",
       "type": "Unknown"
+    },
+    "219421": {
+      "name": "Jonatan Miarecki",
+      "type": "Educational/Research"
     },
     "35142": {
       "name": "BLX",
@@ -106398,7 +106402,7 @@
     },
     "219157": {
       "name": "IPv6 Cloud Ltd.",
-      "type": "Non-Profit"
+      "type": "NSP"
     },
     "402180": {
       "name": "ATG - Lost Hills",
@@ -106438,7 +106442,7 @@
     },
     "402801": {
       "name": "ANDRII-NET",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "401130": {
       "name": "SATURN-ASN-01",
@@ -106450,7 +106454,7 @@
     },
     "53336": {
       "name": "BSQL-AS-01",
-      "type": "Unknown"
+      "type": "Content"
     },
     "213783": {
       "name": "LIVEMOBILE",
@@ -106543,6 +106547,38 @@
     "134169": {
       "name": "CERNEWTECHRES-AS-CN",
       "type": "Unknown"
+    },
+    "134601": {
+      "name": "MICROLINK-AS-AP",
+      "type": "Unknown"
+    },
+    "28127": {
+      "name": "ASN28127",
+      "type": "Unknown"
+    },
+    "151500": {
+      "name": "DCN-AS-AP",
+      "type": "Unknown"
+    },
+    "27539": {
+      "name": "WRT-AS",
+      "type": "Cable/DSL/ISP"
+    },
+    "9288": {
+      "name": "DBTECHNOLOGIES-AS-AP",
+      "type": "Unknown"
+    },
+    "396917": {
+      "name": "VELOX-AS-TILLSONBURG",
+      "type": "Unknown"
+    },
+    "18585": {
+      "name": "Velox Wireless Inc.",
+      "type": "Cable/DSL/ISP"
+    },
+    "271916": {
+      "name": "271916",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -110683,6 +110719,10 @@
     "263833": {
       "name": "DIGITAL SAVIO",
       "type": "Cable/DSL/ISP"
+    },
+    "23367": {
+      "name": "Adaptive Data Networks",
+      "type": "NSP"
     },
     "135247": {
       "name": "K Net Solutions",
@@ -136186,7 +136226,7 @@
     },
     "214790": {
       "name": "Brainoza OU",
-      "type": "Content"
+      "type": "NSP"
     },
     "45691": {
       "name": "DODO",
@@ -138054,7 +138094,7 @@
     },
     "213413": {
       "name": "Michal Pawski",
-      "type": "NSP"
+      "type": "Educational/Research"
     },
     "215900": {
       "name": "TulipGroup",
@@ -138119,10 +138159,6 @@
     "62517": {
       "name": "Taiwan Telecom, Inc.(Premium)",
       "type": "Network Services"
-    },
-    "205941": {
-      "name": "Lungu Stefan Gabriel",
-      "type": "NSP"
     },
     "401896": {
       "name": "MISIU LLC",
@@ -139076,10 +139112,6 @@
       "name": "Nerdlab",
       "type": "Unknown"
     },
-    "142395": {
-      "name": "PT Global Internet Indonesia",
-      "type": "Cable/DSL/ISP"
-    },
     "401707": {
       "name": "ARPHOST",
       "type": "NSP"
@@ -139548,6 +139580,10 @@
       "name": "NETZR Network",
       "type": "Educational/Research"
     },
+    "210132": {
+      "name": "THOMAS-GLANZMANN",
+      "type": "Non-Profit"
+    },
     "207135": {
       "name": "Giotsas",
       "type": "Network Services"
@@ -139700,10 +139736,6 @@
       "name": "Innolens Media and Broadcasting Limited (MAVX)",
       "type": "Cable/DSL/ISP"
     },
-    "219421": {
-      "name": "Jonatan Miarecki",
-      "type": "Educational/Research"
-    },
     "132023": {
       "name": "tNet Network and Data Solution",
       "type": "Unknown"
@@ -139833,7 +139865,7 @@
       "type": "Cable/DSL/ISP"
     },
     "219212": {
-      "name": "HYW COMMUNICATIONS",
+      "name": "HYW COMMUNICATIONS LTD AS",
       "type": "Enterprise"
     },
     "219214": {
