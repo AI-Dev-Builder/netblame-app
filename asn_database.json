@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-28T01:45:13.730Z",
+  "updated_at": "2026-07-29T01:47:00.121Z",
   "source": "PeeringDB",
-  "entry_count": 34977,
+  "entry_count": 34996,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -3610,6 +3610,10 @@
     },
     "8681": {
       "name": "JT",
+      "type": "NSP"
+    },
+    "46584": {
+      "name": "CLOUDNET-CANADA",
       "type": "NSP"
     },
     "32881": {
@@ -11213,8 +11217,8 @@
       "type": "Unknown"
     },
     "393523": {
-      "name": "WPGIX Route Servers",
-      "type": "Route Server"
+      "name": "WPGIX-TNN",
+      "type": "Cable/DSL/ISP"
     },
     "45447": {
       "name": "Yless4u",
@@ -29376,10 +29380,6 @@
       "name": "Taiwan Internet Gateway",
       "type": "Unknown"
     },
-    "37224": {
-      "name": "RINEX",
-      "type": "Route Server"
-    },
     "327931": {
       "name": "Optimum Telecom Algeria",
       "type": "Unknown"
@@ -47234,7 +47234,7 @@
     },
     "21826": {
       "name": "Corporación Telemic Network",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "268173": {
       "name": "SOUSATEC.NET LTDA ME",
@@ -57500,6 +57500,10 @@
       "name": "SILVEIRA E S. C. E I. DE E. ELETRONICOS",
       "type": "Cable/DSL/ISP"
     },
+    "137496": {
+      "name": "IDNIC-LAMBANET-AS-ID",
+      "type": "Unknown"
+    },
     "60614": {
       "name": "OwO Network LLC",
       "type": "Network Services"
@@ -62223,6 +62227,10 @@
     "17563": {
       "name": "Nexlinx",
       "type": "Unknown"
+    },
+    "28408": {
+      "name": "Gdlicanet",
+      "type": "Network Services"
     },
     "13032": {
       "name": "Kyiv National Taras Shevchenko University",
@@ -92008,10 +92016,6 @@
       "name": "CYBERIA",
       "type": "Cable/DSL/ISP"
     },
-    "151786": {
-      "name": "HPLink COLO",
-      "type": "Content"
-    },
     "153263": {
       "name": "JANAK DIGITAL NETWORK PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
@@ -106580,6 +106584,74 @@
       "name": "271916",
       "type": "Cable/DSL/ISP"
     },
+    "135476": {
+      "name": "BTPN-AS-ID",
+      "type": "Unknown"
+    },
+    "63897": {
+      "name": "vocom-tw",
+      "type": "Unknown"
+    },
+    "329452": {
+      "name": "ORG-ANCL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "275808": {
+      "name": "ASN275808",
+      "type": "Unknown"
+    },
+    "150284": {
+      "name": "IDNIC-PASTINET-AS-ID",
+      "type": "Unknown"
+    },
+    "219361": {
+      "name": "SHIKANOKO-NETWORKS",
+      "type": "Network Services"
+    },
+    "393809": {
+      "name": "Wisper-Wispoto",
+      "type": "Cable/DSL/ISP"
+    },
+    "402770": {
+      "name": "MARCONET-LLC",
+      "type": "Unknown"
+    },
+    "402766": {
+      "name": "MARKVD-NET",
+      "type": "Content"
+    },
+    "154522": {
+      "name": "IDNIC-QUICKNET-AS-ID",
+      "type": "Unknown"
+    },
+    "273896": {
+      "name": "273896",
+      "type": "Unknown"
+    },
+    "265535": {
+      "name": "265535",
+      "type": "Unknown"
+    },
+    "274529": {
+      "name": "ASN274529",
+      "type": "NSP"
+    },
+    "206567": {
+      "name": "TAMEDIA-AS",
+      "type": "Unknown"
+    },
+    "402825": {
+      "name": "SCRUMPTIOUS-NET",
+      "type": "Unknown"
+    },
+    "219107": {
+      "name": "VELIXOX",
+      "type": "Unknown"
+    },
+    "263746": {
+      "name": "263746",
+      "type": "Unknown"
+    },
     "22822": {
       "name": "Edgio - AS22822",
       "type": "Content"
@@ -112205,7 +112277,7 @@
       "type": "Cable/DSL/ISP"
     },
     "262426": {
-      "name": "ASN262426",
+      "name": "TELECOMUNICAÇÕES RONDONOPOLIS",
       "type": "Cable/DSL/ISP"
     },
     "135876": {
@@ -113779,6 +113851,10 @@
     "133865": {
       "name": "IQIYI",
       "type": "Content"
+    },
+    "37224": {
+      "name": "RINEX",
+      "type": "Route Server"
     },
     "55176": {
       "name": "CANIX Montreal Route Servers",
@@ -127232,10 +127308,6 @@
       "name": "DREAM POWER TECHNOLOGY LIMITED",
       "type": "NSP"
     },
-    "28408": {
-      "name": "Gdlicanet",
-      "type": "Network Services"
-    },
     "267838": {
       "name": "Greenlink",
       "type": "Cable/DSL/ISP"
@@ -137307,6 +137379,10 @@
     "64168": {
       "name": "PIT DOMINICANO Route Servers",
       "type": "Route Server"
+    },
+    "151786": {
+      "name": "HPLink COLO",
+      "type": "Content"
     },
     "208679": {
       "name": "YIKAI ZHAO",
