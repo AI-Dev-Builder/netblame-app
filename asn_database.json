@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-29T01:47:00.121Z",
+  "updated_at": "2026-07-30T01:29:32.522Z",
   "source": "PeeringDB",
-  "entry_count": 34996,
+  "entry_count": 35004,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -2376,10 +2376,6 @@
       "name": "Turk Telekom",
       "type": "NSP"
     },
-    "31477": {
-      "name": "Duocast",
-      "type": "Content"
-    },
     "42755": {
       "name": "DataFiber",
       "type": "Cable/DSL/ISP"
@@ -4009,7 +4005,7 @@
       "type": "NSP"
     },
     "2518": {
-      "name": "BIGLOBE Inc.",
+      "name": "BIGLOBE (AS2518)",
       "type": "NSP"
     },
     "34523": {
@@ -31281,7 +31277,7 @@
       "type": "Unknown"
     },
     "20029": {
-      "name": "H5 Data Centers Global",
+      "name": "H5 Data Centers Denver",
       "type": "Unknown"
     },
     "58612": {
@@ -38230,7 +38226,7 @@
     },
     "137139": {
       "name": "Cybernet Introtech",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "12556": {
       "name": "Internet Solutions (Kenya)",
@@ -42563,10 +42559,6 @@
     "268817": {
       "name": "FIBER TELECOMUNICACOES",
       "type": "Unknown"
-    },
-    "393442": {
-      "name": "United Electric Cooperative",
-      "type": "Cable/DSL/ISP"
     },
     "22332": {
       "name": "Western Digital Corporation",
@@ -77241,7 +77233,7 @@
       "type": "Unknown"
     },
     "400822": {
-      "name": "H5 Data Centers Denver",
+      "name": "H5 Data Centers",
       "type": "Unknown"
     },
     "400824": {
@@ -85888,10 +85880,6 @@
       "name": "Spd Broadband",
       "type": "Cable/DSL/ISP"
     },
-    "328014": {
-      "name": "RICTA",
-      "type": "Non-Profit"
-    },
     "214813": {
       "name": "31173 Services End Users",
       "type": "Cable/DSL/ISP"
@@ -93430,7 +93418,7 @@
     },
     "141662": {
       "name": "Neo Fiber Teknologi",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "271757": {
       "name": "VIA PROVEDOR - SERVICOS MULTIMIDIA - EIRELI",
@@ -102540,6 +102528,10 @@
       "name": "Zamolotskikh Kirill Alexandrovich",
       "type": "Unknown"
     },
+    "199746": {
+      "name": "NextServ-LLC",
+      "type": "NSP"
+    },
     "273333": {
       "name": "ORIONNET TELECOM TECNOLOGIA E SERVIÇOS",
       "type": "NSP"
@@ -106086,7 +106078,7 @@
     },
     "58377": {
       "name": "Sentra Niaga Solusindo",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "214896": {
       "name": "Netgp System",
@@ -106202,7 +106194,7 @@
     },
     "51510": {
       "name": "DFDS",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "219206": {
       "name": "SVR4U-AS",
@@ -106404,10 +106396,6 @@
       "name": "STARNET-AS-IN",
       "type": "Unknown"
     },
-    "219157": {
-      "name": "IPv6 Cloud Ltd.",
-      "type": "NSP"
-    },
     "402180": {
       "name": "ATG - Lost Hills",
       "type": "Cable/DSL/ISP"
@@ -106541,7 +106529,7 @@
       "type": "Cable/DSL/ISP"
     },
     "327712": {
-      "name": "ORG-TA23-AFRINIC",
+      "name": "Telecom Algeria",
       "type": "Unknown"
     },
     "219143": {
@@ -106598,7 +106586,7 @@
     },
     "275808": {
       "name": "ASN275808",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "150284": {
       "name": "IDNIC-PASTINET-AS-ID",
@@ -106650,6 +106638,38 @@
     },
     "263746": {
       "name": "263746",
+      "type": "Unknown"
+    },
+    "154760": {
+      "name": "IDNIC-TIMURTEL-AS-ID",
+      "type": "Unknown"
+    },
+    "153640": {
+      "name": "CACC-AS-AP",
+      "type": "Unknown"
+    },
+    "154648": {
+      "name": "TERMRATNETWORKLIMITED-AS-AP",
+      "type": "Unknown"
+    },
+    "329341": {
+      "name": "ORG-TTCS1-AFRINIC",
+      "type": "Cable/DSL/ISP"
+    },
+    "264477": {
+      "name": "ASN264477",
+      "type": "Unknown"
+    },
+    "219102": {
+      "name": "Département de l'Hérault",
+      "type": "Government"
+    },
+    "329635": {
+      "name": "ORG-SNTL2-AFRINIC",
+      "type": "Unknown"
+    },
+    "45674": {
+      "name": "BIGLOBE (AS45674)",
       "type": "Unknown"
     },
     "22822": {
@@ -107079,6 +107099,10 @@
     "39792": {
       "name": "Nicolas CHEVRIER",
       "type": "Educational/Research"
+    },
+    "31477": {
+      "name": "Duocast",
+      "type": "Content"
     },
     "29208": {
       "name": "Quantcom",
@@ -113852,10 +113876,6 @@
       "name": "IQIYI",
       "type": "Content"
     },
-    "37224": {
-      "name": "RINEX",
-      "type": "Route Server"
-    },
     "55176": {
       "name": "CANIX Montreal Route Servers",
       "type": "Route Server"
@@ -119296,6 +119316,10 @@
       "name": "Neojaime Oliveira Ribeiro",
       "type": "Unknown"
     },
+    "393442": {
+      "name": "United Electric Cooperative",
+      "type": "Cable/DSL/ISP"
+    },
     "136646": {
       "name": "Shikhar Broadband",
       "type": "Cable/DSL/ISP"
@@ -123349,7 +123373,7 @@
       "type": "NSP"
     },
     "131630": {
-      "name": "Lazco (TW)",
+      "name": "Lazco (Global)",
       "type": "NSP"
     },
     "263096": {
@@ -123434,7 +123458,7 @@
     },
     "268624": {
       "name": "Gamers Club",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "138822": {
       "name": "Jaya Komunikasi Indonesia",
@@ -125097,7 +125121,7 @@
       "type": "Unknown"
     },
     "270035": {
-      "name": "CELSIA COLOMBIA",
+      "name": "CELSIA INTERNET",
       "type": "Cable/DSL/ISP"
     },
     "49106": {
@@ -135720,6 +135744,10 @@
       "name": "TRELLIS",
       "type": "Cable/DSL/ISP"
     },
+    "328014": {
+      "name": "RICTA",
+      "type": "Non-Profit"
+    },
     "32159": {
       "name": "GUNGHO",
       "type": "Unknown"
@@ -137802,7 +137830,7 @@
     },
     "214693": {
       "name": "FUSIORA",
-      "type": "Cable/DSL/ISP"
+      "type": "Content"
     },
     "211008": {
       "name": "Artūrs Lihners",
@@ -139500,10 +139528,6 @@
       "name": "Gareth Pulham",
       "type": "Unknown"
     },
-    "199746": {
-      "name": "V6Direct",
-      "type": "NSP"
-    },
     "200841": {
       "name": "Livesoft",
       "type": "Content"
@@ -139976,6 +140000,10 @@
       "name": "IRINN-FNS01-AS-IN",
       "type": "Cable/DSL/ISP"
     },
+    "219157": {
+      "name": "IPv6 Cloud Ltd.",
+      "type": "NSP"
+    },
     "401880": {
       "name": "KESHIA-SERVICES-FINANCIAL-SYSTEMS",
       "type": "Network Services"
@@ -139987,6 +140015,10 @@
     "219133": {
       "name": "Schleuniger",
       "type": "Enterprise"
+    },
+    "275811": {
+      "name": "ASN275811",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
