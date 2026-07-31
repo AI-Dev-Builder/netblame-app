@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-30T01:29:32.522Z",
+  "updated_at": "2026-07-31T01:57:13.948Z",
   "source": "PeeringDB",
-  "entry_count": 35004,
+  "entry_count": 35006,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -6585,7 +6585,7 @@
       "type": "Cable/DSL/ISP"
     },
     "30517": {
-      "name": "Everstream Solutions LLC",
+      "name": "Bluebird Fiber MI",
       "type": "NSP"
     },
     "9394": {
@@ -10197,7 +10197,7 @@
       "type": "Cable/DSL/ISP"
     },
     "19009": {
-      "name": "Everstream",
+      "name": "Bluebird Fiber OH",
       "type": "NSP"
     },
     "27193": {
@@ -23141,7 +23141,7 @@
       "type": "Cable/DSL/ISP"
     },
     "48152": {
-      "name": "Digital Realty Germany",
+      "name": "Digital Realty EMEA",
       "type": "Cable/DSL/ISP"
     },
     "47973": {
@@ -25873,8 +25873,8 @@
       "type": "NSP"
     },
     "31308": {
-      "name": "FIXITY 1",
-      "type": "Unknown"
+      "name": "FIXITY 31308",
+      "type": "NSP"
     },
     "25467": {
       "name": "Akton",
@@ -27373,7 +27373,7 @@
       "type": "Cable/DSL/ISP"
     },
     "199244": {
-      "name": "Digital Realty Zagreb (ZAG1)",
+      "name": "Digital Realty Croatia (199244) - Legacy",
       "type": "NSP"
     },
     "2590": {
@@ -47962,10 +47962,6 @@
     },
     "139846": {
       "name": "Star Viewing Network",
-      "type": "Cable/DSL/ISP"
-    },
-    "43006": {
-      "name": "Digital Realty Ireland",
       "type": "Cable/DSL/ISP"
     },
     "262286": {
@@ -82308,10 +82304,6 @@
       "name": "TOUCHTONE-LA",
       "type": "NSP"
     },
-    "62273": {
-      "name": "SRVNET LTD",
-      "type": "Cable/DSL/ISP"
-    },
     "400190": {
       "name": "Freeport-McMoRan Inc.",
       "type": "Unknown"
@@ -82510,10 +82502,6 @@
     },
     "212077": {
       "name": "Web Gostaran Shaina Shiraz LLC",
-      "type": "Unknown"
-    },
-    "207281": {
-      "name": "Bawabet Al Manama",
       "type": "Unknown"
     },
     "215662": {
@@ -93764,10 +93752,6 @@
       "name": "NoBo_Quality",
       "type": "Unknown"
     },
-    "209338": {
-      "name": "Mauro Paes Correa",
-      "type": "Network Services"
-    },
     "153685": {
       "name": "S.I.S.P Broadband",
       "type": "Cable/DSL/ISP"
@@ -94094,10 +94078,6 @@
     },
     "212216": {
       "name": "Netafraz",
-      "type": "Unknown"
-    },
-    "210173": {
-      "name": "HerrTxbias",
       "type": "Unknown"
     },
     "208743": {
@@ -95058,7 +95038,7 @@
     },
     "146943": {
       "name": "Tier 4 Cloud Services",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "394492": {
       "name": "USEI",
@@ -97118,7 +97098,7 @@
     },
     "216091": {
       "name": "eth0",
-      "type": "Network Services"
+      "type": "Educational/Research"
     },
     "212191": {
       "name": "Spider-IXP",
@@ -105993,7 +105973,7 @@
       "type": "Unknown"
     },
     "219236": {
-      "name": "WolfGirls Corp",
+      "name": "WolfGirls Limited",
       "type": "Cable/DSL/ISP"
     },
     "264385": {
@@ -106670,6 +106650,30 @@
     },
     "45674": {
       "name": "BIGLOBE (AS45674)",
+      "type": "Unknown"
+    },
+    "402835": {
+      "name": "LINUS-MEDIA-GROUP",
+      "type": "Unknown"
+    },
+    "37301": {
+      "name": "AFRINIC MBA",
+      "type": "Non-Profit"
+    },
+    "154023": {
+      "name": "IDNIC-GUT-AS-ID",
+      "type": "Unknown"
+    },
+    "1919": {
+      "name": "UMASSNET-AS1919",
+      "type": "Unknown"
+    },
+    "219095": {
+      "name": "Astra VPS",
+      "type": "NSP"
+    },
+    "219115": {
+      "name": "Tropical Hosting",
       "type": "Unknown"
     },
     "22822": {
@@ -110547,10 +110551,6 @@
     "61805": {
       "name": "EMEX INTERNET",
       "type": "Cable/DSL/ISP"
-    },
-    "63502": {
-      "name": "Dhecyber Flow Indonesia - NAP",
-      "type": "Enterprise"
     },
     "132220": {
       "name": "JPR Digital Pvt. Ltd.",
@@ -121342,7 +121342,7 @@
     },
     "132335": {
       "name": "LeapSwitch Networks",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "6250": {
       "name": "NRTC",
@@ -137768,6 +137768,10 @@
       "name": "Freedom House Ltd.",
       "type": "Cable/DSL/ISP"
     },
+    "209338": {
+      "name": "Mauro Paes Correa",
+      "type": "Network Services"
+    },
     "46505": {
       "name": "NixiHost",
       "type": "Unknown"
@@ -137827,6 +137831,10 @@
     "208437": {
       "name": "HyperBit SRLs",
       "type": "NSP"
+    },
+    "210173": {
+      "name": "HerrTxbias",
+      "type": "Educational/Research"
     },
     "214693": {
       "name": "FUSIORA",
