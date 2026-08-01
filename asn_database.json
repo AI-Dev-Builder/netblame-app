@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-07-31T01:57:13.948Z",
+  "updated_at": "2026-08-01T01:57:56.219Z",
   "source": "PeeringDB",
-  "entry_count": 35006,
+  "entry_count": 35019,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -947,6 +947,10 @@
     "10565": {
       "name": "Silicon Valley Colocation",
       "type": "NSP"
+    },
+    "28788": {
+      "name": "Unilogic Networks B.V.",
+      "type": "Cable/DSL/ISP"
     },
     "8365": {
       "name": "MANDA",
@@ -40916,10 +40920,6 @@
       "name": "Adylnet Telecom - AS265151",
       "type": "Cable/DSL/ISP"
     },
-    "209762": {
-      "name": "EVIX Route Servers",
-      "type": "Route Server"
-    },
     "52705": {
       "name": "FRANET TELECOM",
       "type": "NSP"
@@ -57489,8 +57489,8 @@
       "type": "Cable/DSL/ISP"
     },
     "137496": {
-      "name": "IDNIC-LAMBANET-AS-ID",
-      "type": "Unknown"
+      "name": "LAMBA ALFAZZA NETWORK",
+      "type": "Cable/DSL/ISP"
     },
     "60614": {
       "name": "OwO Network LLC",
@@ -59789,7 +59789,7 @@
       "type": "Unknown"
     },
     "21334": {
-      "name": "One Hungary",
+      "name": "2Connect Hungary",
       "type": "Unknown"
     },
     "263639": {
@@ -77257,7 +77257,7 @@
       "type": "Unknown"
     },
     "400827": {
-      "name": "H5 Data Centers Ashburn",
+      "name": "H5 Data Centers Chantilly",
       "type": "Unknown"
     },
     "134822": {
@@ -83150,7 +83150,7 @@
     },
     "268153": {
       "name": "Multnet Fibra Ltda",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "152363": {
       "name": "PT Delapan Broadband Intermedia",
@@ -102573,7 +102573,7 @@
       "type": "Unknown"
     },
     "154571": {
-      "name": "Zenfiber Broadband",
+      "name": "ZenFiber",
       "type": "Cable/DSL/ISP"
     },
     "199651": {
@@ -106436,10 +106436,6 @@
       "name": "ASN269045",
       "type": "Unknown"
     },
-    "219484": {
-      "name": "RIPE-HJC-AS-ID",
-      "type": "Unknown"
-    },
     "25330": {
       "name": "FBRX-UA",
       "type": "NSP"
@@ -106676,6 +106672,58 @@
       "name": "Tropical Hosting",
       "type": "Unknown"
     },
+    "402809": {
+      "name": "GUMMIPANTZEN",
+      "type": "NSP"
+    },
+    "154772": {
+      "name": "IDNIC-HIKMAHNET-AS-ID",
+      "type": "Unknown"
+    },
+    "197245": {
+      "name": "patrick-fennell",
+      "type": "Unknown"
+    },
+    "51702": {
+      "name": "CIX Route Servers",
+      "type": "Route Server"
+    },
+    "152519": {
+      "name": "JFPL-AS-IN",
+      "type": "Unknown"
+    },
+    "212898": {
+      "name": "MeganetHD",
+      "type": "Unknown"
+    },
+    "149287": {
+      "name": "MYNETTECHNOLOGIES-AS-AP",
+      "type": "Unknown"
+    },
+    "402807": {
+      "name": "DETSYS-FHCSAT-ANY-1",
+      "type": "Unknown"
+    },
+    "35996": {
+      "name": "H5 Data Centers Sunnyvale",
+      "type": "Unknown"
+    },
+    "401546": {
+      "name": "H5 Data Centers Ashburn",
+      "type": "Unknown"
+    },
+    "401547": {
+      "name": "H5 Data Centers Buffalo",
+      "type": "Unknown"
+    },
+    "401548": {
+      "name": "H5 Data Centers Omaha",
+      "type": "Unknown"
+    },
+    "402852": {
+      "name": "TERRANETUS",
+      "type": "Unknown"
+    },
     "22822": {
       "name": "Edgio - AS22822",
       "type": "Content"
@@ -106843,10 +106891,6 @@
     "6461": {
       "name": "Zayo",
       "type": "NSP"
-    },
-    "28788": {
-      "name": "Unilogic Networks B.V.",
-      "type": "Cable/DSL/ISP"
     },
     "29550": {
       "name": "Team Blue Carrier Ltd",
@@ -118664,6 +118708,10 @@
       "name": "Brasil TecPar (Nova Rede)",
       "type": "Cable/DSL/ISP"
     },
+    "209762": {
+      "name": "EVIX Route Servers",
+      "type": "Route Server"
+    },
     "268668": {
       "name": "Silvernet Tecnologia",
       "type": "Cable/DSL/ISP"
@@ -125406,7 +125454,7 @@
     },
     "207466": {
       "name": "SBFR",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "264732": {
       "name": "NETLATIN",
@@ -131205,8 +131253,8 @@
       "type": "Cable/DSL/ISP"
     },
     "271018": {
-      "name": "Alexandre B. de Souza",
-      "type": "Unknown"
+      "name": "Universal Net",
+      "type": "Cable/DSL/ISP"
     },
     "272156": {
       "name": "WEB MASTER COLOMBIA",
@@ -138597,7 +138645,7 @@
       "type": "Educational/Research"
     },
     "329254": {
-      "name": "TRUTH WIRELESS",
+      "name": "TRUTH",
       "type": "Cable/DSL/ISP"
     },
     "201112": {
@@ -140011,6 +140059,10 @@
     "219157": {
       "name": "IPv6 Cloud Ltd.",
       "type": "NSP"
+    },
+    "219484": {
+      "name": "TAKO",
+      "type": "Content"
     },
     "401880": {
       "name": "KESHIA-SERVICES-FINANCIAL-SYSTEMS",
