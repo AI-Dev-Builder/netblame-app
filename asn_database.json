@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-01T01:57:56.219Z",
+  "updated_at": "2026-08-02T01:53:58.241Z",
   "source": "PeeringDB",
-  "entry_count": 35019,
+  "entry_count": 35016,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -8282,10 +8282,6 @@
     },
     "52863": {
       "name": "UPX",
-      "type": "Content"
-    },
-    "48973": {
-      "name": "Netplan Internet Solutions",
       "type": "Content"
     },
     "17169": {
@@ -34772,10 +34768,6 @@
       "name": "Linhares Serviços Online",
       "type": "Unknown"
     },
-    "63131": {
-      "name": "TNEXT Communication",
-      "type": "Cable/DSL/ISP"
-    },
     "44732": {
       "name": "Kolpinga",
       "type": "Unknown"
@@ -52520,10 +52512,6 @@
       "name": "Allianz Technology AS8360",
       "type": "Unknown"
     },
-    "213189": {
-      "name": "Staclar Global Cache",
-      "type": "Content"
-    },
     "208288": {
       "name": "Woolo Comunicaciones S.L.",
       "type": "Unknown"
@@ -53423,10 +53411,6 @@
     "31549": {
       "name": "RASANA",
       "type": "Unknown"
-    },
-    "61020": {
-      "name": "STACIX Route Servers",
-      "type": "Route Server"
     },
     "328672": {
       "name": "Silicon Sky Consulting",
@@ -71763,10 +71747,6 @@
     "150014": {
       "name": "GLOBNET BROADBAND SERVICE",
       "type": "Cable/DSL/ISP"
-    },
-    "329007": {
-      "name": "ELENDE",
-      "type": "Content"
     },
     "132964": {
       "name": "Fibernet Solutions",
@@ -100288,10 +100268,6 @@
       "name": "Riverwave Broadband",
       "type": "Cable/DSL/ISP"
     },
-    "209477": {
-      "name": "Brieger",
-      "type": "Unknown"
-    },
     "210643": {
       "name": "Artur Zagidullin",
       "type": "Unknown"
@@ -104360,10 +104336,6 @@
       "name": "Zeta Datacenters",
       "type": "Cable/DSL/ISP"
     },
-    "208471": {
-      "name": "Ville Ketola Nilsson",
-      "type": "Educational/Research"
-    },
     "207786": {
       "name": "super network for internet service",
       "type": "Cable/DSL/ISP"
@@ -104582,7 +104554,7 @@
     },
     "154092": {
       "name": "PT Artha Teknologi Inovasi",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "64005": {
       "name": "KaritKarma",
@@ -106722,6 +106694,22 @@
     },
     "402852": {
       "name": "TERRANETUS",
+      "type": "Unknown"
+    },
+    "219185": {
+      "name": "NARWHAL-NETTECH",
+      "type": "Unknown"
+    },
+    "219094": {
+      "name": "MCDADE",
+      "type": "Unknown"
+    },
+    "154578": {
+      "name": "LEAPDIGITALS-AS-AP",
+      "type": "Unknown"
+    },
+    "401036": {
+      "name": "FRIENDOWMENT",
       "type": "Unknown"
     },
     "22822": {
@@ -119456,10 +119444,6 @@
       "name": "Stolon",
       "type": "Non-Profit"
     },
-    "268866": {
-      "name": "JettCom Internet Banda Larga",
-      "type": "Cable/DSL/ISP"
-    },
     "8697": {
       "name": "Jordan Telecommunications",
       "type": "NSP"
@@ -123364,10 +123348,6 @@
       "name": "Axatel",
       "type": "Cable/DSL/ISP"
     },
-    "60934": {
-      "name": "IXBradford",
-      "type": "Unknown"
-    },
     "139457": {
       "name": "Semut Data Indonesia",
       "type": "NSP"
@@ -123582,7 +123562,7 @@
     },
     "270824": {
       "name": "ENX Services",
-      "type": "Network Services"
+      "type": "Content"
     },
     "266978": {
       "name": "FOUR NETWORK SERVICOS DE INFORMATICA",
@@ -130935,6 +130915,10 @@
     "273590": {
       "name": "PVN Provedor De Internet LTDA",
       "type": "Cable/DSL/ISP"
+    },
+    "329007": {
+      "name": "ELENDE",
+      "type": "Content"
     },
     "57406": {
       "name": "Zero Distance",
@@ -139758,6 +139742,10 @@
     },
     "197319": {
       "name": "Luca Maximilian Wannemacher",
+      "type": "Educational/Research"
+    },
+    "208471": {
+      "name": "Ville Ketola Nilsson",
       "type": "Educational/Research"
     },
     "402428": {
