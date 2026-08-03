@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-02T01:53:58.241Z",
+  "updated_at": "2026-08-03T01:56:56.443Z",
   "source": "PeeringDB",
-  "entry_count": 35016,
+  "entry_count": 35019,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -30615,10 +30615,6 @@
     "42180": {
       "name": "Wintech",
       "type": "Cable/DSL/ISP"
-    },
-    "19054": {
-      "name": "NATHNETWORK",
-      "type": "Unknown"
     },
     "131486": {
       "name": "Beijing Jingdong 360 Degree E-commerce",
@@ -68292,10 +68288,6 @@
       "name": "spirit",
       "type": "Unknown"
     },
-    "210106": {
-      "name": "HuskyHQ",
-      "type": "Educational/Research"
-    },
     "133160": {
       "name": "AMS-IX Singapore Route Servers",
       "type": "Route Server"
@@ -100814,7 +100806,7 @@
     },
     "13405": {
       "name": "Feather IT",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "51791": {
       "name": "VENTURESDC Veri Merkezi Hizmetleri",
@@ -105072,10 +105064,6 @@
       "name": "S.S.R.B Internet Service",
       "type": "Cable/DSL/ISP"
     },
-    "402366": {
-      "name": "SOHEIL-DS",
-      "type": "Cable/DSL/ISP"
-    },
     "213473": {
       "name": "kalaam-KSA",
       "type": "Cable/DSL/ISP"
@@ -106472,10 +106460,6 @@
       "name": "Robert Scheck (AS34452)",
       "type": "Unknown"
     },
-    "150670": {
-      "name": "WLXLIMITED-AS-AP",
-      "type": "Cable/DSL/ISP"
-    },
     "327712": {
       "name": "Telecom Algeria",
       "type": "Unknown"
@@ -106710,6 +106694,22 @@
     },
     "401036": {
       "name": "FRIENDOWMENT",
+      "type": "Unknown"
+    },
+    "154669": {
+      "name": "IDNIC-AZNETLINK-ID",
+      "type": "Unknown"
+    },
+    "41800": {
+      "name": "TROPYNIN-AS",
+      "type": "Network Services"
+    },
+    "219097": {
+      "name": "PL-FANTHSPZOO-20260728",
+      "type": "Unknown"
+    },
+    "154779": {
+      "name": "DATAKOMNAP-AS-ID",
       "type": "Unknown"
     },
     "22822": {
@@ -114227,6 +114227,10 @@
     "267576": {
       "name": "Conet Telecom",
       "type": "Cable/DSL/ISP"
+    },
+    "19054": {
+      "name": "NATHNETWORK",
+      "type": "Content"
     },
     "12748": {
       "name": "IAV",
@@ -129824,6 +129828,10 @@
       "name": "stypr",
       "type": "Educational/Research"
     },
+    "210106": {
+      "name": "HuskyHQ",
+      "type": "Educational/Research"
+    },
     "400688": {
       "name": "Daniel Marks",
       "type": "Educational/Research"
@@ -137802,7 +137810,7 @@
     },
     "209338": {
       "name": "Mauro Paes Correa",
-      "type": "Network Services"
+      "type": "Educational/Research"
     },
     "46505": {
       "name": "NixiHost",
@@ -138610,7 +138618,7 @@
     },
     "402030": {
       "name": "LEFTSHIFT",
-      "type": "Educational/Research"
+      "type": "Network Services"
     },
     "401233": {
       "name": "Alliance Broadband",
@@ -140063,6 +140071,10 @@
     "219133": {
       "name": "Schleuniger",
       "type": "Enterprise"
+    },
+    "150670": {
+      "name": "WLXLIMITED-AS-AP",
+      "type": "Cable/DSL/ISP"
     },
     "275811": {
       "name": "ASN275811",
