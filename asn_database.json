@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-03T01:56:56.443Z",
+  "updated_at": "2026-08-04T01:42:53.625Z",
   "source": "PeeringDB",
-  "entry_count": 35019,
+  "entry_count": 35031,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -19604,10 +19604,6 @@
       "name": "Infonas WLL",
       "type": "NSP"
     },
-    "45686": {
-      "name": "RouteFEED",
-      "type": "Route Server"
-    },
     "37613": {
       "name": "DOLPHIN TELECOMMUNICATION LIMITED",
       "type": "NSP"
@@ -22934,7 +22930,7 @@
     },
     "45679": {
       "name": "TOMOCHA.NET",
-      "type": "Educational/Research"
+      "type": "Non-Profit"
     },
     "43495": {
       "name": "eDial",
@@ -29671,6 +29667,10 @@
     "132402": {
       "name": "Sahabat Corp Indonesia",
       "type": "Unknown"
+    },
+    "133095": {
+      "name": "PUSAT FIBER INDONESIA - NAP",
+      "type": "NSP"
     },
     "394561": {
       "name": "Yahoo! 14378",
@@ -49548,10 +49548,6 @@
       "name": "MUS-IX",
       "type": "Educational/Research"
     },
-    "267185": {
-      "name": "CCS Camboriú Cable System de Telecomunicações",
-      "type": "Cable/DSL/ISP"
-    },
     "9387": {
       "name": "Augere Pakistan",
       "type": "Unknown"
@@ -69208,10 +69204,6 @@
       "name": "PROLUX COMSER",
       "type": "Cable/DSL/ISP"
     },
-    "917": {
-      "name": "Misaka.io",
-      "type": "NSP"
-    },
     "396291": {
       "name": "NCH Healthcare System",
       "type": "Enterprise"
@@ -78415,10 +78407,6 @@
     "138751": {
       "name": "Anodic Telenetwork Private Limited",
       "type": "Cable/DSL/ISP"
-    },
-    "197885": {
-      "name": "EST-IT",
-      "type": "Educational/Research"
     },
     "273800": {
       "name": "CONNECT INTERNET BANDA LARGA LTDA ME",
@@ -93666,7 +93654,7 @@
     },
     "213370": {
       "name": "NETOMAT",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "133464": {
       "name": "RTDS Network ICT Solutions Inc.",
@@ -100066,7 +100054,7 @@
     },
     "205305": {
       "name": "Gabriel Peron",
-      "type": "Content"
+      "type": "Network Services"
     },
     "203766": {
       "name": "AWILLS",
@@ -105064,6 +105052,10 @@
       "name": "S.S.R.B Internet Service",
       "type": "Cable/DSL/ISP"
     },
+    "402366": {
+      "name": "SOHEIL-DS",
+      "type": "Cable/DSL/ISP"
+    },
     "213473": {
       "name": "kalaam-KSA",
       "type": "Cable/DSL/ISP"
@@ -105482,10 +105474,6 @@
     },
     "264967": {
       "name": "MONICA ADRIANA MELO FRANCA INFORMATICA",
-      "type": "Unknown"
-    },
-    "275684": {
-      "name": "Pontual Net Mg Telecomunicaçoes",
       "type": "Unknown"
     },
     "1282": {
@@ -106613,7 +106601,7 @@
       "type": "Non-Profit"
     },
     "154023": {
-      "name": "IDNIC-GUT-AS-ID",
+      "name": "PT Global Usaha Teknologi",
       "type": "Unknown"
     },
     "1919": {
@@ -106709,7 +106697,55 @@
       "type": "Unknown"
     },
     "154779": {
-      "name": "DATAKOMNAP-AS-ID",
+      "name": "DatakomNAP",
+      "type": "Unknown"
+    },
+    "137362": {
+      "name": "IDNIC-PEMKOTSURAKARTA-AS-ID",
+      "type": "Unknown"
+    },
+    "154715": {
+      "name": "CVACCESS-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "402056": {
+      "name": "WIDEWIRED",
+      "type": "NSP"
+    },
+    "133365": {
+      "name": "WIDEWIRED-AS-AP",
+      "type": "Unknown"
+    },
+    "401311": {
+      "name": "ALIEN",
+      "type": "Unknown"
+    },
+    "219074": {
+      "name": "FENECON-ASN",
+      "type": "Enterprise"
+    },
+    "272134": {
+      "name": "272134",
+      "type": "Unknown"
+    },
+    "275004": {
+      "name": "275004",
+      "type": "Unknown"
+    },
+    "274877": {
+      "name": "274877",
+      "type": "Unknown"
+    },
+    "402532": {
+      "name": "GOLDEN-STATE-FIBER",
+      "type": "Unknown"
+    },
+    "197884": {
+      "name": "Adios",
+      "type": "Unknown"
+    },
+    "132864": {
+      "name": "ONACLOUD-AS-AP",
       "type": "Unknown"
     },
     "22822": {
@@ -127712,10 +127748,6 @@
       "name": "Force Telecom",
       "type": "Cable/DSL/ISP"
     },
-    "38852": {
-      "name": "Fun Finance Technology",
-      "type": "Educational/Research"
-    },
     "210864": {
       "name": "VoltzzNode Enterprise SRL",
       "type": "Unknown"
@@ -130148,6 +130180,10 @@
       "name": "Clyvo Networks",
       "type": "Network Services"
     },
+    "917": {
+      "name": "Misaka.io",
+      "type": "NSP"
+    },
     "329044": {
       "name": "Surf Net Solutions",
       "type": "Enterprise"
@@ -131067,6 +131103,10 @@
     "139634": {
       "name": "INSURANCE AUSTRALIA GROUP - MELBOURNE",
       "type": "Enterprise"
+    },
+    "202260": {
+      "name": "GABRIEL-AS",
+      "type": "Content"
     },
     "202076": {
       "name": "Optua",
@@ -133288,6 +133328,10 @@
       "name": "Alec Hoefler",
       "type": "Unknown"
     },
+    "197885": {
+      "name": "EST-IT",
+      "type": "Educational/Research"
+    },
     "33601": {
       "name": "Outreach Broadband, Inc.",
       "type": "Cable/DSL/ISP"
@@ -133751,10 +133795,6 @@
     "932": {
       "name": "XNNET",
       "type": "NSP"
-    },
-    "216292": {
-      "name": "Aaran Cloud Personal",
-      "type": "Unknown"
     },
     "15353": {
       "name": "Xentain Solutions - Global",
@@ -139920,6 +139960,10 @@
       "name": "Sakarin Network",
       "type": "Unknown"
     },
+    "275684": {
+      "name": "Pontual Net Mg Telecomunicaçoes",
+      "type": "Unknown"
+    },
     "219332": {
       "name": "Pmman Network",
       "type": "Educational/Research"
@@ -140079,6 +140123,10 @@
     "275811": {
       "name": "ASN275811",
       "type": "Cable/DSL/ISP"
+    },
+    "219110": {
+      "name": "YanisMediaGroup",
+      "type": "Unknown"
     }
   }
 }
