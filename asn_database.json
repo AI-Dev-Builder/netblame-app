@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-05T01:45:00.477Z",
+  "updated_at": "2026-08-06T01:45:09.499Z",
   "source": "PeeringDB",
-  "entry_count": 35047,
+  "entry_count": 35060,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -7808,10 +7808,6 @@
       "name": "CoClo(Coherent Cloud)",
       "type": "Content"
     },
-    "13335": {
-      "name": "Cloudflare",
-      "type": "Content"
-    },
     "133612": {
       "name": "Vodafone Hutchison Australia",
       "type": "Cable/DSL/ISP"
@@ -9195,10 +9191,6 @@
     "50629": {
       "name": "LWLcom",
       "type": "NSP"
-    },
-    "53340": {
-      "name": "Fiberhub",
-      "type": "Content"
     },
     "51827": {
       "name": "Fremaks GmbH",
@@ -27949,7 +27941,7 @@
       "type": "Unknown"
     },
     "136750": {
-      "name": "China Mobile International - NGN",
+      "name": "CMI Cloud",
       "type": "Unknown"
     },
     "44600": {
@@ -37472,6 +37464,10 @@
       "name": "Klaver.IT",
       "type": "Non-Profit"
     },
+    "24062": {
+      "name": "Nexus Telecomm",
+      "type": "Cable/DSL/ISP"
+    },
     "30219": {
       "name": "Major League Baseball Advanced Media",
       "type": "Unknown"
@@ -41884,6 +41880,10 @@
       "name": "Go Fast",
       "type": "Cable/DSL/ISP"
     },
+    "138644": {
+      "name": "FASTMOS2-AS-AP",
+      "type": "Unknown"
+    },
     "188": {
       "name": "SAIC",
       "type": "Unknown"
@@ -42142,6 +42142,10 @@
     },
     "44238": {
       "name": "MeteoNews",
+      "type": "Unknown"
+    },
+    "209193": {
+      "name": "SuperCell-FTTH",
       "type": "Unknown"
     },
     "35640": {
@@ -62332,10 +62336,6 @@
       "name": "FLASHBAND",
       "type": "Unknown"
     },
-    "211030": {
-      "name": "Deecite",
-      "type": "Unknown"
-    },
     "31764": {
       "name": "OAKLAND UNIFIED SCHOOL DISTRICT",
       "type": "Unknown"
@@ -63381,7 +63381,7 @@
       "type": "Unknown"
     },
     "138129": {
-      "name": "PT Sinergi Inti Andalan Prima Tbk",
+      "name": "SIAPNET",
       "type": "NSP"
     },
     "133778": {
@@ -63655,10 +63655,6 @@
     "139870": {
       "name": "BlueNet Communication",
       "type": "Cable/DSL/ISP"
-    },
-    "328935": {
-      "name": "Pres Connect",
-      "type": "Unknown"
     },
     "21269": {
       "name": "Progon Network Engineering",
@@ -72514,7 +72510,7 @@
     },
     "272830": {
       "name": "TELCOMNETPERU",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "34785": {
       "name": "Stadtwerke Klagenfurt",
@@ -75046,10 +75042,6 @@
     },
     "134972": {
       "name": "IKUUU NETWORK",
-      "type": "Unknown"
-    },
-    "149767": {
-      "name": "Nearoute AS149767",
       "type": "Unknown"
     },
     "48976": {
@@ -79372,10 +79364,6 @@
       "name": "ALLNEINS",
       "type": "Unknown"
     },
-    "62425": {
-      "name": "KuzeyDC",
-      "type": "Cable/DSL/ISP"
-    },
     "273798": {
       "name": "JS MELO COMUNICAÇÂO MULTIMIDIA LTDA",
       "type": "Cable/DSL/ISP"
@@ -80803,6 +80791,10 @@
     "43220": {
       "name": "team.blue Norway",
       "type": "Content"
+    },
+    "216006": {
+      "name": "BLAZEHOST",
+      "type": "Unknown"
     },
     "140577": {
       "name": "Ahrefs PTE Ltd",
@@ -90718,7 +90710,7 @@
     },
     "140625": {
       "name": "Excel Commerce Solutions Sdn. Bhd.",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "206882": {
       "name": "WIFILINKS",
@@ -105094,7 +105086,7 @@
     },
     "219439": {
       "name": "BC-HAMADANET",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "219436": {
       "name": "CrocNet",
@@ -105873,8 +105865,8 @@
       "type": "Educational/Research"
     },
     "219240": {
-      "name": "Yuki Haigner",
-      "type": "Educational/Research"
+      "name": "Yuki",
+      "type": "Cable/DSL/ISP"
     },
     "402718": {
       "name": "TUNSLAB",
@@ -106569,8 +106561,8 @@
       "type": "Unknown"
     },
     "154648": {
-      "name": "TERMRATNETWORKLIMITED-AS-AP",
-      "type": "Unknown"
+      "name": "TermRat Network",
+      "type": "NSP"
     },
     "329341": {
       "name": "ORG-TTCS1-AFRINIC",
@@ -106682,7 +106674,7 @@
     },
     "154669": {
       "name": "Azvi Multi Teknologi",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "41800": {
       "name": "TROPYNIN-AS",
@@ -106790,6 +106782,50 @@
     },
     "219123": {
       "name": "MorniNetwork",
+      "type": "Unknown"
+    },
+    "219078": {
+      "name": "Executor-Network",
+      "type": "Educational/Research"
+    },
+    "219252": {
+      "name": "Jtheberg",
+      "type": "Unknown"
+    },
+    "36096": {
+      "name": "PAGEDIUM",
+      "type": "Unknown"
+    },
+    "219071": {
+      "name": "UPUPFLY",
+      "type": "Unknown"
+    },
+    "152684": {
+      "name": "THEWAHTELECOM-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "15100": {
+      "name": "BEVCOMM-AS1",
+      "type": "Unknown"
+    },
+    "402897": {
+      "name": "CKSVC-01",
+      "type": "Unknown"
+    },
+    "219070": {
+      "name": "gbevm",
+      "type": "Unknown"
+    },
+    "219064": {
+      "name": "Akenai-Products-AS",
+      "type": "Unknown"
+    },
+    "1254": {
+      "name": "AS1254",
+      "type": "Unknown"
+    },
+    "36003": {
+      "name": "NOS-NOG",
       "type": "Unknown"
     },
     "22822": {
@@ -108575,6 +108611,10 @@
     "8823": {
       "name": "rockenstein AG",
       "type": "NSP"
+    },
+    "53340": {
+      "name": "Fiberhub",
+      "type": "Content"
     },
     "29263": {
       "name": "Gemeente Den Haag",
@@ -128036,6 +128076,10 @@
       "name": "ORBITEK",
       "type": "Cable/DSL/ISP"
     },
+    "328935": {
+      "name": "Pres Connect",
+      "type": "Unknown"
+    },
     "58336": {
       "name": "TsingYao Network 1",
       "type": "Unknown"
@@ -133767,6 +133811,10 @@
     "54402": {
       "name": "Pinnacle Online",
       "type": "Unknown"
+    },
+    "62425": {
+      "name": "KuzeyDC",
+      "type": "Cable/DSL/ISP"
     },
     "47526": {
       "name": "handily networks",
@@ -140191,6 +140239,10 @@
     "274913": {
       "name": "274913",
       "type": "Cable/DSL/ISP"
+    },
+    "151245": {
+      "name": "Yuelungu Network",
+      "type": "Content"
     }
   }
 }
