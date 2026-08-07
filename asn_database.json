@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-06T01:45:09.499Z",
+  "updated_at": "2026-08-07T02:09:39.846Z",
   "source": "PeeringDB",
-  "entry_count": 35060,
+  "entry_count": 35067,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -4697,8 +4697,8 @@
       "type": "NSP"
     },
     "39600": {
-      "name": "Lixium",
-      "type": "Content"
+      "name": "BUNNY-TECHNOLOGY-LLC",
+      "type": "Unknown"
     },
     "31025": {
       "name": "IAG Peering GbR",
@@ -7806,6 +7806,10 @@
     },
     "45444": {
       "name": "CoClo(Coherent Cloud)",
+      "type": "Content"
+    },
+    "13335": {
+      "name": "Cloudflare",
       "type": "Content"
     },
     "133612": {
@@ -27336,10 +27340,6 @@
       "name": "Odessa National Academy of Telecommunications",
       "type": "Unknown"
     },
-    "37479": {
-      "name": "Telviva (Pty) Ltd",
-      "type": "NSP"
-    },
     "40216": {
       "name": "DSTIP Networks",
       "type": "Educational/Research"
@@ -33619,10 +33619,6 @@
     "43154": {
       "name": "KRS-IX Route Servers",
       "type": "Route Server"
-    },
-    "44308": {
-      "name": "VAPOUR MEDIA",
-      "type": "Unknown"
     },
     "21247": {
       "name": "IP SYNERGIES",
@@ -42146,7 +42142,7 @@
     },
     "209193": {
       "name": "SuperCell-FTTH",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "35640": {
       "name": "MIGRAPH",
@@ -65904,10 +65900,6 @@
       "name": "GRAMEEN COMMUNICATIONS",
       "type": "Unknown"
     },
-    "210320": {
-      "name": "Fexxio Digital",
-      "type": "Educational/Research"
-    },
     "149240": {
       "name": "Megatel Networks Private Limited",
       "type": "Cable/DSL/ISP"
@@ -78806,7 +78798,7 @@
     },
     "271363": {
       "name": "P.S.H. DO COUTO TELECOMUNICAÇAO-ME",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "262986": {
       "name": "Radionet Telecom",
@@ -80792,10 +80784,6 @@
       "name": "team.blue Norway",
       "type": "Content"
     },
-    "216006": {
-      "name": "BLAZEHOST",
-      "type": "Unknown"
-    },
     "140577": {
       "name": "Ahrefs PTE Ltd",
       "type": "Enterprise"
@@ -82629,8 +82617,8 @@
       "type": "Unknown"
     },
     "204057": {
-      "name": "DCXV, Duomenu apdorojimo centras UAB",
-      "type": "Unknown"
+      "name": "DCXV INTERNATIONAL LTD",
+      "type": "Enterprise"
     },
     "215527": {
       "name": "Xero Networks LTD",
@@ -84114,10 +84102,6 @@
     },
     "11448": {
       "name": "CLEARWAVE-FIBER",
-      "type": "Unknown"
-    },
-    "40702": {
-      "name": "Clearwave Communications",
       "type": "Unknown"
     },
     "64163": {
@@ -104941,8 +104925,8 @@
       "type": "Unknown"
     },
     "208794": {
-      "name": "Wolfgang Michael Brandstaetter",
-      "type": "Unknown"
+      "name": "brawo network services",
+      "type": "NSP"
     },
     "59880": {
       "name": "Polaris-N Systems",
@@ -105086,7 +105070,7 @@
     },
     "219439": {
       "name": "BC-HAMADANET",
-      "type": "Cable/DSL/ISP"
+      "type": "Network Services"
     },
     "219436": {
       "name": "CrocNet",
@@ -105336,10 +105320,6 @@
       "name": "NEXANET",
       "type": "Unknown"
     },
-    "329731": {
-      "name": "Digital Delta IX Route Servers",
-      "type": "Route Server"
-    },
     "274153": {
       "name": "DIOSNAEL TELECOMUNICACIONES",
       "type": "Unknown"
@@ -105506,10 +105486,6 @@
     },
     "141045": {
       "name": "Civil Network",
-      "type": "Unknown"
-    },
-    "136403": {
-      "name": "Persada Network Solusi",
       "type": "Unknown"
     },
     "219340": {
@@ -106452,10 +106428,6 @@
       "name": "CERNEWTECHRES-AS-CN",
       "type": "Unknown"
     },
-    "134601": {
-      "name": "MICROLINK-AS-AP",
-      "type": "Unknown"
-    },
     "28127": {
       "name": "ASN28127",
       "type": "Unknown"
@@ -106474,7 +106446,7 @@
     },
     "396917": {
       "name": "VELOX-AS-TILLSONBURG",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "18585": {
       "name": "Velox Wireless Inc.",
@@ -106622,7 +106594,7 @@
     },
     "152519": {
       "name": "JFPL-AS-IN",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "212898": {
       "name": "MeganetHD",
@@ -106718,7 +106690,7 @@
     },
     "275004": {
       "name": "275004",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "274877": {
       "name": "PARMO NETWORK",
@@ -106766,7 +106738,7 @@
     },
     "274005": {
       "name": "274005",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "219066": {
       "name": "KX712-SAS",
@@ -106782,7 +106754,7 @@
     },
     "219123": {
       "name": "MorniNetwork",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "219078": {
       "name": "Executor-Network",
@@ -106826,6 +106798,38 @@
     },
     "36003": {
       "name": "NOS-NOG",
+      "type": "Unknown"
+    },
+    "50144": {
+      "name": "UNIMATRIX-AS",
+      "type": "Content"
+    },
+    "37654": {
+      "name": "ORG-RMoE1-AFRINIC",
+      "type": "Unknown"
+    },
+    "219040": {
+      "name": "BREEZENODES-AS",
+      "type": "Unknown"
+    },
+    "274494": {
+      "name": "ASN274494",
+      "type": "Cable/DSL/ISP"
+    },
+    "219051": {
+      "name": "XND-NET",
+      "type": "NSP"
+    },
+    "274207": {
+      "name": "274207",
+      "type": "Unknown"
+    },
+    "274100": {
+      "name": "274100",
+      "type": "Unknown"
+    },
+    "273075": {
+      "name": "273075",
       "type": "Unknown"
     },
     "22822": {
@@ -113507,6 +113511,10 @@
     "29283": {
       "name": "Hub One SA",
       "type": "Cable/DSL/ISP"
+    },
+    "37479": {
+      "name": "Telviva (Pty) Ltd",
+      "type": "NSP"
     },
     "4767": {
       "name": "Asian Institute of Technology",
@@ -123530,7 +123538,7 @@
     },
     "131630": {
       "name": "Lazco (Global)",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "263096": {
       "name": "Inorpel Telecom",
@@ -129004,6 +129012,10 @@
       "name": "Global (India) Tele-Infra",
       "type": "Cable/DSL/ISP"
     },
+    "210320": {
+      "name": "Fexxio Digital",
+      "type": "Educational/Research"
+    },
     "265855": {
       "name": "LEGON TELECOMUNICACIONES",
       "type": "Cable/DSL/ISP"
@@ -134296,6 +134308,10 @@
       "name": "Österreichische Post AG",
       "type": "Enterprise"
     },
+    "216006": {
+      "name": "BLAZEHOST",
+      "type": "Network Services"
+    },
     "273709": {
       "name": "MR Telecom",
       "type": "Cable/DSL/ISP"
@@ -135715,10 +135731,6 @@
     "266764": {
       "name": "TERAN JORGE LUIS (Social Datos)",
       "type": "Cable/DSL/ISP"
-    },
-    "214834": {
-      "name": "Rekade Networks",
-      "type": "Content"
     },
     "152351": {
       "name": "PT Mitra Sinergi Jaya Abadi",
@@ -140056,6 +140068,10 @@
       "name": "CYBERVERSE-NG",
       "type": "NSP"
     },
+    "329731": {
+      "name": "Digital Delta IX Route Servers",
+      "type": "Route Server"
+    },
     "219367": {
       "name": "Andreas Fornberg",
       "type": "Non-Profit"
@@ -140067,6 +140083,10 @@
     "219332": {
       "name": "Pmman Network",
       "type": "Educational/Research"
+    },
+    "136403": {
+      "name": "PT Persada Network Solusi",
+      "type": "Cable/DSL/ISP"
     },
     "329311": {
       "name": "Unitic Limited",
@@ -140220,6 +140240,10 @@
       "name": "WLXLIMITED-AS-AP",
       "type": "Cable/DSL/ISP"
     },
+    "134601": {
+      "name": "MICROLINK-AS-AP",
+      "type": "Unknown"
+    },
     "275811": {
       "name": "ASN275811",
       "type": "Cable/DSL/ISP"
@@ -140243,6 +140267,10 @@
     "151245": {
       "name": "Yuelungu Network",
       "type": "Content"
+    },
+    "329406": {
+      "name": "ORG-RSSB1-AFRINIC",
+      "type": "Unknown"
     }
   }
 }
