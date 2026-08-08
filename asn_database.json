@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-07T02:09:39.846Z",
+  "updated_at": "2026-08-08T00:56:54.320Z",
   "source": "PeeringDB",
-  "entry_count": 35067,
+  "entry_count": 35079,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -9029,7 +9029,7 @@
       "type": "Content"
     },
     "44955": {
-      "name": "Dark Group Ltd",
+      "name": "DG Technology",
       "type": "Content"
     },
     "198570": {
@@ -33560,10 +33560,6 @@
       "name": "NIST",
       "type": "Unknown"
     },
-    "54033": {
-      "name": "PhillyIX Route Servers",
-      "type": "Route Server"
-    },
     "134186": {
       "name": "Paradise Technologies",
       "type": "Unknown"
@@ -35601,7 +35597,7 @@
       "type": "NSP"
     },
     "265446": {
-      "name": "FASTNET INFORMATICA",
+      "name": "FNT FAST TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "197502": {
@@ -56296,10 +56292,6 @@
       "name": "Stadtwerke Rostock",
       "type": "Cable/DSL/ISP"
     },
-    "138842": {
-      "name": "Internetwork Komunikasi Indonesia",
-      "type": "Cable/DSL/ISP"
-    },
     "271395": {
       "name": "LINKCOM TELECOM SERVICOS E TELECOMUNICACAO",
       "type": "Unknown"
@@ -72242,7 +72234,7 @@
     },
     "36262": {
       "name": "HashTable",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "210691": {
       "name": "AstroVPN",
@@ -74578,7 +74570,7 @@
     },
     "266095": {
       "name": "Zetek Telecom",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "271120": {
       "name": "Infonet Conect",
@@ -77939,10 +77931,6 @@
     "37732": {
       "name": "LINX Nairobi Route Collectors",
       "type": "Route Collector"
-    },
-    "16725": {
-      "name": "PhillyIX Cache Network",
-      "type": "Network Services"
     },
     "270815": {
       "name": "NC1 PROVERNET TECNOLOGIA",
@@ -88317,7 +88305,7 @@
       "type": "Content"
     },
     "133062": {
-      "name": "Telekomunikasi Indonesia",
+      "name": "PT. Telekomunikasi Indonesia",
       "type": "NSP"
     },
     "152716": {
@@ -106697,7 +106685,7 @@
       "type": "Cable/DSL/ISP"
     },
     "402532": {
-      "name": "GOLDEN-STATE-FIBER",
+      "name": "Golden State Fiber",
       "type": "Unknown"
     },
     "197884": {
@@ -106730,10 +106718,6 @@
     },
     "329755": {
       "name": "ORG-EUCL1-AFRINIC",
-      "type": "Unknown"
-    },
-    "274964": {
-      "name": "274964",
       "type": "Unknown"
     },
     "274005": {
@@ -106830,6 +106814,54 @@
     },
     "273075": {
       "name": "273075",
+      "type": "Unknown"
+    },
+    "197196": {
+      "name": "PANSTAR-AS",
+      "type": "Unknown"
+    },
+    "219034": {
+      "name": "BadAimWeeb",
+      "type": "Educational/Research"
+    },
+    "219160": {
+      "name": "PRIVATASOLUTIONS-AS",
+      "type": "Unknown"
+    },
+    "206916": {
+      "name": "SOUTHWEST-NET",
+      "type": "Unknown"
+    },
+    "219046": {
+      "name": "LIUSHANG-AS",
+      "type": "Unknown"
+    },
+    "219031": {
+      "name": "ROXYCLOUD",
+      "type": "Unknown"
+    },
+    "275818": {
+      "name": "ASN275818",
+      "type": "Unknown"
+    },
+    "211510": {
+      "name": "RDI-AT",
+      "type": "Cable/DSL/ISP"
+    },
+    "402725": {
+      "name": "1N7ER-NET",
+      "type": "Content"
+    },
+    "266184": {
+      "name": "ASN266184",
+      "type": "Unknown"
+    },
+    "219446": {
+      "name": "SOUTHAS",
+      "type": "Unknown"
+    },
+    "273894": {
+      "name": "273894",
       "type": "Unknown"
     },
     "22822": {
@@ -108253,7 +108285,7 @@
       "type": "NSP"
     },
     "197754": {
-      "name": "Christiaan Goossens",
+      "name": "AS197754",
       "type": "Unknown"
     },
     "50304": {
@@ -115436,6 +115468,10 @@
       "name": "Altitud Italia S.r.l.",
       "type": "Content"
     },
+    "54033": {
+      "name": "PhillyIX Route Servers",
+      "type": "Route Server"
+    },
     "136372": {
       "name": "Ss Fiber Net Optical Communication",
       "type": "Network Services"
@@ -120356,10 +120392,6 @@
       "name": "Webline Broadband",
       "type": "Unknown"
     },
-    "269046": {
-      "name": "First Telecom Network",
-      "type": "Cable/DSL/ISP"
-    },
     "139317": {
       "name": "ZX Education And Research Network",
       "type": "Educational/Research"
@@ -125028,6 +125060,10 @@
       "name": "Sns Internet Services",
       "type": "Cable/DSL/ISP"
     },
+    "138842": {
+      "name": "Internetwork Komunikasi Indonesia",
+      "type": "Enterprise"
+    },
     "328753": {
       "name": "Zeplin Investments",
       "type": "Cable/DSL/ISP"
@@ -126174,7 +126210,7 @@
     },
     "141743": {
       "name": "OzVPS",
-      "type": "Network Services"
+      "type": "Content"
     },
     "204923": {
       "name": "I.T.S. DI VACANTI ANGELO",
@@ -133232,6 +133268,10 @@
       "name": "EvobitsIT",
       "type": "Unknown"
     },
+    "16725": {
+      "name": "PhillyIX Cache Network",
+      "type": "Network Services"
+    },
     "209998": {
       "name": "ActiveNet",
       "type": "Unknown"
@@ -136089,7 +136129,7 @@
       "type": "Unknown"
     },
     "214630": {
-      "name": "Kyberorg IT",
+      "name": "KLab",
       "type": "Enterprise"
     },
     "273123": {
@@ -140260,6 +140300,10 @@
       "name": "SEFAZ - Secretaria de Estado de Fazenda de MS",
       "type": "Government"
     },
+    "274964": {
+      "name": "274964",
+      "type": "Unknown"
+    },
     "274913": {
       "name": "274913",
       "type": "Cable/DSL/ISP"
@@ -140271,6 +140315,10 @@
     "329406": {
       "name": "ORG-RSSB1-AFRINIC",
       "type": "Unknown"
+    },
+    "402902": {
+      "name": "JC-FLOAT-01",
+      "type": "Content"
     }
   }
 }
