@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-08T00:56:54.320Z",
+  "updated_at": "2026-08-09T01:00:06.828Z",
   "source": "PeeringDB",
-  "entry_count": 35079,
+  "entry_count": 35083,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -71912,10 +71912,6 @@
       "name": "HyperNet Chelyabinsk",
       "type": "Cable/DSL/ISP"
     },
-    "202338": {
-      "name": "Yixi Meta",
-      "type": "Unknown"
-    },
     "270077": {
       "name": "CABLE AUDIO VISIÓN",
       "type": "Cable/DSL/ISP"
@@ -85082,7 +85078,7 @@
     },
     "273223": {
       "name": "INGENIERÍA EN INFORMÁTICA MADENET SPA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "270092": {
       "name": "ZAMBRANO CARREÑO HUMBERTO ALEJANDRO (PROGRAMAX)",
@@ -105742,7 +105738,7 @@
     },
     "219271": {
       "name": "BERIFFANET",
-      "type": "Content"
+      "type": "Enterprise"
     },
     "402691": {
       "name": "SEL01",
@@ -106714,7 +106710,7 @@
     },
     "219079": {
       "name": "EKO-ANDRI-PRASETYO",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "329755": {
       "name": "ORG-EUCL1-AFRINIC",
@@ -106769,8 +106765,8 @@
       "type": "Unknown"
     },
     "219070": {
-      "name": "gbevm",
-      "type": "Unknown"
+      "name": "Compute, Inc. (GB & EU)",
+      "type": "NSP"
     },
     "219064": {
       "name": "Akenai-Products-AS",
@@ -106862,6 +106858,22 @@
     },
     "273894": {
       "name": "273894",
+      "type": "Unknown"
+    },
+    "24444": {
+      "name": "CMNET-V4shandong-AS-AP",
+      "type": "Unknown"
+    },
+    "402696": {
+      "name": "Elkhorn Technologies LLC",
+      "type": "Unknown"
+    },
+    "274998": {
+      "name": "274998",
+      "type": "Cable/DSL/ISP"
+    },
+    "136535": {
+      "name": "HRBM27-AS-AP",
       "type": "Unknown"
     },
     "22822": {
@@ -131174,6 +131186,10 @@
     },
     "400687": {
       "name": "Solytro LTD",
+      "type": "Unknown"
+    },
+    "202338": {
+      "name": "Yixi Meta",
       "type": "Unknown"
     },
     "202340": {
