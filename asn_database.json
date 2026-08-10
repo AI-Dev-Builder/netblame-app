@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-09T01:00:06.828Z",
+  "updated_at": "2026-08-10T01:02:04.911Z",
   "source": "PeeringDB",
-  "entry_count": 35083,
+  "entry_count": 35084,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -49156,10 +49156,6 @@
       "name": "Deneva",
       "type": "Content"
     },
-    "209294": {
-      "name": "FansNET",
-      "type": "Educational/Research"
-    },
     "269338": {
       "name": "JATO NET TELECOMUNICAÇÕES",
       "type": "Cable/DSL/ISP"
@@ -59315,6 +59311,10 @@
     "2864": {
       "name": "Aljaska.net.ua",
       "type": "Cable/DSL/ISP"
+    },
+    "211665": {
+      "name": "Hostrebel, Inc.",
+      "type": "Network Services"
     },
     "211633": {
       "name": "Keepit DE-FR",
@@ -76197,7 +76197,7 @@
       "type": "Unknown"
     },
     "206033": {
-      "name": "Repox Labs Ltd",
+      "name": "Repox Labs",
       "type": "NSP"
     },
     "271610": {
@@ -81044,10 +81044,6 @@
       "name": "HardCore",
       "type": "Cable/DSL/ISP"
     },
-    "200936": {
-      "name": "Chengjie Guo's Experimental Network (AS200936)",
-      "type": "Educational/Research"
-    },
     "29650": {
       "name": "VIATEL AVAILABILITY SERVICES LIMITED",
       "type": "Unknown"
@@ -82181,7 +82177,7 @@
       "type": "Unknown"
     },
     "215730": {
-      "name": "H2NEXUS",
+      "name": "H2NEXUS CLOUD SERVICES FZCO",
       "type": "NSP"
     },
     "206581": {
@@ -89228,10 +89224,6 @@
       "name": "KRIESANG LTDA ME",
       "type": "Unknown"
     },
-    "30216": {
-      "name": "STARMAX",
-      "type": "Unknown"
-    },
     "270741": {
       "name": "NossaNeT Fortaleza",
       "type": "Unknown"
@@ -90187,10 +90179,6 @@
     "329448": {
       "name": "AZAM MEDIA LIMITED",
       "type": "Unknown"
-    },
-    "139029": {
-      "name": "AKNETWORKS",
-      "type": "Cable/DSL/ISP"
     },
     "152391": {
       "name": "SHEEPNET",
@@ -94578,10 +94566,6 @@
     },
     "329376": {
       "name": "Zimbabwe Research & Education Network",
-      "type": "Unknown"
-    },
-    "214061": {
-      "name": "SECURESHIELD SOLUTIONS LLC",
       "type": "Unknown"
     },
     "150150": {
@@ -106132,10 +106116,6 @@
       "name": "MICROGRUPO COMUNICACIONES",
       "type": "Unknown"
     },
-    "402778": {
-      "name": "ATABYTE",
-      "type": "Content"
-    },
     "131624": {
       "name": "Dowtek",
       "type": "Unknown"
@@ -106477,7 +106457,7 @@
       "type": "Content"
     },
     "154522": {
-      "name": "IDNIC-QUICKNET-AS-ID",
+      "name": "Quicknet Nusantara Teknologi",
       "type": "Unknown"
     },
     "273896": {
@@ -106874,6 +106854,26 @@
     },
     "136535": {
       "name": "HRBM27-AS-AP",
+      "type": "Unknown"
+    },
+    "60982": {
+      "name": "XZONE",
+      "type": "Unknown"
+    },
+    "205013": {
+      "name": "JESSYU",
+      "type": "Unknown"
+    },
+    "8126": {
+      "name": "CLOUDFABRIC",
+      "type": "Unknown"
+    },
+    "154773": {
+      "name": "PAYOWEB",
+      "type": "Enterprise"
+    },
+    "219357": {
+      "name": "ORG-IKEA2-RIPE-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -116920,10 +116920,6 @@
       "name": "SMARTLINK TECNOLOGIA EM INTERNET",
       "type": "Cable/DSL/ISP"
     },
-    "268291": {
-      "name": "MI NET TELECOM",
-      "type": "Cable/DSL/ISP"
-    },
     "201502": {
       "name": "Societa Cooperativa JCom",
       "type": "Cable/DSL/ISP"
@@ -122260,6 +122256,10 @@
       "name": "DALTONY CARLOS TAVARES CAETANO MUNHOZ ME",
       "type": "Cable/DSL/ISP"
     },
+    "209294": {
+      "name": "FansNET",
+      "type": "Educational/Research"
+    },
     "44061": {
       "name": "SAT-MONT-SERVICE Sp. J.",
       "type": "NSP"
@@ -126392,10 +126392,6 @@
       "name": "FGLTEL",
       "type": "NSP"
     },
-    "211665": {
-      "name": "Hostrebel, Inc.",
-      "type": "Network Services"
-    },
     "22386": {
       "name": "South African Reserve Bank",
       "type": "Enterprise"
@@ -127369,7 +127365,7 @@
       "type": "Cable/DSL/ISP"
     },
     "270826": {
-      "name": "VELiNK INTERNET BR",
+      "name": "VELiNK FiBRA BR",
       "type": "NSP"
     },
     "399663": {
@@ -134420,6 +134416,10 @@
       "name": "Excloud",
       "type": "Enterprise"
     },
+    "200936": {
+      "name": "Chengjie Guo's Experimental Network (AS200936)",
+      "type": "Educational/Research"
+    },
     "329346": {
       "name": "Light Bridge Internet (Pty) Ltd",
       "type": "Cable/DSL/ISP"
@@ -135661,7 +135661,7 @@
       "type": "NSP"
     },
     "214973": {
-      "name": "AXST",
+      "name": "Apex Strata Ltd",
       "type": "Content"
     },
     "40463": {
@@ -140255,6 +140255,10 @@
     "57295": {
       "name": "czk-mk",
       "type": "Educational/Research"
+    },
+    "402778": {
+      "name": "ATABYTE",
+      "type": "Content"
     },
     "219210": {
       "name": "ZiMo Wang",
