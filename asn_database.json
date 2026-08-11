@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-10T01:02:04.911Z",
+  "updated_at": "2026-08-11T01:01:24.643Z",
   "source": "PeeringDB",
-  "entry_count": 35084,
+  "entry_count": 35089,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -99860,10 +99860,6 @@
       "name": "DAI HUU SERVICE AND TRADING MECHANICAL COMPANY LIMITED",
       "type": "Unknown"
     },
-    "152382": {
-      "name": "Kartika Siger Network",
-      "type": "Cable/DSL/ISP"
-    },
     "216169": {
       "name": "Mtserver",
       "type": "Unknown"
@@ -102563,10 +102559,6 @@
     "152761": {
       "name": "ARRAB NETWORK",
       "type": "Cable/DSL/ISP"
-    },
-    "154480": {
-      "name": "Gerbang Nusantara Sakti",
-      "type": "Unknown"
     },
     "398273": {
       "name": "Firm Trade Corporation - Fremont (AS398273)",
@@ -106521,7 +106513,7 @@
       "type": "Unknown"
     },
     "402835": {
-      "name": "LINUS-MEDIA-GROUP",
+      "name": "Linus Media Group",
       "type": "Unknown"
     },
     "37301": {
@@ -106794,7 +106786,7 @@
     },
     "197196": {
       "name": "PANSTAR-AS",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "219034": {
       "name": "BadAimWeeb",
@@ -106802,10 +106794,6 @@
     },
     "219160": {
       "name": "PRIVATASOLUTIONS-AS",
-      "type": "Unknown"
-    },
-    "206916": {
-      "name": "SOUTHWEST-NET",
       "type": "Unknown"
     },
     "219046": {
@@ -106874,6 +106862,26 @@
     },
     "219357": {
       "name": "ORG-IKEA2-RIPE-AS",
+      "type": "Unknown"
+    },
+    "137232": {
+      "name": "Nexon Anysip",
+      "type": "Network Services"
+    },
+    "10761": {
+      "name": "TRICETEL",
+      "type": "Unknown"
+    },
+    "265042": {
+      "name": "ASN265042",
+      "type": "Unknown"
+    },
+    "53366": {
+      "name": "TILLLMAN-FIBER-CO",
+      "type": "Unknown"
+    },
+    "396176": {
+      "name": "NADCORP-AS1",
       "type": "Unknown"
     },
     "22822": {
@@ -122666,6 +122674,10 @@
     },
     "135043": {
       "name": "DOEN NET",
+      "type": "Cable/DSL/ISP"
+    },
+    "134993": {
+      "name": "IIDS-AS-AP",
       "type": "Cable/DSL/ISP"
     },
     "45315": {
@@ -139276,6 +139288,10 @@
       "name": "Jelle Leenaert",
       "type": "Unknown"
     },
+    "152382": {
+      "name": "Kartika Siger Network",
+      "type": "Cable/DSL/ISP"
+    },
     "153876": {
       "name": "Oofydi Media Group",
       "type": "Cable/DSL/ISP"
@@ -139485,7 +139501,7 @@
       "type": "Enterprise"
     },
     "201541": {
-      "name": "Nedas Dozorec",
+      "name": "LixPacket",
       "type": "Educational/Research"
     },
     "11150": {
@@ -140333,8 +140349,12 @@
       "type": "Content"
     },
     "329406": {
-      "name": "ORG-RSSB1-AFRINIC",
-      "type": "Unknown"
+      "name": "RSSB",
+      "type": "Government"
+    },
+    "206916": {
+      "name": "SOUTHWEST-NET",
+      "type": "Network Services"
     },
     "402902": {
       "name": "JC-FLOAT-01",
