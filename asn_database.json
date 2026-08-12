@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-11T01:01:24.643Z",
+  "updated_at": "2026-08-12T01:08:34.607Z",
   "source": "PeeringDB",
-  "entry_count": 35089,
+  "entry_count": 35103,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -35904,10 +35904,6 @@
       "name": "Pengelola Nama Domain Internet Indonesia AS56088",
       "type": "Unknown"
     },
-    "202418": {
-      "name": "DELTAMAN",
-      "type": "Educational/Research"
-    },
     "56702": {
       "name": "Chitatechenergo",
       "type": "Unknown"
@@ -37290,7 +37286,7 @@
     },
     "267370": {
       "name": "ConnectNet Brasil",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "262274": {
       "name": "Viveiros & Araujo Serv de Prov da Int",
@@ -54782,10 +54778,6 @@
     },
     "398478": {
       "name": "Peg Tech Hong Kong",
-      "type": "Unknown"
-    },
-    "271254": {
-      "name": "ME TELECOM SERVIÇOS DE INTERNET LTDA",
       "type": "Unknown"
     },
     "140732": {
@@ -81256,10 +81248,6 @@
       "name": "ORIZON TELECOM S.A",
       "type": "Cable/DSL/ISP"
     },
-    "38999": {
-      "name": "Mobile Interim Company no.2 sal",
-      "type": "Unknown"
-    },
     "398467": {
       "name": "HZYF",
       "type": "Enterprise"
@@ -82424,6 +82412,10 @@
       "name": "Web Gostaran Shaina Shiraz LLC",
       "type": "Unknown"
     },
+    "215581": {
+      "name": "ALEX",
+      "type": "Unknown"
+    },
     "215662": {
       "name": "Kensington Mortgages",
       "type": "Unknown"
@@ -82575,6 +82567,10 @@
     "26252": {
       "name": "Legrand North America, Inc.",
       "type": "Unknown"
+    },
+    "11358": {
+      "name": "Tennant Software",
+      "type": "Content"
     },
     "152349": {
       "name": "PT Majapahit Network Indonesia",
@@ -93046,7 +93042,7 @@
     },
     "3819": {
       "name": "ARIN-EDGEPRIZM-ASN",
-      "type": "Unknown"
+      "type": "Content"
     },
     "201117": {
       "name": "ZeroPlex",
@@ -95410,7 +95406,7 @@
     },
     "395412": {
       "name": "VS Media",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "141753": {
       "name": "CBC TECH INTERNATIONAL",
@@ -98837,7 +98833,7 @@
       "type": "Cable/DSL/ISP"
     },
     "203757": {
-      "name": "Gregor Czubayko",
+      "name": "klegul",
       "type": "Educational/Research"
     },
     "57768": {
@@ -101246,7 +101242,7 @@
     },
     "398317": {
       "name": "FIRE-FI",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "40806": {
       "name": "GrapheneOS",
@@ -102559,6 +102555,10 @@
     "152761": {
       "name": "ARRAB NETWORK",
       "type": "Cable/DSL/ISP"
+    },
+    "154480": {
+      "name": "Gerbang Nusantara Sakti",
+      "type": "Unknown"
     },
     "398273": {
       "name": "Firm Trade Corporation - Fremont (AS398273)",
@@ -106478,7 +106478,7 @@
     },
     "263746": {
       "name": "263746",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "154760": {
       "name": "IDNIC-TIMURTEL-AS-ID",
@@ -106804,10 +106804,6 @@
       "name": "ROXYCLOUD",
       "type": "Unknown"
     },
-    "275818": {
-      "name": "ASN275818",
-      "type": "Unknown"
-    },
     "211510": {
       "name": "RDI-AT",
       "type": "Cable/DSL/ISP"
@@ -106842,7 +106838,7 @@
     },
     "136535": {
       "name": "HRBM27-AS-AP",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "60982": {
       "name": "XZONE",
@@ -106882,6 +106878,50 @@
     },
     "396176": {
       "name": "NADCORP-AS1",
+      "type": "Unknown"
+    },
+    "137958": {
+      "name": "CAPTI1-AS-AP",
+      "type": "Unknown"
+    },
+    "152907": {
+      "name": "PTCI-AS-AP",
+      "type": "Unknown"
+    },
+    "198997": {
+      "name": "AS198997",
+      "type": "Content"
+    },
+    "21139": {
+      "name": "EU-SONY-ITE",
+      "type": "Unknown"
+    },
+    "402732": {
+      "name": "SMITHS INVESTMENTS LLC",
+      "type": "Unknown"
+    },
+    "219004": {
+      "name": "YN-NETWORKS",
+      "type": "Unknown"
+    },
+    "154824": {
+      "name": "COMPUTE-AS-AP",
+      "type": "Unknown"
+    },
+    "218985": {
+      "name": "YUWANG-AS",
+      "type": "Educational/Research"
+    },
+    "218984": {
+      "name": "AR_SOLUTION",
+      "type": "Unknown"
+    },
+    "219118": {
+      "name": "MIA-AI",
+      "type": "Unknown"
+    },
+    "274088": {
+      "name": "274088",
       "type": "Unknown"
     },
     "22822": {
@@ -116552,6 +116592,10 @@
       "name": "Anugrah Karunia Perkasa Abadi",
       "type": "Cable/DSL/ISP"
     },
+    "202418": {
+      "name": "DELTAMAN",
+      "type": "Educational/Research"
+    },
     "265369": {
       "name": "C-ComTelecom Servicos",
       "type": "Cable/DSL/ISP"
@@ -123672,6 +123716,10 @@
       "name": "Cityline Networks",
       "type": "Cable/DSL/ISP"
     },
+    "45316": {
+      "name": "Pemkot Bogor",
+      "type": "Non-Profit"
+    },
     "44814": {
       "name": "Bulgartel",
       "type": "Unknown"
@@ -124427,6 +124475,10 @@
     "266636": {
       "name": "REDE WORKS TELECOM",
       "type": "NSP"
+    },
+    "271254": {
+      "name": "ME TELECOM SERVIÇOS DE INTERNET LTDA",
+      "type": "Cable/DSL/ISP"
     },
     "394177": {
       "name": "Shift Hosting",
@@ -134484,6 +134536,10 @@
       "name": "Twish Tech",
       "type": "Unknown"
     },
+    "38999": {
+      "name": "Mobile Interim Company no.2 sal",
+      "type": "Unknown"
+    },
     "150447": {
       "name": "Woofy Incorporated",
       "type": "Cable/DSL/ISP"
@@ -134947,10 +135003,6 @@
     "26520": {
       "name": "HLITSERVICES",
       "type": "Non-Profit"
-    },
-    "11358": {
-      "name": "Tennant Software",
-      "type": "Content"
     },
     "215620": {
       "name": "Kolan Bilisim Teknolojileri",
@@ -140359,6 +140411,10 @@
     "402902": {
       "name": "JC-FLOAT-01",
       "type": "Content"
+    },
+    "328385": {
+      "name": "RRA",
+      "type": "Unknown"
     }
   }
 }
