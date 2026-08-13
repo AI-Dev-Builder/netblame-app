@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-12T01:08:34.607Z",
+  "updated_at": "2026-08-13T01:10:42.265Z",
   "source": "PeeringDB",
-  "entry_count": 35103,
+  "entry_count": 35112,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -4723,10 +4723,6 @@
     "33864": {
       "name": "WDC",
       "type": "Content"
-    },
-    "42937": {
-      "name": "BIT",
-      "type": "Unknown"
     },
     "13147": {
       "name": "NetInfo AD",
@@ -14012,10 +14008,6 @@
       "name": "OTEnet",
       "type": "Cable/DSL/ISP"
     },
-    "393742": {
-      "name": "Biyort USA Corp",
-      "type": "NSP"
-    },
     "48310": {
       "name": "IMS Dynamics",
       "type": "NSP"
@@ -22298,10 +22290,6 @@
     },
     "57022": {
       "name": "DataVita",
-      "type": "Unknown"
-    },
-    "33036": {
-      "name": "Parlor.me Inc.",
       "type": "Unknown"
     },
     "63598": {
@@ -39400,10 +39388,6 @@
       "name": "Amin IDC",
       "type": "Content"
     },
-    "54009": {
-      "name": "Brudda Networks",
-      "type": "Unknown"
-    },
     "209959": {
       "name": "MWA.group",
       "type": "Content"
@@ -54264,10 +54248,6 @@
       "name": "BNET SOLUÇÕES EM INTERNET",
       "type": "Cable/DSL/ISP"
     },
-    "396095": {
-      "name": "Plexxis Software",
-      "type": "Unknown"
-    },
     "266858": {
       "name": "INTERNET & MEDIA",
       "type": "Unknown"
@@ -63042,10 +63022,6 @@
     },
     "52821": {
       "name": "Torres e Anselmi",
-      "type": "Unknown"
-    },
-    "25425": {
-      "name": "SCF Management Services (Cyprus) Ltd",
       "type": "Unknown"
     },
     "267699": {
@@ -75049,8 +75025,8 @@
       "type": "Non-Profit"
     },
     "199689": {
-      "name": "Josha Prior",
-      "type": "Unknown"
+      "name": "Netralex DNS",
+      "type": "NSP"
     },
     "269901": {
       "name": "MARAVECA TELECOMUNICACIONES",
@@ -81462,7 +81438,7 @@
     },
     "6206": {
       "name": "Netrouting",
-      "type": "Network Services"
+      "type": "NSP"
     },
     "9928": {
       "name": "INIXP Asia RouteServer",
@@ -85101,12 +85077,12 @@
       "type": "Cable/DSL/ISP"
     },
     "216406": {
-      "name": "Riyadh IX Route Collectors",
-      "type": "Route Collector"
-    },
-    "216407": {
       "name": "Riyadh IX Route Servers",
       "type": "Route Server"
+    },
+    "216407": {
+      "name": "Riyadh IX Route Collector",
+      "type": "Route Collector"
     },
     "272099": {
       "name": "WIRSCHKE MONGES RICARDO DANIEL",
@@ -94088,10 +94064,6 @@
       "name": "PRIVATE NETWORKS",
       "type": "Enterprise"
     },
-    "216260": {
-      "name": "MAIK Network",
-      "type": "Non-Profit"
-    },
     "215080": {
       "name": "Jana-Steuernagel",
       "type": "Content"
@@ -101242,7 +101214,7 @@
     },
     "398317": {
       "name": "FIRE-FI",
-      "type": "Cable/DSL/ISP"
+      "type": "Network Services"
     },
     "40806": {
       "name": "GrapheneOS",
@@ -102199,10 +102171,6 @@
     "267050": {
       "name": "LMNET TELECOM",
       "type": "NSP"
-    },
-    "19948": {
-      "name": "RES19948",
-      "type": "Unknown"
     },
     "395648": {
       "name": "Carbon Network Solutions LLC",
@@ -103317,7 +103285,7 @@
       "type": "Unknown"
     },
     "199180": {
-      "name": "LAGOM PRODUCTS",
+      "name": "Lagom Products LLC",
       "type": "Unknown"
     },
     "198657": {
@@ -106429,8 +106397,8 @@
       "type": "Cable/DSL/ISP"
     },
     "150284": {
-      "name": "IDNIC-PASTINET-AS-ID",
-      "type": "Unknown"
+      "name": "PASTINET-150284",
+      "type": "Cable/DSL/ISP"
     },
     "219361": {
       "name": "SHIKANOKO-NETWORKS",
@@ -106912,16 +106880,84 @@
       "name": "YUWANG-AS",
       "type": "Educational/Research"
     },
-    "218984": {
-      "name": "AR_SOLUTION",
-      "type": "Unknown"
-    },
     "219118": {
       "name": "MIA-AI",
       "type": "Unknown"
     },
     "274088": {
       "name": "274088",
+      "type": "Unknown"
+    },
+    "218993": {
+      "name": "Netlab Global",
+      "type": "Unknown"
+    },
+    "218981": {
+      "name": "Astral-Clocktower-LLC",
+      "type": "Unknown"
+    },
+    "329785": {
+      "name": "ORG-BCL6-AFRINIC",
+      "type": "Unknown"
+    },
+    "269604": {
+      "name": "ASN269604",
+      "type": "Unknown"
+    },
+    "271728": {
+      "name": "ASN271728",
+      "type": "Unknown"
+    },
+    "402919": {
+      "name": "NYALLO",
+      "type": "Unknown"
+    },
+    "274336": {
+      "name": "ASN274336",
+      "type": "Unknown"
+    },
+    "274087": {
+      "name": "274087",
+      "type": "Unknown"
+    },
+    "219013": {
+      "name": "SFF-AS",
+      "type": "Unknown"
+    },
+    "219008": {
+      "name": "MAGNOHOST",
+      "type": "Unknown"
+    },
+    "218973": {
+      "name": "ONEZEROTEL",
+      "type": "Enterprise"
+    },
+    "269304": {
+      "name": "ASN269304",
+      "type": "Unknown"
+    },
+    "402908": {
+      "name": "RACKWORKS-LLC",
+      "type": "NSP"
+    },
+    "46436": {
+      "name": "XR-ASN1",
+      "type": "Unknown"
+    },
+    "219337": {
+      "name": "PLAY2GO - FZCO",
+      "type": "Enterprise"
+    },
+    "203154": {
+      "name": "MITELIS-DOWNSTREAM",
+      "type": "Unknown"
+    },
+    "11917": {
+      "name": "META-02",
+      "type": "Unknown"
+    },
+    "32424": {
+      "name": "SYMBIOTIC-NET",
       "type": "Unknown"
     },
     "22822": {
@@ -123637,7 +123673,7 @@
       "type": "NSP"
     },
     "131630": {
-      "name": "Lazco (Global)",
+      "name": "Lazco",
       "type": "Cable/DSL/ISP"
     },
     "263096": {
@@ -132869,7 +132905,7 @@
       "type": "Educational/Research"
     },
     "150786": {
-      "name": "Maharlika Content",
+      "name": "MCI",
       "type": "Content"
     },
     "266282": {
@@ -137248,10 +137284,6 @@
       "name": "StepBroBD, Inc.",
       "type": "Educational/Research"
     },
-    "397384": {
-      "name": "LAUNCHVPS",
-      "type": "Content"
-    },
     "213782": {
       "name": "GoForceX Network",
       "type": "Educational/Research"
@@ -139557,7 +139589,7 @@
       "type": "Educational/Research"
     },
     "11150": {
-      "name": "American IX ★ SPFDMA Route Servers",
+      "name": "American IX ★ Route Servers",
       "type": "Network Services"
     },
     "201423": {
@@ -140415,6 +140447,10 @@
     "328385": {
       "name": "RRA",
       "type": "Unknown"
+    },
+    "218984": {
+      "name": "AR_SOLUTION",
+      "type": "Network Services"
     }
   }
 }
