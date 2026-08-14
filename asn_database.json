@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-13T01:10:42.265Z",
+  "updated_at": "2026-08-14T01:09:17.628Z",
   "source": "PeeringDB",
-  "entry_count": 35112,
+  "entry_count": 35125,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -30506,7 +30506,7 @@
     },
     "24806": {
       "name": "INTERNET CZ",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "49633": {
       "name": "MGK",
@@ -62060,6 +62060,10 @@
       "name": "STARTELECOM S.A.",
       "type": "Cable/DSL/ISP"
     },
+    "211072": {
+      "name": "MFI-AS",
+      "type": "Educational/Research"
+    },
     "139931": {
       "name": "Bangladesh Submarine Cables Public Limited Company (BSCPLC)",
       "type": "Unknown"
@@ -67152,10 +67156,6 @@
       "name": "Nizhnevolzhskie Telecommunication Networks Real",
       "type": "Cable/DSL/ISP"
     },
-    "400497": {
-      "name": "Future Broadband",
-      "type": "Cable/DSL/ISP"
-    },
     "147030": {
       "name": "Mynet NC",
       "type": "Unknown"
@@ -69622,7 +69622,7 @@
     },
     "149835": {
       "name": "JFTECH IT SOLUTIONS",
-      "type": "Educational/Research"
+      "type": "Cable/DSL/ISP"
     },
     "1025": {
       "name": "Valor Christian High School - Edge",
@@ -71706,7 +71706,7 @@
     },
     "400725": {
       "name": "Zephyr Monitors",
-      "type": "Cable/DSL/ISP"
+      "type": "Enterprise"
     },
     "138025": {
       "name": "RBC CABLE MASTER SYSTEM",
@@ -87994,7 +87994,7 @@
     },
     "50633": {
       "name": "NET-CITY",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "329472": {
       "name": "SPARK Internet Service Provider",
@@ -96917,7 +96917,7 @@
       "type": "Unknown"
     },
     "53239": {
-      "name": "Companhia de Governança Eletrônica do Salvador",
+      "name": "COMPANHIA SALVADOR CIDADE INTELIGENTE",
       "type": "Enterprise"
     },
     "48269": {
@@ -99962,7 +99962,7 @@
     },
     "142169": {
       "name": "HIRDHAV TECHNOLOGIES",
-      "type": "Unknown"
+      "type": "Content"
     },
     "205305": {
       "name": "Gabriel Peron",
@@ -100181,7 +100181,7 @@
       "type": "Government"
     },
     "201875": {
-      "name": "Trendingjobs",
+      "name": "InterRacks AMS",
       "type": "Content"
     },
     "36346": {
@@ -104962,7 +104962,7 @@
     },
     "402366": {
       "name": "SOHEIL-DS",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "213473": {
       "name": "kalaam-KSA",
@@ -105679,10 +105679,6 @@
     "219272": {
       "name": "TECHZOLO",
       "type": "Unknown"
-    },
-    "219271": {
-      "name": "BERIFFANET",
-      "type": "Enterprise"
     },
     "402691": {
       "name": "SEL01",
@@ -106509,7 +106505,7 @@
       "type": "NSP"
     },
     "197245": {
-      "name": "patrick-fennell",
+      "name": "ZelNET",
       "type": "Unknown"
     },
     "51702": {
@@ -106908,10 +106904,6 @@
       "name": "ASN271728",
       "type": "Unknown"
     },
-    "402919": {
-      "name": "NYALLO",
-      "type": "Unknown"
-    },
     "274336": {
       "name": "ASN274336",
       "type": "Unknown"
@@ -106958,6 +106950,62 @@
     },
     "32424": {
       "name": "SYMBIOTIC-NET",
+      "type": "Unknown"
+    },
+    "402117": {
+      "name": "WHITE-TIE-PRODUCTIONS",
+      "type": "Unknown"
+    },
+    "219026": {
+      "name": "Inter.link Services",
+      "type": "Network Services"
+    },
+    "218969": {
+      "name": "SHEEPMC-NETWORKS",
+      "type": "Unknown"
+    },
+    "218995": {
+      "name": "BMD3-AS",
+      "type": "Unknown"
+    },
+    "209928": {
+      "name": "Angelinks",
+      "type": "Unknown"
+    },
+    "402898": {
+      "name": "PPFLIGHT",
+      "type": "Unknown"
+    },
+    "329786": {
+      "name": "ORG-SSIL1-AFRINIC",
+      "type": "Network Services"
+    },
+    "218961": {
+      "name": "d0",
+      "type": "Unknown"
+    },
+    "218966": {
+      "name": "Luis_Meireles",
+      "type": "Unknown"
+    },
+    "10327": {
+      "name": "WATEEFY",
+      "type": "Unknown"
+    },
+    "154831": {
+      "name": "GEGCL-AS-AP",
+      "type": "Unknown"
+    },
+    "265547": {
+      "name": "265547",
+      "type": "Unknown"
+    },
+    "329078": {
+      "name": "ABARI-FTTH",
+      "type": "Cable/DSL/ISP"
+    },
+    "402811": {
+      "name": "AS-IACDN",
       "type": "Unknown"
     },
     "22822": {
@@ -128230,7 +128278,7 @@
     },
     "328935": {
       "name": "Pres Connect",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "58336": {
       "name": "TsingYao Network 1",
@@ -140361,7 +140409,7 @@
       "type": "Content"
     },
     "219210": {
-      "name": "ZiMo Wang",
+      "name": "QAQNet",
       "type": "Educational/Research"
     },
     "219349": {
@@ -140451,6 +140499,10 @@
     "218984": {
       "name": "AR_SOLUTION",
       "type": "Network Services"
+    },
+    "402919": {
+      "name": "Nyallo",
+      "type": "Content"
     }
   }
 }
