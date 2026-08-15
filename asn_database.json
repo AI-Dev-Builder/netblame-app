@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-14T01:09:17.628Z",
+  "updated_at": "2026-08-15T00:42:06.313Z",
   "source": "PeeringDB",
-  "entry_count": 35125,
+  "entry_count": 35131,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -58820,10 +58820,6 @@
       "name": "VETTORE INGENIERIA",
       "type": "Unknown"
     },
-    "57330": {
-      "name": "SharkNetwork",
-      "type": "Cable/DSL/ISP"
-    },
     "139508": {
       "name": "Wide Netcom India",
       "type": "Unknown"
@@ -102524,10 +102520,6 @@
       "name": "ARRAB NETWORK",
       "type": "Cable/DSL/ISP"
     },
-    "154480": {
-      "name": "Gerbang Nusantara Sakti",
-      "type": "Unknown"
-    },
     "398273": {
       "name": "Firm Trade Corporation - Fremont (AS398273)",
       "type": "NSP"
@@ -105004,10 +104996,6 @@
       "name": "CrocNet",
       "type": "Unknown"
     },
-    "39212": {
-      "name": "andeo",
-      "type": "Content"
-    },
     "219437": {
       "name": "OCTACHORON STUDIO LTD",
       "type": "Content"
@@ -105606,7 +105594,7 @@
     },
     "329773": {
       "name": "Maisha Home Broadband",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "402615": {
       "name": "Internet Colocation Thunder Bay",
@@ -105679,6 +105667,10 @@
     "219272": {
       "name": "TECHZOLO",
       "type": "Unknown"
+    },
+    "219271": {
+      "name": "BERIFFANET",
+      "type": "Enterprise"
     },
     "402691": {
       "name": "SEL01",
@@ -106960,10 +106952,6 @@
       "name": "Inter.link Services",
       "type": "Network Services"
     },
-    "218969": {
-      "name": "SHEEPMC-NETWORKS",
-      "type": "Unknown"
-    },
     "218995": {
       "name": "BMD3-AS",
       "type": "Unknown"
@@ -107007,6 +106995,30 @@
     "402811": {
       "name": "AS-IACDN",
       "type": "Unknown"
+    },
+    "268832": {
+      "name": "ASN268832",
+      "type": "Unknown"
+    },
+    "329792": {
+      "name": "ORG-FIL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "218963": {
+      "name": "KPEDV",
+      "type": "Unknown"
+    },
+    "154716": {
+      "name": "IDNIC-JNET-AS-ID",
+      "type": "Unknown"
+    },
+    "219015": {
+      "name": "maevi-as",
+      "type": "Unknown"
+    },
+    "3507": {
+      "name": "IPSWAT TEAM",
+      "type": "Non-Profit"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -126320,6 +126332,10 @@
       "name": "Digitale Suisse",
       "type": "Network Services"
     },
+    "57330": {
+      "name": "GiraffeTech",
+      "type": "Educational/Research"
+    },
     "141339": {
       "name": "Lalat Internet Service",
       "type": "Cable/DSL/ISP"
@@ -133765,7 +133781,7 @@
       "type": "Cable/DSL/ISP"
     },
     "264864": {
-      "name": "NVNET PROVEDOR DE INTERNET E SERVICOS LTDA ME",
+      "name": "ALTAVIA CONEXAO LTDA",
       "type": "Cable/DSL/ISP"
     },
     "149723": {
@@ -139944,6 +139960,10 @@
       "name": "Tianshome.net",
       "type": "NSP"
     },
+    "154480": {
+      "name": "Gerbang Nusantara Sakti",
+      "type": "Cable/DSL/ISP"
+    },
     "273304": {
       "name": "Somnet de México",
       "type": "Network Services"
@@ -140232,6 +140252,10 @@
       "name": "NEKONODE",
       "type": "Content"
     },
+    "39212": {
+      "name": "andeo",
+      "type": "Content"
+    },
     "219505": {
       "name": "GERNOTH",
       "type": "Educational/Research"
@@ -140282,7 +140306,7 @@
     },
     "219378": {
       "name": "Sakarin Network",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "219332": {
       "name": "Pmman Network",
