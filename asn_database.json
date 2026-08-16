@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-15T00:42:06.313Z",
+  "updated_at": "2026-08-16T00:44:17.381Z",
   "source": "PeeringDB",
   "entry_count": 35131,
   "entries": {
@@ -24872,10 +24872,6 @@
       "name": "Acronis Asia",
       "type": "Unknown"
     },
-    "264153": {
-      "name": "Cable.com Telecomunicações",
-      "type": "Unknown"
-    },
     "264793": {
       "name": "NETWORK TECHNOLOGIES LIMITED",
       "type": "Unknown"
@@ -42500,10 +42496,6 @@
       "name": "Loto Quebec",
       "type": "Enterprise"
     },
-    "267327": {
-      "name": "nkm ramos informatica",
-      "type": "Unknown"
-    },
     "46573": {
       "name": "LayerHost",
       "type": "Content"
@@ -54986,10 +54978,6 @@
     },
     "134658": {
       "name": "JULIA MULTIMEDIA NUSANTARA",
-      "type": "Cable/DSL/ISP"
-    },
-    "265349": {
-      "name": "LAN SOLUTIONS INFORMATICA LTDA.",
       "type": "Cable/DSL/ISP"
     },
     "271117": {
@@ -82636,10 +82624,6 @@
       "name": "UTEXAS",
       "type": "Unknown"
     },
-    "400413": {
-      "name": "MARTINCOIT",
-      "type": "Unknown"
-    },
     "215517": {
       "name": "Tim Weippert",
       "type": "Educational/Research"
@@ -93400,10 +93384,6 @@
       "name": "LIGHTCHANGE",
       "type": "Enterprise"
     },
-    "213771": {
-      "name": "DCC TECH LTD",
-      "type": "Cable/DSL/ISP"
-    },
     "401658": {
       "name": "Donald L Davidson Fuels",
       "type": "Cable/DSL/ISP"
@@ -99636,10 +99616,6 @@
       "name": "Moveon Telecoms Limited (AS329593)",
       "type": "NSP"
     },
-    "209466": {
-      "name": "DROVIACOMPUTACAO",
-      "type": "NSP"
-    },
     "37969": {
       "name": "AIDC-CN",
       "type": "Network Services"
@@ -102082,10 +102058,6 @@
     },
     "19577": {
       "name": "CASTRO TELECOM LLC",
-      "type": "Unknown"
-    },
-    "4577": {
-      "name": "Wispoto, LLC",
       "type": "Unknown"
     },
     "151784": {
@@ -106717,7 +106689,7 @@
       "type": "Unknown"
     },
     "219040": {
-      "name": "BREEZENODES-AS",
+      "name": "BREEZENODES",
       "type": "Unknown"
     },
     "274494": {
@@ -107019,6 +106991,42 @@
     "3507": {
       "name": "IPSWAT TEAM",
       "type": "Non-Profit"
+    },
+    "218983": {
+      "name": "TYA-AS",
+      "type": "Unknown"
+    },
+    "402613": {
+      "name": "MILAN-GLOBAL",
+      "type": "Unknown"
+    },
+    "219164": {
+      "name": "PortDC",
+      "type": "Content"
+    },
+    "56325": {
+      "name": "ENDCLIENT",
+      "type": "Unknown"
+    },
+    "219158": {
+      "name": "MDWS",
+      "type": "Non-Profit"
+    },
+    "218991": {
+      "name": "MayaCraft-AS",
+      "type": "Unknown"
+    },
+    "398879": {
+      "name": "SUSQ-BROADBAND",
+      "type": "Unknown"
+    },
+    "219183": {
+      "name": "MyCheapHost",
+      "type": "Content"
+    },
+    "269122": {
+      "name": "ASN269122",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -109082,10 +109090,6 @@
     },
     "60725": {
       "name": "SES Networks",
-      "type": "Cable/DSL/ISP"
-    },
-    "262901": {
-      "name": "VCNet Provedora de Internet",
       "type": "Cable/DSL/ISP"
     },
     "58715": {
@@ -123662,7 +123666,7 @@
     },
     "60354": {
       "name": "Richie",
-      "type": "Unknown"
+      "type": "Content"
     },
     "267288": {
       "name": "PONGAR TELECOM",
@@ -124868,10 +124872,6 @@
       "name": "Inova Teleinformatica",
       "type": "Cable/DSL/ISP"
     },
-    "263059": {
-      "name": "Cleber Luciano dos Anjos",
-      "type": "NSP"
-    },
     "208974": {
       "name": "Benedikt Neuffer",
       "type": "Unknown"
@@ -125376,10 +125376,6 @@
       "name": "LUMIA NETWORK",
       "type": "Cable/DSL/ISP"
     },
-    "266063": {
-      "name": "Webifibra",
-      "type": "Cable/DSL/ISP"
-    },
     "208808": {
       "name": "Enegan",
       "type": "Cable/DSL/ISP"
@@ -125713,7 +125709,7 @@
       "type": "Cable/DSL/ISP"
     },
     "208884": {
-      "name": "Jacob Rizzo",
+      "name": "flew2",
       "type": "Educational/Research"
     },
     "271557": {
@@ -136292,10 +136288,6 @@
       "name": "PletX GmbH",
       "type": "NSP"
     },
-    "273527": {
-      "name": "Addax Telecomunicações",
-      "type": "Cable/DSL/ISP"
-    },
     "206019": {
       "name": "PKOLEASING",
       "type": "Enterprise"
@@ -139400,6 +139392,10 @@
       "name": "HOCHTIEF POLSKA S.A.",
       "type": "Enterprise"
     },
+    "209466": {
+      "name": "DROVIACOMPUTACAO",
+      "type": "NSP"
+    },
     "202762": {
       "name": "Inferno Event Services",
       "type": "NSP"
@@ -140246,7 +140242,7 @@
     },
     "198586": {
       "name": "HostNow",
-      "type": "Network Services"
+      "type": "Content"
     },
     "219441": {
       "name": "NEKONODE",
@@ -140527,6 +140523,10 @@
     "402919": {
       "name": "Nyallo",
       "type": "Content"
+    },
+    "207543": {
+      "name": "DUG-APIC-AUS",
+      "type": "Enterprise"
     }
   }
 }
