@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-16T00:44:17.381Z",
+  "updated_at": "2026-08-17T00:42:02.598Z",
   "source": "PeeringDB",
-  "entry_count": 35131,
+  "entry_count": 35130,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -95612,6 +95612,10 @@
       "name": "Imtech Solution and Data Providers",
       "type": "Cable/DSL/ISP"
     },
+    "215685": {
+      "name": "Dotnet",
+      "type": "Content"
+    },
     "34696": {
       "name": "Mismelink Networks",
       "type": "NSP"
@@ -102288,10 +102292,6 @@
       "name": "Ivx",
       "type": "NSP"
     },
-    "131651": {
-      "name": "Lazco (VIP)",
-      "type": "Unknown"
-    },
     "133375": {
       "name": "CHUAN KAI INTERNATIONAL CO",
       "type": "NSP"
@@ -106036,10 +106036,6 @@
       "name": "MICROGRUPO COMUNICACIONES",
       "type": "Unknown"
     },
-    "131624": {
-      "name": "Dowtek",
-      "type": "Unknown"
-    },
     "216165": {
       "name": "HYPERNET LLC",
       "type": "Cable/DSL/ISP"
@@ -106462,7 +106458,7 @@
     },
     "219115": {
       "name": "Tropical Hosting",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "402809": {
       "name": "GUMMIPANTZEN",
@@ -123737,7 +123733,7 @@
       "type": "NSP"
     },
     "131630": {
-      "name": "Lazco",
+      "name": "Lazco Global",
       "type": "Cable/DSL/ISP"
     },
     "263096": {
@@ -138616,10 +138612,6 @@
       "name": "CDmon",
       "type": "Content"
     },
-    "215685": {
-      "name": "Dotnet",
-      "type": "Content"
-    },
     "401688": {
       "name": "Latency Logic",
       "type": "NSP"
@@ -139923,6 +139915,10 @@
     "200085": {
       "name": "WeilNet, LLC",
       "type": "Educational/Research"
+    },
+    "131651": {
+      "name": "Lazco R&E Network",
+      "type": "Cable/DSL/ISP"
     },
     "199776": {
       "name": "NOAHPROJECTS",
