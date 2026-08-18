@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-17T00:42:02.598Z",
+  "updated_at": "2026-08-18T00:41:39.223Z",
   "source": "PeeringDB",
-  "entry_count": 35130,
+  "entry_count": 35145,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -46996,6 +46996,10 @@
       "name": "IPV7 SERVICOS DE TELECOMUNICACOES BRASIL",
       "type": "Cable/DSL/ISP"
     },
+    "3188": {
+      "name": "Alastyr Telekomunikasyon",
+      "type": "Content"
+    },
     "8999": {
       "name": "Axinet Communication",
       "type": "Unknown"
@@ -59742,7 +59746,7 @@
     },
     "268391": {
       "name": "GramNet",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "208332": {
       "name": "hosting2go",
@@ -85132,10 +85136,6 @@
       "name": "SAMISTRARO BAMBERG DANGELO DANIEL",
       "type": "Unknown"
     },
-    "206260": {
-      "name": "SVORKA Bredbånd",
-      "type": "Cable/DSL/ISP"
-    },
     "40701": {
       "name": "GND-DATACENTER",
       "type": "Network Services"
@@ -95611,10 +95611,6 @@
     "153359": {
       "name": "Imtech Solution and Data Providers",
       "type": "Cable/DSL/ISP"
-    },
-    "215685": {
-      "name": "Dotnet",
-      "type": "Content"
     },
     "34696": {
       "name": "Mismelink Networks",
@@ -106660,10 +106656,6 @@
       "name": "CKSVC-01",
       "type": "Unknown"
     },
-    "219070": {
-      "name": "Compute, Inc. (GB & EU)",
-      "type": "NSP"
-    },
     "219064": {
       "name": "Akenai-Products-AS",
       "type": "Unknown"
@@ -106727,6 +106719,10 @@
     "219031": {
       "name": "ROXYCLOUD",
       "type": "Unknown"
+    },
+    "275818": {
+      "name": "ATIV Internet - AS275818",
+      "type": "Cable/DSL/ISP"
     },
     "211510": {
       "name": "RDI-AT",
@@ -106802,10 +106798,6 @@
     },
     "396176": {
       "name": "NADCORP-AS1",
-      "type": "Unknown"
-    },
-    "137958": {
-      "name": "CAPTI1-AS-AP",
       "type": "Unknown"
     },
     "152907": {
@@ -106968,10 +106960,6 @@
       "name": "ASN268832",
       "type": "Unknown"
     },
-    "329792": {
-      "name": "ORG-FIL1-AFRINIC",
-      "type": "Unknown"
-    },
     "218963": {
       "name": "KPEDV",
       "type": "Unknown"
@@ -107022,6 +107010,66 @@
     },
     "269122": {
       "name": "ASN269122",
+      "type": "Unknown"
+    },
+    "154826": {
+      "name": "Anylink HK Limited",
+      "type": "Unknown"
+    },
+    "29039": {
+      "name": "ECHOTEL-UG",
+      "type": "Unknown"
+    },
+    "133946": {
+      "name": "ATS-AS-AP",
+      "type": "Unknown"
+    },
+    "219024": {
+      "name": "CINCANETWORKS",
+      "type": "Unknown"
+    },
+    "48729": {
+      "name": "Serverking-AS",
+      "type": "Unknown"
+    },
+    "47141": {
+      "name": "LITTEL-AS",
+      "type": "Unknown"
+    },
+    "39231": {
+      "name": "DTL-AS",
+      "type": "Unknown"
+    },
+    "199755": {
+      "name": "ALLMEDIA-AS",
+      "type": "Unknown"
+    },
+    "210057": {
+      "name": "INFINITYWIFI",
+      "type": "Unknown"
+    },
+    "58254": {
+      "name": "NANOTELECOM-AS",
+      "type": "Unknown"
+    },
+    "196651": {
+      "name": "ITSH",
+      "type": "Unknown"
+    },
+    "218945": {
+      "name": "BYCODED",
+      "type": "Unknown"
+    },
+    "218956": {
+      "name": "HUBNET",
+      "type": "Unknown"
+    },
+    "152370": {
+      "name": "IDNIC-BTB-ID",
+      "type": "Unknown"
+    },
+    "33020": {
+      "name": "DEEPLY2",
       "type": "Unknown"
     },
     "22822": {
@@ -121536,10 +121584,6 @@
       "name": "Maximus Net",
       "type": "Cable/DSL/ISP"
     },
-    "3188": {
-      "name": "Alastyr Telekomunikasyon",
-      "type": "Content"
-    },
     "37785": {
       "name": "LUBIX Route Servers",
       "type": "Route Server"
@@ -135968,6 +136012,10 @@
       "name": "Pusaka Kreasi Mandiri",
       "type": "Cable/DSL/ISP"
     },
+    "206260": {
+      "name": "SVORKA Bredbånd",
+      "type": "Cable/DSL/ISP"
+    },
     "214818": {
       "name": "WILL-WILSON",
       "type": "Educational/Research"
@@ -138612,6 +138660,10 @@
       "name": "CDmon",
       "type": "Content"
     },
+    "215685": {
+      "name": "Dotnet",
+      "type": "Content"
+    },
     "401688": {
       "name": "Latency Logic",
       "type": "NSP"
@@ -140496,6 +140548,10 @@
       "name": "Yuelungu Network",
       "type": "Content"
     },
+    "219070": {
+      "name": "Compute, Inc. (GB & EU)",
+      "type": "NSP"
+    },
     "329406": {
       "name": "RSSB",
       "type": "Government"
@@ -140519,6 +140575,10 @@
     "402919": {
       "name": "Nyallo",
       "type": "Content"
+    },
+    "329792": {
+      "name": "FIT Internet",
+      "type": "Network Services"
     },
     "207543": {
       "name": "DUG-APIC-AUS",
