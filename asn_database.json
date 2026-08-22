@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-21T00:44:47.459Z",
+  "updated_at": "2026-08-22T00:41:48.514Z",
   "source": "PeeringDB",
-  "entry_count": 35172,
+  "entry_count": 35183,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1139,10 +1139,6 @@
     "8844": {
       "name": "CI-Net Limited",
       "type": "Cable/DSL/ISP"
-    },
-    "65536": {
-      "name": "PeeringDB Example 32-bit Network",
-      "type": "Unknown"
     },
     "2686": {
       "name": "AT&T EMEA",
@@ -9105,7 +9101,7 @@
       "type": "Enterprise"
     },
     "54312": {
-      "name": "Zeta Global Corp.",
+      "name": "ZETA-RFI",
       "type": "Content"
     },
     "9584": {
@@ -53917,7 +53913,7 @@
       "type": "Unknown"
     },
     "38500": {
-      "name": "Cross Network Indonesia",
+      "name": "PT. Cross Network Indonesia",
       "type": "Cable/DSL/ISP"
     },
     "208905": {
@@ -56162,6 +56158,10 @@
     },
     "208250": {
       "name": "nyantec",
+      "type": "Unknown"
+    },
+    "328735": {
+      "name": "Fibre Geeks",
       "type": "Unknown"
     },
     "269554": {
@@ -65729,7 +65729,7 @@
       "type": "Cable/DSL/ISP"
     },
     "328987": {
-      "name": "Lime Emerging Solutions",
+      "name": "Lime Emerging Solutions Limited",
       "type": "Cable/DSL/ISP"
     },
     "138773": {
@@ -67739,10 +67739,6 @@
     "400549": {
       "name": "Bridge IX BTR Route Servers",
       "type": "NSP"
-    },
-    "399584": {
-      "name": "Liberty Broadband",
-      "type": "Unknown"
     },
     "270692": {
       "name": "JOSE CARLOS GONZAGA CARDOSO",
@@ -74663,10 +74659,6 @@
     "399029": {
       "name": "IX-Denver Tenant",
       "type": "Network Services"
-    },
-    "64496": {
-      "name": "PeeringDB Example 16-bit Network",
-      "type": "Unknown"
     },
     "928": {
       "name": "GVV.ME",
@@ -104830,7 +104822,7 @@
     },
     "274654": {
       "name": "multi system telecom",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "202757": {
       "name": "CASTLE-IT",
@@ -105394,10 +105386,6 @@
     },
     "272494": {
       "name": "GN REDE",
-      "type": "Unknown"
-    },
-    "329598": {
-      "name": "Information and Communication Technologies Authority",
       "type": "Unknown"
     },
     "139327": {
@@ -107128,10 +107116,6 @@
       "name": "DATAGIONET-AS",
       "type": "Unknown"
     },
-    "402940": {
-      "name": "Interfere",
-      "type": "Enterprise"
-    },
     "273269": {
       "name": "273269",
       "type": "Unknown"
@@ -107163,6 +107147,50 @@
     "30350": {
       "name": "REGION7-ESC",
       "type": "Educational/Research"
+    },
+    "154539": {
+      "name": "MNADS-AS-AP",
+      "type": "Unknown"
+    },
+    "9515": {
+      "name": "compute.inc",
+      "type": "Content"
+    },
+    "212387": {
+      "name": "ALSTRASOLUTIONS-AS",
+      "type": "Educational/Research"
+    },
+    "150044": {
+      "name": "MIEUXTECH-AS-IN",
+      "type": "Unknown"
+    },
+    "211902": {
+      "name": "PIRINEOS",
+      "type": "Cable/DSL/ISP"
+    },
+    "136453": {
+      "name": "IDNIC-KAHOT-AS-ID",
+      "type": "Unknown"
+    },
+    "37802": {
+      "name": "ORG-MISP1-AFRINIC",
+      "type": "Unknown"
+    },
+    "218907": {
+      "name": "Arexico Sentinel",
+      "type": "Route Collector"
+    },
+    "46263": {
+      "name": "ZETA-EDIALOG",
+      "type": "Content"
+    },
+    "219173": {
+      "name": "MTNET !",
+      "type": "NSP"
+    },
+    "274368": {
+      "name": "ASN274368",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -113647,6 +113675,10 @@
     "44384": {
       "name": "Crossan CableComm Ltd",
       "type": "Cable/DSL/ISP"
+    },
+    "45706": {
+      "name": "Tele Globe Global, PT",
+      "type": "Unknown"
     },
     "6503": {
       "name": "Axtel, S.A.B. de C.V.",
@@ -125328,10 +125360,6 @@
       "name": "StarTelecom",
       "type": "Enterprise"
     },
-    "328735": {
-      "name": "Fibre Geeks",
-      "type": "Unknown"
-    },
     "398717": {
       "name": "Durham Broadband",
       "type": "Cable/DSL/ISP"
@@ -130095,6 +130123,10 @@
     "44620": {
       "name": "Netlen Internet",
       "type": "NSP"
+    },
+    "399584": {
+      "name": "Liberty Broadband",
+      "type": "Unknown"
     },
     "263878": {
       "name": "FONTNET ME",
@@ -138001,8 +138033,8 @@
       "type": "Cable/DSL/ISP"
     },
     "212001": {
-      "name": "MFR",
-      "type": "Educational/Research"
+      "name": "nusa Route Server",
+      "type": "Route Server"
     },
     "151572": {
       "name": "Evolution Karya Lintas Data, PT",
@@ -140476,6 +140508,10 @@
       "name": "AZANET",
       "type": "Unknown"
     },
+    "329598": {
+      "name": "Information and Communication Technologies Authority",
+      "type": "Government"
+    },
     "201107": {
       "name": "GIACOM-ISP",
       "type": "Unknown"
@@ -140691,6 +140727,14 @@
     "218918": {
       "name": "DATA-INNOVATION-SL",
       "type": "Enterprise"
+    },
+    "402940": {
+      "name": "Interfere",
+      "type": "Enterprise"
+    },
+    "218904": {
+      "name": "NEXTIX-FRA",
+      "type": "NSP"
     }
   }
 }
