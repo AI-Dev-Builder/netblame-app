@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-22T00:41:48.514Z",
+  "updated_at": "2026-08-23T00:45:01.334Z",
   "source": "PeeringDB",
-  "entry_count": 35183,
+  "entry_count": 35182,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -13183,6 +13183,10 @@
     "39572": {
       "name": "ADVANCED HOSTING",
       "type": "Content"
+    },
+    "133637": {
+      "name": "IDNIC-NMS-ID",
+      "type": "Cable/DSL/ISP"
     },
     "9873": {
       "name": "LAOTELECOM",
@@ -50420,6 +50424,10 @@
       "name": "Lynden Door",
       "type": "Unknown"
     },
+    "134993": {
+      "name": "IIDS-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
     "23884": {
       "name": "PROENNET",
       "type": "Unknown"
@@ -70522,7 +70530,7 @@
     },
     "265679": {
       "name": "COOPERATIVA DE PROVISION DE SERVICIOS EVOLUCION",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "265779": {
       "name": "ASFI",
@@ -72851,10 +72859,6 @@
     "151": {
       "name": "HP",
       "type": "Unknown"
-    },
-    "272578": {
-      "name": "7FACILE SOFTWARE E INTERNET",
-      "type": "NSP"
     },
     "204882": {
       "name": "DENIS NOLAN",
@@ -75547,10 +75551,6 @@
     "199183": {
       "name": "Arjen Essink",
       "type": "Non-Profit"
-    },
-    "272561": {
-      "name": "ONLINE FIBRA",
-      "type": "NSP"
     },
     "79": {
       "name": "Los Alamos National Laboratory",
@@ -88244,10 +88244,6 @@
       "name": "FlexyNode",
       "type": "Content"
     },
-    "269628": {
-      "name": "Matheus dos santos",
-      "type": "Unknown"
-    },
     "152816": {
       "name": "PT Takalink Access Indonesia",
       "type": "Unknown"
@@ -92052,6 +92048,10 @@
       "name": "Cover Communications",
       "type": "Unknown"
     },
+    "212001": {
+      "name": "nusa-IX Route Server",
+      "type": "Route Server"
+    },
     "212763": {
       "name": "Nanobytes Informatica y Telecomunicaciones",
       "type": "Unknown"
@@ -93588,10 +93588,6 @@
       "name": "Hamid Electronics and Automobiles",
       "type": "Unknown"
     },
-    "274728": {
-      "name": "VOE NETWORKS",
-      "type": "Cable/DSL/ISP"
-    },
     "209274": {
       "name": "Kraken Network ISP",
       "type": "Unknown"
@@ -94070,10 +94066,6 @@
     },
     "214150": {
       "name": "Prism Cloud",
-      "type": "Content"
-    },
-    "207884": {
-      "name": "DASHPERF",
       "type": "Content"
     },
     "135037": {
@@ -96458,10 +96450,6 @@
     },
     "209847": {
       "name": "THE Hosting",
-      "type": "Cable/DSL/ISP"
-    },
-    "274714": {
-      "name": "Net-Agro Serviços de Comunicação LTDA",
       "type": "Cable/DSL/ISP"
     },
     "205280": {
@@ -99399,10 +99387,6 @@
     "154394": {
       "name": "Roshni Communication - AS154394",
       "type": "Cable/DSL/ISP"
-    },
-    "214449": {
-      "name": "VERABYTE",
-      "type": "Unknown"
     },
     "203001": {
       "name": "GateX",
@@ -106340,10 +106324,6 @@
       "name": "TAMEDIA-AS",
       "type": "Unknown"
     },
-    "402825": {
-      "name": "SCRUMPTIOUS-NET",
-      "type": "Unknown"
-    },
     "219107": {
       "name": "VELIXOX",
       "type": "Unknown"
@@ -106626,7 +106606,7 @@
     },
     "219040": {
       "name": "BREEZENODES",
-      "type": "Unknown"
+      "type": "Content"
     },
     "274494": {
       "name": "ASN274494",
@@ -106766,10 +106746,6 @@
     },
     "219004": {
       "name": "YN-NETWORKS",
-      "type": "Unknown"
-    },
-    "154824": {
-      "name": "COMPUTE-AS-AP",
       "type": "Unknown"
     },
     "218985": {
@@ -107162,7 +107138,7 @@
     },
     "150044": {
       "name": "MIEUXTECH-AS-IN",
-      "type": "Unknown"
+      "type": "Content"
     },
     "211902": {
       "name": "PIRINEOS",
@@ -107190,6 +107166,34 @@
     },
     "274368": {
       "name": "ASN274368",
+      "type": "Unknown"
+    },
+    "154652": {
+      "name": "IDNIC-RNTI-AS-ID",
+      "type": "Unknown"
+    },
+    "219127": {
+      "name": "risman",
+      "type": "Unknown"
+    },
+    "218899": {
+      "name": "LOGINS-PT",
+      "type": "Unknown"
+    },
+    "219011": {
+      "name": "MAGOONET",
+      "type": "Unknown"
+    },
+    "218912": {
+      "name": "ENIXCORE",
+      "type": "Unknown"
+    },
+    "271832": {
+      "name": "271832",
+      "type": "Unknown"
+    },
+    "402912": {
+      "name": "WE-BUILD-NETWORKS-NET",
       "type": "Unknown"
     },
     "22822": {
@@ -122972,10 +122976,6 @@
       "name": "DOEN NET",
       "type": "Cable/DSL/ISP"
     },
-    "134993": {
-      "name": "IIDS-AS-AP",
-      "type": "Cable/DSL/ISP"
-    },
     "45315": {
       "name": "POLARISNET",
       "type": "Cable/DSL/ISP"
@@ -123855,10 +123855,6 @@
     "63868": {
       "name": "Nasional Online",
       "type": "Cable/DSL/ISP"
-    },
-    "207484": {
-      "name": "Speed Fiber Band Company for Trading",
-      "type": "Unknown"
     },
     "270115": {
       "name": "HUNA SISTEMAS",
@@ -133728,10 +133724,6 @@
       "name": "KSS",
       "type": "Unknown"
     },
-    "197814": {
-      "name": "Malte Bittner",
-      "type": "Educational/Research"
-    },
     "329288": {
       "name": "Fimnet Communications Limited",
       "type": "Cable/DSL/ISP"
@@ -135523,10 +135515,6 @@
     "152322": {
       "name": "Hilsa BD Broadband Network",
       "type": "Cable/DSL/ISP"
-    },
-    "273461": {
-      "name": "CYBERWEB ATJP",
-      "type": "NSP"
     },
     "329414": {
       "name": "Umbrella Corporation ZA",
@@ -138032,10 +138020,6 @@
       "name": "COMPAÑIA OPERADORA DE TELECOMUNICACIONES Y ADMINISTRADORA DE SERVICIOS PERÚ S.A.C.",
       "type": "Cable/DSL/ISP"
     },
-    "212001": {
-      "name": "nusa Route Server",
-      "type": "Route Server"
-    },
     "151572": {
       "name": "Evolution Karya Lintas Data, PT",
       "type": "Cable/DSL/ISP"
@@ -138386,7 +138370,7 @@
     },
     "208437": {
       "name": "HyperBit SRLs",
-      "type": "NSP"
+      "type": "Unknown"
     },
     "210173": {
       "name": "HerrTxbias",
@@ -138427,6 +138411,10 @@
     "207907": {
       "name": "Elia Kessler",
       "type": "Educational/Research"
+    },
+    "207884": {
+      "name": "DASHPERF",
+      "type": "Content"
     },
     "152424": {
       "name": "Desible Eradata Komunikasi",
@@ -140640,6 +140628,10 @@
       "name": "MICROLINK-AS-AP",
       "type": "Unknown"
     },
+    "402825": {
+      "name": "SCRUMPTIOUS-NET",
+      "type": "Unknown"
+    },
     "275811": {
       "name": "ASN275811",
       "type": "Cable/DSL/ISP"
@@ -140735,6 +140727,10 @@
     "218904": {
       "name": "NEXTIX-FRA",
       "type": "NSP"
+    },
+    "201328": {
+      "name": "Telewizja Kablowa Kolobrzeg",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
