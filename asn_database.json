@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-23T00:45:01.334Z",
+  "updated_at": "2026-08-24T00:43:24.222Z",
   "source": "PeeringDB",
-  "entry_count": 35182,
+  "entry_count": 35183,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -80193,7 +80193,7 @@
       "type": "Cable/DSL/ISP"
     },
     "216145": {
-      "name": "7DC.NET",
+      "name": "7DC INTERNET LTD",
       "type": "Content"
     },
     "7314": {
@@ -96729,7 +96729,7 @@
       "type": "NSP"
     },
     "154182": {
-      "name": "TarekWell Energy Group",
+      "name": "TarekWell Energy Group Limited",
       "type": "Cable/DSL/ISP"
     },
     "329207": {
@@ -97853,7 +97853,7 @@
       "type": "Unknown"
     },
     "204917": {
-      "name": "MijaNET",
+      "name": "Mi-JaNET",
       "type": "Cable/DSL/ISP"
     },
     "401030": {
@@ -98514,7 +98514,7 @@
     },
     "21990": {
       "name": "Liberty Security Services",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "212043": {
       "name": "GrNet365",
@@ -103333,7 +103333,7 @@
       "type": "Unknown"
     },
     "402106": {
-      "name": "ACDEV",
+      "name": "ACDev",
       "type": "Unknown"
     },
     "213680": {
@@ -104748,10 +104748,6 @@
       "name": "Caraga State University",
       "type": "Educational/Research"
     },
-    "17644": {
-      "name": "IoT Techsmart",
-      "type": "Unknown"
-    },
     "208794": {
       "name": "brawo network services",
       "type": "NSP"
@@ -105429,8 +105425,8 @@
       "type": "Unknown"
     },
     "219315": {
-      "name": "Buzzster Web Services",
-      "type": "Educational/Research"
+      "name": "Eirenia Internet Services",
+      "type": "Government"
     },
     "213515": {
       "name": "Honeybank Studios LTD",
@@ -105879,6 +105875,10 @@
     "274986": {
       "name": "Keepit BR-SP",
       "type": "Content"
+    },
+    "154761": {
+      "name": "PT Bagler Nusantara Interkoneksi",
+      "type": "Cable/DSL/ISP"
     },
     "54700": {
       "name": "LEARN-INTERNAL",
@@ -106604,10 +106604,6 @@
       "name": "ORG-RMoE1-AFRINIC",
       "type": "Unknown"
     },
-    "219040": {
-      "name": "BREEZENODES",
-      "type": "Content"
-    },
     "274494": {
       "name": "ASN274494",
       "type": "Cable/DSL/ISP"
@@ -106965,8 +106961,8 @@
       "type": "Cable/DSL/ISP"
     },
     "199755": {
-      "name": "ALLMEDIA-AS",
-      "type": "Unknown"
+      "name": "ACDN-AS",
+      "type": "Content"
     },
     "210057": {
       "name": "INFINITYWIFI",
@@ -107186,7 +107182,7 @@
     },
     "218912": {
       "name": "ENIXCORE",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "271832": {
       "name": "271832",
@@ -107195,6 +107191,14 @@
     "402912": {
       "name": "WE-BUILD-NETWORKS-NET",
       "type": "Unknown"
+    },
+    "402901": {
+      "name": "AS-BOXCLOUD-CANADA-02",
+      "type": "Unknown"
+    },
+    "219207": {
+      "name": "AS-FUYANG-SIQIN",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -138649,7 +138653,7 @@
       "type": "NSP"
     },
     "273468": {
-      "name": "G3NET | INURA",
+      "name": "INURA (Aka G3NET)",
       "type": "Cable/DSL/ISP"
     },
     "153132": {
@@ -140556,10 +140560,6 @@
       "name": "ASIAGIGA FIBERNET",
       "type": "Cable/DSL/ISP"
     },
-    "154761": {
-      "name": "PT Bagler Nusantara Interkoneksi",
-      "type": "Cable/DSL/ISP"
-    },
     "219212": {
       "name": "HYW COMMUNICATIONS LTD AS",
       "type": "Enterprise"
@@ -140621,7 +140621,7 @@
       "type": "Enterprise"
     },
     "150670": {
-      "name": "WLXLIMITED-AS-AP",
+      "name": "WLX Limited",
       "type": "Cable/DSL/ISP"
     },
     "134601": {
@@ -140671,6 +140671,10 @@
     "329406": {
       "name": "RSSB",
       "type": "Government"
+    },
+    "219040": {
+      "name": "BREEZENODES",
+      "type": "Content"
     },
     "206916": {
       "name": "SOUTHWEST-NET",
