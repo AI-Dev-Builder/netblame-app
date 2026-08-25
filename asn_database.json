@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-24T00:43:24.222Z",
+  "updated_at": "2026-08-25T00:43:02.926Z",
   "source": "PeeringDB",
-  "entry_count": 35183,
+  "entry_count": 35192,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -70966,7 +70966,7 @@
     },
     "42532": {
       "name": "Veesp SIA",
-      "type": "Content"
+      "type": "NSP"
     },
     "45736": {
       "name": "eSys Technologies",
@@ -90752,10 +90752,6 @@
       "name": "Ukrainian Infosystems",
       "type": "Unknown"
     },
-    "215707": {
-      "name": "iHostAL",
-      "type": "Unknown"
-    },
     "401328": {
       "name": "Fast Wireless",
       "type": "Cable/DSL/ISP"
@@ -93392,10 +93388,6 @@
       "name": "HYTEL",
       "type": "Unknown"
     },
-    "152738": {
-      "name": "RetroAI",
-      "type": "Cable/DSL/ISP"
-    },
     "401681": {
       "name": "COIXIA LLC",
       "type": "Unknown"
@@ -95925,7 +95917,7 @@
       "type": "Unknown"
     },
     "274491": {
-      "name": "CLICKNETSPEED ANILTON SANTOS DE SOUSA",
+      "name": "CLICK NET SPEED",
       "type": "Cable/DSL/ISP"
     },
     "328976": {
@@ -100799,10 +100791,6 @@
     "329676": {
       "name": "Checksum Network Security Services (PTY) LTD",
       "type": "Network Services"
-    },
-    "138233": {
-      "name": "Proton Internet Llp",
-      "type": "NSP"
     },
     "37352": {
       "name": "CloudAfrica Hosting (PTY) LTD",
@@ -106490,7 +106478,7 @@
     },
     "272134": {
       "name": "272134",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "275004": {
       "name": "275004",
@@ -107078,7 +107066,7 @@
     },
     "29770": {
       "name": "THE-INTERNET-SUBWAY",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "42960": {
       "name": "VH-GLOBAL",
@@ -107110,7 +107098,7 @@
     },
     "218917": {
       "name": "IPPNET",
-      "type": "Unknown"
+      "type": "Content"
     },
     "218942": {
       "name": "FIL-NET",
@@ -107199,6 +107187,34 @@
     "219207": {
       "name": "AS-FUYANG-SIQIN",
       "type": "Cable/DSL/ISP"
+    },
+    "12533": {
+      "name": "RMNET",
+      "type": "Unknown"
+    },
+    "218933": {
+      "name": "LIPINSKI-TELEKOM",
+      "type": "Unknown"
+    },
+    "203676": {
+      "name": "ARJOM-AS",
+      "type": "Unknown"
+    },
+    "139927": {
+      "name": "GALAXYNET-AS-AP",
+      "type": "Unknown"
+    },
+    "210241": {
+      "name": "LENZ-NET-AS",
+      "type": "Unknown"
+    },
+    "218931": {
+      "name": "HOSTSTACK-PRO",
+      "type": "Network Services"
+    },
+    "197996": {
+      "name": "onlinegateway",
+      "type": "Content"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -119474,7 +119490,7 @@
     },
     "263775": {
       "name": "Intelisis",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "52503": {
       "name": "FDJ S.A.",
@@ -132740,6 +132756,10 @@
       "name": "ISIF Network",
       "type": "Cable/DSL/ISP"
     },
+    "208068": {
+      "name": "ieleven",
+      "type": "Non-Profit"
+    },
     "213305": {
       "name": "SIMSALASIMDE",
       "type": "Unknown"
@@ -137293,7 +137313,7 @@
       "type": "Cable/DSL/ISP"
     },
     "401441": {
-      "name": "GOOSEWORKS",
+      "name": "Gooseworks",
       "type": "Enterprise"
     },
     "140323": {
@@ -137687,6 +137707,10 @@
     "135823": {
       "name": "CityNet Broadband Services",
       "type": "Cable/DSL/ISP"
+    },
+    "215707": {
+      "name": "iHostAL",
+      "type": "Unknown"
     },
     "400180": {
       "name": "Farmers Mutual Telephone Company Stanton",
@@ -138295,6 +138319,10 @@
     "399284": {
       "name": "luYs, Inc.",
       "type": "Unknown"
+    },
+    "152738": {
+      "name": "Retro AI",
+      "type": "Cable/DSL/ISP"
     },
     "271487": {
       "name": "FIBRACONN SERVIÇOS DE TELECOMUNICACOES",
@@ -139784,6 +139812,10 @@
       "name": "Van Berkel Landschap & Infra B.V.",
       "type": "Unknown"
     },
+    "138233": {
+      "name": "Proton Internet Llp",
+      "type": "NSP"
+    },
     "205414": {
       "name": "Nerdlab",
       "type": "Unknown"
@@ -140729,11 +140761,15 @@
       "type": "Enterprise"
     },
     "218904": {
-      "name": "NEXTIX-FRA",
+      "name": "NextIX",
       "type": "NSP"
     },
     "201328": {
       "name": "Telewizja Kablowa Kolobrzeg",
+      "type": "Cable/DSL/ISP"
+    },
+    "139692": {
+      "name": "Chen Guang Network",
       "type": "Cable/DSL/ISP"
     }
   }
