@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-25T00:43:02.926Z",
+  "updated_at": "2026-08-26T00:43:47.748Z",
   "source": "PeeringDB",
-  "entry_count": 35192,
+  "entry_count": 35202,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -6315,10 +6315,6 @@
     "39545": {
       "name": "Fluidata",
       "type": "Cable/DSL/ISP"
-    },
-    "28144": {
-      "name": "G3 Telecom",
-      "type": "NSP"
     },
     "28283": {
       "name": "Adylnet Telecom - AS28283",
@@ -55652,10 +55648,6 @@
       "name": "Alfanet",
       "type": "Cable/DSL/ISP"
     },
-    "204561": {
-      "name": "Diogenius SPRL - France",
-      "type": "Unknown"
-    },
     "41720": {
       "name": "REVOLUTION PROVIDER",
       "type": "Cable/DSL/ISP"
@@ -57163,10 +57155,6 @@
     "56555": {
       "name": "ENGINYRING Europe SRL",
       "type": "Enterprise"
-    },
-    "266434": {
-      "name": "MASTER DATA TELECOMUNICACOES",
-      "type": "Cable/DSL/ISP"
     },
     "269531": {
       "name": "Gildemberg de Souza Andrade Acesso a Internet",
@@ -70301,7 +70289,7 @@
       "type": "Network Services"
     },
     "923": {
-      "name": "Hammy Web Services AS923",
+      "name": "Aconite Systems AS923",
       "type": "Unknown"
     },
     "134740": {
@@ -101498,7 +101486,7 @@
     },
     "211854": {
       "name": "MEOWAN",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "13008": {
       "name": "BETANDWIN",
@@ -103946,7 +103934,7 @@
     },
     "153929": {
       "name": "Allied Business",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "208831": {
       "name": "Afzal Cloud Technologies",
@@ -106802,7 +106790,7 @@
     },
     "203154": {
       "name": "MITELIS-DOWNSTREAM",
-      "type": "Unknown"
+      "type": "Content"
     },
     "11917": {
       "name": "META-02",
@@ -107078,7 +107066,7 @@
     },
     "273269": {
       "name": "273269",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "214195": {
       "name": "Tres Teknoloji",
@@ -107110,7 +107098,7 @@
     },
     "154539": {
       "name": "MNADS-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "9515": {
       "name": "compute.inc",
@@ -107215,6 +107203,50 @@
     "197996": {
       "name": "onlinegateway",
       "type": "Content"
+    },
+    "218880": {
+      "name": "Turbyte LLC",
+      "type": "Unknown"
+    },
+    "218878": {
+      "name": "SpectraIP B.V. (AS218878)",
+      "type": "Cable/DSL/ISP"
+    },
+    "329798": {
+      "name": "Orannge Libya for Telecommunication and Modern Technology",
+      "type": "Unknown"
+    },
+    "218871": {
+      "name": "NISHIO-AS",
+      "type": "Unknown"
+    },
+    "218890": {
+      "name": "Yuri Systems LLC",
+      "type": "Unknown"
+    },
+    "151615": {
+      "name": "GenNext Technologies Limited",
+      "type": "Unknown"
+    },
+    "218897": {
+      "name": "GAV-AS",
+      "type": "Unknown"
+    },
+    "131628": {
+      "name": "taifucloud-as-tw",
+      "type": "Unknown"
+    },
+    "13302": {
+      "name": "LINKEY-CLOUD",
+      "type": "Unknown"
+    },
+    "273158": {
+      "name": "273158",
+      "type": "Unknown"
+    },
+    "218866": {
+      "name": "ASN-DEANM",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -108443,6 +108475,10 @@
     "39839": {
       "name": "Punktum dk",
       "type": "Non-Profit"
+    },
+    "28144": {
+      "name": "G3 Telecom",
+      "type": "NSP"
     },
     "22653": {
       "name": "Cyber Wurx",
@@ -125080,6 +125116,10 @@
       "name": "Marco Hegenberg",
       "type": "Unknown"
     },
+    "204561": {
+      "name": "Diogenius SPRL - France",
+      "type": "Unknown"
+    },
     "140867": {
       "name": "International Gateway Co.,Ltd. (NIX)",
       "type": "NSP"
@@ -129386,7 +129426,7 @@
     },
     "210320": {
       "name": "Fexxio Digital",
-      "type": "Educational/Research"
+      "type": "Content"
     },
     "265855": {
       "name": "LEGON TELECOMUNICACIONES",
@@ -138681,7 +138721,7 @@
       "type": "NSP"
     },
     "273468": {
-      "name": "INURA (Aka G3NET)",
+      "name": "INURA (fka G3NET)",
       "type": "Cable/DSL/ISP"
     },
     "153132": {
