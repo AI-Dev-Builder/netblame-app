@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-26T00:43:47.748Z",
+  "updated_at": "2026-08-27T05:53:23.911Z",
   "source": "PeeringDB",
-  "entry_count": 35202,
+  "entry_count": 35203,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -15574,7 +15574,7 @@
     },
     "52638": {
       "name": "SIM Connect",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "50010": {
       "name": "Ooredoo Oman",
@@ -15891,10 +15891,6 @@
     "51580": {
       "name": "Time-Net AS51580",
       "type": "Cable/DSL/ISP"
-    },
-    "18351": {
-      "name": "Media Akses Global Indo, PT",
-      "type": "NSP"
     },
     "15701": {
       "name": "Exchange7 route servers",
@@ -20157,7 +20153,7 @@
       "type": "Enterprise"
     },
     "26968": {
-      "name": "PSD Professional Systems/Designs, Ltd",
+      "name": "Carrier Connect Systems",
       "type": "Cable/DSL/ISP"
     },
     "21980": {
@@ -31204,10 +31200,6 @@
       "name": "Vital Network Group",
       "type": "Content"
     },
-    "135104": {
-      "name": "Catholic Healthcare",
-      "type": "Unknown"
-    },
     "46198": {
       "name": "Trilogy Dominicana AS46198",
       "type": "Cable/DSL/ISP"
@@ -34354,7 +34346,7 @@
     },
     "15164": {
       "name": "Unite",
-      "type": "NSP"
+      "type": "Unknown"
     },
     "37718": {
       "name": "CAMIX NAP - Serveur de route",
@@ -60345,7 +60337,7 @@
       "type": "Unknown"
     },
     "262248": {
-      "name": "Metro Telecom",
+      "name": "Metro MPLS",
       "type": "Cable/DSL/ISP"
     },
     "399457": {
@@ -61647,10 +61639,6 @@
     "50031": {
       "name": "ZALASZAM",
       "type": "Cable/DSL/ISP"
-    },
-    "137467": {
-      "name": "Asif Husain Choudhury",
-      "type": "Unknown"
     },
     "61672": {
       "name": "Entelvias provedor de internet",
@@ -63031,10 +63019,6 @@
     "140930": {
       "name": "Pabna Cable Vision",
       "type": "Cable/DSL/ISP"
-    },
-    "271678": {
-      "name": "NATAL FIBRA SOCIEDADE UNIPESSOAL LIMITADA",
-      "type": "Unknown"
     },
     "64124": {
       "name": "EdgeUno International",
@@ -74578,7 +74562,7 @@
     },
     "150151": {
       "name": "Evergreen Networks",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "212198": {
       "name": "OCV CHAMBERY INTERNATIONAL",
@@ -87388,10 +87372,6 @@
       "name": "SHGWBNNET",
       "type": "Unknown"
     },
-    "214329": {
-      "name": "BGP Network LLC",
-      "type": "Cable/DSL/ISP"
-    },
     "201896": {
       "name": "MEDIACTIVE 24/7",
       "type": "Content"
@@ -92824,10 +92804,6 @@
       "name": "Ninja-IX Services MAPS",
       "type": "Network Services"
     },
-    "138975": {
-      "name": "Claveria Agribased",
-      "type": "Unknown"
-    },
     "22658": {
       "name": "EARTHNET",
       "type": "Unknown"
@@ -95527,10 +95503,6 @@
     "62026": {
       "name": "FTS-TURKEY",
       "type": "Unknown"
-    },
-    "216193": {
-      "name": "Hyperion Cloud SAS",
-      "type": "Content"
     },
     "401815": {
       "name": "SILIS",
@@ -101098,7 +101070,7 @@
     },
     "211708": {
       "name": "Callum_Cardy",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "201243": {
       "name": "EdgeAlphix",
@@ -103410,7 +103382,7 @@
     },
     "402455": {
       "name": "Venture Development",
-      "type": "Unknown"
+      "type": "Content"
     },
     "402450": {
       "name": "JILLC-PRIMARY",
@@ -107137,8 +107109,8 @@
       "type": "NSP"
     },
     "274368": {
-      "name": "ASN274368",
-      "type": "Unknown"
+      "name": "Swiss Fiber",
+      "type": "Cable/DSL/ISP"
     },
     "154652": {
       "name": "IDNIC-RNTI-AS-ID",
@@ -107222,7 +107194,7 @@
     },
     "218890": {
       "name": "Yuri Systems LLC",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "151615": {
       "name": "GenNext Technologies Limited",
@@ -107230,7 +107202,7 @@
     },
     "218897": {
       "name": "GAV-AS",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "131628": {
       "name": "taifucloud-as-tw",
@@ -107246,6 +107218,42 @@
     },
     "218866": {
       "name": "ASN-DEANM",
+      "type": "Unknown"
+    },
+    "218883": {
+      "name": "MELSPECTRUM-AS",
+      "type": "Enterprise"
+    },
+    "329599": {
+      "name": "ORG-MCL9-AFRINIC",
+      "type": "Unknown"
+    },
+    "218882": {
+      "name": "SVANHOORN",
+      "type": "Unknown"
+    },
+    "218901": {
+      "name": "SHAHID",
+      "type": "Unknown"
+    },
+    "135155": {
+      "name": "TALTOLANET-AS-AP",
+      "type": "Unknown"
+    },
+    "218865": {
+      "name": "WHITE-ISP-SOLUTIONS-LTD-AS",
+      "type": "Unknown"
+    },
+    "274450": {
+      "name": "274450",
+      "type": "Unknown"
+    },
+    "264338": {
+      "name": "ASN264338",
+      "type": "Unknown"
+    },
+    "218937": {
+      "name": "NET-218937",
       "type": "Unknown"
     },
     "22822": {
@@ -115644,10 +115652,6 @@
       "name": "Erline",
       "type": "Cable/DSL/ISP"
     },
-    "135373": {
-      "name": "EFLY NETWORK LIMITED",
-      "type": "Enterprise"
-    },
     "136677": {
       "name": "Basak Telecom",
       "type": "Cable/DSL/ISP"
@@ -119401,7 +119405,7 @@
       "type": "Cable/DSL/ISP"
     },
     "9287": {
-      "name": "True Internet Data Center, Thailand",
+      "name": "Arise IDC Company Limited, Thailand",
       "type": "NSP"
     },
     "44025": {
@@ -123457,7 +123461,7 @@
       "type": "NSP"
     },
     "269535": {
-      "name": "TEC PLUS TELECOMUNICAO",
+      "name": "TEC PLUS TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "136309": {
@@ -123618,10 +123622,6 @@
     },
     "135206": {
       "name": "Bluwaves Internet Services India",
-      "type": "Cable/DSL/ISP"
-    },
-    "140616": {
-      "name": "ZN IT Solution",
       "type": "Cable/DSL/ISP"
     },
     "269237": {
@@ -129173,7 +129173,7 @@
       "type": "Network Services"
     },
     "270814": {
-      "name": "ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES",
+      "name": "ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES S.A.",
       "type": "Cable/DSL/ISP"
     },
     "266006": {
@@ -131062,7 +131062,7 @@
     },
     "149781": {
       "name": "Evergreen Internet",
-      "type": "Cable/DSL/ISP"
+      "type": "Enterprise"
     },
     "203655": {
       "name": "zhiwensun",
@@ -134716,10 +134716,6 @@
       "name": "TTLL",
       "type": "Content"
     },
-    "149793": {
-      "name": "BAI XING Network",
-      "type": "Enterprise"
-    },
     "210165": {
       "name": "VIDEAS",
       "type": "Content"
@@ -136828,6 +136824,10 @@
       "name": "Media Akses Telematika",
       "type": "Cable/DSL/ISP"
     },
+    "214329": {
+      "name": "BGP Network LLC",
+      "type": "Cable/DSL/ISP"
+    },
     "274607": {
       "name": "GHT Telecom",
       "type": "NSP"
@@ -138112,10 +138112,6 @@
       "name": "PT MMS Digital Communication",
       "type": "Cable/DSL/ISP"
     },
-    "152681": {
-      "name": "FMKC TELECOM",
-      "type": "Cable/DSL/ISP"
-    },
     "211749": {
       "name": "BO SIANG CHEN",
       "type": "Network Services"
@@ -138818,6 +138814,10 @@
     },
     "11715": {
       "name": "Kisara Development",
+      "type": "Content"
+    },
+    "216193": {
+      "name": "Hyperion Cloud SAS",
       "type": "Content"
     },
     "213413": {
@@ -140297,7 +140297,7 @@
       "type": "NSP"
     },
     "212386": {
-      "name": "cdctelco",
+      "name": "Pankkih Oy",
       "type": "Enterprise"
     },
     "197758": {
@@ -140811,6 +140811,10 @@
     "139692": {
       "name": "Chen Guang Network",
       "type": "Cable/DSL/ISP"
+    },
+    "218916": {
+      "name": "FIOD",
+      "type": "Government"
     }
   }
 }
