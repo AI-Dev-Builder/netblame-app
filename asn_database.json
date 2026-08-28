@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-27T05:53:23.911Z",
+  "updated_at": "2026-08-28T08:05:13.331Z",
   "source": "PeeringDB",
-  "entry_count": 35203,
+  "entry_count": 35219,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1154,7 +1154,7 @@
     },
     "2688": {
       "name": "AT&T LA",
-      "type": "NSP"
+      "type": "Unknown"
     },
     "7018": {
       "name": "AT&T US - 7018",
@@ -78264,10 +78264,6 @@
       "name": "Interlink Network SRL",
       "type": "Unknown"
     },
-    "210125": {
-      "name": "PriamNET",
-      "type": "Cable/DSL/ISP"
-    },
     "138751": {
       "name": "Anodic Telenetwork Private Limited",
       "type": "Cable/DSL/ISP"
@@ -101598,7 +101594,7 @@
     },
     "44521": {
       "name": "Jagex",
-      "type": "Unknown"
+      "type": "Content"
     },
     "200426": {
       "name": "Sebastian Marines Alvarez",
@@ -106430,7 +106426,7 @@
     },
     "401311": {
       "name": "ALIEN",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "219074": {
       "name": "FENECON-ASN",
@@ -106868,10 +106864,6 @@
       "name": "MDWS",
       "type": "Non-Profit"
     },
-    "218991": {
-      "name": "MayaCraft LLC",
-      "type": "Content"
-    },
     "398879": {
       "name": "Susquehanna Broadband, LLC",
       "type": "Unknown"
@@ -107114,7 +107106,7 @@
     },
     "154652": {
       "name": "IDNIC-RNTI-AS-ID",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "219127": {
       "name": "risman",
@@ -107248,12 +107240,64 @@
       "name": "274450",
       "type": "Unknown"
     },
-    "264338": {
-      "name": "ASN264338",
+    "218937": {
+      "name": "Nasonov Mikhail Mikhailovich",
       "type": "Unknown"
     },
-    "218937": {
-      "name": "NET-218937",
+    "15633": {
+      "name": "UOC-AS",
+      "type": "Unknown"
+    },
+    "151580": {
+      "name": "IDNIC-BUMIMULTIPERKASA-AS-ID",
+      "type": "Unknown"
+    },
+    "218980": {
+      "name": "GrunIX Route Servers",
+      "type": "Route Server"
+    },
+    "154343": {
+      "name": "AGILENAAS GLOBAL SERVICE PTE. LTD",
+      "type": "Cable/DSL/ISP"
+    },
+    "274589": {
+      "name": "ASN274589",
+      "type": "Unknown"
+    },
+    "275770": {
+      "name": "ASN275770",
+      "type": "Cable/DSL/ISP"
+    },
+    "218849": {
+      "name": "Kent Internet Exchange RS",
+      "type": "Route Server"
+    },
+    "14702": {
+      "name": "INL-ASN2",
+      "type": "Unknown"
+    },
+    "274439": {
+      "name": "274439",
+      "type": "Unknown"
+    },
+    "274885": {
+      "name": "Crimson Data Technologies",
+      "type": "Content"
+    },
+    "402836": {
+      "name": "PRIMITIVE",
+      "type": "Unknown"
+    },
+    "219280": {
+      "name": "ASTRONDO-AS",
+      "type": "Unknown"
+    },
+    "275827": {
+      "name": "ASN275827",
+      "type": "Unknown"
+    },
+    "329783": {
+      "name": "ORG-KSL1-AFRINIC",
       "type": "Unknown"
     },
     "22822": {
@@ -126718,7 +126762,7 @@
     },
     "202353": {
       "name": "Todor",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "208006": {
       "name": "Softqloud",
@@ -131681,7 +131725,7 @@
       "type": "Network Services"
     },
     "266268": {
-      "name": "PRONET - PROVEDOR",
+      "name": "JND - AJA TELECOMUNICACEOS",
       "type": "Cable/DSL/ISP"
     },
     "150385": {
@@ -133854,6 +133898,10 @@
     },
     "270632": {
       "name": "ACESSE WI-FI SERVICOS, INSTALACAO E MANUTENCAO",
+      "type": "Cable/DSL/ISP"
+    },
+    "210125": {
+      "name": "PriamNET",
       "type": "Cable/DSL/ISP"
     },
     "197634": {
@@ -140780,6 +140828,10 @@
       "name": "DUG-APIC-AUS",
       "type": "Enterprise"
     },
+    "218991": {
+      "name": "MayaCraft LLC",
+      "type": "Content"
+    },
     "133946": {
       "name": "ATS-AS-AP",
       "type": "Cable/DSL/ISP"
@@ -140815,6 +140867,18 @@
     "218916": {
       "name": "FIOD",
       "type": "Government"
+    },
+    "264338": {
+      "name": "ASN264338",
+      "type": "Unknown"
+    },
+    "273280": {
+      "name": "Yes Networks",
+      "type": "Cable/DSL/ISP"
+    },
+    "142407": {
+      "name": "SALAUDDINCYBERNET-AS-AP",
+      "type": "Unknown"
     }
   }
 }
