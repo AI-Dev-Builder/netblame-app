@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-28T08:05:13.331Z",
+  "updated_at": "2026-08-29T04:52:30.104Z",
   "source": "PeeringDB",
-  "entry_count": 35219,
+  "entry_count": 35229,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -32662,7 +32662,7 @@
     },
     "4307": {
       "name": "SVINET-1",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "133237": {
       "name": "Apex Netcom India",
@@ -61966,7 +61966,7 @@
     },
     "32167": {
       "name": "LSHIY LLC (Customers)",
-      "type": "Enterprise"
+      "type": "NSP"
     },
     "46698": {
       "name": "Whitesky Communications AS46698",
@@ -90980,10 +90980,6 @@
       "name": "Willamette Valley Internet",
       "type": "Unknown"
     },
-    "213908": {
-      "name": "Netzone Teknoloji",
-      "type": "Unknown"
-    },
     "213958": {
       "name": "Phoenix Sunucum Teknolojileri",
       "type": "Network Services"
@@ -99757,8 +99753,8 @@
       "type": "Cable/DSL/ISP"
     },
     "9442": {
-      "name": "NIXI, De-cix Interwire Internet Services Private Limited",
-      "type": "Unknown"
+      "name": "DE-CIX Bengaluru Route Servers",
+      "type": "Route Server"
     },
     "132295": {
       "name": "Jahid Communication",
@@ -102223,10 +102219,6 @@
     "213114": {
       "name": "Zamolotskikh Kirill Alexandrovich",
       "type": "Unknown"
-    },
-    "199746": {
-      "name": "NextServ-LLC",
-      "type": "NSP"
     },
     "273333": {
       "name": "ORIONNET TELECOM TECNOLOGIA E SERVIÇOS",
@@ -106201,7 +106193,7 @@
       "type": "Unknown"
     },
     "396917": {
-      "name": "VELOX-AS-TILLSONBURG",
+      "name": "Velox Wireless Inc",
       "type": "NSP"
     },
     "18585": {
@@ -107298,6 +107290,42 @@
     },
     "329783": {
       "name": "ORG-KSL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "152885": {
+      "name": "LEYUN",
+      "type": "Enterprise"
+    },
+    "154863": {
+      "name": "LEYUN-GlobalRoute",
+      "type": "Network Services"
+    },
+    "275839": {
+      "name": "ASN275839",
+      "type": "Unknown"
+    },
+    "218828": {
+      "name": "Kikix",
+      "type": "Unknown"
+    },
+    "218832": {
+      "name": "NextServ⠀",
+      "type": "NSP"
+    },
+    "218835": {
+      "name": "Dreher",
+      "type": "Unknown"
+    },
+    "218833": {
+      "name": "ANYCAST-LAB",
+      "type": "Educational/Research"
+    },
+    "271520": {
+      "name": "ASN271520",
+      "type": "Unknown"
+    },
+    "42460": {
+      "name": "Euralb_ASN",
       "type": "Unknown"
     },
     "22822": {
@@ -128902,7 +128930,7 @@
     },
     "210825": {
       "name": "Teigtascherlfabrik",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "148976": {
       "name": "Survivable",
@@ -133671,6 +133699,10 @@
     "14740": {
       "name": "Magna5",
       "type": "Unknown"
+    },
+    "151420": {
+      "name": "IDNIC-BUKEFIBER-AS-ID",
+      "type": "Enterprise"
     },
     "60284": {
       "name": "Axpo Systems AG",
@@ -140879,6 +140911,14 @@
     "142407": {
       "name": "SALAUDDINCYBERNET-AS-AP",
       "type": "Unknown"
+    },
+    "218830": {
+      "name": "zsaz-net",
+      "type": "Educational/Research"
+    },
+    "272132": {
+      "name": "TELECOTUI",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
