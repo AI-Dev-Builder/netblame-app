@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-29T04:52:30.104Z",
+  "updated_at": "2026-08-30T02:35:18.882Z",
   "source": "PeeringDB",
-  "entry_count": 35229,
+  "entry_count": 35227,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -4546,7 +4546,7 @@
     },
     "19171": {
       "name": "Stargate Connections Inc.",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "36086": {
       "name": "Digital Realty United States",
@@ -7743,10 +7743,6 @@
     "57119": {
       "name": "NAITWAYS SAS",
       "type": "NSP"
-    },
-    "197541": {
-      "name": "Ooyala Sweden",
-      "type": "Content"
     },
     "131997": {
       "name": "Vovinet Broadband Private Limited",
@@ -56708,10 +56704,6 @@
       "name": "ClearWave",
       "type": "Cable/DSL/ISP"
     },
-    "140178": {
-      "name": "Plug-in Networks",
-      "type": "Cable/DSL/ISP"
-    },
     "212349": {
       "name": "Robin Ortmann",
       "type": "Educational/Research"
@@ -85804,10 +85796,6 @@
       "name": "RATATOSKR LLC",
       "type": "Cable/DSL/ISP"
     },
-    "214828": {
-      "name": "StarLight Network, Inc.",
-      "type": "Enterprise"
-    },
     "152931": {
       "name": "Burak Tech Services Private Limited",
       "type": "Cable/DSL/ISP"
@@ -87367,6 +87355,10 @@
     "131536": {
       "name": "SHGWBNNET",
       "type": "Unknown"
+    },
+    "214329": {
+      "name": "BGP Network LLC",
+      "type": "Cable/DSL/ISP"
     },
     "201896": {
       "name": "MEDIACTIVE 24/7",
@@ -95511,10 +95503,6 @@
     "206568": {
       "name": "FR-ALTSYSNET",
       "type": "Unknown"
-    },
-    "153359": {
-      "name": "Imtech Solution and Data Providers",
-      "type": "Cable/DSL/ISP"
     },
     "34696": {
       "name": "Mismelink Networks",
@@ -106768,10 +106756,6 @@
       "name": "Inter.link Services",
       "type": "Network Services"
     },
-    "218969": {
-      "name": "SheepMC Networks",
-      "type": "Non-Profit"
-    },
     "218995": {
       "name": "BMD3-AS",
       "type": "Unknown"
@@ -107018,7 +107002,7 @@
     },
     "218914": {
       "name": "DATAGIONET-AS",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "273269": {
       "name": "273269",
@@ -107306,7 +107290,7 @@
     },
     "218828": {
       "name": "Kikix",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "218832": {
       "name": "NextServ⠀",
@@ -107326,6 +107310,18 @@
     },
     "42460": {
       "name": "Euralb_ASN",
+      "type": "Unknown"
+    },
+    "218834": {
+      "name": "NKX",
+      "type": "Network Services"
+    },
+    "149300": {
+      "name": "DNFONLINE-AS-AP",
+      "type": "Unknown"
+    },
+    "218885": {
+      "name": "BAHIS-LLC",
       "type": "Unknown"
     },
     "22822": {
@@ -121188,10 +121184,6 @@
       "name": "UPLINK MAIS FIBRA",
       "type": "Network Services"
     },
-    "139589": {
-      "name": "GTDev Network",
-      "type": "Educational/Research"
-    },
     "137378": {
       "name": "Perdana Teknologi Persada",
       "type": "Cable/DSL/ISP"
@@ -122363,10 +122355,6 @@
     "45298": {
       "name": "INTERLINK TECHNOLOGY",
       "type": "Cable/DSL/ISP"
-    },
-    "139888": {
-      "name": "Time Route Servers",
-      "type": "Non-Profit"
     },
     "204457": {
       "name": "Atlantis Telekomünikasyon bil. hizm. san.tic.ltd.şti.",
@@ -136904,10 +136892,6 @@
       "name": "Media Akses Telematika",
       "type": "Cable/DSL/ISP"
     },
-    "214329": {
-      "name": "BGP Network LLC",
-      "type": "Cable/DSL/ISP"
-    },
     "274607": {
       "name": "GHT Telecom",
       "type": "NSP"
@@ -138916,6 +138900,10 @@
       "name": "CDmon",
       "type": "Content"
     },
+    "153359": {
+      "name": "Imtech Solution and Data Providers",
+      "type": "Cable/DSL/ISP"
+    },
     "215685": {
       "name": "Dotnet",
       "type": "Content"
@@ -140851,6 +140839,10 @@
     "402919": {
       "name": "Nyallo",
       "type": "Content"
+    },
+    "218969": {
+      "name": "SheepMC Networks",
+      "type": "Non-Profit"
     },
     "329792": {
       "name": "FIT Internet Ltd",
