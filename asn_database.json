@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-30T02:35:18.882Z",
+  "updated_at": "2026-08-31T02:29:31.266Z",
   "source": "PeeringDB",
-  "entry_count": 35227,
+  "entry_count": 35237,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -46982,7 +46982,7 @@
     },
     "3188": {
       "name": "Alastyr Telekomunikasyon",
-      "type": "Content"
+      "type": "NSP"
     },
     "8999": {
       "name": "Axinet Communication",
@@ -107324,6 +107324,42 @@
       "name": "BAHIS-LLC",
       "type": "Unknown"
     },
+    "402810": {
+      "name": "TDDT-NET",
+      "type": "Unknown"
+    },
+    "329630": {
+      "name": "ORG-TNL7-AFRINIC",
+      "type": "Unknown"
+    },
+    "154804": {
+      "name": "IDNIC-CEPATKILAT-ID",
+      "type": "Unknown"
+    },
+    "137554": {
+      "name": "DREAMNET-AS-AP",
+      "type": "Unknown"
+    },
+    "152928": {
+      "name": "MDAKBORHOSSAIN-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "151581": {
+      "name": "IDNIC-POWERNET-AS-ID",
+      "type": "Unknown"
+    },
+    "154854": {
+      "name": "PRENHOST-AS-AP",
+      "type": "Unknown"
+    },
+    "218839": {
+      "name": "ZONEKTELECOM-AS",
+      "type": "Unknown"
+    },
+    "154171": {
+      "name": "CARPET-AS-AP",
+      "type": "Unknown"
+    },
     "22822": {
       "name": "Edgio - AS22822",
       "type": "Content"
@@ -133690,7 +133726,7 @@
     },
     "151420": {
       "name": "IDNIC-BUKEFIBER-AS-ID",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "60284": {
       "name": "Axpo Systems AG",
@@ -139466,7 +139502,7 @@
     },
     "32042": {
       "name": "EVERGATE-NETWORKS",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "329533": {
       "name": "WANDERPORT NETWORKS MOZAMBIQUE",
@@ -140911,6 +140947,10 @@
     "272132": {
       "name": "TELECOTUI",
       "type": "Cable/DSL/ISP"
+    },
+    "218889": {
+      "name": "PerBjoern",
+      "type": "Unknown"
     }
   }
 }
