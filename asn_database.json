@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-08-31T02:29:31.266Z",
+  "updated_at": "2026-09-01T02:44:26.019Z",
   "source": "PeeringDB",
-  "entry_count": 35237,
+  "entry_count": 35259,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -15624,6 +15624,10 @@
       "name": "Interhost Networks",
       "type": "NSP"
     },
+    "202019": {
+      "name": "BODEGA-HOSTING",
+      "type": "Unknown"
+    },
     "63294": {
       "name": "DigitalFilm Tree LLC",
       "type": "Unknown"
@@ -18138,7 +18142,7 @@
     },
     "32489": {
       "name": "Amanah Tech",
-      "type": "Cable/DSL/ISP"
+      "type": "Network Services"
     },
     "32505": {
       "name": "Conterra",
@@ -44412,10 +44416,6 @@
       "name": "NBCCOLTD",
       "type": "Unknown"
     },
-    "9952": {
-      "name": "Hostway IDC",
-      "type": "NSP"
-    },
     "269078": {
       "name": "SETEC.NET",
       "type": "Unknown"
@@ -49563,10 +49563,6 @@
     "57717": {
       "name": "FiberXpress",
       "type": "Unknown"
-    },
-    "208713": {
-      "name": "Enrico Dominic Straehler",
-      "type": "Network Services"
     },
     "209209": {
       "name": "FABNET",
@@ -62583,10 +62579,6 @@
     "270796": {
       "name": "CAPITAL FIBRA",
       "type": "Cable/DSL/ISP"
-    },
-    "135409": {
-      "name": "Kacific Broadband Satellites",
-      "type": "Unknown"
     },
     "328641": {
       "name": "Open Fibre",
@@ -90052,6 +90044,10 @@
       "name": "AZAM MEDIA LIMITED",
       "type": "Unknown"
     },
+    "139029": {
+      "name": "AKNETWORKS",
+      "type": "Cable/DSL/ISP"
+    },
     "152391": {
       "name": "SHEEPNET",
       "type": "Cable/DSL/ISP"
@@ -90926,7 +90922,7 @@
     },
     "399805": {
       "name": "GOLIAD-01",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "328769": {
       "name": "ARROW NETWORK SYSTEMS LIMITED",
@@ -95066,7 +95062,7 @@
     },
     "269092": {
       "name": "JPNET SERVICOS DE INFORMATICA E TELECOMUNICACOES L",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "401649": {
       "name": "Cyratech Technologies",
@@ -101666,7 +101662,7 @@
     },
     "402230": {
       "name": "Strato Labs Inc",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "274398": {
       "name": "ANY DIGITAL MEXICO, S. de R.L. de C.V.",
@@ -103079,10 +103075,6 @@
     "402421": {
       "name": "FUTONET",
       "type": "Unknown"
-    },
-    "199185": {
-      "name": "PLUSLAYER",
-      "type": "NSP"
     },
     "63658": {
       "name": "Bangrunkeji",
@@ -105349,7 +105341,7 @@
       "type": "Unknown"
     },
     "219315": {
-      "name": "Eirenia Internet Services",
+      "name": "Buzzster Internet Services",
       "type": "Government"
     },
     "213515": {
@@ -106258,7 +106250,7 @@
     },
     "154760": {
       "name": "IDNIC-TIMURTEL-AS-ID",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "153640": {
       "name": "CACC-AS-AP",
@@ -106490,7 +106482,7 @@
     },
     "36096": {
       "name": "PAGEDIUM",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "219071": {
       "name": "UPUPFLY",
@@ -106634,7 +106626,7 @@
     },
     "265042": {
       "name": "ASN265042",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "53366": {
       "name": "TILLLMAN-FIBER-CO",
@@ -107154,7 +107146,7 @@
     },
     "329798": {
       "name": "Orannge Libya for Telecommunication and Modern Technology",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "218871": {
       "name": "NISHIO-AS",
@@ -107358,6 +107350,86 @@
     },
     "154171": {
       "name": "CARPET-AS-AP",
+      "type": "Unknown"
+    },
+    "7733": {
+      "name": "FRZRMTN",
+      "type": "Cable/DSL/ISP"
+    },
+    "7464": {
+      "name": "I-WAYNET",
+      "type": "Unknown"
+    },
+    "218823": {
+      "name": "BUDGERIGAR-SYSTEMS",
+      "type": "Unknown"
+    },
+    "218820": {
+      "name": "chang",
+      "type": "Unknown"
+    },
+    "218876": {
+      "name": "NR-DIGITAL-LLC-AS",
+      "type": "Content"
+    },
+    "154811": {
+      "name": "ZTABOXLIMITED-AS-AP",
+      "type": "Unknown"
+    },
+    "218941": {
+      "name": "FOELLMI",
+      "type": "Unknown"
+    },
+    "218805": {
+      "name": "MEDIBUDDY-NET",
+      "type": "Content"
+    },
+    "197448": {
+      "name": "NTGroupAS",
+      "type": "Unknown"
+    },
+    "269624": {
+      "name": "ASN269624",
+      "type": "Unknown"
+    },
+    "218804": {
+      "name": "MAHMOOD-ALTHAWADI",
+      "type": "Unknown"
+    },
+    "218822": {
+      "name": "Minhyeok Park",
+      "type": "Educational/Research"
+    },
+    "218811": {
+      "name": "Peeraboon Tangnipatjinda",
+      "type": "Educational/Research"
+    },
+    "273466": {
+      "name": "ASN273466",
+      "type": "Unknown"
+    },
+    "36858": {
+      "name": "NMSTN",
+      "type": "Unknown"
+    },
+    "218821": {
+      "name": "NifyCloud",
+      "type": "Unknown"
+    },
+    "37421": {
+      "name": "ORG-CL9-AFRINIC",
+      "type": "Unknown"
+    },
+    "271750": {
+      "name": "ASN271750",
+      "type": "Unknown"
+    },
+    "218807": {
+      "name": "Pixel-Networks",
+      "type": "Unknown"
+    },
+    "402590": {
+      "name": "INTERMOUNTAIN-IX",
       "type": "Unknown"
     },
     "22822": {
@@ -113165,7 +113237,7 @@
       "type": "Unknown"
     },
     "265475": {
-      "name": "INFOMENCK COMERCIO E SER. DE TELECOMUNICACAO",
+      "name": "MUVNET TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "265639": {
@@ -120840,6 +120912,10 @@
       "name": "Lasagna",
       "type": "Educational/Research"
     },
+    "9952": {
+      "name": "Hostway IDC",
+      "type": "NSP"
+    },
     "54932": {
       "name": "M3 Wireless",
       "type": "Cable/DSL/ISP"
@@ -122797,7 +122873,7 @@
       "type": "Unknown"
     },
     "269611": {
-      "name": "RAFAEL ALVES DA SILVA ME",
+      "name": "Nortrix Serviços de Tecnologia Ltda",
       "type": "Cable/DSL/ISP"
     },
     "207785": {
@@ -128200,6 +128276,10 @@
       "name": "PT Karya Panca Telekomunikasi",
       "type": "Cable/DSL/ISP"
     },
+    "135409": {
+      "name": "Kacific Broadband Satellites",
+      "type": "Cable/DSL/ISP"
+    },
     "141611": {
       "name": "Interkoneksi Dan Komunikasi Indonesia",
       "type": "Cable/DSL/ISP"
@@ -130521,7 +130601,7 @@
       "type": "Educational/Research"
     },
     "139560": {
-      "name": "PATEL INTERNET",
+      "name": "TANGOPLUS BROADBAND",
       "type": "NSP"
     },
     "213373": {
@@ -140344,6 +140424,10 @@
       "name": "PESONA NET",
       "type": "Cable/DSL/ISP"
     },
+    "199185": {
+      "name": "PLUSLAYER",
+      "type": "NSP"
+    },
     "198681": {
       "name": "Reia Network",
       "type": "Cable/DSL/ISP"
@@ -140750,7 +140834,7 @@
     },
     "402767": {
       "name": "Aspitex",
-      "type": "Enterprise"
+      "type": "Educational/Research"
     },
     "57295": {
       "name": "czk-mk",
@@ -140951,6 +141035,10 @@
     "218889": {
       "name": "PerBjoern",
       "type": "Unknown"
+    },
+    "154866": {
+      "name": "Airspine",
+      "type": "Non-Profit"
     }
   }
 }
