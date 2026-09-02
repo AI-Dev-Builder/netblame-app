@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-01T02:44:26.019Z",
+  "updated_at": "2026-09-02T02:04:47.617Z",
   "source": "PeeringDB",
-  "entry_count": 35259,
+  "entry_count": 35274,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -12757,7 +12757,7 @@
       "type": "NSP"
     },
     "13770": {
-      "name": "HFXIX Route Servers",
+      "name": "CANIX Halifax Route Servers",
       "type": "Route Server"
     },
     "26753": {
@@ -25084,10 +25084,6 @@
       "name": "Rakuten",
       "type": "Content"
     },
-    "61792": {
-      "name": "IPNET TELECOM",
-      "type": "Cable/DSL/ISP"
-    },
     "264582": {
       "name": "URUPESNET PROVEDOR",
       "type": "Cable/DSL/ISP"
@@ -33221,7 +33217,7 @@
       "type": "Unknown"
     },
     "53649": {
-      "name": "MonctonIX Route Servers",
+      "name": "CANIX Moncton Route Servers",
       "type": "Route Server"
     },
     "134749": {
@@ -44957,7 +44953,7 @@
       "type": "Enterprise"
     },
     "26389": {
-      "name": "PEIX Route Servers",
+      "name": "CANIX Charlottetown Route Servers",
       "type": "Route Server"
     },
     "209673": {
@@ -51279,10 +51275,6 @@
     "270511": {
       "name": "J F Dos Santos",
       "type": "Cable/DSL/ISP"
-    },
-    "18665": {
-      "name": "VURGE",
-      "type": "Unknown"
     },
     "55655": {
       "name": "Saranainsan Mudaselaras",
@@ -58001,7 +57993,7 @@
       "type": "NSP"
     },
     "212000": {
-      "name": "1337 Hosting Solutions",
+      "name": "1337 Hosting",
       "type": "Content"
     },
     "211972": {
@@ -69026,10 +69018,6 @@
     },
     "44656": {
       "name": "2provide",
-      "type": "Cable/DSL/ISP"
-    },
-    "270160": {
-      "name": "MIZRAIM VALTIERRA ESPINO",
       "type": "Cable/DSL/ISP"
     },
     "44411": {
@@ -80669,7 +80657,7 @@
       "type": "NSP"
     },
     "397727": {
-      "name": "HFXIX transit",
+      "name": "CANIX Halifax Services",
       "type": "Non-Profit"
     },
     "329022": {
@@ -88254,7 +88242,7 @@
     },
     "262663": {
       "name": "METROFLEX",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "61707": {
       "name": "SYSVOIP TELECOMUNICAÇÕES LTDA - ME",
@@ -91709,7 +91697,7 @@
       "type": "Unknown"
     },
     "213243": {
-      "name": "Northshield",
+      "name": "Bağlantı",
       "type": "Network Services"
     },
     "27271": {
@@ -104910,7 +104898,7 @@
     },
     "142613": {
       "name": "Red Bend Catholic College",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "12027": {
       "name": "Hytron Network Services (US) LLC - AS12027",
@@ -107128,10 +107116,6 @@
       "name": "LENZ-NET-AS",
       "type": "Unknown"
     },
-    "218931": {
-      "name": "HOSTSTACK-PRO",
-      "type": "Network Services"
-    },
     "197996": {
       "name": "onlinegateway",
       "type": "Content"
@@ -107198,7 +107182,7 @@
     },
     "135155": {
       "name": "TALTOLANET-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218865": {
       "name": "WHITE-ISP-SOLUTIONS-LTD-AS",
@@ -107214,10 +107198,6 @@
     },
     "15633": {
       "name": "UOC-AS",
-      "type": "Unknown"
-    },
-    "151580": {
-      "name": "IDNIC-BUMIMULTIPERKASA-AS-ID",
       "type": "Unknown"
     },
     "218980": {
@@ -107280,10 +107260,6 @@
       "name": "ASN275839",
       "type": "Unknown"
     },
-    "218828": {
-      "name": "Kikix",
-      "type": "Enterprise"
-    },
     "218832": {
       "name": "NextServ⠀",
       "type": "NSP"
@@ -107295,10 +107271,6 @@
     "218833": {
       "name": "ANYCAST-LAB",
       "type": "Educational/Research"
-    },
-    "271520": {
-      "name": "ASN271520",
-      "type": "Unknown"
     },
     "42460": {
       "name": "Euralb_ASN",
@@ -107322,7 +107294,7 @@
     },
     "329630": {
       "name": "ORG-TNL7-AFRINIC",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "154804": {
       "name": "IDNIC-CEPATKILAT-ID",
@@ -107350,7 +107322,7 @@
     },
     "154171": {
       "name": "CARPET-AS-AP",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "7733": {
       "name": "FRZRMTN",
@@ -107362,10 +107334,6 @@
     },
     "218823": {
       "name": "BUDGERIGAR-SYSTEMS",
-      "type": "Unknown"
-    },
-    "218820": {
-      "name": "chang",
       "type": "Unknown"
     },
     "218876": {
@@ -107429,7 +107397,83 @@
       "type": "Unknown"
     },
     "402590": {
-      "name": "INTERMOUNTAIN-IX",
+      "name": "IntermountainIX Route Servers",
+      "type": "Unknown"
+    },
+    "137570": {
+      "name": "STORMNETISP-AS-AP",
+      "type": "Unknown"
+    },
+    "152719": {
+      "name": "UGPL-AS-AP",
+      "type": "Unknown"
+    },
+    "219430": {
+      "name": "PHOTON-AS",
+      "type": "Unknown"
+    },
+    "154334": {
+      "name": "RAI1OSR-AS-AP",
+      "type": "Unknown"
+    },
+    "203683": {
+      "name": "AS-CFM",
+      "type": "Unknown"
+    },
+    "42415": {
+      "name": "AL-JAZEERA",
+      "type": "Unknown"
+    },
+    "16249": {
+      "name": "HLEBPROM-AS",
+      "type": "Unknown"
+    },
+    "394678": {
+      "name": "BPC-76-AS",
+      "type": "Unknown"
+    },
+    "218802": {
+      "name": "Northshield Network",
+      "type": "Enterprise"
+    },
+    "219122": {
+      "name": "EXPONET",
+      "type": "Unknown"
+    },
+    "212600": {
+      "name": "newnet-samara",
+      "type": "Unknown"
+    },
+    "329782": {
+      "name": "ORG-VTPD1-AFRINIC",
+      "type": "Unknown"
+    },
+    "268704": {
+      "name": "ASN268704",
+      "type": "Unknown"
+    },
+    "18834": {
+      "name": "NETWORKIP",
+      "type": "Unknown"
+    },
+    "218789": {
+      "name": "Soundvia-ASN",
+      "type": "Unknown"
+    },
+    "398025": {
+      "name": "CUMBERLAND-CONNECT",
+      "type": "Unknown"
+    },
+    "270613": {
+      "name": "ASN270613",
+      "type": "Unknown"
+    },
+    "265725": {
+      "name": "265725",
+      "type": "Unknown"
+    },
+    "154834": {
+      "name": "M1RACEICTINC-AS-AP",
       "type": "Unknown"
     },
     "22822": {
@@ -110811,10 +110855,6 @@
     "8470": {
       "name": "MAcomnet",
       "type": "NSP"
-    },
-    "263665": {
-      "name": "Ideia Telecom",
-      "type": "Cable/DSL/ISP"
     },
     "264130": {
       "name": "GIS",
@@ -118161,7 +118201,7 @@
       "type": "Cable/DSL/ISP"
     },
     "33320": {
-      "name": "SJIX Route Servers",
+      "name": "CANIX Saint John Route Servers",
       "type": "Route Server"
     },
     "132996": {
@@ -122983,10 +123023,6 @@
     "34681": {
       "name": "IT-SERVICE",
       "type": "Non-Profit"
-    },
-    "34979": {
-      "name": "39D Services",
-      "type": "Cable/DSL/ISP"
     },
     "138754": {
       "name": "Kerala Vision Broadband Limited",
@@ -130872,6 +130908,10 @@
       "name": "AGERA TELECOMUNICACOES",
       "type": "NSP"
     },
+    "270160": {
+      "name": "UZA Networks",
+      "type": "Cable/DSL/ISP"
+    },
     "265205": {
       "name": "UnoNet Telecomunicações",
       "type": "Cable/DSL/ISP"
@@ -130982,7 +131022,7 @@
     },
     "992": {
       "name": "Modest Labs LLC",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "964": {
       "name": "IonSwitch NW",
@@ -132442,7 +132482,7 @@
     },
     "150699": {
       "name": "INAAYA IT SOLUTIONS",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "400298": {
       "name": "Madcityservers",
@@ -141008,6 +141048,10 @@
       "name": "Chen Guang Network",
       "type": "Cable/DSL/ISP"
     },
+    "218931": {
+      "name": "HOSTSTACK-PRO",
+      "type": "Network Services"
+    },
     "218916": {
       "name": "FIOD",
       "type": "Government"
@@ -141015,6 +141059,10 @@
     "264338": {
       "name": "ASN264338",
       "type": "Unknown"
+    },
+    "151580": {
+      "name": "Bumi Net",
+      "type": "Cable/DSL/ISP"
     },
     "273280": {
       "name": "Yes Networks",
@@ -141024,6 +141072,10 @@
       "name": "SALAUDDINCYBERNET-AS-AP",
       "type": "Unknown"
     },
+    "218828": {
+      "name": "Kikix",
+      "type": "Cable/DSL/ISP"
+    },
     "218830": {
       "name": "zsaz-net",
       "type": "Educational/Research"
@@ -141032,9 +141084,17 @@
       "name": "TELECOTUI",
       "type": "Cable/DSL/ISP"
     },
+    "271520": {
+      "name": "ASN271520",
+      "type": "NSP"
+    },
     "218889": {
       "name": "PerBjoern",
       "type": "Unknown"
+    },
+    "218820": {
+      "name": "chang",
+      "type": "NSP"
     },
     "154866": {
       "name": "Airspine",
