@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-02T02:04:47.617Z",
+  "updated_at": "2026-09-03T02:10:27.047Z",
   "source": "PeeringDB",
-  "entry_count": 35274,
+  "entry_count": 35285,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -49912,10 +49912,6 @@
       "name": "Fiqran Solusindo Mediatama",
       "type": "Cable/DSL/ISP"
     },
-    "267325": {
-      "name": "USBINF INFORMATICA",
-      "type": "NSP"
-    },
     "131265": {
       "name": "TCS eServe",
       "type": "Enterprise"
@@ -51174,10 +51170,6 @@
     },
     "213363": {
       "name": "Ashley Warrington",
-      "type": "Unknown"
-    },
-    "264500": {
-      "name": "SoulTelecom",
       "type": "Unknown"
     },
     "139646": {
@@ -95686,7 +95678,7 @@
     },
     "153844": {
       "name": "Riderz Network Broadband",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "274032": {
       "name": "SERVICIOS FEMAROCA TV SOCIEDAD ANONIMA",
@@ -107302,7 +107294,7 @@
     },
     "137554": {
       "name": "DREAMNET-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "152928": {
       "name": "MDAKBORHOSSAIN-AS-AP",
@@ -107406,14 +107398,10 @@
     },
     "152719": {
       "name": "UGPL-AS-AP",
-      "type": "Unknown"
+      "type": "Content"
     },
     "219430": {
       "name": "PHOTON-AS",
-      "type": "Unknown"
-    },
-    "154334": {
-      "name": "RAI1OSR-AS-AP",
       "type": "Unknown"
     },
     "203683": {
@@ -107430,7 +107418,7 @@
     },
     "394678": {
       "name": "BPC-76-AS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218802": {
       "name": "Northshield Network",
@@ -107458,7 +107446,7 @@
     },
     "218789": {
       "name": "Soundvia-ASN",
-      "type": "Unknown"
+      "type": "Content"
     },
     "398025": {
       "name": "CUMBERLAND-CONNECT",
@@ -107474,6 +107462,46 @@
     },
     "154834": {
       "name": "M1RACEICTINC-AS-AP",
+      "type": "Unknown"
+    },
+    "402959": {
+      "name": "VEJARO",
+      "type": "Unknown"
+    },
+    "30594": {
+      "name": "FREESTONE-GROVE",
+      "type": "Enterprise"
+    },
+    "134404": {
+      "name": "INTRANETBD-AS-AP",
+      "type": "NSP"
+    },
+    "215211": {
+      "name": "GOLDIPV4",
+      "type": "Unknown"
+    },
+    "402577": {
+      "name": "VIXNET",
+      "type": "Unknown"
+    },
+    "154872": {
+      "name": "FLYNETBDDOTCOM-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "36014": {
+      "name": "ONE-STOP-INTERNET",
+      "type": "Cable/DSL/ISP"
+    },
+    "199967": {
+      "name": "Think-Huge",
+      "type": "Enterprise"
+    },
+    "274903": {
+      "name": "274903",
+      "type": "Unknown"
+    },
+    "218796": {
+      "name": "GREYWIND-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -123024,6 +123052,10 @@
       "name": "IT-SERVICE",
       "type": "Non-Profit"
     },
+    "34979": {
+      "name": "Thirty Nine Degrees",
+      "type": "Cable/DSL/ISP"
+    },
     "138754": {
       "name": "Kerala Vision Broadband Limited",
       "type": "Cable/DSL/ISP"
@@ -123103,6 +123135,10 @@
     "47223": {
       "name": "Lukman Multimedia",
       "type": "NSP"
+    },
+    "267325": {
+      "name": "USB INFORMATICA",
+      "type": "Cable/DSL/ISP"
     },
     "55567": {
       "name": "Enablis",
@@ -123643,6 +123679,10 @@
     "270442": {
       "name": "G15NET LTDA",
       "type": "Cable/DSL/ISP"
+    },
+    "264500": {
+      "name": "SoulTelecom",
+      "type": "NSP"
     },
     "262995": {
       "name": "NETDIGITAL TELECOMUNICACOES",
@@ -129169,7 +129209,7 @@
       "type": "Unknown"
     },
     "328917": {
-      "name": "Sonic Fibre Connect",
+      "name": "SONIC",
       "type": "Unknown"
     },
     "213281": {
@@ -133573,7 +133613,7 @@
       "type": "Network Services"
     },
     "273007": {
-      "name": "Fi-Ven",
+      "name": "FiVEN",
       "type": "Content"
     },
     "137349": {
@@ -139462,7 +139502,7 @@
     },
     "401665": {
       "name": "HostBilby Inc.",
-      "type": "Content"
+      "type": "NSP"
     },
     "207940": {
       "name": "Kupschke",
@@ -141099,6 +141139,10 @@
     "154866": {
       "name": "Airspine",
       "type": "Non-Profit"
+    },
+    "154334": {
+      "name": "RAI1OSR-AS-AP",
+      "type": "Unknown"
     }
   }
 }
