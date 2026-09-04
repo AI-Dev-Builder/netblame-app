@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-03T02:10:27.047Z",
+  "updated_at": "2026-09-04T02:06:55.205Z",
   "source": "PeeringDB",
-  "entry_count": 35285,
+  "entry_count": 35295,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -19156,6 +19156,10 @@
       "name": "ISH Tecnologia",
       "type": "NSP"
     },
+    "51402": {
+      "name": "COM-IN Telekommunikation",
+      "type": "Cable/DSL/ISP"
+    },
     "394111": {
       "name": "Foothills Rural Telephone Cooperative Corporation, Inc.",
       "type": "NSP"
@@ -27399,10 +27403,6 @@
     "263889": {
       "name": "Estado do Maranhao-Tribunal de Justica do Maranhao",
       "type": "Unknown"
-    },
-    "134102": {
-      "name": "Unlimited Internet",
-      "type": "Cable/DSL/ISP"
     },
     "133096": {
       "name": "Mothership",
@@ -39023,6 +39023,10 @@
     "264716": {
       "name": "Red Television",
       "type": "Cable/DSL/ISP"
+    },
+    "61595": {
+      "name": "TGN BRASIL LTDA",
+      "type": "NSP"
     },
     "210095": {
       "name": "TAYF AL-MADAR",
@@ -52798,7 +52802,7 @@
     },
     "264473": {
       "name": "POLOTEL TELECOM LOCAÇÃO E DES. DE. SITES",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "140731": {
       "name": "TOHUNET",
@@ -57299,6 +57303,10 @@
     "399114": {
       "name": "Hyonix Edge",
       "type": "Content"
+    },
+    "141461": {
+      "name": "RA-NET",
+      "type": "Unknown"
     },
     "200108": {
       "name": "NEMO Italy",
@@ -65103,10 +65111,6 @@
     "264327": {
       "name": "ANDERSON MANZANO BACHIEGA",
       "type": "NSP"
-    },
-    "328398": {
-      "name": "IXP-GUINEE Management",
-      "type": "Non-Profit"
     },
     "138783": {
       "name": "3J Global Services",
@@ -96566,7 +96570,7 @@
     },
     "37141": {
       "name": "ETI SA",
-      "type": "Cable/DSL/ISP"
+      "type": "Enterprise"
     },
     "329528": {
       "name": "DEREKI ENTERPRISES",
@@ -106605,7 +106609,7 @@
       "type": "Network Services"
     },
     "265042": {
-      "name": "ASN265042",
+      "name": "TERESINA TELECOMUNICACOES LTDA",
       "type": "Cable/DSL/ISP"
     },
     "53366": {
@@ -107338,7 +107342,7 @@
     },
     "218941": {
       "name": "FOELLMI",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "218805": {
       "name": "MEDIBUDDY-NET",
@@ -107394,7 +107398,7 @@
     },
     "137570": {
       "name": "STORMNETISP-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "152719": {
       "name": "UGPL-AS-AP",
@@ -107462,7 +107466,7 @@
     },
     "154834": {
       "name": "M1RACEICTINC-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "402959": {
       "name": "VEJARO",
@@ -107498,10 +107502,50 @@
     },
     "274903": {
       "name": "274903",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218796": {
       "name": "GREYWIND-AS",
+      "type": "Unknown"
+    },
+    "153055": {
+      "name": "Tamaraw Vision Network Inc.",
+      "type": "Cable/DSL/ISP"
+    },
+    "198733": {
+      "name": "Helikon",
+      "type": "Enterprise"
+    },
+    "402975": {
+      "name": "DALINET",
+      "type": "Unknown"
+    },
+    "402979": {
+      "name": "VORTEX-01",
+      "type": "Unknown"
+    },
+    "218792": {
+      "name": "FiberMouse",
+      "type": "Unknown"
+    },
+    "402932": {
+      "name": "BCN-NET",
+      "type": "Enterprise"
+    },
+    "218836": {
+      "name": "Nicky Hendriks trading as Expeditioner",
+      "type": "Unknown"
+    },
+    "218772": {
+      "name": "Barbonetworks",
+      "type": "NSP"
+    },
+    "328318": {
+      "name": "ORG-RNDE1-AFRINIC",
+      "type": "Unknown"
+    },
+    "273475": {
+      "name": "ASN273475",
       "type": "Unknown"
     },
     "22822": {
@@ -110693,7 +110737,7 @@
       "type": "Cable/DSL/ISP"
     },
     "51531": {
-      "name": "DE-CIX Services",
+      "name": "DE-CIX Management GmbH",
       "type": "Enterprise"
     },
     "56209": {
@@ -111784,10 +111828,6 @@
       "name": "Routed Hosting",
       "type": "NSP"
     },
-    "51402": {
-      "name": "COM-IN Telekommunikation",
-      "type": "Cable/DSL/ISP"
-    },
     "43045": {
       "name": "Svyaz-Holding Ltd.",
       "type": "Cable/DSL/ISP"
@@ -112069,7 +112109,7 @@
       "type": "NSP"
     },
     "202831": {
-      "name": "Ablaykhan Akylbekovich Sharimov",
+      "name": "PACKET LOSS LTD",
       "type": "Content"
     },
     "327960": {
@@ -115590,7 +115630,7 @@
     },
     "136328": {
       "name": "S S Cablenet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "266260": {
       "name": "ITOP TELECOM",
@@ -118613,7 +118653,7 @@
       "type": "NSP"
     },
     "136224": {
-      "name": "City Online",
+      "name": "City Online Ltd",
       "type": "Cable/DSL/ISP"
     },
     "266779": {
@@ -118691,10 +118731,6 @@
     "267668": {
       "name": "Gigaweb Tecnologia",
       "type": "Cable/DSL/ISP"
-    },
-    "61595": {
-      "name": "TGlobal Networks - Brasil",
-      "type": "NSP"
     },
     "267289": {
       "name": "SCON FIBRAS",
@@ -127897,7 +127933,7 @@
       "type": "Cable/DSL/ISP"
     },
     "50839": {
-      "name": "Netlayer- Global IP Network",
+      "name": "Netlayer India Private Limited",
       "type": "NSP"
     },
     "142419": {
@@ -129439,6 +129475,10 @@
     "328964": {
       "name": "Insight Network Solutions",
       "type": "Enterprise"
+    },
+    "328398": {
+      "name": "IXP-GUINEE Management",
+      "type": "Non-Profit"
     },
     "147050": {
       "name": "Meghna Online",
@@ -132125,7 +132165,7 @@
       "type": "Network Services"
     },
     "201398": {
-      "name": "BRYSON GUWIN",
+      "name": "Guwin Universal Services LLC",
       "type": "NSP"
     },
     "213241": {
@@ -137990,7 +138030,7 @@
     },
     "213641": {
       "name": "AS213641 Network",
-      "type": "NSP"
+      "type": "Content"
     },
     "135474": {
       "name": "PT. Hafiz Jaya Infotama",
@@ -141134,7 +141174,7 @@
     },
     "218820": {
       "name": "chang",
-      "type": "NSP"
+      "type": "Educational/Research"
     },
     "154866": {
       "name": "Airspine",
