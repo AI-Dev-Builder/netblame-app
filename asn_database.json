@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-04T02:06:55.205Z",
+  "updated_at": "2026-09-05T02:07:06.028Z",
   "source": "PeeringDB",
-  "entry_count": 35295,
+  "entry_count": 35302,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -15532,10 +15532,6 @@
       "name": "QTnet",
       "type": "Cable/DSL/ISP"
     },
-    "263587": {
-      "name": "J. UTZIG & CIA LTDA - EPP",
-      "type": "Cable/DSL/ISP"
-    },
     "26563": {
       "name": "MASS-IX Route Servers",
       "type": "Route Server"
@@ -23183,10 +23179,6 @@
     "37482": {
       "name": "MyTelnet",
       "type": "Cable/DSL/ISP"
-    },
-    "25625": {
-      "name": "IP Access International",
-      "type": "Unknown"
     },
     "264525": {
       "name": "Coelho Tecnologia",
@@ -30977,7 +30969,7 @@
       "type": "Educational/Research"
     },
     "53209": {
-      "name": "Mantiqueira Tecnologia",
+      "name": "RAIMAX INTERNET LTDA.",
       "type": "Cable/DSL/ISP"
     },
     "205651": {
@@ -52208,10 +52200,6 @@
       "name": "Alexander Hjelm",
       "type": "Enterprise"
     },
-    "207442": {
-      "name": "Tiqaniyat Al-shabkah for Internet Services",
-      "type": "Unknown"
-    },
     "213286": {
       "name": "Junaid Uppal",
       "type": "Unknown"
@@ -54429,7 +54417,7 @@
       "type": "Educational/Research"
     },
     "136589": {
-      "name": "CATHOLIC EDUCATION OFFICE OF WA",
+      "name": "Catholic Education Office of WA",
       "type": "Educational/Research"
     },
     "58824": {
@@ -57303,10 +57291,6 @@
     "399114": {
       "name": "Hyonix Edge",
       "type": "Content"
-    },
-    "141461": {
-      "name": "RA-NET",
-      "type": "Unknown"
     },
     "200108": {
       "name": "NEMO Italy",
@@ -71793,8 +71777,8 @@
       "type": "Route Server"
     },
     "202351": {
-      "name": "frickel.network",
-      "type": "Network Services"
+      "name": "internet-schmiede.de",
+      "type": "Cable/DSL/ISP"
     },
     "265798": {
       "name": "LEVEL SEVEN",
@@ -85700,10 +85684,6 @@
       "name": "Link4data Communications",
       "type": "Unknown"
     },
-    "214657": {
-      "name": "Bls Services Tecnologia em Software",
-      "type": "Content"
-    },
     "214801": {
       "name": "The Xeon Network",
       "type": "Non-Profit"
@@ -91830,10 +91810,6 @@
     },
     "40279": {
       "name": "ForestRacks (AS40279)",
-      "type": "Unknown"
-    },
-    "197946": {
-      "name": "CloudGuard",
       "type": "Unknown"
     },
     "212908": {
@@ -100726,7 +100702,7 @@
     },
     "61623": {
       "name": "Vellon Servicos de Comunicacao Mult e Digitais",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "204078": {
       "name": "scylla",
@@ -105428,10 +105404,6 @@
       "name": "Nationale Speeltuin",
       "type": "Educational/Research"
     },
-    "219289": {
-      "name": "Jiang Songyang",
-      "type": "Unknown"
-    },
     "214209": {
       "name": "INTERNET-MAGNATE",
       "type": "Unknown"
@@ -106990,7 +106962,7 @@
     },
     "46910": {
       "name": "NOCTYS-AS",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "402926": {
       "name": "ZENTRO-INTERNET-TEXAS",
@@ -107532,10 +107504,6 @@
       "name": "BCN-NET",
       "type": "Enterprise"
     },
-    "218836": {
-      "name": "Nicky Hendriks trading as Expeditioner",
-      "type": "Unknown"
-    },
     "218772": {
       "name": "Barbonetworks",
       "type": "NSP"
@@ -107546,6 +107514,50 @@
     },
     "273475": {
       "name": "ASN273475",
+      "type": "Unknown"
+    },
+    "18381": {
+      "name": "RedSwitches",
+      "type": "Unknown"
+    },
+    "329610": {
+      "name": "ORG-KNPD1-AFRINIC",
+      "type": "Enterprise"
+    },
+    "275798": {
+      "name": "ASN275798",
+      "type": "Unknown"
+    },
+    "267415": {
+      "name": "ASN267415",
+      "type": "Cable/DSL/ISP"
+    },
+    "40509": {
+      "name": "FLY",
+      "type": "Unknown"
+    },
+    "329686": {
+      "name": "ORG-RNPD1-AFRINIC",
+      "type": "Unknown"
+    },
+    "205900": {
+      "name": "APC-Solutions",
+      "type": "Unknown"
+    },
+    "219138": {
+      "name": "kz-netcell-as",
+      "type": "Unknown"
+    },
+    "219454": {
+      "name": "FTH",
+      "type": "Unknown"
+    },
+    "275012": {
+      "name": "275012",
+      "type": "Unknown"
+    },
+    "274925": {
+      "name": "274925",
       "type": "Unknown"
     },
     "22822": {
@@ -126184,6 +126196,10 @@
       "name": "Bootstrap",
       "type": "Cable/DSL/ISP"
     },
+    "141461": {
+      "name": "RA-NET",
+      "type": "Network Services"
+    },
     "141145": {
       "name": "Giga Digital Nusantara",
       "type": "Cable/DSL/ISP"
@@ -138344,6 +138360,10 @@
       "name": "Hop179",
       "type": "NSP"
     },
+    "197946": {
+      "name": "CloudGuard",
+      "type": "Unknown"
+    },
     "152815": {
       "name": "PT LINTAS DATA KITA",
       "type": "Cable/DSL/ISP"
@@ -139075,10 +139095,6 @@
     "140101": {
       "name": "Skylink Sinaya Sejahtera",
       "type": "Cable/DSL/ISP"
-    },
-    "206604": {
-      "name": "Belka's network",
-      "type": "Educational/Research"
     },
     "210079": {
       "name": "EUROBYTE",
@@ -140896,6 +140912,10 @@
       "name": "One Free Computer",
       "type": "Educational/Research"
     },
+    "219289": {
+      "name": "Jiang Songyang",
+      "type": "Unknown"
+    },
     "206963": {
       "name": "SprintCDN",
       "type": "Content"
@@ -141183,6 +141203,14 @@
     "154334": {
       "name": "RAI1OSR-AS-AP",
       "type": "Unknown"
+    },
+    "218836": {
+      "name": "Nicky Hendriks trading as Expeditioner",
+      "type": "Educational/Research"
+    },
+    "218758": {
+      "name": "DCLU",
+      "type": "Network Services"
     }
   }
 }
