@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-05T02:07:06.028Z",
+  "updated_at": "2026-09-06T02:02:28.294Z",
   "source": "PeeringDB",
-  "entry_count": 35302,
+  "entry_count": 35304,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -83306,7 +83306,7 @@
     },
     "206706": {
       "name": "Iraq Smart Technologies Co",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "206846": {
       "name": "Voximplant",
@@ -97238,7 +97238,7 @@
     },
     "214341": {
       "name": "Synoticus",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "270118": {
       "name": "SOLUCIONES, ANALITICOS Y SERVICIOS TEAM",
@@ -98393,7 +98393,7 @@
       "type": "Unknown"
     },
     "210699": {
-      "name": "WEDEPLOY SAS",
+      "name": "WEDEPLOY SAS (INFRAWIRE.NET)",
       "type": "Network Services"
     },
     "152648": {
@@ -107504,10 +107504,6 @@
       "name": "BCN-NET",
       "type": "Enterprise"
     },
-    "218772": {
-      "name": "Barbonetworks",
-      "type": "NSP"
-    },
     "328318": {
       "name": "ORG-RNDE1-AFRINIC",
       "type": "Unknown"
@@ -107558,6 +107554,14 @@
     },
     "274925": {
       "name": "274925",
+      "type": "Unknown"
+    },
+    "3134": {
+      "name": "USAID-ASN",
+      "type": "Unknown"
+    },
+    "329729": {
+      "name": "ORG-TGL2-AFRINIC",
       "type": "Unknown"
     },
     "22822": {
@@ -140914,7 +140918,7 @@
     },
     "219289": {
       "name": "Jiang Songyang",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "206963": {
       "name": "SprintCDN",
@@ -141205,8 +141209,12 @@
       "type": "Unknown"
     },
     "218836": {
-      "name": "Nicky Hendriks trading as Expeditioner",
-      "type": "Educational/Research"
+      "name": "Expeditioner Network",
+      "type": "Content"
+    },
+    "218772": {
+      "name": "Barbonetworks",
+      "type": "NSP"
     },
     "218758": {
       "name": "DCLU",
