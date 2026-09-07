@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-06T02:02:28.294Z",
+  "updated_at": "2026-09-07T02:00:34.200Z",
   "source": "PeeringDB",
-  "entry_count": 35304,
+  "entry_count": 35305,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -902,7 +902,7 @@
     },
     "12989": {
       "name": "BlackHOST",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "4323": {
       "name": "tw telecom",
@@ -83205,7 +83205,7 @@
       "type": "Unknown"
     },
     "48881": {
-      "name": "DATA NODE SRL",
+      "name": "DataNode DC SRL",
       "type": "Unknown"
     },
     "152419": {
@@ -86338,10 +86338,6 @@
     },
     "401241": {
       "name": "IHS",
-      "type": "Cable/DSL/ISP"
-    },
-    "267664": {
-      "name": "CONECTA INTERNET LTDA",
       "type": "Cable/DSL/ISP"
     },
     "26921": {
@@ -98393,7 +98389,7 @@
       "type": "Unknown"
     },
     "210699": {
-      "name": "WEDEPLOY SAS (INFRAWIRE.NET)",
+      "name": "WEDEPLOY (INFRAWIRE.NET)",
       "type": "Network Services"
     },
     "152648": {
@@ -105301,7 +105297,7 @@
       "type": "Unknown"
     },
     "219315": {
-      "name": "Buzzster Internet Services",
+      "name": "M62 Bank",
       "type": "Government"
     },
     "213515": {
@@ -105723,10 +105719,6 @@
     "274929": {
       "name": "CHILE IX - IP SERVICES",
       "type": "Unknown"
-    },
-    "219224": {
-      "name": "Neonhost Datacenter LTDA",
-      "type": "NSP"
     },
     "273014": {
       "name": "AGUSTINA SERVICIOS GENERALES S.A.C",
@@ -107562,6 +107554,14 @@
     },
     "329729": {
       "name": "ORG-TGL2-AFRINIC",
+      "type": "Unknown"
+    },
+    "215415": {
+      "name": "YUWAN-NETWORKS",
+      "type": "Cable/DSL/ISP"
+    },
+    "218776": {
+      "name": "FULLFIBER",
       "type": "Unknown"
     },
     "22822": {
@@ -139162,7 +139162,7 @@
     },
     "215685": {
       "name": "Dotnet",
-      "type": "Content"
+      "type": "NSP"
     },
     "401688": {
       "name": "Latency Logic",
@@ -140954,6 +140954,10 @@
     },
     "219254": {
       "name": "VanIsle-Networks",
+      "type": "NSP"
+    },
+    "219224": {
+      "name": "Neonhost Datacenter LTDA",
       "type": "NSP"
     },
     "219244": {
