@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-07T02:00:34.200Z",
+  "updated_at": "2026-09-08T02:11:20.970Z",
   "source": "PeeringDB",
-  "entry_count": 35305,
+  "entry_count": 35312,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -66080,10 +66080,6 @@
       "name": "Ecotel",
       "type": "Unknown"
     },
-    "24812": {
-      "name": "NPK Home-Net",
-      "type": "Cable/DSL/ISP"
-    },
     "58133": {
       "name": "Lukas Mergenthaler",
       "type": "Non-Profit"
@@ -72917,8 +72913,8 @@
       "type": "Non-Profit"
     },
     "200954": {
-      "name": "Andrey Shemanin",
-      "type": "Enterprise"
+      "name": "Alterra",
+      "type": "NSP"
     },
     "329174": {
       "name": "Swift Broadband Limited",
@@ -84598,7 +84594,7 @@
     },
     "215353": {
       "name": "AtropolNetwork",
-      "type": "Content"
+      "type": "NSP"
     },
     "197275": {
       "name": "ASLINKTELECOMNN",
@@ -90500,6 +90496,10 @@
       "name": "WIFILINKS",
       "type": "Unknown"
     },
+    "216075": {
+      "name": "Zenyx",
+      "type": "Non-Profit"
+    },
     "263475": {
       "name": "Guara Digital",
       "type": "Unknown"
@@ -95478,7 +95478,7 @@
     },
     "153777": {
       "name": "Mandalar Mandalay",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "142501": {
       "name": "1.10.10.10 - Indian Public DNS (AS142501)",
@@ -95489,8 +95489,8 @@
       "type": "Content"
     },
     "58087": {
-      "name": "Florian Kolb",
-      "type": "Content"
+      "name": "Datalix",
+      "type": "NSP"
     },
     "17025": {
       "name": "Zayo Bandwidth (AS17025)",
@@ -97550,7 +97550,7 @@
     },
     "201890": {
       "name": "EHS",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "30701": {
       "name": "ISC F-Root SMF1",
@@ -104338,7 +104338,7 @@
     },
     "207957": {
       "name": "SERV.HOST GROUP",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "215133": {
       "name": "JAKUB-WITKOWSKI",
@@ -106004,10 +106004,6 @@
       "name": "267843",
       "type": "Unknown"
     },
-    "402801": {
-      "name": "ANDRII-NET",
-      "type": "Enterprise"
-    },
     "401130": {
       "name": "SATURN-ASN-01",
       "type": "Unknown"
@@ -106953,7 +106949,7 @@
       "type": "NSP"
     },
     "46910": {
-      "name": "NOCTYS-AS",
+      "name": "Noctys",
       "type": "NSP"
     },
     "402926": {
@@ -107562,6 +107558,34 @@
     },
     "218776": {
       "name": "FULLFIBER",
+      "type": "Unknown"
+    },
+    "210231": {
+      "name": "SYSDEX",
+      "type": "Unknown"
+    },
+    "137639": {
+      "name": "JASNET-AS",
+      "type": "Unknown"
+    },
+    "212399": {
+      "name": "Gigaair",
+      "type": "Unknown"
+    },
+    "218750": {
+      "name": "CHEESE-AS",
+      "type": "Unknown"
+    },
+    "218752": {
+      "name": "mkbucenkozjak",
+      "type": "Unknown"
+    },
+    "48542": {
+      "name": "StartTelecom",
+      "type": "Unknown"
+    },
+    "271622": {
+      "name": "ASN271622",
       "type": "Unknown"
     },
     "22822": {
@@ -119766,7 +119790,7 @@
     },
     "39855": {
       "name": "Mod Mission Critical AS39855",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "328426": {
       "name": "Zonke Wifi",
@@ -129864,6 +129888,10 @@
       "name": "CXBnet",
       "type": "Unknown"
     },
+    "24812": {
+      "name": "NPK Home-Net",
+      "type": "Cable/DSL/ISP"
+    },
     "272043": {
       "name": "OSNET SAS",
       "type": "NSP"
@@ -138028,10 +138056,6 @@
       "name": "RdemSystems",
       "type": "Enterprise"
     },
-    "216075": {
-      "name": "EtherLinx",
-      "type": "Non-Profit"
-    },
     "153183": {
       "name": "Gonsoa, Unipessoal, Lda.",
       "type": "Unknown"
@@ -138165,7 +138189,7 @@
       "type": "Unknown"
     },
     "63286": {
-      "name": "NextServ",
+      "name": "Zouter2",
       "type": "Network Services"
     },
     "197563": {
@@ -141011,6 +141035,10 @@
     "219157": {
       "name": "IPv6 Cloud Ltd.",
       "type": "NSP"
+    },
+    "402801": {
+      "name": "ANDRII-NET",
+      "type": "Enterprise"
     },
     "219484": {
       "name": "TAKO",
