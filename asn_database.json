@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-08T02:11:20.970Z",
+  "updated_at": "2026-09-09T02:15:23.441Z",
   "source": "PeeringDB",
-  "entry_count": 35312,
+  "entry_count": 35327,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -17016,10 +17016,6 @@
       "name": "Respina Networks & Beyond PJSC",
       "type": "Enterprise"
     },
-    "201080": {
-      "name": "SCANI",
-      "type": "Non-Profit"
-    },
     "63927": {
       "name": "RISE.ph",
       "type": "Cable/DSL/ISP"
@@ -18079,10 +18075,6 @@
     "57370": {
       "name": "Wingo AG",
       "type": "Unknown"
-    },
-    "61580": {
-      "name": "NIC.br - OpenCDN",
-      "type": "Non-Profit"
     },
     "23140": {
       "name": "Universidad de Chile",
@@ -35924,6 +35916,10 @@
       "name": "Offsetdruckerei Schwarzach",
       "type": "Unknown"
     },
+    "198189": {
+      "name": "STEALTHVM",
+      "type": "Unknown"
+    },
     "205889": {
       "name": "Giga Nineveh for internet services",
       "type": "Cable/DSL/ISP"
@@ -41807,6 +41803,10 @@
     "5670": {
       "name": "Vapor IO",
       "type": "NSP"
+    },
+    "201814": {
+      "name": "Mevspace",
+      "type": "Content"
     },
     "23969": {
       "name": "NT Broadband ISP",
@@ -56406,7 +56406,7 @@
     },
     "1111": {
       "name": "Universitaet Klagenfurt",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "141078": {
       "name": "Amanna Media Link",
@@ -91164,10 +91164,6 @@
       "name": "CAIXA ECONOMICA DE CABO VERDE, S. A.",
       "type": "Unknown"
     },
-    "18799": {
-      "name": "gremlin",
-      "type": "Enterprise"
-    },
     "20435": {
       "name": "Rose Grove Capital Management",
       "type": "Unknown"
@@ -94715,10 +94711,6 @@
     "208220": {
       "name": "offerhostinc",
       "type": "Unknown"
-    },
-    "205874": {
-      "name": "BG-ZEROBYTE",
-      "type": "Educational/Research"
     },
     "401753": {
       "name": "BIXCE",
@@ -103148,10 +103140,6 @@
       "name": "Diogenius SPRL - Wallonia",
       "type": "Unknown"
     },
-    "56501": {
-      "name": "Diogenius SPRL - Belgium",
-      "type": "Content"
-    },
     "402440": {
       "name": "CYBERWOLF",
       "type": "Unknown"
@@ -103327,6 +103315,10 @@
     "137910": {
       "name": "Wavecomm",
       "type": "Cable/DSL/ISP"
+    },
+    "207208": {
+      "name": "Mevspace - Internet Service",
+      "type": "Content"
     },
     "275723": {
       "name": "Ademir Sulzenco & Cia",
@@ -105506,7 +105498,7 @@
     },
     "219265": {
       "name": "Tjerk Jan Vonk",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "327728": {
       "name": "Cable Television Network (CTV) Limited",
@@ -107318,7 +107310,7 @@
     },
     "218804": {
       "name": "MAHMOOD-ALTHAWADI",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "218822": {
       "name": "Minhyeok Park",
@@ -107518,11 +107510,11 @@
     },
     "40509": {
       "name": "FLY",
-      "type": "Unknown"
+      "type": "Content"
     },
     "329686": {
       "name": "ORG-RNPD1-AFRINIC",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "205900": {
       "name": "APC-Solutions",
@@ -107574,7 +107566,7 @@
     },
     "218750": {
       "name": "CHEESE-AS",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "218752": {
       "name": "mkbucenkozjak",
@@ -107585,7 +107577,59 @@
       "type": "Unknown"
     },
     "271622": {
-      "name": "ASN271622",
+      "name": "FOUR SOLUCOES E SERVICOS DE TELECOMUNICACOES LTDA",
+      "type": "NSP"
+    },
+    "202048": {
+      "name": "CloudTeknoloji",
+      "type": "Unknown"
+    },
+    "154331": {
+      "name": "Citra Bintang Net",
+      "type": "Cable/DSL/ISP"
+    },
+    "210053": {
+      "name": "humo-as",
+      "type": "Unknown"
+    },
+    "24437": {
+      "name": "UWA-AS-AP",
+      "type": "Unknown"
+    },
+    "203110": {
+      "name": "Voicenter-IL01",
+      "type": "Unknown"
+    },
+    "24676": {
+      "name": "Linetex",
+      "type": "Educational/Research"
+    },
+    "218771": {
+      "name": "SNARKNET2",
+      "type": "Unknown"
+    },
+    "151478": {
+      "name": "IDNIC-MYBRIDGE-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "329804": {
+      "name": "ORG-SBL10-AFRINIC",
+      "type": "Unknown"
+    },
+    "154505": {
+      "name": "IDNIC-DIGIT-AS-ID",
+      "type": "Unknown"
+    },
+    "218740": {
+      "name": "simonova-as",
+      "type": "Enterprise"
+    },
+    "329470": {
+      "name": "ORG-AFB1-AFRINIC",
+      "type": "Unknown"
+    },
+    "264586": {
+      "name": "ASN264586",
       "type": "Unknown"
     },
     "22822": {
@@ -111288,6 +111332,10 @@
       "name": "Blycka",
       "type": "Educational/Research"
     },
+    "201080": {
+      "name": "SCANI",
+      "type": "Non-Profit"
+    },
     "327950": {
       "name": "Izwi Technology Group",
       "type": "Cable/DSL/ISP"
@@ -111563,6 +111611,10 @@
     "60435": {
       "name": "Zabec.net",
       "type": "Content"
+    },
+    "61580": {
+      "name": "NIC.br - OpenCDN",
+      "type": "Non-Profit"
     },
     "18002": {
       "name": "World Phone Internet Services",
@@ -112449,8 +112501,8 @@
       "type": "Cable/DSL/ISP"
     },
     "203099": {
-      "name": "LoadFront",
-      "type": "Network Services"
+      "name": "loadfront",
+      "type": "Enterprise"
     },
     "3165": {
       "name": "Przedsiebiorstwo Telekomunikacyjne LANET sp. z o.o.",
@@ -119927,10 +119979,6 @@
     "267641": {
       "name": "DKTelecom",
       "type": "Cable/DSL/ISP"
-    },
-    "201814": {
-      "name": "Mevspace",
-      "type": "Content"
     },
     "134944": {
       "name": "Sri Lakshmi Networks Private Limited",
@@ -138236,6 +138284,10 @@
       "name": "TV CABLE COM CA",
       "type": "Cable/DSL/ISP"
     },
+    "18799": {
+      "name": "gremlin.ca",
+      "type": "Enterprise"
+    },
     "213484": {
       "name": "TievoluIX",
       "type": "Route Server"
@@ -138971,6 +139023,10 @@
     "152758": {
       "name": "ADILINK",
       "type": "Cable/DSL/ISP"
+    },
+    "205874": {
+      "name": "BG-ZEROBYTE",
+      "type": "Educational/Research"
     },
     "213438": {
       "name": "colocatel-inc",
@@ -140430,7 +140486,7 @@
     },
     "329709": {
       "name": "MetroReach Limited",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "149901": {
       "name": "PT Garuda Super Link",
@@ -140510,7 +140566,7 @@
     },
     "135674": {
       "name": "Kano Network",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "22915": {
       "name": "ATAS-01",
@@ -140600,6 +140656,10 @@
       "name": "RADZI",
       "type": "Content"
     },
+    "56501": {
+      "name": "Diogenius SPRL - Belgium",
+      "type": "Content"
+    },
     "198402": {
       "name": "FlowHardware",
       "type": "Network Services"
@@ -140610,10 +140670,6 @@
     },
     "199924": {
       "name": "Vera Byte Telekomunikasyon",
-      "type": "Content"
-    },
-    "207208": {
-      "name": "Mevspace - Internet Service",
       "type": "Content"
     },
     "45189": {
@@ -141251,6 +141307,10 @@
     "218758": {
       "name": "DCLU",
       "type": "Network Services"
+    },
+    "218744": {
+      "name": "AYDAN-AS",
+      "type": "Educational/Research"
     }
   }
 }
