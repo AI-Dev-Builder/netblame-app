@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-09T02:15:23.441Z",
+  "updated_at": "2026-09-10T02:13:32.881Z",
   "source": "PeeringDB",
-  "entry_count": 35327,
+  "entry_count": 35337,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -62376,10 +62376,6 @@
       "name": "Mira Ressel",
       "type": "Unknown"
     },
-    "328830": {
-      "name": "Xpand IT",
-      "type": "Enterprise"
-    },
     "210985": {
       "name": "Christopher Bishop",
       "type": "Network Services"
@@ -68618,7 +68614,7 @@
     },
     "141984": {
       "name": "PT Fajar Lestari Anugrah Sejati",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "149579": {
       "name": "WINUX DIGITAL NETWORKS PRIVATE LIMITED",
@@ -72102,7 +72098,7 @@
     },
     "131736": {
       "name": "BIS DATA INDONESIA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "138864": {
       "name": "UNIVERSITAS MUHAMMADIYAH KUDUS",
@@ -79381,7 +79377,7 @@
       "type": "Unknown"
     },
     "266624": {
-      "name": "CONEXAO VIP TELECOM",
+      "name": "CONEXAO VIP",
       "type": "Cable/DSL/ISP"
     },
     "216395": {
@@ -82313,7 +82309,7 @@
       "type": "Enterprise"
     },
     "215569": {
-      "name": "TSolutions",
+      "name": "ColoData",
       "type": "NSP"
     },
     "327697": {
@@ -101320,10 +101316,6 @@
       "name": "WGC Systems",
       "type": "Enterprise"
     },
-    "152893": {
-      "name": "Fiboss Pty Ltd",
-      "type": "Cable/DSL/ISP"
-    },
     "5651": {
       "name": "GMLL CAPITAL MANAGEMENT LLC",
       "type": "Unknown"
@@ -107246,7 +107238,7 @@
     },
     "154804": {
       "name": "IDNIC-CEPATKILAT-ID",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "137554": {
       "name": "DREAMNET-AS-AP",
@@ -107541,8 +107533,8 @@
       "type": "Unknown"
     },
     "329729": {
-      "name": "ORG-TGL2-AFRINIC",
-      "type": "Unknown"
+      "name": "TONYCOMM GROUP LIMITED",
+      "type": "Cable/DSL/ISP"
     },
     "215415": {
       "name": "YUWAN-NETWORKS",
@@ -107589,15 +107581,15 @@
       "type": "Cable/DSL/ISP"
     },
     "210053": {
-      "name": "humo-as",
+      "name": "CJSC \"Humo Bank\"",
       "type": "Unknown"
     },
     "24437": {
-      "name": "UWA-AS-AP",
+      "name": "University of Western Australia",
       "type": "Unknown"
     },
     "203110": {
-      "name": "Voicenter-IL01",
+      "name": "Voicenter LTD",
       "type": "Unknown"
     },
     "24676": {
@@ -107605,7 +107597,7 @@
       "type": "Educational/Research"
     },
     "218771": {
-      "name": "SNARKNET2",
+      "name": "Snark Holding Corp.",
       "type": "Unknown"
     },
     "151478": {
@@ -107613,7 +107605,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329804": {
-      "name": "ORG-SBL10-AFRINIC",
+      "name": "SPEEDMAXNET BROADBAND LIMITED",
       "type": "Unknown"
     },
     "154505": {
@@ -107626,10 +107618,54 @@
     },
     "329470": {
       "name": "ORG-AFB1-AFRINIC",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "264586": {
       "name": "ASN264586",
+      "type": "Unknown"
+    },
+    "328882": {
+      "name": "Sahdsoft Technologies CC",
+      "type": "Content"
+    },
+    "197174": {
+      "name": "ANTHOID",
+      "type": "Unknown"
+    },
+    "9108": {
+      "name": "ABXnet",
+      "type": "Unknown"
+    },
+    "327829": {
+      "name": "ORG-ST5-AFRINIC",
+      "type": "Unknown"
+    },
+    "137060": {
+      "name": "CLUBGROUP-AS-AP",
+      "type": "Unknown"
+    },
+    "136564": {
+      "name": "Immanuel Nexa Solution AS136564",
+      "type": "Cable/DSL/ISP"
+    },
+    "139802": {
+      "name": "SYNTAXIT-AS-AP",
+      "type": "Unknown"
+    },
+    "154173": {
+      "name": "ADCPL-AS-AP",
+      "type": "Unknown"
+    },
+    "400337": {
+      "name": "ASN-NHB",
+      "type": "Unknown"
+    },
+    "274335": {
+      "name": "ASN274335",
+      "type": "Unknown"
+    },
+    "274108": {
+      "name": "274108",
       "type": "Unknown"
     },
     "22822": {
@@ -110537,7 +110573,7 @@
       "type": "NSP"
     },
     "23404": {
-      "name": "Ritter Communications",
+      "name": "Rightfiber",
       "type": "Cable/DSL/ISP"
     },
     "264492": {
@@ -139062,7 +139098,7 @@
     },
     "329532": {
       "name": "EnvisageCloud",
-      "type": "Content"
+      "type": "NSP"
     },
     "153996": {
       "name": "VP InfoTech Co., Ltd. (VisperHost)",
@@ -140443,6 +140479,10 @@
     "137856": {
       "name": "Thai Network Information Center Foundation",
       "type": "Unknown"
+    },
+    "152893": {
+      "name": "Fiboss Pty Ltd",
+      "type": "Cable/DSL/ISP"
     },
     "142205": {
       "name": "NetOz",
