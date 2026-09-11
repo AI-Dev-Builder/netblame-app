@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-10T02:13:32.881Z",
+  "updated_at": "2026-09-11T02:09:37.380Z",
   "source": "PeeringDB",
-  "entry_count": 35337,
+  "entry_count": 35343,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1467,10 +1467,6 @@
     "30212": {
       "name": "Hypermedia Systems",
       "type": "Content"
-    },
-    "40064": {
-      "name": "AMATEUR-IX",
-      "type": "Route Server"
     },
     "22384": {
       "name": "NationalNet, Inc.",
@@ -3031,10 +3027,6 @@
     "36944": {
       "name": "UbuntuNet",
       "type": "Educational/Research"
-    },
-    "16773": {
-      "name": "Big Fish Games",
-      "type": "Content"
     },
     "7992": {
       "name": "Cogeco Cable Canada",
@@ -39337,7 +39329,7 @@
       "type": "NSP"
     },
     "263537": {
-      "name": "Via Fibra Internet Banda Larga",
+      "name": "MAIS VIA FIBRA INTERNET BANDA LARGA",
       "type": "NSP"
     },
     "52276": {
@@ -42278,7 +42270,7 @@
     },
     "44870": {
       "name": "Advanced IX",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "210264": {
       "name": "Gega Telecom",
@@ -56688,10 +56680,6 @@
       "name": "Easyweb System Integrator",
       "type": "Unknown"
     },
-    "13641": {
-      "name": "PDM Net",
-      "type": "Unknown"
-    },
     "133641": {
       "name": "Crystal Broadband And Computer",
       "type": "Unknown"
@@ -58575,10 +58563,6 @@
     "211947": {
       "name": "kremen-IX Route Servers",
       "type": "Route Server"
-    },
-    "207307": {
-      "name": "Skiptvet digital",
-      "type": "Unknown"
     },
     "204734": {
       "name": "Hvaler kommune",
@@ -71197,7 +71181,7 @@
       "type": "Unknown"
     },
     "211877": {
-      "name": "TurkIX External RS",
+      "name": "TurkIX Istanbul",
       "type": "Route Server"
     },
     "2934": {
@@ -71494,6 +71478,10 @@
     },
     "397065": {
       "name": "Hillside (Technology) US AS397065",
+      "type": "Content"
+    },
+    "202649": {
+      "name": "Hostingway",
       "type": "Content"
     },
     "150129": {
@@ -74836,10 +74824,6 @@
       "name": "Golden Belt Telephone",
       "type": "Cable/DSL/ISP"
     },
-    "268085": {
-      "name": "Plusnet Foz",
-      "type": "Unknown"
-    },
     "61414": {
       "name": "EDGENAP",
       "type": "Unknown"
@@ -75747,6 +75731,10 @@
     "329229": {
       "name": "Stellar Technology Solutions",
       "type": "NSP"
+    },
+    "138954": {
+      "name": "ADCPL-AS-AP !",
+      "type": "Unknown"
     },
     "150936": {
       "name": "RECONET SEMESTA INDONESIA",
@@ -80990,7 +80978,7 @@
     },
     "931": {
       "name": "Hyonix",
-      "type": "Content"
+      "type": "Enterprise"
     },
     "51713": {
       "name": "hosting.com LON1",
@@ -81399,10 +81387,6 @@
     "150512": {
       "name": "PT Maskom Indonesia Raya",
       "type": "Cable/DSL/ISP"
-    },
-    "54134": {
-      "name": "PHANTASMAGORIA",
-      "type": "Unknown"
     },
     "149916": {
       "name": "Lentera Global",
@@ -95740,10 +95724,6 @@
       "name": "Sidera ICTease",
       "type": "Cable/DSL/ISP"
     },
-    "273202": {
-      "name": "ZONALIBRE INGENIERIA S.A.S.",
-      "type": "Unknown"
-    },
     "153565": {
       "name": "PT Intan Digital Internet",
       "type": "Network Services"
@@ -102798,7 +102778,7 @@
     },
     "201891": {
       "name": "Nimbus IP Networks",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "200010": {
       "name": "Olfe Veri Merkezi - İzmir",
@@ -107609,7 +107589,7 @@
       "type": "Unknown"
     },
     "154505": {
-      "name": "IDNIC-DIGIT-AS-ID",
+      "name": "PT Dwitama Digital Teknologi",
       "type": "Unknown"
     },
     "218740": {
@@ -107621,7 +107601,7 @@
       "type": "Enterprise"
     },
     "264586": {
-      "name": "ASN264586",
+      "name": "SORIANO SIQUEIRA TELECOMUNICACOES LTDA",
       "type": "Unknown"
     },
     "328882": {
@@ -107667,6 +107647,62 @@
     "274108": {
       "name": "274108",
       "type": "Unknown"
+    },
+    "218718": {
+      "name": "SEPROGO",
+      "type": "Network Services"
+    },
+    "218733": {
+      "name": "HYW-HK",
+      "type": "Unknown"
+    },
+    "401978": {
+      "name": "INTREPID-NETWORK-GROUP",
+      "type": "Unknown"
+    },
+    "33296": {
+      "name": "PIEDMONT-BROADBAND",
+      "type": "Unknown"
+    },
+    "218705": {
+      "name": "BGPEX",
+      "type": "Non-Profit"
+    },
+    "218716": {
+      "name": "Andreansx",
+      "type": "Unknown"
+    },
+    "275793": {
+      "name": "ASN275793",
+      "type": "Unknown"
+    },
+    "19236": {
+      "name": "STEELCASEINET",
+      "type": "Unknown"
+    },
+    "271663": {
+      "name": "ASN271663",
+      "type": "Unknown"
+    },
+    "153992": {
+      "name": "IDNIC-K2NET-ID",
+      "type": "Unknown"
+    },
+    "201256": {
+      "name": "MurphyHolding",
+      "type": "Cable/DSL/ISP"
+    },
+    "219268": {
+      "name": "GeodemaGroup",
+      "type": "Unknown"
+    },
+    "275687": {
+      "name": "ASN275687",
+      "type": "Unknown"
+    },
+    "154346": {
+      "name": "OceanBlue Cloud Technology Limited",
+      "type": "NSP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -127384,10 +127420,6 @@
       "name": "Launch Crew",
       "type": "Cable/DSL/ISP"
     },
-    "952": {
-      "name": "Hop",
-      "type": "Unknown"
-    },
     "55406": {
       "name": "HRC Technologies",
       "type": "Cable/DSL/ISP"
@@ -132064,10 +132096,6 @@
       "name": "GABRIEL-AS",
       "type": "Content"
     },
-    "202076": {
-      "name": "Optua",
-      "type": "Cable/DSL/ISP"
-    },
     "146942": {
       "name": "PSNET SOLUTIONS",
       "type": "Cable/DSL/ISP"
@@ -133080,6 +133108,10 @@
       "name": "Lobulous Corp.",
       "type": "Unknown"
     },
+    "268085": {
+      "name": "Plusnet Foz",
+      "type": "Unknown"
+    },
     "199695": {
       "name": "AnymHost",
       "type": "Enterprise"
@@ -133153,7 +133185,7 @@
       "type": "Unknown"
     },
     "47898": {
-      "name": "PAN-Telecom",
+      "name": "NPK Home-Net Ltd.",
       "type": "Cable/DSL/ISP"
     },
     "329151": {
@@ -137508,10 +137540,6 @@
       "name": "IETF-MEETING",
       "type": "NSP"
     },
-    "17290": {
-      "name": "Austin Hadley",
-      "type": "Educational/Research"
-    },
     "7403": {
       "name": "COLBANET",
       "type": "NSP"
@@ -138345,7 +138373,7 @@
       "type": "Cable/DSL/ISP"
     },
     "213481": {
-      "name": "Hevis.Co Systems",
+      "name": "Envisage Cloud Solutions",
       "type": "Content"
     },
     "399790": {
@@ -138623,10 +138651,6 @@
     "153239": {
       "name": "SETNET BROADBAND",
       "type": "Cable/DSL/ISP"
-    },
-    "40419": {
-      "name": "Ashland Area Amateur Radio Club",
-      "type": "Educational/Research"
     },
     "400514": {
       "name": "ESPACE-NETWORKS",
@@ -138924,10 +138948,6 @@
       "name": "Desible Eradata Komunikasi",
       "type": "Cable/DSL/ISP"
     },
-    "15143": {
-      "name": "TOMORIN",
-      "type": "Enterprise"
-    },
     "209866": {
       "name": "Vort Cloud",
       "type": "Content"
@@ -139097,7 +139117,7 @@
       "type": "Cable/DSL/ISP"
     },
     "329532": {
-      "name": "EnvisageCloud",
+      "name": "HeViS.Co Services",
       "type": "NSP"
     },
     "153996": {
@@ -139323,6 +139343,10 @@
     "133976": {
       "name": "Ubixe Infotech Private Limited",
       "type": "Enterprise"
+    },
+    "273202": {
+      "name": "ZONALIBRE INGENIERIA S.A.S.",
+      "type": "Cable/DSL/ISP"
     },
     "62517": {
       "name": "Taiwan Telecom, Inc.(Premium)",
@@ -141129,7 +141153,7 @@
       "type": "Cable/DSL/ISP"
     },
     "219157": {
-      "name": "IPv6 Cloud Ltd.",
+      "name": "GLOBAL CAPITAL SERVICES LTD.",
       "type": "NSP"
     },
     "402801": {
