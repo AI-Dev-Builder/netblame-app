@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-12T02:15:27.042Z",
+  "updated_at": "2026-09-13T02:12:53.589Z",
   "source": "PeeringDB",
-  "entry_count": 35347,
+  "entry_count": 35355,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -75992,10 +75992,6 @@
       "name": "UPX LLC",
       "type": "Content"
     },
-    "54351": {
-      "name": "COMMUNICATEFREELY",
-      "type": "Cable/DSL/ISP"
-    },
     "57981": {
       "name": "Kachanovskiy Sergey Sergeevich",
       "type": "Unknown"
@@ -85194,7 +85190,7 @@
     },
     "215248": {
       "name": "215248 - Bastiaan Mathijs Brink",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "202108": {
       "name": "UDAG",
@@ -93026,7 +93022,7 @@
     },
     "138244": {
       "name": "HOSTZOP CLOUD SERVICES",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "274799": {
       "name": "AVGNET TELECOM LTDA",
@@ -107576,10 +107572,6 @@
       "name": "SKYTIC TELECOM",
       "type": "Unknown"
     },
-    "137060": {
-      "name": "The Club Group Canberra Australia",
-      "type": "Unknown"
-    },
     "136564": {
       "name": "Immanuel Nexa Solution AS136564",
       "type": "Cable/DSL/ISP"
@@ -107714,6 +107706,42 @@
     },
     "275047": {
       "name": "275047",
+      "type": "Cable/DSL/ISP"
+    },
+    "218699": {
+      "name": "NLSYS-NET",
+      "type": "Unknown"
+    },
+    "394030": {
+      "name": "BITRATE LLC",
+      "type": "Unknown"
+    },
+    "395197": {
+      "name": "Taipei101 Mobile (UK)",
+      "type": "Cable/DSL/ISP"
+    },
+    "218766": {
+      "name": "HDS-AS",
+      "type": "Network Services"
+    },
+    "218813": {
+      "name": "MEDIATRIPLE",
+      "type": "Unknown"
+    },
+    "54460": {
+      "name": "OES-US1",
+      "type": "Unknown"
+    },
+    "285": {
+      "name": "DNIC-AS-00285",
+      "type": "Unknown"
+    },
+    "218722": {
+      "name": "SLOUDHOST",
+      "type": "Unknown"
+    },
+    "218730": {
+      "name": "JAKUBSZEWCZYK",
       "type": "Unknown"
     },
     "22822": {
@@ -130841,7 +130869,7 @@
       "type": "Cable/DSL/ISP"
     },
     "35346": {
-      "name": "ITNS.NET",
+      "name": "EUROTELECOM",
       "type": "Cable/DSL/ISP"
     },
     "397540": {
@@ -141387,6 +141415,10 @@
     "218744": {
       "name": "AYDAN",
       "type": "Educational/Research"
+    },
+    "137060": {
+      "name": "Viva Leisure",
+      "type": "Content"
     },
     "209354": {
       "name": "MA Global",
