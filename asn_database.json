@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-13T02:12:53.589Z",
+  "updated_at": "2026-09-14T02:30:38.262Z",
   "source": "PeeringDB",
-  "entry_count": 35355,
+  "entry_count": 35358,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -49410,7 +49410,7 @@
     },
     "57706": {
       "name": "Hybula Cloud",
-      "type": "Enterprise"
+      "type": "NSP"
     },
     "139524": {
       "name": "A C N Fiber Private Limited",
@@ -54339,10 +54339,6 @@
     "212850": {
       "name": "omnya",
       "type": "NSP"
-    },
-    "28137": {
-      "name": "Vialink Informatica",
-      "type": "Cable/DSL/ISP"
     },
     "328698": {
       "name": "VanillaTech",
@@ -61554,7 +61550,7 @@
     },
     "22878": {
       "name": "Acenet, Inc.",
-      "type": "Unknown"
+      "type": "Content"
     },
     "141767": {
       "name": "C G Communications Pvt. Ltd",
@@ -71741,7 +71737,7 @@
       "type": "Route Server"
     },
     "202351": {
-      "name": "internet-schmiede.de",
+      "name": "frickel.network",
       "type": "Cable/DSL/ISP"
     },
     "265798": {
@@ -81722,7 +81718,7 @@
     },
     "200193": {
       "name": "ITM Yazilim Bilgisayar Sistemleri ve Danismanlik Tic. Ltd. Sti",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "216299": {
       "name": "LCNetwork",
@@ -92896,10 +92892,6 @@
       "name": "AURORA-LEO",
       "type": "Unknown"
     },
-    "401661": {
-      "name": "EMBNEX, LLC",
-      "type": "Content"
-    },
     "48359": {
       "name": "Hesabgar Pardaz Gharb",
       "type": "Unknown"
@@ -93730,6 +93722,10 @@
     },
     "212216": {
       "name": "Netafraz",
+      "type": "Unknown"
+    },
+    "152799": {
+      "name": "IDNIC-WARPIKNET-AS-ID",
       "type": "Unknown"
     },
     "208743": {
@@ -97044,10 +97040,6 @@
       "name": "Zentyx",
       "type": "Content"
     },
-    "401818": {
-      "name": "SERVOSPHERE",
-      "type": "Unknown"
-    },
     "36240": {
       "name": "Communications Unlimited",
       "type": "Cable/DSL/ISP"
@@ -97327,10 +97319,6 @@
     "26561": {
       "name": "NETRIDGE-LLC",
       "type": "Cable/DSL/ISP"
-    },
-    "401984": {
-      "name": "Tomorin Network",
-      "type": "Enterprise"
     },
     "396516": {
       "name": "SQ",
@@ -102708,6 +102696,10 @@
       "name": "Anel de Conectividade - Infovia Paraná",
       "type": "Educational/Research"
     },
+    "199133": {
+      "name": "NyaIP",
+      "type": "Content"
+    },
     "153554": {
       "name": "Digital Bangun Mandiri",
       "type": "Unknown"
@@ -105900,10 +105892,6 @@
       "name": "DMF-DIGITALMARKETFRONTIERS",
       "type": "Unknown"
     },
-    "402782": {
-      "name": "Taipei Mobile (JP)",
-      "type": "Unknown"
-    },
     "402728": {
       "name": "Taipei Mobile (Taiwan)",
       "type": "Unknown"
@@ -107578,7 +107566,7 @@
     },
     "139802": {
       "name": "Syntax IT",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "154173": {
       "name": "ADCPL-AS-AP",
@@ -107716,10 +107704,6 @@
       "name": "BITRATE LLC",
       "type": "Unknown"
     },
-    "395197": {
-      "name": "Taipei101 Mobile (UK)",
-      "type": "Cable/DSL/ISP"
-    },
     "218766": {
       "name": "HDS-AS",
       "type": "Network Services"
@@ -107742,6 +107726,34 @@
     },
     "218730": {
       "name": "JAKUBSZEWCZYK",
+      "type": "Unknown"
+    },
+    "395199": {
+      "name": "CATCARBON-AS-US",
+      "type": "Unknown"
+    },
+    "22002": {
+      "name": "SYSTEMS-SOLUTIONS-OF-PADUCAH-INC",
+      "type": "Unknown"
+    },
+    "151667": {
+      "name": "GNETSERVICE-AS-AP",
+      "type": "Unknown"
+    },
+    "213507": {
+      "name": "SKYQUANTUM TELE",
+      "type": "NSP"
+    },
+    "31806": {
+      "name": "TERRIBLE-NETWORK",
+      "type": "Unknown"
+    },
+    "402960": {
+      "name": "MACWEB",
+      "type": "NSP"
+    },
+    "213846": {
+      "name": "nalmi-as",
       "type": "Unknown"
     },
     "22822": {
@@ -125152,6 +125164,10 @@
       "name": "V Micali Telecomunicacoes",
       "type": "Cable/DSL/ISP"
     },
+    "28137": {
+      "name": "Vialink Soluções",
+      "type": "Cable/DSL/ISP"
+    },
     "140659": {
       "name": "Vonet Technology",
       "type": "Cable/DSL/ISP"
@@ -125599,10 +125615,6 @@
     "270989": {
       "name": "IP Telecomunicacoes",
       "type": "NSP"
-    },
-    "212592": {
-      "name": "Marco Hegenberg",
-      "type": "Unknown"
     },
     "204561": {
       "name": "Diogenius SPRL - France",
@@ -133580,6 +133592,10 @@
       "name": "Ul-com Media",
       "type": "NSP"
     },
+    "54351": {
+      "name": "COMMUNICATEFREELY",
+      "type": "Cable/DSL/ISP"
+    },
     "199175": {
       "name": "Victor Pahuus Petersen",
       "type": "Educational/Research"
@@ -138800,10 +138816,6 @@
       "name": "Dialwave",
       "type": "NSP"
     },
-    "401692": {
-      "name": "ALKKM-BOXCLOUD",
-      "type": "Content"
-    },
     "210352": {
       "name": "ZeroWolf Network",
       "type": "Cable/DSL/ISP"
@@ -139334,10 +139346,6 @@
     },
     "215685": {
       "name": "Dotnet",
-      "type": "NSP"
-    },
-    "401688": {
-      "name": "Latency Logic",
       "type": "NSP"
     },
     "1054": {
@@ -139982,7 +139990,7 @@
     },
     "329659": {
       "name": "Lineserve",
-      "type": "NSP"
+      "type": "Content"
     },
     "154355": {
       "name": "CABSTECH NETWORK AND DATA SOLUTION",
@@ -140712,10 +140720,6 @@
       "name": "Axion Industries",
       "type": "NSP"
     },
-    "199133": {
-      "name": "NyaIP",
-      "type": "Content"
-    },
     "199277": {
       "name": "01.712461157",
       "type": "Content"
@@ -141192,6 +141196,10 @@
       "name": "GLOBAL CAPITAL SERVICES LTD.",
       "type": "NSP"
     },
+    "402782": {
+      "name": "Taipei Mobile (JP)",
+      "type": "Cable/DSL/ISP"
+    },
     "402801": {
       "name": "ANDRII-NET",
       "type": "Enterprise"
@@ -141423,6 +141431,10 @@
     "209354": {
       "name": "MA Global",
       "type": "Unknown"
+    },
+    "395197": {
+      "name": "Taipei101 Mobile (UK)",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
