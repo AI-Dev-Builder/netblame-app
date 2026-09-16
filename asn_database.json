@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-15T02:34:56.428Z",
+  "updated_at": "2026-09-16T02:29:12.500Z",
   "source": "PeeringDB",
-  "entry_count": 35366,
+  "entry_count": 35378,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -22975,10 +22975,6 @@
     "55814": {
       "name": "Siliguri Internet & Cable TV Pvt. Ltd.",
       "type": "Cable/DSL/ISP"
-    },
-    "25491": {
-      "name": "Basic ISP s.a.r.l.",
-      "type": "Unknown"
     },
     "393494": {
       "name": "Layer3 TV, Inc.",
@@ -47148,10 +47144,6 @@
       "name": "BOTTOLACYBERNET",
       "type": "Unknown"
     },
-    "397952": {
-      "name": "4 ip Technology and Media",
-      "type": "Cable/DSL/ISP"
-    },
     "135881": {
       "name": "Spark Net",
       "type": "Cable/DSL/ISP"
@@ -65692,10 +65684,6 @@
       "name": "POEMTECHN",
       "type": "Cable/DSL/ISP"
     },
-    "147210": {
-      "name": "STARITSERVICES",
-      "type": "Cable/DSL/ISP"
-    },
     "211301": {
       "name": "Unesty",
       "type": "Enterprise"
@@ -67803,10 +67791,6 @@
     "52011": {
       "name": "Cleura Middle East",
       "type": "NSP"
-    },
-    "131171": {
-      "name": "JSC-AS-AP",
-      "type": "Unknown"
     },
     "205876": {
       "name": "Hoasted",
@@ -94565,7 +94549,7 @@
       "type": "Unknown"
     },
     "214409": {
-      "name": "Robotic Node LTD",
+      "name": "Zektra",
       "type": "Network Services"
     },
     "133041": {
@@ -101249,7 +101233,7 @@
       "type": "Unknown"
     },
     "142264": {
-      "name": "PT SKY BASE TECHNOLOGHY DIGITAL",
+      "name": "PT SKY Base Technologhy Digital",
       "type": "Cable/DSL/ISP"
     },
     "151805": {
@@ -102583,10 +102567,6 @@
     "402383": {
       "name": "KUMREZ",
       "type": "Unknown"
-    },
-    "402385": {
-      "name": "SPICER-NETWORKS",
-      "type": "Cable/DSL/ISP"
     },
     "146962": {
       "name": "GATEWAY TECHNOLOGY DEVELOPMENT PTE. LTD.",
@@ -107116,10 +107096,6 @@
       "name": "ASN275839",
       "type": "Unknown"
     },
-    "218832": {
-      "name": "NextServ⠀",
-      "type": "NSP"
-    },
     "218835": {
       "name": "Dreher",
       "type": "Unknown"
@@ -107787,6 +107763,50 @@
     "402423": {
       "name": "Luyani Inc.",
       "type": "Enterprise"
+    },
+    "140591": {
+      "name": "HK TESUCH GLOBAL CO., LIMITED",
+      "type": "Unknown"
+    },
+    "154904": {
+      "name": "SNDS1-AS-AP",
+      "type": "Unknown"
+    },
+    "38410": {
+      "name": "GOEPC-AS-KR-KR",
+      "type": "Unknown"
+    },
+    "8375": {
+      "name": "UNSPECIFIED !",
+      "type": "Unknown"
+    },
+    "219284": {
+      "name": "payload-network",
+      "type": "Unknown"
+    },
+    "211948": {
+      "name": "ONOFF-FR",
+      "type": "Unknown"
+    },
+    "218679": {
+      "name": "SERVFAIL",
+      "type": "Unknown"
+    },
+    "274059": {
+      "name": "274059",
+      "type": "Unknown"
+    },
+    "270925": {
+      "name": "ASN270925",
+      "type": "Cable/DSL/ISP"
+    },
+    "218668": {
+      "name": "CENA-NET",
+      "type": "Unknown"
+    },
+    "136089": {
+      "name": "IDNIC-MMNET-AS-ID",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -113171,6 +113191,10 @@
     "13044": {
       "name": "Aoun.net s.a.r.l",
       "type": "Cable/DSL/ISP"
+    },
+    "25491": {
+      "name": "Basic ISP s.a.r.l.",
+      "type": "Unknown"
     },
     "48847": {
       "name": "WAVES",
@@ -122336,6 +122360,10 @@
       "name": "LINK SPEED",
       "type": "Cable/DSL/ISP"
     },
+    "397952": {
+      "name": "4 ip Technology and Media",
+      "type": "Cable/DSL/ISP"
+    },
     "209894": {
       "name": "Foerderverein Freie Infrastruktur",
       "type": "Non-Profit"
@@ -130775,6 +130803,10 @@
     "272031": {
       "name": "NETENMICASA",
       "type": "Unknown"
+    },
+    "131171": {
+      "name": "Techne Fiber",
+      "type": "Cable/DSL/ISP"
     },
     "205929": {
       "name": "Abzieher",
@@ -140325,7 +140357,7 @@
       "type": "Cable/DSL/ISP"
     },
     "204464": {
-      "name": "NextServ LLC",
+      "name": "NextServ-US",
       "type": "NSP"
     },
     "203534": {
@@ -140708,6 +140740,10 @@
       "name": "Gareth Pulham",
       "type": "Unknown"
     },
+    "199746": {
+      "name": "V6Direct",
+      "type": "NSP"
+    },
     "200841": {
       "name": "Livesoft",
       "type": "Content"
@@ -140738,6 +140774,10 @@
     },
     "150468": {
       "name": "Bintang Teknologi Sejahtera",
+      "type": "Cable/DSL/ISP"
+    },
+    "402385": {
+      "name": "SPICER-NETWORKS",
       "type": "Cable/DSL/ISP"
     },
     "402395": {
@@ -141217,7 +141257,7 @@
       "type": "Cable/DSL/ISP"
     },
     "219157": {
-      "name": "GLOBAL CAPITAL SERVICES LTD.",
+      "name": "Global Capital Services Ltd.",
       "type": "NSP"
     },
     "402782": {
@@ -141365,8 +141405,8 @@
       "type": "Enterprise"
     },
     "218904": {
-      "name": "NextIX",
-      "type": "NSP"
+      "name": "NextIX - Route Servers",
+      "type": "Route Server"
     },
     "201328": {
       "name": "Telewizja Kablowa Kolobrzeg",
@@ -141403,6 +141443,10 @@
     "218828": {
       "name": "Kikix",
       "type": "Cable/DSL/ISP"
+    },
+    "218832": {
+      "name": "NextServ",
+      "type": "NSP"
     },
     "218830": {
       "name": "zsaz-net",
@@ -141467,6 +141511,10 @@
     "218683": {
       "name": "ALEMAL",
       "type": "Unknown"
+    },
+    "396529": {
+      "name": "Cathrix Network",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
