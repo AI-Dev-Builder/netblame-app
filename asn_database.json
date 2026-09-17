@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-16T02:29:12.500Z",
+  "updated_at": "2026-09-17T02:33:11.797Z",
   "source": "PeeringDB",
-  "entry_count": 35378,
+  "entry_count": 35393,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1921,7 +1921,7 @@
       "type": "NSP"
     },
     "17645": {
-      "name": "NTT Communications - NTT Singapore",
+      "name": "NTT DATA Enterprise Internet Services - SG",
       "type": "NSP"
     },
     "20504": {
@@ -4627,10 +4627,6 @@
     "33597": {
       "name": "Atlantic Metro (InfoRelay)",
       "type": "Unknown"
-    },
-    "21159": {
-      "name": "NovoServe GmbH",
-      "type": "Content"
     },
     "49634": {
       "name": "PITER-IX Riga Route Servers",
@@ -7861,7 +7857,7 @@
       "type": "NSP"
     },
     "10204": {
-      "name": "NTT MSC Sdn Bhd",
+      "name": "NTT DATA Enterprise Internet Services - MY",
       "type": "NSP"
     },
     "44574": {
@@ -8931,10 +8927,6 @@
     "59469": {
       "name": "Solido Networks ApS",
       "type": "NSP"
-    },
-    "12941": {
-      "name": "intersaar",
-      "type": "Cable/DSL/ISP"
     },
     "40260": {
       "name": "Terra",
@@ -22277,7 +22269,7 @@
       "type": "Unknown"
     },
     "207195": {
-      "name": "IP Wholesale",
+      "name": "Intelligent Exchanges Ltd",
       "type": "Enterprise"
     },
     "264114": {
@@ -54693,7 +54685,7 @@
       "type": "Unknown"
     },
     "23918": {
-      "name": "NTT DATA Enterprise Internet Services",
+      "name": "NTT DATA Enterprise Internet Services - AU",
       "type": "NSP"
     },
     "267897": {
@@ -61225,7 +61217,7 @@
       "type": "Network Services"
     },
     "38566": {
-      "name": "NTT (Thailand)",
+      "name": "NTT DATA Enterprise Internet Services - TH",
       "type": "NSP"
     },
     "271758": {
@@ -72076,10 +72068,6 @@
       "name": "Orbinet",
       "type": "Cable/DSL/ISP"
     },
-    "271325": {
-      "name": "LACKNET SERVIÇOS DE TELECOMUNICAÇÕES",
-      "type": "Unknown"
-    },
     "42146": {
       "name": "NashaNet UA",
       "type": "Cable/DSL/ISP"
@@ -75691,10 +75679,6 @@
     "329229": {
       "name": "Stellar Technology Solutions",
       "type": "NSP"
-    },
-    "138954": {
-      "name": "ADCPL-AS-AP !",
-      "type": "Unknown"
     },
     "150936": {
       "name": "RECONET SEMESTA INDONESIA",
@@ -96532,6 +96516,10 @@
       "name": "Fiber 4",
       "type": "Cable/DSL/ISP"
     },
+    "210880": {
+      "name": "Arda Daglioglu",
+      "type": "Content"
+    },
     "153785": {
       "name": "BERRYM",
       "type": "Cable/DSL/ISP"
@@ -106573,7 +106561,7 @@
       "type": "Network Services"
     },
     "218995": {
-      "name": "BMD3-AS",
+      "name": "Bobeica Mihaita David",
       "type": "NSP"
     },
     "209928": {
@@ -107434,7 +107422,7 @@
     },
     "210231": {
       "name": "SYSDEX",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "137639": {
       "name": "JASNET-AS",
@@ -107490,10 +107478,6 @@
     },
     "151478": {
       "name": "IDNIC-MYBRIDGE-ID",
-      "type": "Cable/DSL/ISP"
-    },
-    "329804": {
-      "name": "SPEEDMAXNET BROADBAND LIMITED",
       "type": "Cable/DSL/ISP"
     },
     "154505": {
@@ -107769,15 +107753,15 @@
       "type": "Unknown"
     },
     "154904": {
-      "name": "SNDS1-AS-AP",
+      "name": "Signals Network and Data Solution",
       "type": "Unknown"
     },
     "38410": {
-      "name": "GOEPC-AS-KR-KR",
+      "name": "Pocheon Office of Education",
       "type": "Unknown"
     },
     "8375": {
-      "name": "UNSPECIFIED !",
+      "name": "Telehouse Deutschland GmbH",
       "type": "Unknown"
     },
     "219284": {
@@ -107785,11 +107769,11 @@
       "type": "Unknown"
     },
     "211948": {
-      "name": "ONOFF-FR",
+      "name": "ONOFF TELECOM SAS",
       "type": "Unknown"
     },
     "218679": {
-      "name": "SERVFAIL",
+      "name": "Dominique Liberda",
       "type": "Unknown"
     },
     "274059": {
@@ -107797,7 +107781,7 @@
       "type": "Unknown"
     },
     "270925": {
-      "name": "ASN270925",
+      "name": "Fibramar Telecomunicações Ltda",
       "type": "Cable/DSL/ISP"
     },
     "218668": {
@@ -107806,6 +107790,62 @@
     },
     "136089": {
       "name": "IDNIC-MMNET-AS-ID",
+      "type": "Unknown"
+    },
+    "399297": {
+      "name": "Parallax Services (AS399297)",
+      "type": "Unknown"
+    },
+    "19436": {
+      "name": "CAPROCK-1",
+      "type": "Unknown"
+    },
+    "329749": {
+      "name": "ORG-ABL3-AFRINIC",
+      "type": "Unknown"
+    },
+    "208368": {
+      "name": "BudgetThuis",
+      "type": "Unknown"
+    },
+    "218652": {
+      "name": "NIGHTCOIL-NETWORKS",
+      "type": "Enterprise"
+    },
+    "149378": {
+      "name": "PT Cakrawala Net Nusantara",
+      "type": "Cable/DSL/ISP"
+    },
+    "219369": {
+      "name": "C2T",
+      "type": "Unknown"
+    },
+    "211660": {
+      "name": "SAARCIX",
+      "type": "Unknown"
+    },
+    "399220": {
+      "name": "UPSTATE-FIBER-NETWORK",
+      "type": "Unknown"
+    },
+    "40284": {
+      "name": "GSCBN",
+      "type": "Cable/DSL/ISP"
+    },
+    "154722": {
+      "name": "IDNIC-PMD-AS-ID",
+      "type": "Unknown"
+    },
+    "154387": {
+      "name": "IDNIC-LTK-AS-ID",
+      "type": "Unknown"
+    },
+    "215006": {
+      "name": "MICHAELZENKER-AS",
+      "type": "Unknown"
+    },
+    "396144": {
+      "name": "AKAMIND-ASN",
       "type": "Unknown"
     },
     "22822": {
@@ -109555,6 +109595,10 @@
     "196752": {
       "name": "Tilaa BV",
       "type": "NSP"
+    },
+    "12941": {
+      "name": "intersaar",
+      "type": "Cable/DSL/ISP"
     },
     "132132": {
       "name": "MyRepublic",
@@ -127018,7 +127062,7 @@
     },
     "139409": {
       "name": "JERNIH MULTI KOMUNIKASI",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "35161": {
       "name": "TCV Net Consulting",
@@ -132244,6 +132288,10 @@
       "name": "PARSUN NETWORK SOLUTIONS PTY LTD",
       "type": "Network Services"
     },
+    "271325": {
+      "name": "LACKNET SERVIÇOS DE TELECOMUNICAÇÕES",
+      "type": "Network Services"
+    },
     "265375": {
       "name": "Justica Federal de Primeiro Grau no RS",
       "type": "Government"
@@ -133542,6 +133590,10 @@
     },
     "269907": {
       "name": "SISTEMAS COMPUTARIZADOS DEL HUILA",
+      "type": "Cable/DSL/ISP"
+    },
+    "138954": {
+      "name": "ADCPL-AS-AP !",
       "type": "Cable/DSL/ISP"
     },
     "198998": {
@@ -139656,10 +139708,6 @@
       "name": "Sector Telecom Ltd.",
       "type": "Cable/DSL/ISP"
     },
-    "210880": {
-      "name": "Arda Daglioglu",
-      "type": "Content"
-    },
     "153573": {
       "name": "BAYNET - PT Bayu Multimedia Telekomunikasi",
       "type": "NSP"
@@ -141492,6 +141540,10 @@
       "name": "DCLU",
       "type": "Network Services"
     },
+    "329804": {
+      "name": "SPEEDMAXNET BROADBAND LIMITED",
+      "type": "Cable/DSL/ISP"
+    },
     "218744": {
       "name": "AYDAN",
       "type": "Educational/Research"
@@ -141514,6 +141566,14 @@
     },
     "396529": {
       "name": "Cathrix Network",
+      "type": "Cable/DSL/ISP"
+    },
+    "218654": {
+      "name": "SWISH-WORLD",
+      "type": "Content"
+    },
+    "141732": {
+      "name": "ANPL-AS-AP",
       "type": "Cable/DSL/ISP"
     }
   }
