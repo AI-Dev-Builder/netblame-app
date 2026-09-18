@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-17T02:33:11.797Z",
+  "updated_at": "2026-09-18T02:18:59.735Z",
   "source": "PeeringDB",
-  "entry_count": 35393,
+  "entry_count": 35402,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -60756,10 +60756,6 @@
       "name": "Frys-IX Route Servers",
       "type": "Route Server"
     },
-    "207959": {
-      "name": "XSServer",
-      "type": "Unknown"
-    },
     "41869": {
       "name": "Blix Fiber",
       "type": "Cable/DSL/ISP"
@@ -65095,10 +65091,6 @@
     "271598": {
       "name": "Portal Tecnologia",
       "type": "Unknown"
-    },
-    "265410": {
-      "name": "REDE JL TELECOM",
-      "type": "Cable/DSL/ISP"
     },
     "52592": {
       "name": "CELINO RIBEIRO SERVICOS DE TELECOMUNICACOES",
@@ -75342,7 +75334,7 @@
     },
     "206783": {
       "name": "Haykaz Ghandilyan Andraniki",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "149705": {
       "name": "PT Wijaya Trimitra Indonesia",
@@ -79585,7 +79577,7 @@
       "type": "Unknown"
     },
     "47509": {
-      "name": "Wai-Wah Tang",
+      "name": "Tang",
       "type": "Educational/Research"
     },
     "52916": {
@@ -82177,7 +82169,7 @@
       "type": "Unknown"
     },
     "215581": {
-      "name": "ALEX",
+      "name": "OPWI",
       "type": "Unknown"
     },
     "215662": {
@@ -84291,10 +84283,6 @@
     "214992": {
       "name": "Malte Reddig",
       "type": "Unknown"
-    },
-    "215051": {
-      "name": "Damian Chlebda",
-      "type": "Enterprise"
     },
     "19949": {
       "name": "FNFISP",
@@ -100394,7 +100382,7 @@
     },
     "51791": {
       "name": "VENTURESDC Veri Merkezi Hizmetleri",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "42345": {
       "name": "Granarolo SpA",
@@ -103672,10 +103660,6 @@
       "name": "FOX L3 Service",
       "type": "Network Services"
     },
-    "56320": {
-      "name": "VIKING",
-      "type": "Unknown"
-    },
     "203648": {
       "name": "TERANET",
       "type": "Cable/DSL/ISP"
@@ -104676,10 +104660,6 @@
       "name": "TRIGART01-AS-IN",
       "type": "Unknown"
     },
-    "4849": {
-      "name": "S3 Company",
-      "type": "Unknown"
-    },
     "219421": {
       "name": "Jonatan Miarecki",
       "type": "Educational/Research"
@@ -105337,7 +105317,7 @@
       "type": "Cable/DSL/ISP"
     },
     "199813": {
-      "name": "AlpsIX Route Servers",
+      "name": "ALPSiX Route Servers",
       "type": "Unknown"
     },
     "138752": {
@@ -106885,7 +106865,7 @@
       "type": "Cable/DSL/ISP"
     },
     "154652": {
-      "name": "IDNIC-RNTI-AS-ID",
+      "name": "PT Rambo Network Telekomunikasi Indonesia",
       "type": "Cable/DSL/ISP"
     },
     "219127": {
@@ -107472,10 +107452,6 @@
       "name": "Linetex",
       "type": "Educational/Research"
     },
-    "218771": {
-      "name": "Snark Holding Corp.",
-      "type": "Unknown"
-    },
     "151478": {
       "name": "IDNIC-MYBRIDGE-ID",
       "type": "Cable/DSL/ISP"
@@ -107700,17 +107676,13 @@
       "name": "TERRIBLE-NETWORK",
       "type": "Unknown"
     },
-    "402960": {
-      "name": "MACWEB",
-      "type": "NSP"
-    },
     "213846": {
       "name": "nalmi-as",
       "type": "Unknown"
     },
     "153889": {
       "name": "IDNIC-EL2NET-AS-ID",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "152052": {
       "name": "IDNIC-ARSAWORK-AS-ID",
@@ -107754,7 +107726,7 @@
     },
     "154904": {
       "name": "Signals Network and Data Solution",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "38410": {
       "name": "Pocheon Office of Education",
@@ -107770,7 +107742,7 @@
     },
     "211948": {
       "name": "ONOFF TELECOM SAS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218679": {
       "name": "Dominique Liberda",
@@ -107847,6 +107819,58 @@
     "396144": {
       "name": "AKAMIND-ASN",
       "type": "Unknown"
+    },
+    "398377": {
+      "name": "SHRUG-NET",
+      "type": "Unknown"
+    },
+    "214857": {
+      "name": "AlchemyNetworks-AS",
+      "type": "Unknown"
+    },
+    "402916": {
+      "name": "NIENBO",
+      "type": "Content"
+    },
+    "218643": {
+      "name": "MENGMENG-AS",
+      "type": "Unknown"
+    },
+    "198945": {
+      "name": "ASN-TELBIT24",
+      "type": "Unknown"
+    },
+    "214302": {
+      "name": "AS-LOOMIS",
+      "type": "Unknown"
+    },
+    "266337": {
+      "name": "ASN266337",
+      "type": "Unknown"
+    },
+    "402452": {
+      "name": "LXAER",
+      "type": "Unknown"
+    },
+    "208355": {
+      "name": "yamnet",
+      "type": "Unknown"
+    },
+    "271733": {
+      "name": "JRNET COMUNICACAO",
+      "type": "Cable/DSL/ISP"
+    },
+    "274923": {
+      "name": "274923",
+      "type": "Cable/DSL/ISP"
+    },
+    "219317": {
+      "name": "UGN-BILISIM",
+      "type": "Unknown"
+    },
+    "275844": {
+      "name": "LI-FI BRASIL TELECOM",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -118564,10 +118588,6 @@
       "name": "Huntington Bancshares",
       "type": "Enterprise"
     },
-    "137952": {
-      "name": "ANGKOR E & C (CAMBODIA) Co.,Ltd",
-      "type": "Cable/DSL/ISP"
-    },
     "199938": {
       "name": "Netzwerge",
       "type": "NSP"
@@ -120317,7 +120337,7 @@
       "type": "NSP"
     },
     "138910": {
-      "name": "AeroCable",
+      "name": "Aero Cable Private Limited",
       "type": "Cable/DSL/ISP"
     },
     "38081": {
@@ -133813,7 +133833,7 @@
       "type": "Educational/Research"
     },
     "150786": {
-      "name": "MCI",
+      "name": "Maharlika Connect Inc",
       "type": "Content"
     },
     "266282": {
@@ -134009,7 +134029,7 @@
       "type": "Unknown"
     },
     "9420": {
-      "name": "MHK-IX Route Servers",
+      "name": "Maharlika IX Route Servers",
       "type": "Route Server"
     },
     "398079": {
@@ -140825,7 +140845,7 @@
       "type": "Cable/DSL/ISP"
     },
     "402385": {
-      "name": "SPICER-NETWORKS",
+      "name": "Spicer Networks",
       "type": "Cable/DSL/ISP"
     },
     "402395": {
@@ -140927,6 +140947,10 @@
     "197758": {
       "name": "NXLAYER",
       "type": "Enterprise"
+    },
+    "56320": {
+      "name": "VIKING",
+      "type": "Unknown"
     },
     "213678": {
       "name": "CYBERMAX",
@@ -141111,6 +141135,10 @@
     "154529": {
       "name": "Innolens Media and Broadcasting Limited (MAVX)",
       "type": "Cable/DSL/ISP"
+    },
+    "4849": {
+      "name": "S3 Company",
+      "type": "Unknown"
     },
     "132023": {
       "name": "tNet Network and Data Solution",
@@ -141540,6 +141568,10 @@
       "name": "DCLU",
       "type": "Network Services"
     },
+    "218771": {
+      "name": "SNARKNET (EU)",
+      "type": "Unknown"
+    },
     "329804": {
       "name": "SPEEDMAXNET BROADBAND LIMITED",
       "type": "Cable/DSL/ISP"
@@ -141559,6 +141591,10 @@
     "395197": {
       "name": "Taipei101 Mobile (UK)",
       "type": "Cable/DSL/ISP"
+    },
+    "402960": {
+      "name": "MACWEB",
+      "type": "NSP"
     },
     "218683": {
       "name": "ALEMAL",
