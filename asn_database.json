@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-19T02:20:59.843Z",
+  "updated_at": "2026-09-20T02:30:27.400Z",
   "source": "PeeringDB",
-  "entry_count": 35402,
+  "entry_count": 35408,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -12128,10 +12128,6 @@
       "name": "Santa Barbara Utilities N.V.",
       "type": "Cable/DSL/ISP"
     },
-    "263328": {
-      "name": "Panda Network",
-      "type": "Cable/DSL/ISP"
-    },
     "263499": {
       "name": "Telecom Internet",
       "type": "Cable/DSL/ISP"
@@ -18672,10 +18668,6 @@
       "name": "z-ix.net",
       "type": "Educational/Research"
     },
-    "35152": {
-      "name": "Network Consulting",
-      "type": "Enterprise"
-    },
     "10893": {
       "name": "NYT-EWR1",
       "type": "Unknown"
@@ -23689,7 +23681,7 @@
       "type": "Unknown"
     },
     "132921": {
-      "name": "Kolkata IX Route Servers",
+      "name": "MX-IX Kolkata Route Servers",
       "type": "Route Server"
     },
     "54728": {
@@ -27775,6 +27767,10 @@
     "264071": {
       "name": "HOPNET TELECOM",
       "type": "Cable/DSL/ISP"
+    },
+    "136574": {
+      "name": "CREWISH-AS-AP",
+      "type": "Unknown"
     },
     "201776": {
       "name": "Miranda-Media Ltd",
@@ -41831,6 +41827,10 @@
     "132531": {
       "name": "M EAST",
       "type": "Educational/Research"
+    },
+    "209263": {
+      "name": "GeNet-Marneuli",
+      "type": "Unknown"
     },
     "328227": {
       "name": "Cloud Telecoms",
@@ -65880,6 +65880,10 @@
       "name": "FRANCINE TALLIS LOURENZONI RIBEIRO INFORMATICA",
       "type": "Cable/DSL/ISP"
     },
+    "209978": {
+      "name": "Altai",
+      "type": "Unknown"
+    },
     "212420": {
       "name": "ABAILA",
       "type": "Non-Profit"
@@ -71125,7 +71129,7 @@
       "type": "Unknown"
     },
     "211877": {
-      "name": "TurkIX Istanbul",
+      "name": "TurkIX Istanbul RS",
       "type": "Route Server"
     },
     "2934": {
@@ -82168,10 +82172,6 @@
       "name": "Web Gostaran Shaina Shiraz LLC",
       "type": "Unknown"
     },
-    "215581": {
-      "name": "OPWI",
-      "type": "Unknown"
-    },
     "215662": {
       "name": "Kensington Mortgages",
       "type": "Unknown"
@@ -91586,7 +91586,7 @@
     },
     "213520": {
       "name": "Senko Digital",
-      "type": "NSP"
+      "type": "Content"
     },
     "214667": {
       "name": "IXT Global",
@@ -107332,6 +107332,10 @@
       "name": "BCN-NET",
       "type": "Enterprise"
     },
+    "218772": {
+      "name": "Barbonetworks",
+      "type": "NSP"
+    },
     "328318": {
       "name": "ORG-RNDE1-AFRINIC",
       "type": "Educational/Research"
@@ -107702,7 +107706,7 @@
     },
     "154907": {
       "name": "JNOPL",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "395571": {
       "name": "TYR-VLT-110",
@@ -107793,7 +107797,7 @@
       "type": "Unknown"
     },
     "211660": {
-      "name": "SAARCIX",
+      "name": "Intersaar GmbH",
       "type": "Unknown"
     },
     "399220": {
@@ -107809,15 +107813,15 @@
       "type": "Unknown"
     },
     "154387": {
-      "name": "IDNIC-LTK-AS-ID",
+      "name": "PT Lintas Trans Khatulistiwa",
       "type": "Unknown"
     },
     "215006": {
-      "name": "MICHAELZENKER-AS",
+      "name": "Michael Zenker",
       "type": "Unknown"
     },
     "396144": {
-      "name": "AKAMIND-ASN",
+      "name": "Akamind Inc",
       "type": "Unknown"
     },
     "398377": {
@@ -107871,6 +107875,34 @@
     "275844": {
       "name": "LI-FI BRASIL TELECOM",
       "type": "Cable/DSL/ISP"
+    },
+    "329812": {
+      "name": "ORG-SZPL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "212353": {
+      "name": "EUROSERVERS",
+      "type": "NSP"
+    },
+    "218647": {
+      "name": "UA-SERHIIOSTROZ-20260913",
+      "type": "Unknown"
+    },
+    "138500": {
+      "name": "FIBERTEL2-AS-AP",
+      "type": "Unknown"
+    },
+    "219062": {
+      "name": "Nera",
+      "type": "Unknown"
+    },
+    "16905": {
+      "name": "LEARN-RESEARCH",
+      "type": "Unknown"
+    },
+    "218644": {
+      "name": "DOGLE-AS",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -110354,6 +110386,10 @@
     },
     "262539": {
       "name": "DUNET",
+      "type": "Cable/DSL/ISP"
+    },
+    "263328": {
+      "name": "Panda Network",
       "type": "Cable/DSL/ISP"
     },
     "263541": {
@@ -124972,10 +125008,6 @@
       "name": "Level7",
       "type": "Cable/DSL/ISP"
     },
-    "213018": {
-      "name": "Infrasio",
-      "type": "Enterprise"
-    },
     "140405": {
       "name": "Cybertechtonic Pratama AS140405",
       "type": "Enterprise"
@@ -126695,10 +126727,6 @@
     "271263": {
       "name": "GILEADE TELECOMUNICACOES E MULTIMIDIA",
       "type": "NSP"
-    },
-    "268141": {
-      "name": "NELSON JUNIOR MARQUES DA SILVA",
-      "type": "Cable/DSL/ISP"
     },
     "63878": {
       "name": "Victory Network Indonesia",
@@ -135920,6 +135948,10 @@
       "name": "YOUR NET SERVICOS DE TELECOMUNICACOES LTDA",
       "type": "NSP"
     },
+    "215581": {
+      "name": "OPWI",
+      "type": "Unknown"
+    },
     "15183": {
       "name": "West Virginia Internet Exchange",
       "type": "Route Server"
@@ -136118,10 +136150,6 @@
     },
     "142333": {
       "name": "PT Triguna Akses Teknologi",
-      "type": "Cable/DSL/ISP"
-    },
-    "152373": {
-      "name": "Anugerah Media Data Nusantara, PT",
       "type": "Cable/DSL/ISP"
     },
     "397606": {
@@ -139921,7 +139949,7 @@
       "type": "Unknown"
     },
     "140026": {
-      "name": "TimorNET",
+      "name": "PT. KUPANG INTERMEDIA",
       "type": "Unknown"
     },
     "154232": {
@@ -141560,10 +141588,6 @@
       "name": "Expeditioner Network",
       "type": "Content"
     },
-    "218772": {
-      "name": "Barbonetworks",
-      "type": "NSP"
-    },
     "218758": {
       "name": "DCLU",
       "type": "Network Services"
@@ -141598,7 +141622,7 @@
     },
     "218683": {
       "name": "ALEMAL",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "396529": {
       "name": "Cathrix Network",
