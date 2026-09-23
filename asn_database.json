@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-22T02:31:23.095Z",
+  "updated_at": "2026-09-23T02:31:35.828Z",
   "source": "PeeringDB",
-  "entry_count": 35429,
+  "entry_count": 35441,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -7710,10 +7710,6 @@
     },
     "43097": {
       "name": "Webra",
-      "type": "NSP"
-    },
-    "11172": {
-      "name": "Alestra",
       "type": "NSP"
     },
     "53948": {
@@ -34909,8 +34905,8 @@
       "type": "NSP"
     },
     "265996": {
-      "name": "POWER LINK TELECOM EIRELI",
-      "type": "Unknown"
+      "name": "POWER LINK TELECOM LTDA",
+      "type": "Cable/DSL/ISP"
     },
     "265131": {
       "name": "GP4 TELECOM",
@@ -55777,7 +55773,7 @@
       "type": "Unknown"
     },
     "17413": {
-      "name": "DODO-Core-TW",
+      "name": "DODO-TW-ISP",
       "type": "Cable/DSL/ISP"
     },
     "37061": {
@@ -61422,7 +61418,7 @@
     },
     "141929": {
       "name": "PT Daniswara Citra Informatika",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "270820": {
       "name": "COMPUNET DO BRASIL TELECOM",
@@ -68094,7 +68090,7 @@
     },
     "266877": {
       "name": "COLOMBIATEL TELECOMUNICACIONES",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "269989": {
       "name": "FIBERNET Guatemala",
@@ -77052,6 +77048,10 @@
       "name": "Nationet",
       "type": "Cable/DSL/ISP"
     },
+    "21505": {
+      "name": "Multi Media LLC",
+      "type": "Enterprise"
+    },
     "25736": {
       "name": "DE-CIX MAPS Seattle Route Servers",
       "type": "Route Server"
@@ -82057,8 +82057,8 @@
       "type": "Cable/DSL/ISP"
     },
     "266456": {
-      "name": "JR NET",
-      "type": "Unknown"
+      "name": "JRNET",
+      "type": "Cable/DSL/ISP"
     },
     "397928": {
       "name": "307NET",
@@ -92820,6 +92820,10 @@
       "name": "AURORA-LEO",
       "type": "Unknown"
     },
+    "401661": {
+      "name": "EMBNEX, LLC",
+      "type": "Content"
+    },
     "48359": {
       "name": "Hesabgar Pardaz Gharb",
       "type": "Unknown"
@@ -96799,10 +96803,6 @@
     "206392": {
       "name": "HACKWORTH_UK",
       "type": "Enterprise"
-    },
-    "272740": {
-      "name": "ALLIANCE NET BANDA LARGA LTDA",
-      "type": "Unknown"
     },
     "211281": {
       "name": "NeoHost",
@@ -103070,7 +103070,7 @@
     },
     "198607": {
       "name": "HaloAgency",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "141199": {
       "name": "Century Link Plus Co",
@@ -104525,7 +104525,7 @@
       "type": "Unknown"
     },
     "154602": {
-      "name": "BACK WAVES BUSINESS",
+      "name": "BACK WAVES Singapore",
       "type": "Cable/DSL/ISP"
     },
     "267785": {
@@ -106570,7 +106570,7 @@
     },
     "154716": {
       "name": "IDNIC-JNET-AS-ID",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "219015": {
       "name": "maevi-as",
@@ -107490,7 +107490,7 @@
     },
     "274108": {
       "name": "CABLE VISION DE OCCIDENTE SOCIEDAD ANONIMA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218718": {
       "name": "SEPROGO",
@@ -107756,10 +107756,6 @@
       "name": "ORG-ABL3-AFRINIC",
       "type": "Unknown"
     },
-    "208368": {
-      "name": "BudgetThuis",
-      "type": "Unknown"
-    },
     "218652": {
       "name": "NIGHTCOIL-NETWORKS",
       "type": "Enterprise"
@@ -107898,7 +107894,7 @@
     },
     "218681": {
       "name": "GKIM-AS",
-      "type": "Unknown"
+      "type": "Content"
     },
     "152523": {
       "name": "Blazing Bullet",
@@ -107934,7 +107930,7 @@
     },
     "218791": {
       "name": "BetterWorx",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218906": {
       "name": "KESKOOYJ",
@@ -107942,7 +107938,7 @@
     },
     "219092": {
       "name": "MVDBOSCH-12SPARK-COM",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "196827": {
       "name": "CONSC1A",
@@ -107950,7 +107946,7 @@
     },
     "239": {
       "name": "UTORONTO-AS",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "262621": {
       "name": "ASN262621",
@@ -107962,10 +107958,54 @@
     },
     "214130": {
       "name": "DigitalInfra",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "394542": {
       "name": "MS-FIBER",
+      "type": "Unknown"
+    },
+    "198358": {
+      "name": "KAT",
+      "type": "Educational/Research"
+    },
+    "154931": {
+      "name": "Novalink Networks Incorporated",
+      "type": "Cable/DSL/ISP"
+    },
+    "400978": {
+      "name": "GETREALIP-ASN1",
+      "type": "Unknown"
+    },
+    "47352": {
+      "name": "Government of Latvia Internet Exchange Route Servers",
+      "type": "Route Server"
+    },
+    "139087": {
+      "name": "FAST1-AS-AP",
+      "type": "Unknown"
+    },
+    "402472": {
+      "name": "Popcorn",
+      "type": "Cable/DSL/ISP"
+    },
+    "329512": {
+      "name": "ORG-AS6-AFRINIC",
+      "type": "Unknown"
+    },
+    "154901": {
+      "name": "IDNIC-GARUDAAKSES-ID",
+      "type": "Unknown"
+    },
+    "218851": {
+      "name": "HOSTON",
+      "type": "Unknown"
+    },
+    "401084": {
+      "name": "CANIX Moncton Services",
+      "type": "Network Services"
+    },
+    "401144": {
+      "name": "Corvaglia Networks",
       "type": "Unknown"
     },
     "22822": {
@@ -109475,6 +109515,10 @@
     "30998": {
       "name": "Netcom Africa",
       "type": "Cable/DSL/ISP"
+    },
+    "11172": {
+      "name": "Alestra",
+      "type": "NSP"
     },
     "20853": {
       "name": "ETOP Sp z o.o.",
@@ -134136,10 +134180,6 @@
       "name": "Alexander Samoylyk",
       "type": "Network Services"
     },
-    "21505": {
-      "name": "Netser, Inc.",
-      "type": "Enterprise"
-    },
     "150547": {
       "name": "PT. Mettadc Teknologi Indonesia",
       "type": "Route Server"
@@ -138381,7 +138421,7 @@
       "type": "Cable/DSL/ISP"
     },
     "25912": {
-      "name": "Null Innovations",
+      "name": "NullNet",
       "type": "NSP"
     },
     "213716": {
@@ -139365,7 +139405,7 @@
       "type": "Cable/DSL/ISP"
     },
     "205874": {
-      "name": "BG-ZEROBYTE",
+      "name": "Zero Byte",
       "type": "Educational/Research"
     },
     "213438": {
@@ -139891,6 +139931,10 @@
     "46783": {
       "name": "EASY LINK LLC",
       "type": "Unknown"
+    },
+    "272740": {
+      "name": "ALLIANCE NET BANDA LARGA LTDA",
+      "type": "Cable/DSL/ISP"
     },
     "273472": {
       "name": "Connect Fibra Telecom",
@@ -141707,6 +141751,10 @@
     "218654": {
       "name": "SWISH-WORLD",
       "type": "Content"
+    },
+    "208368": {
+      "name": "BudgetThuis",
+      "type": "Cable/DSL/ISP"
     },
     "141732": {
       "name": "ANPL-AS-AP",
