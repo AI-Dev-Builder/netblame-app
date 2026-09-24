@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-23T02:31:35.828Z",
+  "updated_at": "2026-09-24T02:20:44.030Z",
   "source": "PeeringDB",
-  "entry_count": 35441,
+  "entry_count": 35460,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -51,10 +51,6 @@
     "3257": {
       "name": "GTT Communications (AS3257)",
       "type": "NSP"
-    },
-    "3265": {
-      "name": "XS4ALL Internet B.V.",
-      "type": "Unknown"
     },
     "2818": {
       "name": "BBC",
@@ -7981,7 +7977,7 @@
       "type": "Content"
     },
     "40220": {
-      "name": "Mid-Atlantic Terascale Partnership - MATP",
+      "name": "MARIA",
       "type": "Educational/Research"
     },
     "8015": {
@@ -32594,7 +32590,7 @@
     },
     "135607": {
       "name": "Infinivan",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "11888": {
       "name": "Televisión Internacional SA de CV AS11888",
@@ -43972,10 +43968,6 @@
       "name": "Martiushev Timofei Viktorovich",
       "type": "Unknown"
     },
-    "53764": {
-      "name": "DM Wireless",
-      "type": "Cable/DSL/ISP"
-    },
     "199399": {
       "name": "Greek Internet Exchange (GR-IX)",
       "type": "Unknown"
@@ -49071,6 +49063,10 @@
     "138551": {
       "name": "Skyinfo Online",
       "type": "Cable/DSL/ISP"
+    },
+    "207550": {
+      "name": "OCLAYER LIMITED",
+      "type": "Educational/Research"
     },
     "42437": {
       "name": "T2 Rostov-on-Don",
@@ -86600,10 +86596,6 @@
       "name": "FUTURE FIBRA OPTICA",
       "type": "Cable/DSL/ISP"
     },
-    "214456": {
-      "name": "ServerSP",
-      "type": "Content"
-    },
     "273890": {
       "name": "NAP VE - Transit",
       "type": "Unknown"
@@ -91885,7 +91877,7 @@
       "type": "Route Server"
     },
     "25921": {
-      "name": "LUS Fiber",
+      "name": "LFT Fiber",
       "type": "Cable/DSL/ISP"
     },
     "213549": {
@@ -94310,7 +94302,7 @@
     },
     "214645": {
       "name": "Bjarne Nilsson",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "153578": {
       "name": "PT Koneksi Indonesia Lintas Arta",
@@ -100885,8 +100877,8 @@
       "type": "Cable/DSL/ISP"
     },
     "201191": {
-      "name": "COBYTES",
-      "type": "Unknown"
+      "name": "Cobytes B.V.",
+      "type": "Content"
     },
     "262322": {
       "name": "MMER Provedor de Internet Ltda - ME",
@@ -106852,10 +106844,6 @@
       "name": "LOGINS-PT",
       "type": "Unknown"
     },
-    "219011": {
-      "name": "MAGOONET",
-      "type": "Unknown"
-    },
     "218912": {
       "name": "ENIXCORE",
       "type": "Cable/DSL/ISP"
@@ -107466,7 +107454,7 @@
     },
     "327829": {
       "name": "SKYTIC TELECOM",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "136564": {
       "name": "IMMANET",
@@ -107750,7 +107738,7 @@
     },
     "19436": {
       "name": "CAPROCK-1",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "329749": {
       "name": "ORG-ABL3-AFRINIC",
@@ -107790,7 +107778,7 @@
     },
     "396144": {
       "name": "Akamind Inc",
-      "type": "Unknown"
+      "type": "Content"
     },
     "398377": {
       "name": "SHRUG-NET",
@@ -107866,7 +107854,7 @@
     },
     "218644": {
       "name": "DOGLE-AS",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "202683": {
       "name": "ONEHOP-IX",
@@ -107950,7 +107938,7 @@
     },
     "262621": {
       "name": "ASN262621",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "402201": {
       "name": "NISHNANET",
@@ -107993,8 +107981,8 @@
       "type": "Unknown"
     },
     "154901": {
-      "name": "IDNIC-GARUDAAKSES-ID",
-      "type": "Unknown"
+      "name": "Garuda Akses Nusantara",
+      "type": "Cable/DSL/ISP"
     },
     "218851": {
       "name": "HOSTON",
@@ -108007,6 +107995,74 @@
     "401144": {
       "name": "Corvaglia Networks",
       "type": "Unknown"
+    },
+    "154938": {
+      "name": "PT DIGITECH INDO NETRA",
+      "type": "Unknown"
+    },
+    "141308": {
+      "name": "BYTRIXNP-AS",
+      "type": "Unknown"
+    },
+    "132163": {
+      "name": "IDNIC-SYNTARA-ID",
+      "type": "Unknown"
+    },
+    "201627": {
+      "name": "DNB BANK ASA",
+      "type": "Enterprise"
+    },
+    "141328": {
+      "name": "MANMEET-AS",
+      "type": "Unknown"
+    },
+    "218602": {
+      "name": "SMARTYHOME",
+      "type": "Unknown"
+    },
+    "218613": {
+      "name": "BOCCHI-SH",
+      "type": "Enterprise"
+    },
+    "219135": {
+      "name": "natsom",
+      "type": "Unknown"
+    },
+    "402761": {
+      "name": "NEUROGRID",
+      "type": "Unknown"
+    },
+    "399874": {
+      "name": "ASCENDCOM",
+      "type": "Unknown"
+    },
+    "275053": {
+      "name": "275053",
+      "type": "Unknown"
+    },
+    "270267": {
+      "name": "ASN270267",
+      "type": "Unknown"
+    },
+    "26499": {
+      "name": "VATECH-DCMETRO",
+      "type": "Unknown"
+    },
+    "7066": {
+      "name": "VATECH-NET",
+      "type": "Unknown"
+    },
+    "154833": {
+      "name": "IDNIC-WIRAHASTAJITU-ID",
+      "type": "Unknown"
+    },
+    "218605": {
+      "name": "HamzaDenizYilmaz",
+      "type": "Unknown"
+    },
+    "152584": {
+      "name": "IVAN-ENTERPRISE",
+      "type": "NSP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -121327,6 +121383,10 @@
     "209608": {
       "name": "Municipality of Athens",
       "type": "Government"
+    },
+    "53764": {
+      "name": "DM Wireless",
+      "type": "Cable/DSL/ISP"
     },
     "262880": {
       "name": "Radar Wisp",
@@ -136142,7 +136202,7 @@
     },
     "199018": {
       "name": "Xkrme Network",
-      "type": "Educational/Research"
+      "type": "Enterprise"
     },
     "328757": {
       "name": "Donya Digital (Pty) Ltd",
@@ -137432,6 +137492,10 @@
       "name": "Quixly",
       "type": "Cable/DSL/ISP"
     },
+    "214456": {
+      "name": "ServerSP",
+      "type": "Content"
+    },
     "64164": {
       "name": "NAP VE - Route Servers",
       "type": "Route Server"
@@ -138514,7 +138578,7 @@
     },
     "213641": {
       "name": "AS213641 Network",
-      "type": "Content"
+      "type": "NSP"
     },
     "135474": {
       "name": "PT. Hafiz Jaya Infotama",
@@ -141490,7 +141554,7 @@
     },
     "219484": {
       "name": "TAKO",
-      "type": "Content"
+      "type": "Enterprise"
     },
     "401880": {
       "name": "KESHIA-SERVICES-FINANCIAL-SYSTEMS",
@@ -141636,6 +141700,10 @@
       "name": "Telewizja Kablowa Kolobrzeg",
       "type": "Cable/DSL/ISP"
     },
+    "219011": {
+      "name": "MAGOONET",
+      "type": "Educational/Research"
+    },
     "139692": {
       "name": "Chen Guang Network",
       "type": "Cable/DSL/ISP"
@@ -141767,6 +141835,14 @@
     "219062": {
       "name": "Nera",
       "type": "NSP"
+    },
+    "402011": {
+      "name": "BRAEDEN-LLC",
+      "type": "Enterprise"
+    },
+    "218593": {
+      "name": "TEAMRIVERBUBBLES",
+      "type": "Educational/Research"
     }
   }
 }
