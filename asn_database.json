@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-24T02:20:44.030Z",
+  "updated_at": "2026-09-25T02:36:54.167Z",
   "source": "PeeringDB",
-  "entry_count": 35460,
+  "entry_count": 35465,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1840,10 +1840,6 @@
       "name": "Force10 Networks",
       "type": "Educational/Research"
     },
-    "41157": {
-      "name": "Oxymium",
-      "type": "Content"
-    },
     "34309": {
       "name": "Link11",
       "type": "NSP"
@@ -3323,10 +3319,6 @@
     "16810": {
       "name": "Cavalier Telephone",
       "type": "Cable/DSL/ISP"
-    },
-    "41552": {
-      "name": "Adevinta",
-      "type": "Content"
     },
     "9269": {
       "name": "Hong Kong Broadband Network LTD",
@@ -7196,10 +7188,6 @@
       "name": "Helix",
       "type": "Cable/DSL/ISP"
     },
-    "35655": {
-      "name": "Ecritel - Oxyd",
-      "type": "Content"
-    },
     "37312": {
       "name": "Clickatell (Pty) Ltd",
       "type": "Enterprise"
@@ -8250,7 +8238,7 @@
     },
     "52863": {
       "name": "UPX",
-      "type": "Content"
+      "type": "Unknown"
     },
     "17169": {
       "name": "IdahoIX Route Servers",
@@ -42508,10 +42496,6 @@
       "name": "Wind Cloud Japan",
       "type": "Unknown"
     },
-    "34173": {
-      "name": "SafeBrands S.A.S.",
-      "type": "Unknown"
-    },
     "47612": {
       "name": "MORGAN HAMART",
       "type": "Content"
@@ -49066,7 +49050,7 @@
     },
     "207550": {
       "name": "OCLAYER LIMITED",
-      "type": "Educational/Research"
+      "type": "Cable/DSL/ISP"
     },
     "42437": {
       "name": "T2 Rostov-on-Don",
@@ -61240,10 +61224,6 @@
       "name": "Splish",
       "type": "NSP"
     },
-    "211231": {
-      "name": "Tolfix",
-      "type": "Educational/Research"
-    },
     "142409": {
       "name": "Digital Edge Philippines Internet Access",
       "type": "Unknown"
@@ -63408,10 +63388,6 @@
       "name": "Teleperformance Netherlands B.V.",
       "type": "Enterprise"
     },
-    "210758": {
-      "name": "PreisschildHomelab",
-      "type": "Unknown"
-    },
     "267900": {
       "name": "ESTABLECIMIENTO CASCADA BLANCA",
       "type": "Cable/DSL/ISP"
@@ -64121,7 +64097,7 @@
       "type": "Cable/DSL/ISP"
     },
     "47865": {
-      "name": "Inter.link Legacy",
+      "name": "Inter.link Research and Bug Hunting",
       "type": "Unknown"
     },
     "401307": {
@@ -66422,6 +66398,10 @@
     },
     "400326": {
       "name": "vGRID",
+      "type": "Content"
+    },
+    "213052": {
+      "name": "BittenBytes",
       "type": "Content"
     },
     "270779": {
@@ -73647,6 +73627,10 @@
     "148979": {
       "name": "Fiberworld Communication AS148979",
       "type": "NSP"
+    },
+    "200850": {
+      "name": "ARMEE",
+      "type": "Government"
     },
     "210793": {
       "name": "Altonetz",
@@ -90936,10 +90920,6 @@
       "name": "Virtual Droplet",
       "type": "Cable/DSL/ISP"
     },
-    "135517": {
-      "name": "Pandora Technology",
-      "type": "Unknown"
-    },
     "133761": {
       "name": "Mr. Naphat",
       "type": "Unknown"
@@ -95854,10 +95834,6 @@
     },
     "401132": {
       "name": "BL-RUBI",
-      "type": "Unknown"
-    },
-    "33890": {
-      "name": "FiberLink (AS33890)",
       "type": "Unknown"
     },
     "141620": {
@@ -107813,8 +107789,8 @@
       "type": "Unknown"
     },
     "208355": {
-      "name": "yamnet",
-      "type": "Unknown"
+      "name": "YAM Network",
+      "type": "NSP"
     },
     "271733": {
       "name": "JRNET COMUNICACAO",
@@ -107914,7 +107890,7 @@
     },
     "154894": {
       "name": "IDNIC-DPI-ID",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "218791": {
       "name": "BetterWorx",
@@ -108013,7 +107989,7 @@
       "type": "Enterprise"
     },
     "141328": {
-      "name": "MANMEET-AS",
+      "name": "Manmeet Communication Pvt Ltd",
       "type": "Unknown"
     },
     "218602": {
@@ -108052,10 +108028,6 @@
       "name": "VATECH-NET",
       "type": "Unknown"
     },
-    "154833": {
-      "name": "IDNIC-WIRAHASTAJITU-ID",
-      "type": "Unknown"
-    },
     "218605": {
       "name": "HamzaDenizYilmaz",
       "type": "Unknown"
@@ -108063,6 +108035,50 @@
     "152584": {
       "name": "IVAN-ENTERPRISE",
       "type": "NSP"
+    },
+    "7315": {
+      "name": "7315",
+      "type": "Unknown"
+    },
+    "134084": {
+      "name": "TOSLINK-AS-AP",
+      "type": "Unknown"
+    },
+    "36901": {
+      "name": "Datanet Superblock1",
+      "type": "Enterprise"
+    },
+    "198001": {
+      "name": "INFOGLOB",
+      "type": "Cable/DSL/ISP"
+    },
+    "218625": {
+      "name": "Communication Dynamics Ltd",
+      "type": "Unknown"
+    },
+    "218589": {
+      "name": "Benesjan014",
+      "type": "Unknown"
+    },
+    "30027": {
+      "name": "STINET-1",
+      "type": "Unknown"
+    },
+    "50868": {
+      "name": "VOIPSTARR",
+      "type": "Unknown"
+    },
+    "200223": {
+      "name": "ETHERON",
+      "type": "Unknown"
+    },
+    "402693": {
+      "name": "VAST",
+      "type": "Unknown"
+    },
+    "154646": {
+      "name": "MATEORSDOTCOM-AS-AP",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -108414,6 +108430,10 @@
     },
     "40988": {
       "name": "SOLVIANS IT-Solutions",
+      "type": "Content"
+    },
+    "41157": {
+      "name": "NINE-IX EDGE CACHE",
       "type": "Content"
     },
     "41103": {
@@ -116250,7 +116270,7 @@
     },
     "52680": {
       "name": "BLZNET SERVICOS DE INTERNET",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "137048": {
       "name": "X-Link Limited",
@@ -119214,7 +119234,7 @@
     },
     "4658": {
       "name": "2012 Limited",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "268452": {
       "name": "rosemiro alves da maia",
@@ -130520,10 +130540,6 @@
       "name": "Innovation Harbor B.V.",
       "type": "NSP"
     },
-    "213052": {
-      "name": "BittenBytes",
-      "type": "Content"
-    },
     "271414": {
       "name": "RTI NETWORK",
       "type": "Cable/DSL/ISP"
@@ -139854,7 +139870,7 @@
     },
     "205126": {
       "name": "LGO",
-      "type": "Content"
+      "type": "Educational/Research"
     },
     "329552": {
       "name": "PHPLAVATEC SOLUTIONS LTD",
@@ -141843,6 +141859,10 @@
     "218593": {
       "name": "TEAMRIVERBUBBLES",
       "type": "Educational/Research"
+    },
+    "154833": {
+      "name": "PT WIRA HASTA JITU",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
