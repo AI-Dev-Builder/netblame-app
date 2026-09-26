@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-25T02:36:54.167Z",
+  "updated_at": "2026-09-26T02:39:38.132Z",
   "source": "PeeringDB",
-  "entry_count": 35465,
+  "entry_count": 35476,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1839,6 +1839,10 @@
     "18508": {
       "name": "Force10 Networks",
       "type": "Educational/Research"
+    },
+    "41157": {
+      "name": "nine-ix Edge Cache",
+      "type": "Content"
     },
     "34309": {
       "name": "Link11",
@@ -9309,7 +9313,7 @@
       "type": "Educational/Research"
     },
     "2134": {
-      "name": "Produban Servicios Informaticos Generales",
+      "name": "Santander Global Technology and Operations, S.L.",
       "type": "Enterprise"
     },
     "40715": {
@@ -18794,7 +18798,7 @@
     },
     "134809": {
       "name": "ViewQwest Digital Sdn. Bhd.",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "44645": {
       "name": "PKN Datenkommunikation",
@@ -23371,10 +23375,6 @@
     "327889": {
       "name": "WTBTS-ZAF",
       "type": "Non-Profit"
-    },
-    "50061": {
-      "name": "PricewaterhouseCoopers DE",
-      "type": "Unknown"
     },
     "55891": {
       "name": "WTBTS-JAP",
@@ -53976,10 +53976,6 @@
       "name": "Black Net",
       "type": "Cable/DSL/ISP"
     },
-    "208422": {
-      "name": "Infinity Telecom - Hosting Services",
-      "type": "Unknown"
-    },
     "266565": {
       "name": "STAR LINE TELECOMUNICAÇÕES",
       "type": "Cable/DSL/ISP"
@@ -75492,6 +75488,10 @@
       "name": "SUPPERNET",
       "type": "Cable/DSL/ISP"
     },
+    "199068": {
+      "name": "LETSCO",
+      "type": "Unknown"
+    },
     "59802": {
       "name": "unicycle - AS59802",
       "type": "Content"
@@ -77030,7 +77030,7 @@
     },
     "21505": {
       "name": "Multi Media LLC",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "25736": {
       "name": "DE-CIX MAPS Seattle Route Servers",
@@ -82347,6 +82347,10 @@
     "17940": {
       "name": "CYBER LINKS",
       "type": "Unknown"
+    },
+    "199018": {
+      "name": "Xkrme Network",
+      "type": "Enterprise"
     },
     "215563": {
       "name": "Luke IT",
@@ -102266,7 +102270,7 @@
     },
     "48259": {
       "name": "MK2",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "199573": {
       "name": "SmartScreen",
@@ -107322,11 +107326,11 @@
     },
     "275012": {
       "name": "275012",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "274925": {
       "name": "274925",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "3134": {
       "name": "USAID-ASN",
@@ -107744,6 +107748,10 @@
       "name": "GSCBN",
       "type": "Cable/DSL/ISP"
     },
+    "154722": {
+      "name": "Pronet Media Indonesia",
+      "type": "NSP"
+    },
     "154387": {
       "name": "PT Lintas Trans Khatulistiwa",
       "type": "Unknown"
@@ -108001,8 +108009,8 @@
       "type": "Enterprise"
     },
     "219135": {
-      "name": "natsom",
-      "type": "Unknown"
+      "name": "Natsom Bilisim Teknolojileri",
+      "type": "Enterprise"
     },
     "402761": {
       "name": "NEUROGRID",
@@ -108065,7 +108073,7 @@
       "type": "Unknown"
     },
     "50868": {
-      "name": "VOIPSTARR",
+      "name": "VoIPStarr B.V.",
       "type": "Unknown"
     },
     "200223": {
@@ -108078,6 +108086,50 @@
     },
     "154646": {
       "name": "MATEORSDOTCOM-AS-AP",
+      "type": "Network Services"
+    },
+    "328284": {
+      "name": "ORG-SMDT1-AFRINIC",
+      "type": "Government"
+    },
+    "199374": {
+      "name": "SDE-AS",
+      "type": "Unknown"
+    },
+    "152734": {
+      "name": "MCL-AS-AP",
+      "type": "Unknown"
+    },
+    "60584": {
+      "name": "IN8INITY",
+      "type": "NSP"
+    },
+    "204279": {
+      "name": "ELTRONA",
+      "type": "Unknown"
+    },
+    "273483": {
+      "name": "ASN273483",
+      "type": "Unknown"
+    },
+    "218580": {
+      "name": "CWMBRASIL TELECOMUNICACOES",
+      "type": "NSP"
+    },
+    "274865": {
+      "name": "274865",
+      "type": "Cable/DSL/ISP"
+    },
+    "403001": {
+      "name": "Mirage Global Technologies",
+      "type": "NSP"
+    },
+    "54581": {
+      "name": "JLANSKA-DESIGN",
+      "type": "Unknown"
+    },
+    "275749": {
+      "name": "ASN275749",
       "type": "Unknown"
     },
     "22822": {
@@ -108430,10 +108482,6 @@
     },
     "40988": {
       "name": "SOLVIANS IT-Solutions",
-      "type": "Content"
-    },
-    "41157": {
-      "name": "NINE-IX EDGE CACHE",
       "type": "Content"
     },
     "41103": {
@@ -113599,6 +113647,10 @@
     "49477": {
       "name": "eTF1",
       "type": "Content"
+    },
+    "50061": {
+      "name": "PricewaterhouseCoopers DE",
+      "type": "Enterprise"
     },
     "395823": {
       "name": "doof.net",
@@ -124241,8 +124293,8 @@
       "type": "NSP"
     },
     "267373": {
-      "name": "Hr Virtual",
-      "type": "Cable/DSL/ISP"
+      "name": "ÁGIL TECOMUNICACOES LTDA",
+      "type": "NSP"
     },
     "267442": {
       "name": "CRISTIANO HOLDEFER & CIA",
@@ -125389,7 +125441,7 @@
       "type": "Network Services"
     },
     "49121": {
-      "name": "Infinity Telecom",
+      "name": "IN8INITY EU",
       "type": "NSP"
     },
     "3221": {
@@ -136216,10 +136268,6 @@
       "name": "Eliveld ICT B.V.",
       "type": "Unknown"
     },
-    "199018": {
-      "name": "Xkrme Network",
-      "type": "Enterprise"
-    },
     "328757": {
       "name": "Donya Digital (Pty) Ltd",
       "type": "Cable/DSL/ISP"
@@ -137506,7 +137554,7 @@
     },
     "36382": {
       "name": "Quixly",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "214456": {
       "name": "ServerSP",
@@ -141843,10 +141891,6 @@
     "141732": {
       "name": "ANPL-AS-AP",
       "type": "Cable/DSL/ISP"
-    },
-    "154722": {
-      "name": "Pronet Media Indonesia",
-      "type": "NSP"
     },
     "219062": {
       "name": "Nera",
