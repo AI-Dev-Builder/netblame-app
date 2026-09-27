@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-26T02:39:38.132Z",
+  "updated_at": "2026-09-27T02:39:04.177Z",
   "source": "PeeringDB",
-  "entry_count": 35476,
+  "entry_count": 35478,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -21206,7 +21206,7 @@
     },
     "58269": {
       "name": "CloudHosting",
-      "type": "Unknown"
+      "type": "Content"
     },
     "135543": {
       "name": "Network Dynamics",
@@ -70560,10 +70560,6 @@
       "name": "Universite Virtuelle du Senegal",
       "type": "Unknown"
     },
-    "203283": {
-      "name": "HighEndNetwork",
-      "type": "Cable/DSL/ISP"
-    },
     "327773": {
       "name": "GUCE CI",
       "type": "Enterprise"
@@ -73295,10 +73291,6 @@
     "50646": {
       "name": "Mobile TeleSystems AS50646",
       "type": "Unknown"
-    },
-    "212974": {
-      "name": "TomaNet",
-      "type": "Cable/DSL/ISP"
     },
     "137224": {
       "name": "Galaxy Technology",
@@ -76443,10 +76435,6 @@
     "264178": {
       "name": "Coonexao Telecom e Informatica EIRELI",
       "type": "Cable/DSL/ISP"
-    },
-    "136788": {
-      "name": "Ezi-Web Wholesale",
-      "type": "Unknown"
     },
     "150274": {
       "name": "Gateway Media Zafira",
@@ -80700,10 +80688,6 @@
       "name": "LEGACY",
       "type": "Network Services"
     },
-    "215955": {
-      "name": "ALTEASYSTEMS",
-      "type": "Cable/DSL/ISP"
-    },
     "212653": {
       "name": "HOSTERFY",
       "type": "Unknown"
@@ -83363,6 +83347,10 @@
     "44354": {
       "name": "BROCK VOJKOVIC",
       "type": "Content"
+    },
+    "215207": {
+      "name": "AetherNet",
+      "type": "Educational/Research"
     },
     "46906": {
       "name": "GOSEMO-LLC",
@@ -89292,10 +89280,6 @@
       "name": "PT Insolikh Jaringan Multimedia",
       "type": "Unknown"
     },
-    "213855": {
-      "name": "NGLOOYIN",
-      "type": "Unknown"
-    },
     "132233": {
       "name": "Fourleaf Consulting Network and Data Solution",
       "type": "Cable/DSL/ISP"
@@ -89451,6 +89435,10 @@
     "18977": {
       "name": "Wikstrom Telephone Company (Voice)",
       "type": "Cable/DSL/ISP"
+    },
+    "401066": {
+      "name": "LOWPING-US",
+      "type": "Unknown"
     },
     "401507": {
       "name": "imput (401507)",
@@ -92519,10 +92507,6 @@
     "7299": {
       "name": "ProNET Communications Inc.",
       "type": "Unknown"
-    },
-    "215451": {
-      "name": "Phil Huang",
-      "type": "Educational/Research"
     },
     "213536": {
       "name": "AMS-IX Eastern Caribbean Route Servers",
@@ -97675,10 +97659,6 @@
     "397921": {
       "name": "Megawatt Communications LLC",
       "type": "Unknown"
-    },
-    "25870": {
-      "name": "CANIX Toronto Services",
-      "type": "Network Services"
     },
     "206272": {
       "name": "bluvisio",
@@ -106224,10 +106204,6 @@
       "name": "PAGEDIUM",
       "type": "Enterprise"
     },
-    "219071": {
-      "name": "UPUPFLY",
-      "type": "Unknown"
-    },
     "152684": {
       "name": "THEWAHTELECOM-AS-AP",
       "type": "Cable/DSL/ISP"
@@ -107136,10 +107112,6 @@
       "name": "ASN271750",
       "type": "Unknown"
     },
-    "218807": {
-      "name": "Pixel-Networks",
-      "type": "Unknown"
-    },
     "402590": {
       "name": "IntermountainIX Route Servers",
       "type": "Unknown"
@@ -107856,10 +107828,6 @@
       "name": "FIRST-SERVER-EUROPE",
       "type": "Unknown"
     },
-    "63342": {
-      "name": "IX-US",
-      "type": "Unknown"
-    },
     "150934": {
       "name": "IDNIC-HARDWORK-ID",
       "type": "Unknown"
@@ -108074,7 +108042,7 @@
     },
     "50868": {
       "name": "VoIPStarr B.V.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "200223": {
       "name": "ETHERON",
@@ -108130,6 +108098,34 @@
     },
     "275749": {
       "name": "ASN275749",
+      "type": "Unknown"
+    },
+    "11424": {
+      "name": "TEMPLE-UNIVERSITY-HEALTH-SYSTEM",
+      "type": "Unknown"
+    },
+    "275061": {
+      "name": "275061",
+      "type": "NSP"
+    },
+    "403008": {
+      "name": "NETQUOR-TECH",
+      "type": "Unknown"
+    },
+    "270036": {
+      "name": "270036",
+      "type": "Unknown"
+    },
+    "218847": {
+      "name": "ULTRANET-AS",
+      "type": "Cable/DSL/ISP"
+    },
+    "401989": {
+      "name": "GAYLORD CONSULTING",
+      "type": "Unknown"
+    },
+    "197666": {
+      "name": "STENCLOUD",
       "type": "Unknown"
     },
     "22822": {
@@ -133108,6 +133104,10 @@
       "name": "PT Lintas Daya Nusantara",
       "type": "Cable/DSL/ISP"
     },
+    "212974": {
+      "name": "TomaNet",
+      "type": "Cable/DSL/ISP"
+    },
     "49747": {
       "name": "QHost",
       "type": "Content"
@@ -135704,6 +135704,10 @@
       "name": "Berik Ashimov",
       "type": "Educational/Research"
     },
+    "215955": {
+      "name": "ALTEASYSTEMS",
+      "type": "Cable/DSL/ISP"
+    },
     "150636": {
       "name": "Logosys",
       "type": "Content"
@@ -136603,10 +136607,6 @@
     "151101": {
       "name": "Sphatik Network",
       "type": "Cable/DSL/ISP"
-    },
-    "215207": {
-      "name": "AetherNet",
-      "type": "Educational/Research"
     },
     "215561": {
       "name": "Stefan Eikenbusch",
@@ -140236,6 +140236,10 @@
       "name": "CANIX Toronto Route Servers",
       "type": "Route Server"
     },
+    "25870": {
+      "name": "CANIX Toronto Services",
+      "type": "Network Services"
+    },
     "28919": {
       "name": "Stadtwerke Kufstein",
       "type": "Cable/DSL/ISP"
@@ -141827,6 +141831,10 @@
     "154866": {
       "name": "Airspine",
       "type": "Non-Profit"
+    },
+    "218807": {
+      "name": "Pixel Networks",
+      "type": "NSP"
     },
     "154334": {
       "name": "RAI1OSR-AS-AP",
