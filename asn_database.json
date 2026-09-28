@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-27T02:39:04.177Z",
+  "updated_at": "2026-09-28T02:42:03.413Z",
   "source": "PeeringDB",
   "entry_count": 35478,
   "entries": {
@@ -85141,7 +85141,7 @@
       "type": "Unknown"
     },
     "214757": {
-      "name": "Jakub Krsa",
+      "name": "AS214757 - Jakub Krsa",
       "type": "Educational/Research"
     },
     "152806": {
@@ -88330,7 +88330,7 @@
     },
     "153260": {
       "name": "Expresswire",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "153127": {
       "name": "PT Topsetting Sentra Akses",
@@ -89435,10 +89435,6 @@
     "18977": {
       "name": "Wikstrom Telephone Company (Voice)",
       "type": "Cable/DSL/ISP"
-    },
-    "401066": {
-      "name": "LOWPING-US",
-      "type": "Unknown"
     },
     "401507": {
       "name": "imput (401507)",
@@ -107592,10 +107588,6 @@
       "name": "SKYQUANTUM TELE",
       "type": "NSP"
     },
-    "31806": {
-      "name": "TERRIBLE-NETWORK",
-      "type": "Unknown"
-    },
     "213846": {
       "name": "nalmi-as",
       "type": "Unknown"
@@ -108128,6 +108120,18 @@
       "name": "STENCLOUD",
       "type": "Unknown"
     },
+    "218609": {
+      "name": "nekai-as",
+      "type": "Unknown"
+    },
+    "43736": {
+      "name": "DATANETS-AS",
+      "type": "Unknown"
+    },
+    "329428": {
+      "name": "ORG-AdTd1-AFRINIC",
+      "type": "Unknown"
+    },
     "22822": {
       "name": "Edgio - AS22822",
       "type": "Content"
@@ -108573,7 +108577,7 @@
       "type": "NSP"
     },
     "24381": {
-      "name": "BGP.Exchange - Route Servers",
+      "name": "ixFabric - Route Servers",
       "type": "Non-Profit"
     },
     "17732": {
@@ -119630,7 +119634,7 @@
     },
     "31230": {
       "name": "SIX.SK",
-      "type": "Route Server"
+      "type": "Educational/Research"
     },
     "199624": {
       "name": "DKTEL",
@@ -125836,10 +125840,6 @@
       "name": "Wifikita",
       "type": "Cable/DSL/ISP"
     },
-    "270682": {
-      "name": "TORRES CONECT TELECOMUNICACOES LTDA",
-      "type": "Cable/DSL/ISP"
-    },
     "138509": {
       "name": "RELATION CABLE NETWORK",
       "type": "Cable/DSL/ISP"
@@ -130102,10 +130102,6 @@
     },
     "270438": {
       "name": "GBNET",
-      "type": "Cable/DSL/ISP"
-    },
-    "269292": {
-      "name": "FRAMNET ME",
       "type": "Cable/DSL/ISP"
     },
     "210445": {
@@ -135044,10 +135040,6 @@
       "name": "Nexflo Communications",
       "type": "Cable/DSL/ISP"
     },
-    "216375": {
-      "name": "M. Alhuda",
-      "type": "Educational/Research"
-    },
     "151006": {
       "name": "PT Nesta Indo Media",
       "type": "Cable/DSL/ISP"
@@ -138418,6 +138410,10 @@
     },
     "152466": {
       "name": "T-Link Group Company",
+      "type": "Network Services"
+    },
+    "401066": {
+      "name": "LOWPING-US",
       "type": "Network Services"
     },
     "140682": {
@@ -141842,7 +141838,7 @@
     },
     "218796": {
       "name": "GREYWIND-AS",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "218836": {
       "name": "Expeditioner Network",
@@ -141875,6 +141871,10 @@
     "395197": {
       "name": "Taipei101 Mobile (UK)",
       "type": "Cable/DSL/ISP"
+    },
+    "31806": {
+      "name": "TERRIBLE-NETWORK",
+      "type": "NSP"
     },
     "402960": {
       "name": "MACWEB",
