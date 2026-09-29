@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-28T02:42:03.413Z",
+  "updated_at": "2026-09-29T03:23:58.204Z",
   "source": "PeeringDB",
-  "entry_count": 35478,
+  "entry_count": 35487,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -3718,10 +3718,6 @@
     },
     "31078": {
       "name": "ase-network",
-      "type": "NSP"
-    },
-    "12676": {
-      "name": "HKN GmbH",
       "type": "NSP"
     },
     "45430": {
@@ -39504,10 +39500,6 @@
       "name": "Advanced Wireless Network Co. Ltd.(ฺBroadband)",
       "type": "Cable/DSL/ISP"
     },
-    "264825": {
-      "name": "TELEALFACOM",
-      "type": "Cable/DSL/ISP"
-    },
     "137016": {
       "name": "Enee Solutions",
       "type": "Content"
@@ -53748,6 +53740,10 @@
       "name": "Together Communication",
       "type": "NSP"
     },
+    "207787": {
+      "name": "ALLTHINGSTECH",
+      "type": "Unknown"
+    },
     "140951": {
       "name": "IPTP AS140951",
       "type": "NSP"
@@ -56338,7 +56334,7 @@
     },
     "213282": {
       "name": "Ada Yüksek Teknoloji Limited Şirketi",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "212402": {
       "name": "DATPOL",
@@ -64122,7 +64118,7 @@
     },
     "400146": {
       "name": "DIAMOND STATE NETWORKS",
-      "type": "Network Services"
+      "type": "NSP"
     },
     "148968": {
       "name": "Falcore Australia Pty Ltd",
@@ -105624,10 +105620,6 @@
       "name": "DXCFTDE",
       "type": "Cable/DSL/ISP"
     },
-    "135556": {
-      "name": "MULTIFACTORS SALES",
-      "type": "Unknown"
-    },
     "269980": {
       "name": "K.G.B. TELECOMUNICACIONES",
       "type": "Unknown"
@@ -107521,7 +107513,7 @@
       "type": "Unknown"
     },
     "150162": {
-      "name": "KOMET-AS-AP",
+      "name": "KOMET Networks Pty Ltd",
       "type": "Unknown"
     },
     "402360": {
@@ -107986,7 +107978,7 @@
     },
     "270267": {
       "name": "ASN270267",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "26499": {
       "name": "VATECH-DCMETRO",
@@ -108066,7 +108058,7 @@
     },
     "204279": {
       "name": "ELTRONA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "273483": {
       "name": "ASN273483",
@@ -108131,6 +108123,38 @@
     "329428": {
       "name": "ORG-AdTd1-AFRINIC",
       "type": "Unknown"
+    },
+    "26383": {
+      "name": "ASNET",
+      "type": "Unknown"
+    },
+    "209556": {
+      "name": "Hoshi-Network",
+      "type": "Unknown"
+    },
+    "135471": {
+      "name": "IDNIC-BOYOLALIKAB-AS-ID",
+      "type": "Unknown"
+    },
+    "60847": {
+      "name": "AUTO-1",
+      "type": "Unknown"
+    },
+    "218569": {
+      "name": "Viktor Nesmeianov",
+      "type": "Network Services"
+    },
+    "43050": {
+      "name": "CHOKOLOVKA-AS",
+      "type": "Unknown"
+    },
+    "218617": {
+      "name": "SNEEKES",
+      "type": "Unknown"
+    },
+    "401615": {
+      "name": "ACCK LLC",
+      "type": "Network Services"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -108834,6 +108858,10 @@
     },
     "44765": {
       "name": "MakeNewMedia Communications",
+      "type": "NSP"
+    },
+    "12676": {
+      "name": "HKN GmbH",
       "type": "NSP"
     },
     "31742": {
@@ -119238,7 +119266,7 @@
     },
     "268551": {
       "name": "DMC TELECOM",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "202306": {
       "name": "HOSTGLOBAL.PLUS",
@@ -119634,7 +119662,7 @@
     },
     "31230": {
       "name": "SIX.SK",
-      "type": "Educational/Research"
+      "type": "Route Server"
     },
     "199624": {
       "name": "DKTEL",
@@ -119654,6 +119682,10 @@
     },
     "136286": {
       "name": "Cybercity Extreme Broadband",
+      "type": "Cable/DSL/ISP"
+    },
+    "264825": {
+      "name": "TELEALFACOM",
       "type": "Cable/DSL/ISP"
     },
     "25820": {
@@ -124293,7 +124325,7 @@
       "type": "NSP"
     },
     "267373": {
-      "name": "ÁGIL TECOMUNICACOES LTDA",
+      "name": "AGIL TECOMUNICACOES LTDA",
       "type": "NSP"
     },
     "267442": {
@@ -141190,7 +141222,7 @@
     },
     "154657": {
       "name": "PT PANHA NETWORK SOLUTION",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "146888": {
       "name": "Cloud8In Technologies",
@@ -141591,6 +141623,10 @@
     "219210": {
       "name": "QAQNet",
       "type": "Educational/Research"
+    },
+    "135556": {
+      "name": "MULTIFACTORS SALES",
+      "type": "Cable/DSL/ISP"
     },
     "219349": {
       "name": "AnatoliaCore Teknoloji",
