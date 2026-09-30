@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-29T03:23:58.204Z",
+  "updated_at": "2026-09-30T03:06:51.073Z",
   "source": "PeeringDB",
-  "entry_count": 35487,
+  "entry_count": 35504,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1841,7 +1841,7 @@
       "type": "Educational/Research"
     },
     "41157": {
-      "name": "nine-ix Edge Cache",
+      "name": "nine Edge Cache",
       "type": "Content"
     },
     "34309": {
@@ -35231,10 +35231,6 @@
     "266675": {
       "name": "INTRARED",
       "type": "Unknown"
-    },
-    "57701": {
-      "name": "Myszkowska Telewizja Kablowa Sp. z o.o.",
-      "type": "Cable/DSL/ISP"
     },
     "202626": {
       "name": "Perfect-net Jaroslaw Dziubek",
@@ -88356,10 +88352,6 @@
       "name": "PT Chiabinet Jaringan Multimedia AS152773",
       "type": "Cable/DSL/ISP"
     },
-    "37612": {
-      "name": "AREEBA GUINEE SA",
-      "type": "Unknown"
-    },
     "269335": {
       "name": "SUPORT TELECOM LTDA",
       "type": "Cable/DSL/ISP"
@@ -92137,7 +92129,7 @@
       "type": "Cable/DSL/ISP"
     },
     "31561": {
-      "name": "nine",
+      "name": "nine Route Servers",
       "type": "Route Server"
     },
     "41925": {
@@ -96074,7 +96066,7 @@
     },
     "213791": {
       "name": "XeniaGroup",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "153517": {
       "name": "Ju Link Tech",
@@ -97766,7 +97758,7 @@
     },
     "215114": {
       "name": "SLBCLOUD",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "152794": {
       "name": "Net4 Media",
@@ -104584,10 +104576,6 @@
       "name": "TRIGART01-AS-IN",
       "type": "Unknown"
     },
-    "219421": {
-      "name": "Jonatan Miarecki",
-      "type": "Educational/Research"
-    },
     "35142": {
       "name": "BLX",
       "type": "Unknown"
@@ -108155,6 +108143,74 @@
     "401615": {
       "name": "ACCK LLC",
       "type": "Network Services"
+    },
+    "214815": {
+      "name": "AMFORC-AS",
+      "type": "Unknown"
+    },
+    "271494": {
+      "name": "ASN271494",
+      "type": "Unknown"
+    },
+    "215095": {
+      "name": "Seganj LLC",
+      "type": "Unknown"
+    },
+    "154954": {
+      "name": "MAXTOPTECH-AS-AP",
+      "type": "Unknown"
+    },
+    "60901": {
+      "name": "ch-1swiss1",
+      "type": "Unknown"
+    },
+    "218548": {
+      "name": "NEXUX-AS",
+      "type": "Content"
+    },
+    "218565": {
+      "name": "GHOST-NETWORKS-AS",
+      "type": "Unknown"
+    },
+    "219500": {
+      "name": "SCHEEWE-JANNIK",
+      "type": "Unknown"
+    },
+    "218543": {
+      "name": "EasyIX - Route Servers",
+      "type": "Non-Profit"
+    },
+    "218545": {
+      "name": "eaglecloud !",
+      "type": "Unknown"
+    },
+    "274593": {
+      "name": "ASN274593",
+      "type": "Cable/DSL/ISP"
+    },
+    "264989": {
+      "name": "ASN264989",
+      "type": "Unknown"
+    },
+    "154269": {
+      "name": "ABDURRAHMAN-AS-AP",
+      "type": "Unknown"
+    },
+    "218970": {
+      "name": "CHOMIK-AS",
+      "type": "Cable/DSL/ISP"
+    },
+    "154730": {
+      "name": "IDNIC-RAMADHANIPRIMANET-AS-ID",
+      "type": "Unknown"
+    },
+    "26212": {
+      "name": "DRF-IX Route Servers",
+      "type": "Route Server"
+    },
+    "17215": {
+      "name": "AMEREN-AS3",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -117558,6 +117614,10 @@
     },
     "265158": {
       "name": "ORBE TELECOM",
+      "type": "Cable/DSL/ISP"
+    },
+    "57701": {
+      "name": "Myszkowska Telewizja Kablowa Sp. z o.o.",
       "type": "Cable/DSL/ISP"
     },
     "266435": {
@@ -136698,7 +136758,7 @@
     },
     "215168": {
       "name": "FurITSystems",
-      "type": "Content"
+      "type": "Educational/Research"
     },
     "215171": {
       "name": "PT Detroit Network Indonesia",
@@ -138172,6 +138232,10 @@
       "name": "LXXIX Project Lab LLC",
       "type": "Content"
     },
+    "37612": {
+      "name": "AREEBA GUINEE SA",
+      "type": "Unknown"
+    },
     "273902": {
       "name": "CONECAR",
       "type": "Cable/DSL/ISP"
@@ -138445,7 +138509,7 @@
       "type": "Network Services"
     },
     "401066": {
-      "name": "LOWPING-US",
+      "name": "LowPing US",
       "type": "Network Services"
     },
     "140682": {
@@ -141444,6 +141508,10 @@
       "name": "S3 Company",
       "type": "Unknown"
     },
+    "219421": {
+      "name": "Jonatan Miarecki",
+      "type": "Educational/Research"
+    },
     "132023": {
       "name": "tNet Network and Data Solution",
       "type": "Unknown"
@@ -141929,7 +141997,7 @@
       "type": "Content"
     },
     "208368": {
-      "name": "BudgetThuis",
+      "name": "Fiber Crew",
       "type": "Cable/DSL/ISP"
     },
     "141732": {
@@ -141941,7 +142009,7 @@
       "type": "NSP"
     },
     "402011": {
-      "name": "BRAEDEN-LLC",
+      "name": "Braeden LLC",
       "type": "Enterprise"
     },
     "218593": {
