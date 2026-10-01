@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-09-30T03:06:51.073Z",
+  "updated_at": "2026-10-01T03:13:55.467Z",
   "source": "PeeringDB",
-  "entry_count": 35504,
+  "entry_count": 35512,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -31180,14 +31180,6 @@
       "name": "H5 Data Centers Denver",
       "type": "Unknown"
     },
-    "58612": {
-      "name": "Diverse Services 58612",
-      "type": "Unknown"
-    },
-    "45828": {
-      "name": "Diverse Services",
-      "type": "NSP"
-    },
     "205191": {
       "name": "InstelNET Telecomunicaciones",
       "type": "Unknown"
@@ -36834,7 +36826,7 @@
     },
     "37451": {
       "name": "Congo Telecom",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "267676": {
       "name": "A.M.W Tecnologia",
@@ -61030,6 +61022,10 @@
     },
     "142162": {
       "name": "King IT Net",
+      "type": "Unknown"
+    },
+    "212969": {
+      "name": "ChiaChin Tsai",
       "type": "Unknown"
     },
     "142115": {
@@ -85774,7 +85770,7 @@
     },
     "140985": {
       "name": "Global Innovative Solutions",
-      "type": "Content"
+      "type": "NSP"
     },
     "273478": {
       "name": "Sage Networks",
@@ -91379,10 +91375,6 @@
     "213436": {
       "name": "NIUZI DADA CLOUD",
       "type": "Unknown"
-    },
-    "213409": {
-      "name": "Lynqia Network",
-      "type": "NSP"
     },
     "150623": {
       "name": "HOSTDZIRE WEB SERVICES PRIVATE LIMITED",
@@ -101614,7 +101606,7 @@
     },
     "211389": {
       "name": "Briant Broadband Limited",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "265744": {
       "name": "COOPERATIVA DE PROVISIÓN DE SERVICIOS PÚBLICOS DE FREYRE LTDA.",
@@ -101990,10 +101982,6 @@
     },
     "13404": {
       "name": "GoFIBER",
-      "type": "Unknown"
-    },
-    "201182": {
-      "name": "IT Uoga MB",
       "type": "Unknown"
     },
     "149512": {
@@ -106442,7 +106430,7 @@
     },
     "218995": {
       "name": "Bobeica Mihaita David",
-      "type": "NSP"
+      "type": "Network Services"
     },
     "209928": {
       "name": "Angelinks",
@@ -107104,10 +107092,6 @@
       "name": "PHOTON-AS",
       "type": "Unknown"
     },
-    "203683": {
-      "name": "AS-CFM",
-      "type": "Unknown"
-    },
     "42415": {
       "name": "AL-JAZEERA",
       "type": "Unknown"
@@ -107729,8 +107713,8 @@
       "type": "Unknown"
     },
     "214302": {
-      "name": "AS-LOOMIS",
-      "type": "Unknown"
+      "name": "LOOMIS-NET",
+      "type": "Enterprise"
     },
     "266337": {
       "name": "ASN266337",
@@ -107790,10 +107774,6 @@
     },
     "218634": {
       "name": "DEBIE-AS",
-      "type": "Unknown"
-    },
-    "218767": {
-      "name": "SHIYUAN-NET",
       "type": "Unknown"
     },
     "205090": {
@@ -108060,10 +108040,6 @@
       "name": "274865",
       "type": "Cable/DSL/ISP"
     },
-    "403001": {
-      "name": "Mirage Global Technologies",
-      "type": "NSP"
-    },
     "54581": {
       "name": "JLANSKA-DESIGN",
       "type": "Unknown"
@@ -108210,6 +108186,46 @@
     },
     "17215": {
       "name": "AMEREN-AS3",
+      "type": "Unknown"
+    },
+    "154495": {
+      "name": "IDNIC-STERLINKNET-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "403018": {
+      "name": "TITANFORGE DIGITAL",
+      "type": "NSP"
+    },
+    "218538": {
+      "name": "ARGSMENT-AS",
+      "type": "Educational/Research"
+    },
+    "401598": {
+      "name": "JUNO",
+      "type": "Unknown"
+    },
+    "402931": {
+      "name": "ADAPTGROUP",
+      "type": "Unknown"
+    },
+    "198727": {
+      "name": "STAKINGFACILITIES",
+      "type": "Unknown"
+    },
+    "218608": {
+      "name": "SAHINNETWORK",
+      "type": "Unknown"
+    },
+    "131169": {
+      "name": "ONMOBILEGLOBAL-AS-AP",
+      "type": "Enterprise"
+    },
+    "218540": {
+      "name": "IKTSOLUTIONS-AS",
+      "type": "Unknown"
+    },
+    "25616": {
+      "name": "CANIX Anycast",
       "type": "Unknown"
     },
     "22822": {
@@ -120953,7 +120969,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263496": {
-      "name": "Netpeu Internet",
+      "name": "Netpeu",
       "type": "Cable/DSL/ISP"
     },
     "209075": {
@@ -124646,10 +124662,6 @@
     },
     "207489": {
       "name": "RDKIT",
-      "type": "Unknown"
-    },
-    "213280": {
-      "name": "XP-Dienstleistungen",
       "type": "Unknown"
     },
     "267032": {
@@ -128421,8 +128433,8 @@
       "type": "Cable/DSL/ISP"
     },
     "212200": {
-      "name": "EUCLID INFRA",
-      "type": "NSP"
+      "name": "Euclid Infrastructure",
+      "type": "Enterprise"
     },
     "138637": {
       "name": "VOCPHONE",
@@ -138984,6 +138996,10 @@
       "name": "XGWQ",
       "type": "Non-Profit"
     },
+    "213409": {
+      "name": "Lynqia Network",
+      "type": "NSP"
+    },
     "147180": {
       "name": "LR International",
       "type": "Cable/DSL/ISP"
@@ -141184,8 +141200,12 @@
       "name": "Livesoft",
       "type": "Content"
     },
+    "201182": {
+      "name": "IT Uoga MB",
+      "type": "Content"
+    },
     "200477": {
-      "name": "EUCLID SERVICES LIMITED",
+      "name": "Euclid Services Limited",
       "type": "NSP"
     },
     "154454": {
@@ -141940,6 +141960,10 @@
       "name": "RAI1OSR-AS-AP",
       "type": "Unknown"
     },
+    "203683": {
+      "name": "AS-CFM",
+      "type": "Unknown"
+    },
     "218796": {
       "name": "GREYWIND-AS",
       "type": "Educational/Research"
@@ -141949,8 +141973,8 @@
       "type": "Content"
     },
     "218758": {
-      "name": "DCLU",
-      "type": "Network Services"
+      "name": "Azzurri Communications",
+      "type": "Cable/DSL/ISP"
     },
     "218771": {
       "name": "SNARKNET (EU)",
@@ -142008,6 +142032,10 @@
       "name": "Nera",
       "type": "NSP"
     },
+    "218767": {
+      "name": "SHIYUAN-NET",
+      "type": "NSP"
+    },
     "402011": {
       "name": "Braeden LLC",
       "type": "Enterprise"
@@ -142019,6 +142047,10 @@
     "154833": {
       "name": "PT WIRA HASTA JITU",
       "type": "Cable/DSL/ISP"
+    },
+    "403001": {
+      "name": "Mirage Global Technologies",
+      "type": "NSP"
     }
   }
 }
