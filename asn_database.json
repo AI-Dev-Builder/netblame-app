@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-01T03:13:55.467Z",
+  "updated_at": "2026-10-02T03:14:55.369Z",
   "source": "PeeringDB",
-  "entry_count": 35512,
+  "entry_count": 35525,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -47380,10 +47380,6 @@
       "name": "Project Informatica",
       "type": "Unknown"
     },
-    "206375": {
-      "name": "NETSPEED",
-      "type": "Cable/DSL/ISP"
-    },
     "11744": {
       "name": "Investecbank",
       "type": "Enterprise"
@@ -53710,6 +53706,10 @@
     },
     "212880": {
       "name": "Krypton IT",
+      "type": "Unknown"
+    },
+    "212924": {
+      "name": "qa-supreme",
       "type": "Unknown"
     },
     "666": {
@@ -60176,10 +60176,6 @@
       "name": "Xpedite Systems",
       "type": "Unknown"
     },
-    "138685": {
-      "name": "Mahidol Wittayanusorn School",
-      "type": "Educational/Research"
-    },
     "38137": {
       "name": "DE-CIX ASEAN Route Servers",
       "type": "Route Server"
@@ -60947,6 +60943,10 @@
     "44068": {
       "name": "Arbital",
       "type": "Cable/DSL/ISP"
+    },
+    "212200": {
+      "name": "Euclid Infrastructure",
+      "type": "Enterprise"
     },
     "262357": {
       "name": "Atento Brasil S.A",
@@ -76222,7 +76222,7 @@
     },
     "208453": {
       "name": "SweHosting",
-      "type": "Network Services"
+      "type": "NSP"
     },
     "13835": {
       "name": "Cirion - AR",
@@ -86120,6 +86120,10 @@
       "name": "Medrozo IT Solutions",
       "type": "Cable/DSL/ISP"
     },
+    "214941": {
+      "name": "UPCELL TELEKOMUNIKASYON LIMITED SIRKETI",
+      "type": "Cable/DSL/ISP"
+    },
     "214545": {
       "name": "Intercare NV",
       "type": "Unknown"
@@ -95264,10 +95268,6 @@
       "name": "WILOHOSTING",
       "type": "Content"
     },
-    "273976": {
-      "name": "FICOM PERU",
-      "type": "Cable/DSL/ISP"
-    },
     "329525": {
       "name": "Gonetwork Inc",
       "type": "Unknown"
@@ -101984,6 +101984,10 @@
       "name": "GoFIBER",
       "type": "Unknown"
     },
+    "200477": {
+      "name": "Euclid Services Limited",
+      "type": "NSP"
+    },
     "149512": {
       "name": "Inligo Networks Pty Ltd",
       "type": "Network Services"
@@ -107932,6 +107936,10 @@
       "name": "Natsom Bilisim Teknolojileri",
       "type": "Enterprise"
     },
+    "402011": {
+      "name": "Braeden LLC",
+      "type": "Enterprise"
+    },
     "402761": {
       "name": "NEUROGRID",
       "type": "Unknown"
@@ -108124,10 +108132,6 @@
       "name": "AMFORC-AS",
       "type": "Unknown"
     },
-    "271494": {
-      "name": "ASN271494",
-      "type": "Unknown"
-    },
     "215095": {
       "name": "Seganj LLC",
       "type": "Unknown"
@@ -108177,8 +108181,8 @@
       "type": "Cable/DSL/ISP"
     },
     "154730": {
-      "name": "IDNIC-RAMADHANIPRIMANET-AS-ID",
-      "type": "Unknown"
+      "name": "Ramadhani Prima Net",
+      "type": "Cable/DSL/ISP"
     },
     "26212": {
       "name": "DRF-IX Route Servers",
@@ -108227,6 +108231,50 @@
     "25616": {
       "name": "CANIX Anycast",
       "type": "Unknown"
+    },
+    "154843": {
+      "name": "BIC Consolidated",
+      "type": "Enterprise"
+    },
+    "219408": {
+      "name": "NetPlus-AS",
+      "type": "Unknown"
+    },
+    "7845": {
+      "name": "INTEGRATELECOM",
+      "type": "Unknown"
+    },
+    "218530": {
+      "name": "MASSIVEMAKER",
+      "type": "Unknown"
+    },
+    "152772": {
+      "name": "IDNIC-AWANPINTAR-AS-ID",
+      "type": "Enterprise"
+    },
+    "63125": {
+      "name": "Lightpath Detroit",
+      "type": "NSP"
+    },
+    "137055": {
+      "name": "IDNIC-BUANANET-AS-ID",
+      "type": "Unknown"
+    },
+    "218944": {
+      "name": "OTNETvTEL-AS",
+      "type": "Unknown"
+    },
+    "218842": {
+      "name": "SEIBERT-HOSTING-1",
+      "type": "Unknown"
+    },
+    "219018": {
+      "name": "gb-ducky",
+      "type": "Unknown"
+    },
+    "403016": {
+      "name": "MELO-THE-ROCKET",
+      "type": "Content"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -121780,6 +121828,10 @@
       "name": "Webline Broadband",
       "type": "Unknown"
     },
+    "269046": {
+      "name": "First Telecom Network",
+      "type": "Cable/DSL/ISP"
+    },
     "139317": {
       "name": "ZX Education And Research Network",
       "type": "Educational/Research"
@@ -122922,6 +122974,10 @@
     },
     "132335": {
       "name": "LeapSwitch Networks",
+      "type": "Cable/DSL/ISP"
+    },
+    "206375": {
+      "name": "NETSPEED",
       "type": "Cable/DSL/ISP"
     },
     "6250": {
@@ -127686,7 +127742,7 @@
     },
     "131711": {
       "name": "PT Global Teknologi Teraindo",
-      "type": "Network Services"
+      "type": "Content"
     },
     "212700": {
       "name": "Totalconn",
@@ -128088,6 +128144,10 @@
       "name": "Speedostar Telco",
       "type": "Cable/DSL/ISP"
     },
+    "138685": {
+      "name": "Mahidol Wittayanusorn School",
+      "type": "Educational/Research"
+    },
     "328839": {
       "name": "Silver Solutions 1234",
       "type": "Unknown"
@@ -128431,10 +128491,6 @@
     "328750": {
       "name": "ATC",
       "type": "Cable/DSL/ISP"
-    },
-    "212200": {
-      "name": "Euclid Infrastructure",
-      "type": "Enterprise"
     },
     "138637": {
       "name": "VOCPHONE",
@@ -137544,10 +137600,6 @@
       "name": "Vexura UG (Haftungsbeschraenkt)",
       "type": "NSP"
     },
-    "214941": {
-      "name": "UPCELL TELEKOMUNIKASYON LIMITED SIRKETI",
-      "type": "Cable/DSL/ISP"
-    },
     "152825": {
       "name": "Teradata",
       "type": "Cable/DSL/ISP"
@@ -139856,6 +139908,10 @@
       "name": "Dotnet",
       "type": "NSP"
     },
+    "273976": {
+      "name": "FICOM INTERNATIONAL",
+      "type": "Cable/DSL/ISP"
+    },
     "1054": {
       "name": "ZONT-LLC",
       "type": "Unknown"
@@ -141204,10 +141260,6 @@
       "name": "IT Uoga MB",
       "type": "Content"
     },
-    "200477": {
-      "name": "Euclid Services Limited",
-      "type": "NSP"
-    },
     "154454": {
       "name": "PT. Dikta Teknologi",
       "type": "Cable/DSL/ISP"
@@ -141957,8 +142009,8 @@
       "type": "NSP"
     },
     "154334": {
-      "name": "RAI1OSR-AS-AP",
-      "type": "Unknown"
+      "name": "RS All in One Online Store Rajshahi",
+      "type": "Enterprise"
     },
     "203683": {
       "name": "AS-CFM",
@@ -142034,11 +142086,7 @@
     },
     "218767": {
       "name": "SHIYUAN-NET",
-      "type": "NSP"
-    },
-    "402011": {
-      "name": "Braeden LLC",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "218593": {
       "name": "TEAMRIVERBUBBLES",
@@ -142051,6 +142099,10 @@
     "403001": {
       "name": "Mirage Global Technologies",
       "type": "NSP"
+    },
+    "271494": {
+      "name": "Soft Telecom",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
