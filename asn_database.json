@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-02T03:14:55.369Z",
+  "updated_at": "2026-10-03T03:00:45.826Z",
   "source": "PeeringDB",
-  "entry_count": 35525,
+  "entry_count": 35538,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -12865,7 +12865,7 @@
       "type": "Content"
     },
     "54527": {
-      "name": "Astute Hosting",
+      "name": "Astute Internet",
       "type": "Content"
     },
     "52498": {
@@ -57580,10 +57580,6 @@
       "name": "Keaton AG Lair Rächen Ein",
       "type": "Educational/Research"
     },
-    "57439": {
-      "name": "Red Lily Anycast",
-      "type": "Network Services"
-    },
     "207684": {
       "name": "BAJTNET",
       "type": "Cable/DSL/ISP"
@@ -61351,10 +61347,6 @@
     "399533": {
       "name": "Tatra Services Inc.",
       "type": "Content"
-    },
-    "271571": {
-      "name": "VIPP NET LTDA",
-      "type": "Cable/DSL/ISP"
     },
     "267614": {
       "name": "SIGAON SERVICOS TELECOMUNICACOES EIRELE",
@@ -65640,10 +65632,6 @@
       "name": "Netfusion",
       "type": "Unknown"
     },
-    "271700": {
-      "name": "STEC GUAIBA",
-      "type": "Cable/DSL/ISP"
-    },
     "270668": {
       "name": "@NET TELECOM",
       "type": "Cable/DSL/ISP"
@@ -66145,7 +66133,7 @@
       "type": "Route Server"
     },
     "37228": {
-      "name": "kt RWANDA NETWORK",
+      "name": "KT RWANDA NETWORK",
       "type": "Unknown"
     },
     "400251": {
@@ -77547,6 +77535,10 @@
     "4471": {
       "name": "123.Net",
       "type": "Unknown"
+    },
+    "62847": {
+      "name": "MINUTE-02",
+      "type": "Cable/DSL/ISP"
     },
     "262830": {
       "name": "Plug Provedor Internet",
@@ -93892,10 +93884,6 @@
       "name": "SQUARE NET",
       "type": "Unknown"
     },
-    "215883": {
-      "name": "FastLink SHPK",
-      "type": "Unknown"
-    },
     "272090": {
       "name": "ALDERETE RIVAS JORDAN TOMAS SEBASTIAN (COMUNICATE INTERNET)",
       "type": "Unknown"
@@ -100681,7 +100669,7 @@
       "type": "NSP"
     },
     "63865": {
-      "name": "PT Mataram Data Center",
+      "name": "PT MATARAM DATA CENTER",
       "type": "Cable/DSL/ISP"
     },
     "152876": {
@@ -101874,7 +101862,7 @@
     },
     "402028": {
       "name": "Zephyr Broadband, LLC",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "200677": {
       "name": "HACK-DV",
@@ -105454,7 +105442,7 @@
     },
     "216381": {
       "name": "AXIANS",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "38630": {
       "name": "Natsumegu Networks",
@@ -107094,7 +107082,7 @@
     },
     "219430": {
       "name": "PHOTON-AS",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "42415": {
       "name": "AL-JAZEERA",
@@ -108189,7 +108177,7 @@
       "type": "Route Server"
     },
     "17215": {
-      "name": "AMEREN-AS3",
+      "name": "AMEREN",
       "type": "Unknown"
     },
     "154495": {
@@ -108201,7 +108189,7 @@
       "type": "NSP"
     },
     "218538": {
-      "name": "ARGSMENT-AS",
+      "name": "Argsment Limited",
       "type": "Educational/Research"
     },
     "401598": {
@@ -108209,8 +108197,8 @@
       "type": "Unknown"
     },
     "402931": {
-      "name": "ADAPTGROUP",
-      "type": "Unknown"
+      "name": "AdaptGroup",
+      "type": "Content"
     },
     "198727": {
       "name": "STAKINGFACILITIES",
@@ -108226,7 +108214,7 @@
     },
     "218540": {
       "name": "IKTSOLUTIONS-AS",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "25616": {
       "name": "CANIX Anycast",
@@ -108238,7 +108226,7 @@
     },
     "219408": {
       "name": "NetPlus-AS",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "7845": {
       "name": "INTEGRATELECOM",
@@ -108246,7 +108234,7 @@
     },
     "218530": {
       "name": "MASSIVEMAKER",
-      "type": "Unknown"
+      "type": "Content"
     },
     "152772": {
       "name": "IDNIC-AWANPINTAR-AS-ID",
@@ -108269,12 +108257,68 @@
       "type": "Unknown"
     },
     "219018": {
-      "name": "gb-ducky",
+      "name": "Droidhub LTD",
       "type": "Unknown"
     },
     "403016": {
       "name": "MELO-THE-ROCKET",
       "type": "Content"
+    },
+    "154950": {
+      "name": "IRINN-CRIPL-AS-IN",
+      "type": "Unknown"
+    },
+    "218547": {
+      "name": "MODEP-AS",
+      "type": "Unknown"
+    },
+    "201472": {
+      "name": "STAMMT'IX Association",
+      "type": "Unknown"
+    },
+    "401976": {
+      "name": "NEXTHOP-AS",
+      "type": "Enterprise"
+    },
+    "154753": {
+      "name": "RAJASEKARANPRADEEP-AS-AP",
+      "type": "Unknown"
+    },
+    "218513": {
+      "name": "STPD Network",
+      "type": "Educational/Research"
+    },
+    "402861": {
+      "name": "SL-AS-1",
+      "type": "Enterprise"
+    },
+    "218558": {
+      "name": "GB-SCALEHOSTING-20260925",
+      "type": "Unknown"
+    },
+    "1974": {
+      "name": "MEHEALTH-SOUTH",
+      "type": "Unknown"
+    },
+    "218715": {
+      "name": "SERVPERSO",
+      "type": "Unknown"
+    },
+    "400929": {
+      "name": "WRI-ASN-A",
+      "type": "Unknown"
+    },
+    "197344": {
+      "name": "BAEBECA",
+      "type": "NSP"
+    },
+    "268937": {
+      "name": "ASN268937",
+      "type": "Unknown"
+    },
+    "56046": {
+      "name": "CMNET-Jiangsu-AP",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -129396,6 +129440,10 @@
       "name": "Xtnda",
       "type": "Cable/DSL/ISP"
     },
+    "146992": {
+      "name": "IRINN-SASCOM25-AS-IN",
+      "type": "NSP"
+    },
     "265249": {
       "name": "TCM TELECOM LTDA",
       "type": "Cable/DSL/ISP"
@@ -130486,6 +130534,10 @@
     },
     "265855": {
       "name": "LEGON TELECOMUNICACIONES",
+      "type": "Cable/DSL/ISP"
+    },
+    "271700": {
+      "name": "STG TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "272554": {
@@ -131627,10 +131679,6 @@
     "266599": {
       "name": "CR TECHNOLOGIE",
       "type": "Cable/DSL/ISP"
-    },
-    "262909": {
-      "name": "JK TELECOMUNICACOES",
-      "type": "Unknown"
     },
     "18155": {
       "name": "Bangladesh Internet Service Provider Internet Exchange Trust",
@@ -139566,6 +139614,10 @@
     },
     "203222": {
       "name": "Adam Jarosz trading as Zaklad Elektroniczny P.A. Jarosz s.c.",
+      "type": "Cable/DSL/ISP"
+    },
+    "215883": {
+      "name": "FastLink SHPK",
       "type": "Cable/DSL/ISP"
     },
     "207792": {
