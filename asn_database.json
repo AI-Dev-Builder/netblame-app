@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-03T03:00:45.826Z",
+  "updated_at": "2026-10-04T03:29:47.204Z",
   "source": "PeeringDB",
-  "entry_count": 35538,
+  "entry_count": 35537,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -22429,7 +22429,7 @@
       "type": "Content"
     },
     "200750": {
-      "name": "Klinika Komputera Artur Wolski",
+      "name": "Klikom.net",
       "type": "Cable/DSL/ISP"
     },
     "23693": {
@@ -34900,10 +34900,6 @@
       "name": "MK-FCSE",
       "type": "Educational/Research"
     },
-    "44332": {
-      "name": "CentriLogic UK",
-      "type": "Content"
-    },
     "17465": {
       "name": "Asianet Satellite Communications Ltd",
       "type": "Cable/DSL/ISP"
@@ -40051,10 +40047,6 @@
     "197235": {
       "name": "Avantel Samara",
       "type": "Cable/DSL/ISP"
-    },
-    "44816": {
-      "name": "DELFINTELECOM Network",
-      "type": "Unknown"
     },
     "41082": {
       "name": "Uraltranskom",
@@ -60419,10 +60411,6 @@
     "141228": {
       "name": "MNZL - AS141228",
       "type": "Unknown"
-    },
-    "18054": {
-      "name": "H POP Technology Limited",
-      "type": "NSP"
     },
     "47705": {
       "name": "Masliy Kostyantin Mikhailovich",
@@ -91368,10 +91356,6 @@
       "name": "BRASIL ANTENAS",
       "type": "Cable/DSL/ISP"
     },
-    "213436": {
-      "name": "NIUZI DADA CLOUD",
-      "type": "Unknown"
-    },
     "150623": {
       "name": "HOSTDZIRE WEB SERVICES PRIVATE LIMITED",
       "type": "Enterprise"
@@ -106994,7 +106978,7 @@
     },
     "218839": {
       "name": "ZONEKTELECOM-AS",
-      "type": "Unknown"
+      "type": "Content"
     },
     "154171": {
       "name": "CARPET-AS-AP",
@@ -107270,7 +107254,7 @@
     },
     "218776": {
       "name": "FULLFIBER",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "210231": {
       "name": "SYSDEX",
@@ -107966,7 +107950,7 @@
     },
     "134084": {
       "name": "TOSLINK-AS-AP",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "36901": {
       "name": "Datanet Superblock1",
@@ -108250,7 +108234,7 @@
     },
     "218944": {
       "name": "OTNETvTEL-AS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218842": {
       "name": "SEIBERT-HOSTING-1",
@@ -108265,8 +108249,8 @@
       "type": "Content"
     },
     "154950": {
-      "name": "IRINN-CRIPL-AS-IN",
-      "type": "Unknown"
+      "name": "Crapplet Cloud",
+      "type": "Content"
     },
     "218547": {
       "name": "MODEP-AS",
@@ -108318,6 +108302,22 @@
     },
     "56046": {
       "name": "CMNET-Jiangsu-AP",
+      "type": "Unknown"
+    },
+    "154893": {
+      "name": "ANPLIND",
+      "type": "Unknown"
+    },
+    "136365": {
+      "name": "SSBMAHAD-AS",
+      "type": "Unknown"
+    },
+    "275673": {
+      "name": "ASN275673",
+      "type": "Unknown"
+    },
+    "10563": {
+      "name": "Rochelle Municipal Utilities",
       "type": "Unknown"
     },
     "22822": {
@@ -123632,10 +123632,6 @@
       "name": "MARIA ONEIDE DA SILVA - ME",
       "type": "NSP"
     },
-    "208242": {
-      "name": "Cupboard under the stairs",
-      "type": "Educational/Research"
-    },
     "134331": {
       "name": "Smartlink Solutions India",
       "type": "Unknown"
@@ -134433,7 +134429,7 @@
       "type": "Cable/DSL/ISP"
     },
     "142332": {
-      "name": "PT Telekomunikasi Internet Indonesia",
+      "name": "Telnet Indonesia",
       "type": "Cable/DSL/ISP"
     },
     "135386": {
@@ -141542,7 +141538,7 @@
     },
     "399272": {
       "name": "BARNHOLDT-NA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "274041": {
       "name": "INTERCABLE",
