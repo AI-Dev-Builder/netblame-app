@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-04T03:29:47.204Z",
+  "updated_at": "2026-10-05T03:09:02.619Z",
   "source": "PeeringDB",
-  "entry_count": 35537,
+  "entry_count": 35540,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1735,10 +1735,6 @@
     "8195": {
       "name": "Interoute Managed Services Sweden AB",
       "type": "Content"
-    },
-    "2516": {
-      "name": "KDDI",
-      "type": "NSP"
     },
     "30880": {
       "name": "SpaceDump IT AB",
@@ -85109,7 +85105,7 @@
       "type": "Unknown"
     },
     "214757": {
-      "name": "AS214757 - Jakub Krsa",
+      "name": "214757 - Jakub Krsa",
       "type": "Educational/Research"
     },
     "152806": {
@@ -95599,10 +95595,6 @@
     "58141": {
       "name": "IPONE",
       "type": "Network Services"
-    },
-    "268885": {
-      "name": "Adylnet Telecom - AS268885",
-      "type": "Cable/DSL/ISP"
     },
     "272563": {
       "name": "Z & D INFORMATICA LTDA",
@@ -107950,7 +107942,7 @@
     },
     "134084": {
       "name": "TOSLINK-AS-AP",
-      "type": "Enterprise"
+      "type": "Network Services"
     },
     "36901": {
       "name": "Datanet Superblock1",
@@ -108318,6 +108310,26 @@
     },
     "10563": {
       "name": "Rochelle Municipal Utilities",
+      "type": "Unknown"
+    },
+    "218684": {
+      "name": "QA-HMC",
+      "type": "Unknown"
+    },
+    "142022": {
+      "name": "CWF-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "208949": {
+      "name": "hbing-as",
+      "type": "Unknown"
+    },
+    "218546": {
+      "name": "VGS",
+      "type": "Cable/DSL/ISP"
+    },
+    "218626": {
+      "name": "wi5ir",
       "type": "Unknown"
     },
     "22822": {
@@ -124669,7 +124681,7 @@
       "type": "Enterprise"
     },
     "398328": {
-      "name": "Localhost LLC",
+      "name": "Cautela LLC",
       "type": "NSP"
     },
     "270630": {
