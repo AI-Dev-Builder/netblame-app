@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-05T03:09:02.619Z",
+  "updated_at": "2026-10-06T03:58:00.892Z",
   "source": "PeeringDB",
-  "entry_count": 35540,
+  "entry_count": 35551,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1735,6 +1735,10 @@
     "8195": {
       "name": "Interoute Managed Services Sweden AB",
       "type": "Content"
+    },
+    "2516": {
+      "name": "KDDI",
+      "type": "NSP"
     },
     "30880": {
       "name": "SpaceDump IT AB",
@@ -6613,8 +6617,8 @@
       "type": "Cable/DSL/ISP"
     },
     "5111": {
-      "name": "it.canada",
-      "type": "Content"
+      "name": "ALCL-AS-AP",
+      "type": "Cable/DSL/ISP"
     },
     "24482": {
       "name": "SG.GS",
@@ -53698,7 +53702,7 @@
     },
     "212924": {
       "name": "qa-supreme",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "666": {
       "name": "Headquarters, USAISC (AS666)",
@@ -76017,7 +76021,7 @@
       "type": "Cable/DSL/ISP"
     },
     "17024": {
-      "name": "BlueFur Main Ops",
+      "name": "BlueFur",
       "type": "Cable/DSL/ISP"
     },
     "54431": {
@@ -79715,10 +79719,6 @@
     "151491": {
       "name": "Innovative Quality Internet Company Limited",
       "type": "Unknown"
-    },
-    "267123": {
-      "name": "MEGANET TELECON LTDA",
-      "type": "Cable/DSL/ISP"
     },
     "329332": {
       "name": "FREEDOTEL",
@@ -98874,7 +98874,7 @@
     },
     "401927": {
       "name": "NANA NET, LLC",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "265384": {
       "name": "Online Provedor de Internet",
@@ -105229,7 +105229,7 @@
       "type": "Unknown"
     },
     "219265": {
-      "name": "Tjerk Jan Vonk",
+      "name": "fropnet",
       "type": "Educational/Research"
     },
     "327728": {
@@ -105367,10 +105367,6 @@
     "274976": {
       "name": "WABEX",
       "type": "Unknown"
-    },
-    "402665": {
-      "name": "SLA NETWORK",
-      "type": "Enterprise"
     },
     "219229": {
       "name": "ImpCom",
@@ -107408,10 +107404,6 @@
       "name": "GeodemaGroup",
       "type": "Unknown"
     },
-    "275687": {
-      "name": "ASN275687",
-      "type": "Unknown"
-    },
     "154346": {
       "name": "OceanBlue Cloud Technology Limited",
       "type": "NSP"
@@ -108154,7 +108146,7 @@
     },
     "17215": {
       "name": "AMEREN",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "154495": {
       "name": "IDNIC-STERLINKNET-AS-ID",
@@ -108290,7 +108282,7 @@
     },
     "268937": {
       "name": "ASN268937",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "56046": {
       "name": "CMNET-Jiangsu-AP",
@@ -108330,6 +108322,46 @@
     },
     "218626": {
       "name": "wi5ir",
+      "type": "Content"
+    },
+    "218511": {
+      "name": "Clue-IX Route Server",
+      "type": "Route Server"
+    },
+    "267657": {
+      "name": "ASN267657",
+      "type": "Unknown"
+    },
+    "218506": {
+      "name": "SIEKMAN-AS",
+      "type": "Network Services"
+    },
+    "211514": {
+      "name": "RAVENSCORP",
+      "type": "Educational/Research"
+    },
+    "218500": {
+      "name": "Krottisrv-Wartenstein",
+      "type": "Educational/Research"
+    },
+    "273178": {
+      "name": "273178",
+      "type": "Unknown"
+    },
+    "218522": {
+      "name": "Anna-AS",
+      "type": "Cable/DSL/ISP"
+    },
+    "218505": {
+      "name": "MH-AS",
+      "type": "Unknown"
+    },
+    "270176": {
+      "name": "wifimax connection",
+      "type": "Cable/DSL/ISP"
+    },
+    "402592": {
+      "name": "ABCFS-US",
       "type": "Unknown"
     },
     "22822": {
@@ -117117,7 +117149,7 @@
       "type": "Cable/DSL/ISP"
     },
     "9654": {
-      "name": "MMIX Yangon Route Servers",
+      "name": "MMIX Route Servers",
       "type": "Route Server"
     },
     "262253": {
@@ -135660,6 +135692,10 @@
       "name": "Experience Infinity",
       "type": "Network Services"
     },
+    "267123": {
+      "name": "MEGANET TELECON LTDA",
+      "type": "Cable/DSL/ISP"
+    },
     "216190": {
       "name": "OCASDEV",
       "type": "Network Services"
@@ -139978,7 +140014,7 @@
     },
     "329527": {
       "name": "BVS Telecom",
-      "type": "Route Server"
+      "type": "NSP"
     },
     "214282": {
       "name": "AirLan",
@@ -141780,6 +141816,10 @@
       "name": "KumarNet",
       "type": "Cable/DSL/ISP"
     },
+    "402665": {
+      "name": "SLA NETWORK",
+      "type": "Cable/DSL/ISP"
+    },
     "219254": {
       "name": "VanIsle-Networks",
       "type": "NSP"
@@ -142103,6 +142143,10 @@
     "137060": {
       "name": "Viva Leisure",
       "type": "Content"
+    },
+    "275687": {
+      "name": "Verus Telecom",
+      "type": "Cable/DSL/ISP"
     },
     "209354": {
       "name": "MA Global",
