@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-06T03:58:00.892Z",
+  "updated_at": "2026-10-07T03:25:33.317Z",
   "source": "PeeringDB",
-  "entry_count": 35551,
+  "entry_count": 35554,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -6617,7 +6617,7 @@
       "type": "Cable/DSL/ISP"
     },
     "5111": {
-      "name": "ALCL-AS-AP",
+      "name": "Aibo Link",
       "type": "Cable/DSL/ISP"
     },
     "24482": {
@@ -19237,7 +19237,7 @@
       "type": "Cable/DSL/ISP"
     },
     "8008": {
-      "name": "Great Plains Communications LLC AS8008",
+      "name": "Rightfiber AS8008",
       "type": "Cable/DSL/ISP"
     },
     "262565": {
@@ -19477,7 +19477,7 @@
       "type": "NSP"
     },
     "13807": {
-      "name": "Great Plains Communications LLC AS13807",
+      "name": "Rightfiber AS13807",
       "type": "Cable/DSL/ISP"
     },
     "33561": {
@@ -24122,7 +24122,7 @@
     },
     "51060": {
       "name": "LandTech",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "199842": {
       "name": "PANCOM Panek Przemyslaw",
@@ -61588,6 +61588,10 @@
       "name": "Siptel Chile",
       "type": "Enterprise"
     },
+    "136402": {
+      "name": "Nautile NTL",
+      "type": "Enterprise"
+    },
     "51961": {
       "name": "Sargasso DE",
       "type": "Unknown"
@@ -62978,7 +62982,7 @@
     },
     "399992": {
       "name": "KJTDNET",
-      "type": "Unknown"
+      "type": "Content"
     },
     "147071": {
       "name": "BOCHENG ZOU",
@@ -83581,7 +83585,7 @@
       "type": "Cable/DSL/ISP"
     },
     "211569": {
-      "name": "Energiedienst Holding AG",
+      "name": "naturenergie holding AG",
       "type": "Enterprise"
     },
     "215134": {
@@ -90435,6 +90439,10 @@
     "58051": {
       "name": "Alpha Internet",
       "type": "Unknown"
+    },
+    "213641": {
+      "name": "AS213641 Network",
+      "type": "NSP"
     },
     "131611": {
       "name": "San Da Cable TV",
@@ -97426,10 +97434,6 @@
     },
     "150469": {
       "name": "PT Melesat Prima Nusantara",
-      "type": "Unknown"
-    },
-    "205507": {
-      "name": "NURI KOINOT",
       "type": "Unknown"
     },
     "273145": {
@@ -105736,6 +105740,10 @@
       "name": "JUSTICA FEDERAL NO RIO GRANDE DO NORTE",
       "type": "Unknown"
     },
+    "219484": {
+      "name": "TAKO",
+      "type": "Enterprise"
+    },
     "25330": {
       "name": "FBRX-UA",
       "type": "NSP"
@@ -108049,8 +108057,8 @@
       "type": "Unknown"
     },
     "329428": {
-      "name": "ORG-AdTd1-AFRINIC",
-      "type": "Unknown"
+      "name": "AGETIC",
+      "type": "Government"
     },
     "26383": {
       "name": "ASNET",
@@ -108181,7 +108189,7 @@
       "type": "Enterprise"
     },
     "218540": {
-      "name": "IKTSOLUTIONS-AS",
+      "name": "IKTSOLUTIONS",
       "type": "Enterprise"
     },
     "25616": {
@@ -108250,7 +108258,7 @@
     },
     "154753": {
       "name": "RAJASEKARANPRADEEP-AS-AP",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "218513": {
       "name": "STPD Network",
@@ -108302,10 +108310,6 @@
     },
     "10563": {
       "name": "Rochelle Municipal Utilities",
-      "type": "Unknown"
-    },
-    "218684": {
-      "name": "QA-HMC",
       "type": "Unknown"
     },
     "142022": {
@@ -108362,6 +108366,18 @@
     },
     "402592": {
       "name": "ABCFS-US",
+      "type": "Unknown"
+    },
+    "214854": {
+      "name": "VULUT",
+      "type": "Unknown"
+    },
+    "399670": {
+      "name": "COMPUTE",
+      "type": "Unknown"
+    },
+    "213514": {
+      "name": "EUROVDC-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -128884,10 +128900,6 @@
       "name": "TISPA - Tanzania Internet Service Providers Association",
       "type": "Content"
     },
-    "136402": {
-      "name": "Nautile NTL",
-      "type": "Enterprise"
-    },
     "270506": {
       "name": "G5 Rede de Telecomunicacoes Multimidia",
       "type": "Cable/DSL/ISP"
@@ -138888,10 +138900,6 @@
       "name": "VNTT",
       "type": "Cable/DSL/ISP"
     },
-    "213641": {
-      "name": "AS213641 Network",
-      "type": "NSP"
-    },
     "135474": {
       "name": "PT. Hafiz Jaya Infotama",
       "type": "Cable/DSL/ISP"
@@ -140460,6 +140468,10 @@
       "name": "MAX TECHNOLOGY & SUPPORT SERVICES PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
     },
+    "205507": {
+      "name": "NURI KOINOT",
+      "type": "Unknown"
+    },
     "134303": {
       "name": "ZeaCloud-AS134303",
       "type": "Content"
@@ -141892,10 +141904,6 @@
       "name": "ANDRII-NET",
       "type": "Enterprise"
     },
-    "219484": {
-      "name": "TAKO",
-      "type": "Enterprise"
-    },
     "401880": {
       "name": "KESHIA-SERVICES-FINANCIAL-SYSTEMS",
       "type": "Network Services"
@@ -142207,6 +142215,10 @@
     "271494": {
       "name": "Soft Telecom",
       "type": "Cable/DSL/ISP"
+    },
+    "218684": {
+      "name": "QA-HMC",
+      "type": "Unknown"
     }
   }
 }
