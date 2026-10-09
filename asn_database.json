@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-08T03:40:31.897Z",
+  "updated_at": "2026-10-09T03:45:47.683Z",
   "source": "PeeringDB",
-  "entry_count": 35561,
+  "entry_count": 35572,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -27652,10 +27652,6 @@
       "name": "Dow Jones & Company, Inc (London)",
       "type": "Unknown"
     },
-    "393420": {
-      "name": "EZVERIFY & VALIDATE",
-      "type": "Enterprise"
-    },
     "61639": {
       "name": "BCNET INFORMÁTICA",
       "type": "Unknown"
@@ -53278,7 +53274,7 @@
     },
     "140442": {
       "name": "Nusantara Teknologi Semesta",
-      "type": "Cable/DSL/ISP"
+      "type": "Content"
     },
     "10381": {
       "name": "Southwest Cyberport",
@@ -55711,10 +55707,6 @@
     "22510": {
       "name": "BRAINTREEPAYMENTSOLUTIONS",
       "type": "Unknown"
-    },
-    "213274": {
-      "name": "VERINOMI",
-      "type": "Content"
     },
     "59874": {
       "name": "VINTED",
@@ -63356,10 +63348,6 @@
       "name": "ESTABLECIMIENTO CASCADA BLANCA",
       "type": "Cable/DSL/ISP"
     },
-    "142271": {
-      "name": "EWS DS Networks Inc",
-      "type": "Cable/DSL/ISP"
-    },
     "328825": {
       "name": "Access Internet",
       "type": "Unknown"
@@ -70846,7 +70834,7 @@
     },
     "207598": {
       "name": "iraqcell",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "136878": {
       "name": "ISN",
@@ -76416,10 +76404,6 @@
       "name": "RACENET",
       "type": "Unknown"
     },
-    "28387": {
-      "name": "Blacom",
-      "type": "Cable/DSL/ISP"
-    },
     "271923": {
       "name": "MARIN ROJAS DARWIN MANFREDO (ZOENET)",
       "type": "Unknown"
@@ -76963,6 +76947,10 @@
     "5656": {
       "name": "ACCESSUS-DOM",
       "type": "Unknown"
+    },
+    "9420": {
+      "name": "Maharlika IX Route Servers",
+      "type": "Route Server"
     },
     "273608": {
       "name": "Woohoo",
@@ -84832,6 +84820,10 @@
       "name": "SAMISTRARO BAMBERG DANGELO DANIEL",
       "type": "Unknown"
     },
+    "206260": {
+      "name": "SVORKA Bredbånd",
+      "type": "Cable/DSL/ISP"
+    },
     "40701": {
       "name": "GND-DATACENTER",
       "type": "Network Services"
@@ -84939,10 +84931,6 @@
     "214803": {
       "name": "Brnchost Bilisim Teknolojileri",
       "type": "Content"
-    },
-    "401110": {
-      "name": "sovy.cloud",
-      "type": "NSP"
     },
     "329434": {
       "name": "Datacom.mw",
@@ -86087,10 +86075,6 @@
     "272219": {
       "name": "GRUPO CARDOSO DE COMUNICACAO",
       "type": "NSP"
-    },
-    "136433": {
-      "name": "Medrozo IT Solutions",
-      "type": "Cable/DSL/ISP"
     },
     "214941": {
       "name": "UPCELL TELEKOMUNIKASYON LIMITED SIRKETI",
@@ -94018,10 +94002,6 @@
     },
     "31454": {
       "name": "FLANCO",
-      "type": "Unknown"
-    },
-    "401745": {
-      "name": "Openpaya",
       "type": "Unknown"
     },
     "49993": {
@@ -104729,7 +104709,7 @@
       "type": "Unknown"
     },
     "219494": {
-      "name": "Hackworth",
+      "name": "HACKWORTH_UK_2",
       "type": "Enterprise"
     },
     "48218": {
@@ -107730,7 +107710,7 @@
     },
     "218681": {
       "name": "GKIM-AS",
-      "type": "Content"
+      "type": "NSP"
     },
     "152523": {
       "name": "Blazing Bullet",
@@ -107886,7 +107866,7 @@
     },
     "399874": {
       "name": "ASCENDCOM",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "275053": {
       "name": "275053",
@@ -108102,7 +108082,7 @@
     },
     "218545": {
       "name": "eaglecloud !",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "274593": {
       "name": "ASN274593",
@@ -108195,10 +108175,6 @@
     "63125": {
       "name": "Lightpath Detroit",
       "type": "NSP"
-    },
-    "137055": {
-      "name": "IDNIC-BUANANET-AS-ID",
-      "type": "Unknown"
     },
     "218944": {
       "name": "OTNETvTEL-AS",
@@ -108374,7 +108350,7 @@
     },
     "199417": {
       "name": "FL8-TO",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "272272": {
       "name": "GILBERTO DE AGUIAR",
@@ -108382,7 +108358,7 @@
     },
     "274350": {
       "name": "RENOVE SOLUCOES DE TELECOMUNICACOES LTDA",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "200493": {
       "name": "WHITEQUARK-AS",
@@ -108406,11 +108382,59 @@
     },
     "218469": {
       "name": "MartinMinkus-AS",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "24573": {
       "name": "PROENKS-TH-AS",
       "type": "Unknown"
+    },
+    "218623": {
+      "name": "Lee Wanwoo",
+      "type": "Unknown"
+    },
+    "136614": {
+      "name": "Prime Parami Technology and Telecom Co.,Ltd.",
+      "type": "Unknown"
+    },
+    "401643": {
+      "name": "Dragonfly Internet",
+      "type": "Cable/DSL/ISP"
+    },
+    "274672": {
+      "name": "INOVANOC",
+      "type": "NSP"
+    },
+    "36064": {
+      "name": "VMT-01",
+      "type": "Unknown"
+    },
+    "219310": {
+      "name": "R09TELECOM",
+      "type": "Unknown"
+    },
+    "403034": {
+      "name": "LAYER9I",
+      "type": "Unknown"
+    },
+    "403065": {
+      "name": "PARKERCS",
+      "type": "Unknown"
+    },
+    "403070": {
+      "name": "RRAINN-NET-01",
+      "type": "Unknown"
+    },
+    "269528": {
+      "name": "ASN269528",
+      "type": "Unknown"
+    },
+    "275626": {
+      "name": "ASN275626",
+      "type": "Unknown"
+    },
+    "154993": {
+      "name": "STRATA-AS-AP",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -110681,8 +110705,8 @@
       "type": "Cable/DSL/ISP"
     },
     "41268": {
-      "name": "LanTa",
-      "type": "Cable/DSL/ISP"
+      "name": "Sesameware",
+      "type": "Enterprise"
     },
     "28178": {
       "name": "NWI Telecom",
@@ -126432,6 +126456,10 @@
       "name": "Rasi Bintang Perkasa",
       "type": "Cable/DSL/ISP"
     },
+    "213274": {
+      "name": "VERINOMI",
+      "type": "Content"
+    },
     "42868": {
       "name": "Niobe Bilisim Teknolojileri",
       "type": "Content"
@@ -129671,6 +129699,10 @@
     "140933": {
       "name": "Geek Inside Networks",
       "type": "Unknown"
+    },
+    "142271": {
+      "name": "EWS DS Networks Inc",
+      "type": "Cable/DSL/ISP"
     },
     "262550": {
       "name": "LUCAS NETWORK INFORMATICA",
@@ -134392,6 +134424,10 @@
       "name": "Bojin Li",
       "type": "Educational/Research"
     },
+    "150786": {
+      "name": "MCI Content",
+      "type": "Content"
+    },
     "266282": {
       "name": "V-LINK FIBRA - PROVEDOR DE INTERNET",
       "type": "Cable/DSL/ISP"
@@ -134419,6 +134455,10 @@
     "151202": {
       "name": "Suzhou Honoka Technology Co Ltd",
       "type": "Educational/Research"
+    },
+    "28387": {
+      "name": "Blacom",
+      "type": "Cable/DSL/ISP"
     },
     "30399": {
       "name": "Host-Engine.com",
@@ -134583,10 +134623,6 @@
     "270296": {
       "name": "HQV INFORMATICA",
       "type": "Unknown"
-    },
-    "9420": {
-      "name": "Maharlika IX Route Servers",
-      "type": "Route Server"
     },
     "398079": {
       "name": "Eminent",
@@ -137380,10 +137416,6 @@
       "name": "Pusaka Kreasi Mandiri",
       "type": "Cable/DSL/ISP"
     },
-    "206260": {
-      "name": "SVORKA Bredbånd",
-      "type": "Cable/DSL/ISP"
-    },
     "214818": {
       "name": "WILL-WILSON",
       "type": "Educational/Research"
@@ -137727,6 +137759,10 @@
     "214556": {
       "name": "Vexura UG (Haftungsbeschraenkt)",
       "type": "NSP"
+    },
+    "136433": {
+      "name": "Medrozo IT Solutions",
+      "type": "Cable/DSL/ISP"
     },
     "152825": {
       "name": "Teradata",
@@ -141762,7 +141798,7 @@
     },
     "219332": {
       "name": "Pmman Network",
-      "type": "Educational/Research"
+      "type": "Enterprise"
     },
     "136403": {
       "name": "PENOLNET",
@@ -142240,6 +142276,10 @@
       "name": "Soft Telecom",
       "type": "Cable/DSL/ISP"
     },
+    "137055": {
+      "name": "IDNIC-BUANANET-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
     "218684": {
       "name": "QA-HMC",
       "type": "Unknown"
@@ -142247,6 +142287,10 @@
     "403010": {
       "name": "NOPING",
       "type": "Unknown"
+    },
+    "215910": {
+      "name": "EDMA-NET",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
