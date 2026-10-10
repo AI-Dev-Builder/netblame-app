@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-09T03:45:47.683Z",
+  "updated_at": "2026-10-10T03:28:41.997Z",
   "source": "PeeringDB",
-  "entry_count": 35572,
+  "entry_count": 35590,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -11841,7 +11841,7 @@
       "type": "Cable/DSL/ISP"
     },
     "44431": {
-      "name": "OmniAccess S.L.",
+      "name": "Marlink - OmniAccess",
       "type": "Cable/DSL/ISP"
     },
     "199706": {
@@ -51228,6 +51228,10 @@
       "name": "Equinix Corpnet - SAMER",
       "type": "Enterprise"
     },
+    "213316": {
+      "name": "DLINEMEDIA-AS",
+      "type": "NSP"
+    },
     "270622": {
       "name": "AGINET DATACENTER INFORMATICA LTDA",
       "type": "Unknown"
@@ -51852,10 +51856,6 @@
       "name": "Swiss Life",
       "type": "Unknown"
     },
-    "7741": {
-      "name": "CIBC World Markets",
-      "type": "Enterprise"
-    },
     "53123": {
       "name": "Power Telecomunicações",
       "type": "Cable/DSL/ISP"
@@ -51866,10 +51866,6 @@
     },
     "207139": {
       "name": "New Work SE (Office)",
-      "type": "Enterprise"
-    },
-    "14121": {
-      "name": "CIBC World Markets AS14121",
       "type": "Enterprise"
     },
     "269561": {
@@ -59379,6 +59375,10 @@
     "208544": {
       "name": "Pautina05",
       "type": "Cable/DSL/ISP"
+    },
+    "141884": {
+      "name": "Immerse Networks Limited",
+      "type": "Network Services"
     },
     "398270": {
       "name": "HCWIRELESS",
@@ -85860,10 +85860,6 @@
       "name": "Toa Online",
       "type": "Unknown"
     },
-    "215439": {
-      "name": "PLAY2GO",
-      "type": "Enterprise"
-    },
     "272040": {
       "name": "SERVICIOS NUÑEZ EIRL",
       "type": "Unknown"
@@ -86772,10 +86768,6 @@
       "name": "SEU LUGAR TELECOM",
       "type": "Unknown"
     },
-    "57852": {
-      "name": "CLOUD S P SARL",
-      "type": "Cable/DSL/ISP"
-    },
     "61136": {
       "name": "Cloudéo",
       "type": "Enterprise"
@@ -87369,7 +87361,7 @@
       "type": "Enterprise"
     },
     "24039": {
-      "name": "ITC Global (Australia)",
+      "name": "Marlink - ITC Global (Australia)",
       "type": "NSP"
     },
     "215158": {
@@ -89505,7 +89497,7 @@
       "type": "Unknown"
     },
     "46063": {
-      "name": "Graha Telekomunikasi Indonesia",
+      "name": "GTNET-ID",
       "type": "Cable/DSL/ISP"
     },
     "35352": {
@@ -106286,10 +106278,10 @@
     },
     "218981": {
       "name": "Astral-Clocktower-LLC",
-      "type": "Unknown"
+      "type": "Content"
     },
     "329785": {
-      "name": "ORG-BCL6-AFRINIC",
+      "name": "Boland Connect",
       "type": "Unknown"
     },
     "269604": {
@@ -107056,10 +107048,6 @@
       "name": "NETWORKIP",
       "type": "Unknown"
     },
-    "218789": {
-      "name": "Soundvia-ASN",
-      "type": "Content"
-    },
     "398025": {
       "name": "CUMBERLAND-CONNECT",
       "type": "Unknown"
@@ -107323,10 +107311,6 @@
     "218718": {
       "name": "SEPROGO",
       "type": "Network Services"
-    },
-    "218733": {
-      "name": "HYW-HK",
-      "type": "Unknown"
     },
     "401978": {
       "name": "INTREPID-NETWORK-GROUP",
@@ -108382,7 +108366,7 @@
     },
     "218469": {
       "name": "MartinMinkus-AS",
-      "type": "Educational/Research"
+      "type": "Enterprise"
     },
     "24573": {
       "name": "PROENKS-TH-AS",
@@ -108424,17 +108408,73 @@
       "name": "RRAINN-NET-01",
       "type": "Unknown"
     },
-    "269528": {
-      "name": "ASN269528",
-      "type": "Unknown"
-    },
-    "275626": {
-      "name": "ASN275626",
-      "type": "Unknown"
-    },
     "154993": {
       "name": "STRATA-AS-AP",
       "type": "Cable/DSL/ISP"
+    },
+    "152060": {
+      "name": "IDNIC-SBLNET-AS-ID",
+      "type": "Unknown"
+    },
+    "152543": {
+      "name": "NET6584-AS-IN",
+      "type": "Unknown"
+    },
+    "212344": {
+      "name": "AS_FORLAN",
+      "type": "Unknown"
+    },
+    "50284": {
+      "name": "DLINE-AS",
+      "type": "Unknown"
+    },
+    "218751": {
+      "name": "Fontaine",
+      "type": "Unknown"
+    },
+    "154969": {
+      "name": "IRINN-BNPL-INN-AS-IN",
+      "type": "Unknown"
+    },
+    "218447": {
+      "name": "Itay Kariel",
+      "type": "Unknown"
+    },
+    "218448": {
+      "name": "VOZORA",
+      "type": "Content"
+    },
+    "401206": {
+      "name": "POGODAN",
+      "type": "Unknown"
+    },
+    "218798": {
+      "name": "Reboot Labs",
+      "type": "Cable/DSL/ISP"
+    },
+    "218464": {
+      "name": "VERKUT",
+      "type": "Content"
+    },
+    "218504": {
+      "name": "NORDGARD-TELECOM",
+      "type": "Unknown"
+    },
+    "6171": {
+      "name": "INCENTRE",
+      "type": "Cable/DSL/ISP"
+    },
+    "403081": {
+      "name": "CHAR",
+      "type": "Unknown"
+    },
+    "204224": {
+      "name": "HEIMNETT-AS",
+      "type": "Unknown"
+    },
+    "218444": {
+      "name": "Muhammet Eren Karaman",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -125020,6 +125060,10 @@
       "name": "FIBRA ONDA MAIS",
       "type": "Cable/DSL/ISP"
     },
+    "7741": {
+      "name": "CIBC World Markets",
+      "type": "Enterprise"
+    },
     "269592": {
       "name": "Adoro Monitoramento",
       "type": "Cable/DSL/ISP"
@@ -125035,6 +125079,10 @@
     "38771": {
       "name": "Cyberplus Media Pratama",
       "type": "Cable/DSL/ISP"
+    },
+    "14121": {
+      "name": "CIBC World Markets AS14121",
+      "type": "Enterprise"
     },
     "270672": {
       "name": "EVO TECNOLOGIA",
@@ -137932,6 +137980,10 @@
       "name": "KRAMBU",
       "type": "Cable/DSL/ISP"
     },
+    "57852": {
+      "name": "CLOUD S P SARL",
+      "type": "Cable/DSL/ISP"
+    },
     "202663": {
       "name": "VOGANET",
       "type": "Cable/DSL/ISP"
@@ -142184,6 +142236,10 @@
       "name": "AS-CFM",
       "type": "Unknown"
     },
+    "218789": {
+      "name": "Soundvia-ASN",
+      "type": "Content"
+    },
     "218796": {
       "name": "GREYWIND-AS",
       "type": "Educational/Research"
@@ -142211,6 +142267,10 @@
     "137060": {
       "name": "Viva Leisure",
       "type": "Content"
+    },
+    "218733": {
+      "name": "HYW-HK",
+      "type": "Educational/Research"
     },
     "275687": {
       "name": "Verus Telecom",
@@ -142277,7 +142337,7 @@
       "type": "Cable/DSL/ISP"
     },
     "137055": {
-      "name": "IDNIC-BUANANET-AS-ID",
+      "name": "PT Berkah Buana Solusindo",
       "type": "Cable/DSL/ISP"
     },
     "218684": {
@@ -142291,6 +142351,18 @@
     "215910": {
       "name": "EDMA-NET",
       "type": "Cable/DSL/ISP"
+    },
+    "269528": {
+      "name": "ASN269528",
+      "type": "NSP"
+    },
+    "275626": {
+      "name": "ASN275626",
+      "type": "NSP"
+    },
+    "218443": {
+      "name": "asteco e.K.",
+      "type": "Enterprise"
     }
   }
 }
