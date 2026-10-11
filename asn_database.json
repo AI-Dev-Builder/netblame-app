@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-10T03:28:41.997Z",
+  "updated_at": "2026-10-11T03:01:49.808Z",
   "source": "PeeringDB",
-  "entry_count": 35590,
+  "entry_count": 35589,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -6943,10 +6943,6 @@
     "23820": {
       "name": "Rakuten Group, Inc.",
       "type": "Content"
-    },
-    "31235": {
-      "name": "SKIWEBCENTER",
-      "type": "Cable/DSL/ISP"
     },
     "27281": {
       "name": "Quantcast",
@@ -15711,10 +15707,6 @@
     "201206": {
       "name": "Droptop GmbH",
       "type": "NSP"
-    },
-    "55465": {
-      "name": "TT&T PCL.",
-      "type": "Cable/DSL/ISP"
     },
     "37439": {
       "name": "Breedenet",
@@ -27969,7 +27961,7 @@
       "type": "NSP"
     },
     "60602": {
-      "name": "Inovare-Prim",
+      "name": "IPHOST",
       "type": "Content"
     },
     "202196": {
@@ -42818,7 +42810,7 @@
     },
     "25988": {
       "name": "PLATANUM",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "131227": {
       "name": "Tussock Networks",
@@ -52566,10 +52558,6 @@
     },
     "55355": {
       "name": "HGC Global Commnications",
-      "type": "NSP"
-    },
-    "140839": {
-      "name": "vOffice",
       "type": "NSP"
     },
     "7503": {
@@ -63830,7 +63818,7 @@
     },
     "133337": {
       "name": "Menara Sinar Semesta",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "398898": {
       "name": "DeVry Greenhouses",
@@ -68119,10 +68107,6 @@
     "399622": {
       "name": "WIRELESS DATA NET",
       "type": "Cable/DSL/ISP"
-    },
-    "212427": {
-      "name": "BASTION-GUARD",
-      "type": "Unknown"
     },
     "329058": {
       "name": "Infinity Connect",
@@ -94580,10 +94564,6 @@
       "name": "Vivio Technologies",
       "type": "Unknown"
     },
-    "206781": {
-      "name": "LYVRA",
-      "type": "Enterprise"
-    },
     "396147": {
       "name": "FREMIX-RS",
       "type": "Unknown"
@@ -94959,10 +94939,6 @@
     "206745": {
       "name": "Shawdex",
       "type": "Unknown"
-    },
-    "206705": {
-      "name": "NATALIA KLOMSKA",
-      "type": "Non-Profit"
     },
     "401820": {
       "name": "HASHTABLE AI LABS",
@@ -99970,7 +99946,7 @@
     },
     "214507": {
       "name": "SIA \"Puces datorsistemas\"",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "214635": {
       "name": "MedOneISP",
@@ -107682,7 +107658,7 @@
     },
     "218634": {
       "name": "DEBIE-AS",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "205090": {
       "name": "FIRST-SERVER-EUROPE",
@@ -108474,6 +108450,22 @@
     },
     "218444": {
       "name": "Muhammet Eren Karaman",
+      "type": "Unknown"
+    },
+    "139304": {
+      "name": "LIMDAHOST-AS-AP",
+      "type": "Unknown"
+    },
+    "218456": {
+      "name": "Mizelli",
+      "type": "Unknown"
+    },
+    "403060": {
+      "name": "SIGNAL9-LAB-NET",
+      "type": "Unknown"
+    },
+    "402697": {
+      "name": "IMTX-01",
       "type": "Unknown"
     },
     "22822": {
@@ -109296,10 +109288,6 @@
       "name": "VibeGAMES B.V.",
       "type": "Content"
     },
-    "25376": {
-      "name": "Netnorth Limited",
-      "type": "Content"
-    },
     "41711": {
       "name": "FreeTel",
       "type": "NSP"
@@ -109818,6 +109806,10 @@
     },
     "23175": {
       "name": "PogoZone",
+      "type": "Cable/DSL/ISP"
+    },
+    "31235": {
+      "name": "SKIWEBCENTER",
       "type": "Cable/DSL/ISP"
     },
     "8330": {
@@ -138881,7 +138873,7 @@
       "type": "Cable/DSL/ISP"
     },
     "14619": {
-      "name": "Thera",
+      "name": "Thera Networks",
       "type": "NSP"
     },
     "274676": {
@@ -142363,6 +142355,10 @@
     "218443": {
       "name": "asteco e.K.",
       "type": "Enterprise"
+    },
+    "213368": {
+      "name": "MarcoBox",
+      "type": "Non-Profit"
     }
   }
 }
