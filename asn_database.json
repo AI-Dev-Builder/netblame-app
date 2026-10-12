@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-11T03:01:49.808Z",
+  "updated_at": "2026-10-12T03:24:51.913Z",
   "source": "PeeringDB",
-  "entry_count": 35589,
+  "entry_count": 35597,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -27960,10 +27960,6 @@
       "name": "S R DA SILVA OLIVEIRA",
       "type": "NSP"
     },
-    "60602": {
-      "name": "IPHOST",
-      "type": "Content"
-    },
     "202196": {
       "name": "Booking.com IT Services",
       "type": "Enterprise"
@@ -34518,7 +34514,7 @@
     },
     "53107": {
       "name": "EVEO",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "265540": {
       "name": "ALTAN REDES",
@@ -106286,7 +106282,7 @@
     },
     "218973": {
       "name": "ONEZEROTEL",
-      "type": "Enterprise"
+      "type": "NSP"
     },
     "269304": {
       "name": "ASN269304",
@@ -107818,7 +107814,7 @@
     },
     "402011": {
       "name": "Braeden LLC",
-      "type": "Enterprise"
+      "type": "Government"
     },
     "402761": {
       "name": "NEUROGRID",
@@ -108304,10 +108300,6 @@
       "name": "FCGH-AS",
       "type": "Unknown"
     },
-    "204603": {
-      "name": "LOWPINGS DIGITAL SERVICES",
-      "type": "Network Services"
-    },
     "199417": {
       "name": "FL8-TO",
       "type": "Enterprise"
@@ -108462,10 +108454,38 @@
     },
     "403060": {
       "name": "SIGNAL9-LAB-NET",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "402697": {
-      "name": "IMTX-01",
+      "name": "IMTX Holdings, LLC",
+      "type": "Content"
+    },
+    "152770": {
+      "name": "IDNIC-DIGITAMASUPERLINK-AS-ID",
+      "type": "Unknown"
+    },
+    "218689": {
+      "name": "PakaiCloud",
+      "type": "NSP"
+    },
+    "275782": {
+      "name": "ASN275782",
+      "type": "Unknown"
+    },
+    "50345": {
+      "name": "optitel",
+      "type": "Unknown"
+    },
+    "402722": {
+      "name": "ARCTCLOUD",
+      "type": "Unknown"
+    },
+    "131476": {
+      "name": "FUSIONBB-AU",
+      "type": "Unknown"
+    },
+    "154196": {
+      "name": "IDNIC-TERRANET-ID",
       "type": "Unknown"
     },
     "22822": {
@@ -115367,6 +115387,10 @@
     "23731": {
       "name": "Tibra Global Services",
       "type": "Unknown"
+    },
+    "60602": {
+      "name": "IPHOST",
+      "type": "Content"
     },
     "327805": {
       "name": "Bundu NetworX",
@@ -129324,6 +129348,10 @@
       "name": "Rajeg Media Telekomunikasi",
       "type": "Cable/DSL/ISP"
     },
+    "210969": {
+      "name": "TELLISSI",
+      "type": "Educational/Research"
+    },
     "53636": {
       "name": "Xerio",
       "type": "Content"
@@ -142335,6 +142363,10 @@
     "218684": {
       "name": "QA-HMC",
       "type": "Unknown"
+    },
+    "204603": {
+      "name": "LOWPINGS DIGITAL SERVICES",
+      "type": "Network Services"
     },
     "403010": {
       "name": "NOPING",
