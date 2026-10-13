@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-12T03:24:51.913Z",
+  "updated_at": "2026-10-13T04:39:40.072Z",
   "source": "PeeringDB",
-  "entry_count": 35597,
+  "entry_count": 35606,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -17965,7 +17965,7 @@
       "type": "Unknown"
     },
     "62172": {
-      "name": "Airbytes • AS62172",
+      "name": "Airbytes (AS62172)",
       "type": "NSP"
     },
     "198722": {
@@ -26563,10 +26563,6 @@
     "200781": {
       "name": "Tampnet",
       "type": "NSP"
-    },
-    "9897": {
-      "name": "Monolith Industries",
-      "type": "Content"
     },
     "17492": {
       "name": "Vector Fibre",
@@ -48625,7 +48621,7 @@
       "type": "Unknown"
     },
     "12762": {
-      "name": "VTG",
+      "name": "Vorarlberger Informatik- und Telekommunikationsdienstleistungsgesellschaft mbH",
       "type": "NSP"
     },
     "13215": {
@@ -53017,7 +53013,7 @@
       "type": "NSP"
     },
     "56858": {
-      "name": "SEECIX Route Servers",
+      "name": "DE-CIX Athens Route Servers",
       "type": "Route Server"
     },
     "42993": {
@@ -75984,10 +75980,6 @@
       "name": "SINGH TELEVENTURES",
       "type": "Cable/DSL/ISP"
     },
-    "17024": {
-      "name": "BlueFur",
-      "type": "Cable/DSL/ISP"
-    },
     "54431": {
       "name": "Lunavi - Denver",
       "type": "NSP"
@@ -79768,10 +79760,6 @@
       "name": "PT Gian Nugraha Teknologi Indonesia",
       "type": "NSP"
     },
-    "8434": {
-      "name": "Telenor Sweden",
-      "type": "NSP"
-    },
     "268339": {
       "name": "MOBILLE TELECOM",
       "type": "Unknown"
@@ -79838,7 +79826,7 @@
     },
     "216138": {
       "name": "SKYQUANTUM TELECOM",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "269986": {
       "name": "SERVICIOS PROFESIONALES WICOM",
@@ -81921,7 +81909,7 @@
       "type": "Unknown"
     },
     "150768": {
-      "name": "Cloud Walker Co., Ltd.",
+      "name": "Thru Cloud LTD.",
       "type": "Enterprise"
     },
     "273612": {
@@ -85840,6 +85828,10 @@
       "name": "Toa Online",
       "type": "Unknown"
     },
+    "215439": {
+      "name": "PLAY2GO",
+      "type": "Enterprise"
+    },
     "272040": {
       "name": "SERVICIOS NUÑEZ EIRL",
       "type": "Unknown"
@@ -87954,7 +87946,7 @@
     },
     "136805": {
       "name": "Next Generation Voice",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "30700": {
       "name": "OwO Network",
@@ -104276,6 +104268,10 @@
       "name": "Caraga State University",
       "type": "Educational/Research"
     },
+    "17644": {
+      "name": "ZORN-AS-AP",
+      "type": "Unknown"
+    },
     "208794": {
       "name": "brawo network services",
       "type": "NSP"
@@ -105518,7 +105514,7 @@
     },
     "154018": {
       "name": "Triplify Cloud",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "219188": {
       "name": "J Wynegar Jr Inc - International",
@@ -106443,10 +106439,6 @@
     "199755": {
       "name": "ACDN-AS",
       "type": "Content"
-    },
-    "210057": {
-      "name": "INFINITYWIFI",
-      "type": "Unknown"
     },
     "58254": {
       "name": "NANOTELECOM-AS",
@@ -107414,7 +107406,7 @@
     },
     "218730": {
       "name": "JAKUBSZEWCZYK",
-      "type": "Unknown"
+      "type": "Content"
     },
     "395199": {
       "name": "CatCarbon Network",
@@ -108390,7 +108382,7 @@
     },
     "212344": {
       "name": "AS_FORLAN",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "50284": {
       "name": "DLINE-AS",
@@ -108474,7 +108466,7 @@
     },
     "50345": {
       "name": "optitel",
-      "type": "Unknown"
+      "type": "Content"
     },
     "402722": {
       "name": "ARCTCLOUD",
@@ -108486,6 +108478,34 @@
     },
     "154196": {
       "name": "IDNIC-TERRANET-ID",
+      "type": "Unknown"
+    },
+    "201282": {
+      "name": "SmIT-AS",
+      "type": "Unknown"
+    },
+    "208348": {
+      "name": "DOMYNET-AS",
+      "type": "Unknown"
+    },
+    "329735": {
+      "name": "ORG-EL10-AFRINIC",
+      "type": "Unknown"
+    },
+    "153771": {
+      "name": "HHKL-AS-AP",
+      "type": "Unknown"
+    },
+    "397892": {
+      "name": "REXELUSA",
+      "type": "Unknown"
+    },
+    "213347": {
+      "name": "AS_IRAY",
+      "type": "Cable/DSL/ISP"
+    },
+    "218458": {
+      "name": "Lindahl",
       "type": "Unknown"
     },
     "22822": {
@@ -126632,10 +126652,6 @@
       "name": "TechniSanity, LLC",
       "type": "Cable/DSL/ISP"
     },
-    "207463": {
-      "name": "INFOGAIR",
-      "type": "Enterprise"
-    },
     "212472": {
       "name": "CONDOR",
       "type": "Enterprise"
@@ -133837,7 +133853,7 @@
       "type": "Cable/DSL/ISP"
     },
     "150748": {
-      "name": "Gmax AS150748",
+      "name": "Gmax",
       "type": "NSP"
     },
     "131735": {
@@ -134422,6 +134438,10 @@
     },
     "150656": {
       "name": "PRACHI COCHING INST",
+      "type": "Cable/DSL/ISP"
+    },
+    "17024": {
+      "name": "BlueFur",
       "type": "Cable/DSL/ISP"
     },
     "269162": {
@@ -135859,6 +135879,10 @@
     "47152": {
       "name": "Fibersix di Ascione Francesco",
       "type": "Cable/DSL/ISP"
+    },
+    "8434": {
+      "name": "Telenor Sweden",
+      "type": "NSP"
     },
     "329255": {
       "name": "Telcoptics",
@@ -137558,7 +137582,7 @@
     },
     "214915": {
       "name": "PawHost",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "214768": {
       "name": "coresdev",
@@ -142156,6 +142180,10 @@
       "name": "ATS-AS-AP",
       "type": "Cable/DSL/ISP"
     },
+    "210057": {
+      "name": "INFINITYWIFI",
+      "type": "Network Services"
+    },
     "273635": {
       "name": "ASN273635",
       "type": "Unknown"
@@ -142391,6 +142419,14 @@
     "213368": {
       "name": "MarcoBox",
       "type": "Non-Profit"
+    },
+    "218426": {
+      "name": "AS-TRFQ",
+      "type": "Content"
+    },
+    "218424": {
+      "name": "Mohrline.Net",
+      "type": "Educational/Research"
     }
   }
 }
