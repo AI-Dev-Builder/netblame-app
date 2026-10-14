@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-13T04:39:40.072Z",
+  "updated_at": "2026-10-14T02:48:31.656Z",
   "source": "PeeringDB",
-  "entry_count": 35606,
+  "entry_count": 35619,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -19269,7 +19269,7 @@
       "type": "Cable/DSL/ISP"
     },
     "36924": {
-      "name": "GVA",
+      "name": "Canal+ Telecom Africa",
       "type": "Cable/DSL/ISP"
     },
     "20193": {
@@ -54986,7 +54986,7 @@
     },
     "19635": {
       "name": "Sandhill Telephone Cooperative",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "398538": {
       "name": "HERITAGE BROADBAND",
@@ -62950,7 +62950,7 @@
     },
     "399992": {
       "name": "KJTDNET",
-      "type": "Content"
+      "type": "Unknown"
     },
     "147071": {
       "name": "BOCHENG ZOU",
@@ -65527,10 +65527,6 @@
     "136477": {
       "name": "P.D.S. Server Network",
       "type": "Unknown"
-    },
-    "7607": {
-      "name": "JT TELECOM - AS7607",
-      "type": "Cable/DSL/ISP"
     },
     "5422": {
       "name": "Superonline Iletisim Hizmetleri",
@@ -88988,10 +88984,6 @@
       "name": "Jun CAO",
       "type": "Unknown"
     },
-    "268463": {
-      "name": "LOG INFORMATICA LTDA",
-      "type": "Cable/DSL/ISP"
-    },
     "2004": {
       "name": "TNO",
       "type": "Unknown"
@@ -97538,7 +97530,7 @@
     },
     "211949": {
       "name": "GSNET",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "56980": {
       "name": "Veganet Teknolojileri ve Hizmetleri",
@@ -98310,7 +98302,7 @@
     },
     "329624": {
       "name": "MONINET",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "210187": {
       "name": "Kevin Richardson",
@@ -100385,7 +100377,7 @@
       "type": "Enterprise"
     },
     "201687": {
-      "name": "DARKMATTER",
+      "name": "MAM-JAHN",
       "type": "NSP"
     },
     "400662": {
@@ -102594,7 +102586,7 @@
     },
     "328889": {
       "name": "MODEM COMPUTER SERVICES",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "198860": {
       "name": "CANTER",
@@ -103058,7 +103050,7 @@
     },
     "394509": {
       "name": "RIS",
-      "type": "Unknown"
+      "type": "Content"
     },
     "198120": {
       "name": "Smart Host",
@@ -104267,10 +104259,6 @@
     "153874": {
       "name": "Caraga State University",
       "type": "Educational/Research"
-    },
-    "17644": {
-      "name": "ZORN-AS-AP",
-      "type": "Unknown"
     },
     "208794": {
       "name": "brawo network services",
@@ -106497,7 +106485,7 @@
       "type": "Enterprise"
     },
     "218928": {
-      "name": "CARLFISCHER",
+      "name": "Carl Fischer",
       "type": "Educational/Research"
     },
     "154844": {
@@ -107064,6 +107052,10 @@
       "name": "274903",
       "type": "Cable/DSL/ISP"
     },
+    "218796": {
+      "name": "GREYWIND-AS",
+      "type": "Educational/Research"
+    },
     "153055": {
       "name": "Tamaraw Vision Network Inc.",
       "type": "Cable/DSL/ISP"
@@ -107358,7 +107350,7 @@
     },
     "150162": {
       "name": "KOMET Networks Pty Ltd",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "402360": {
       "name": "BRFLASHV",
@@ -107656,10 +107648,6 @@
       "name": "IDNIC-HARDWORK-ID",
       "type": "Unknown"
     },
-    "218681": {
-      "name": "GKIM-AS",
-      "type": "NSP"
-    },
     "152523": {
       "name": "Blazing Bullet",
       "type": "Cable/DSL/ISP"
@@ -107713,7 +107701,7 @@
       "type": "Educational/Research"
     },
     "262621": {
-      "name": "ASN262621",
+      "name": "Pontonet Telecom",
       "type": "Cable/DSL/ISP"
     },
     "402201": {
@@ -108313,7 +108301,7 @@
       "type": "Cable/DSL/ISP"
     },
     "218471": {
-      "name": "SharedServ Ltd. - UK",
+      "name": "wirenow UG",
       "type": "Content"
     },
     "275853": {
@@ -108493,8 +108481,8 @@
       "type": "Unknown"
     },
     "153771": {
-      "name": "HHKL-AS-AP",
-      "type": "Unknown"
+      "name": "Heptasky",
+      "type": "Cable/DSL/ISP"
     },
     "397892": {
       "name": "REXELUSA",
@@ -108504,8 +108492,48 @@
       "name": "AS_IRAY",
       "type": "Cable/DSL/ISP"
     },
-    "218458": {
-      "name": "Lindahl",
+    "197868": {
+      "name": "ServiceTelecom",
+      "type": "Unknown"
+    },
+    "203975": {
+      "name": "Zorn-Technologies",
+      "type": "Unknown"
+    },
+    "200313": {
+      "name": "ProHoster",
+      "type": "Enterprise"
+    },
+    "218416": {
+      "name": "SYIFAN-MAULANA",
+      "type": "Unknown"
+    },
+    "16704": {
+      "name": "ITP 360",
+      "type": "NSP"
+    },
+    "210495": {
+      "name": "WENIUM",
+      "type": "Content"
+    },
+    "153515": {
+      "name": "IDNIC-STARLIGHTNETWORK-AS-ID",
+      "type": "Unknown"
+    },
+    "154905": {
+      "name": "SINADATA",
+      "type": "Cable/DSL/ISP"
+    },
+    "197213": {
+      "name": "NINETY-ONE-TELECOM",
+      "type": "Unknown"
+    },
+    "218415": {
+      "name": "CLOUDER-AS",
+      "type": "Content"
+    },
+    "200203": {
+      "name": "DATABRIDGE",
       "type": "Unknown"
     },
     "22822": {
@@ -130217,8 +130245,8 @@
       "type": "Cable/DSL/ISP"
     },
     "142487": {
-      "name": "SVB NETWORKS",
-      "type": "Cable/DSL/ISP"
+      "name": "XFiber",
+      "type": "Network Services"
     },
     "264566": {
       "name": "INTERNET O SUL COMÉRCIO E SERVIÇOS",
@@ -130710,6 +130738,10 @@
     },
     "271324": {
       "name": "Ledyvanha Meneses Alencar",
+      "type": "Cable/DSL/ISP"
+    },
+    "7607": {
+      "name": "JT TELECOM - AS7607",
       "type": "Cable/DSL/ISP"
     },
     "262435": {
@@ -131821,7 +131853,7 @@
       "type": "Content"
     },
     "205079": {
-      "name": "Mans Ziesel",
+      "name": "ziesel.network",
       "type": "Educational/Research"
     },
     "269539": {
@@ -133137,7 +133169,7 @@
       "type": "Cable/DSL/ISP"
     },
     "201445": {
-      "name": "Zerval Network",
+      "name": "Zerval Network LLC",
       "type": "Content"
     },
     "271600": {
@@ -139621,7 +139653,7 @@
       "type": "Content"
     },
     "210349": {
-      "name": "AZERNET",
+      "name": "Alexis Lurot",
       "type": "Unknown"
     },
     "153787": {
@@ -140257,7 +140289,7 @@
       "type": "Unknown"
     },
     "137535": {
-      "name": "JT TELECOM INTERNATIONAL PTE.LTD.",
+      "name": "JT TELECOM - AS137535",
       "type": "Cable/DSL/ISP"
     },
     "213700": {
@@ -141513,7 +141545,7 @@
       "type": "Unknown"
     },
     "199746": {
-      "name": "V6Direct - DE - US",
+      "name": "V6Direct",
       "type": "NSP"
     },
     "200841": {
@@ -141732,6 +141764,10 @@
       "name": "DIGITALC",
       "type": "Non-Profit"
     },
+    "197324": {
+      "name": "BGP43",
+      "type": "Educational/Research"
+    },
     "197194": {
       "name": "KAYAN-IT",
       "type": "Unknown"
@@ -141807,6 +141843,10 @@
     "137359": {
       "name": "SKYREACH",
       "type": "Cable/DSL/ISP"
+    },
+    "17644": {
+      "name": "ZORN-AS-AP",
+      "type": "NSP"
     },
     "329683": {
       "name": "ARCEPNet",
@@ -142049,7 +142089,7 @@
       "type": "Cable/DSL/ISP"
     },
     "219157": {
-      "name": "Global Capital Services Ltd. - UK",
+      "name": "Global Capital Services Ltd.",
       "type": "NSP"
     },
     "402782": {
@@ -142288,10 +142328,6 @@
       "name": "Soundvia-ASN",
       "type": "Content"
     },
-    "218796": {
-      "name": "GREYWIND-AS",
-      "type": "Educational/Research"
-    },
     "218836": {
       "name": "Expeditioner Network",
       "type": "Content"
@@ -142368,6 +142404,10 @@
       "name": "SHIYUAN-NET",
       "type": "Content"
     },
+    "218681": {
+      "name": "GKIM-AS",
+      "type": "NSP"
+    },
     "218593": {
       "name": "TEAMRIVERBUBBLES",
       "type": "Educational/Research"
@@ -142427,6 +142467,18 @@
     "218424": {
       "name": "Mohrline.Net",
       "type": "Educational/Research"
+    },
+    "218458": {
+      "name": "Lindahl",
+      "type": "Educational/Research"
+    },
+    "133468": {
+      "name": "IDNIC-DBTNET-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "219121": {
+      "name": "CLOUFINITY",
+      "type": "Content"
     }
   }
 }
