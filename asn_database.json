@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-14T02:48:31.656Z",
+  "updated_at": "2026-10-15T02:27:32.766Z",
   "source": "PeeringDB",
-  "entry_count": 35619,
+  "entry_count": 35635,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -37437,7 +37437,7 @@
       "type": "Educational/Research"
     },
     "265250": {
-      "name": "NET-MAX TECNOLOGIA",
+      "name": "NETMAX SCM LTDA",
       "type": "Cable/DSL/ISP"
     },
     "28972": {
@@ -44698,6 +44698,10 @@
     },
     "263852": {
       "name": "3MDMI",
+      "type": "NSP"
+    },
+    "269130": {
+      "name": "UPNet Fibra - SUSANE DOS SANTOS ZACARIN ME",
       "type": "NSP"
     },
     "14979": {
@@ -65976,10 +65980,6 @@
       "name": "FM Networks",
       "type": "Cable/DSL/ISP"
     },
-    "61071": {
-      "name": "NETBOX BG",
-      "type": "Unknown"
-    },
     "56270": {
       "name": "Rojan Australia",
       "type": "Unknown"
@@ -66550,10 +66550,6 @@
     },
     "43278": {
       "name": "Castles",
-      "type": "NSP"
-    },
-    "36890": {
-      "name": "MTN Rwandacell",
       "type": "NSP"
     },
     "211100": {
@@ -77200,6 +77196,10 @@
       "name": "QMEX",
       "type": "Unknown"
     },
+    "198180": {
+      "name": "Gabriele Sabatino",
+      "type": "Network Services"
+    },
     "48624": {
       "name": "Totcable",
       "type": "Cable/DSL/ISP"
@@ -80971,10 +80971,6 @@
     "139529": {
       "name": "Fastcom Telelink Pvt. Ltd.",
       "type": "Cable/DSL/ISP"
-    },
-    "215838": {
-      "name": "XTAIN",
-      "type": "Unknown"
     },
     "271608": {
       "name": "Plus Internet Telecom",
@@ -93829,7 +93825,7 @@
       "type": "Unknown"
     },
     "198510": {
-      "name": "XTDEF Limited - AS198510",
+      "name": "XTDef Retail",
       "type": "Cable/DSL/ISP"
     },
     "34223": {
@@ -98488,10 +98484,6 @@
       "name": "MAXSERWIS Sp.zo.o.",
       "type": "Unknown"
     },
-    "210441": {
-      "name": "TIMS IT SASAU",
-      "type": "Unknown"
-    },
     "202622": {
       "name": "UKRHYDROENERGO PJSC",
       "type": "Unknown"
@@ -99058,7 +99050,7 @@
     },
     "206098": {
       "name": "Minh Duc Vo",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "50319": {
       "name": "Dustin NL B.V., Dustin-Managed-Services-Netherlands",
@@ -102631,10 +102623,6 @@
     "198767": {
       "name": "Antranik Wartanian",
       "type": "Unknown"
-    },
-    "198834": {
-      "name": "net.noahlvb.nl",
-      "type": "Educational/Research"
     },
     "275732": {
       "name": "Newvox Telecomunicações",
@@ -106264,10 +106252,6 @@
       "name": "MAGNOHOST",
       "type": "Content"
     },
-    "218973": {
-      "name": "ONEZEROTEL",
-      "type": "NSP"
-    },
     "269304": {
       "name": "ASN269304",
       "type": "Unknown"
@@ -108082,7 +108066,7 @@
     },
     "218540": {
       "name": "IKTSOLUTIONS",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "25616": {
       "name": "CANIX Anycast",
@@ -108424,14 +108408,6 @@
       "name": "Muhammet Eren Karaman",
       "type": "Unknown"
     },
-    "139304": {
-      "name": "LIMDAHOST-AS-AP",
-      "type": "Unknown"
-    },
-    "218456": {
-      "name": "Mizelli",
-      "type": "Unknown"
-    },
     "403060": {
       "name": "SIGNAL9-LAB-NET",
       "type": "Enterprise"
@@ -108474,7 +108450,7 @@
     },
     "208348": {
       "name": "DOMYNET-AS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "329735": {
       "name": "ORG-EL10-AFRINIC",
@@ -108494,7 +108470,7 @@
     },
     "197868": {
       "name": "ServiceTelecom",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "203975": {
       "name": "Zorn-Technologies",
@@ -108529,12 +108505,80 @@
       "type": "Unknown"
     },
     "218415": {
-      "name": "CLOUDER-AS",
+      "name": "CLOUDER",
       "type": "Content"
     },
     "200203": {
       "name": "DATABRIDGE",
       "type": "Unknown"
+    },
+    "219082": {
+      "name": "BOUGH",
+      "type": "Enterprise"
+    },
+    "218529": {
+      "name": "FQUADRAT-AS",
+      "type": "Unknown"
+    },
+    "155005": {
+      "name": "NGOONLINE-AS-AP",
+      "type": "Unknown"
+    },
+    "203997": {
+      "name": "XTDef EU Corp",
+      "type": "Enterprise"
+    },
+    "218410": {
+      "name": "MOONNET-AS",
+      "type": "Unknown"
+    },
+    "218474": {
+      "name": "DGEN",
+      "type": "Unknown"
+    },
+    "218400": {
+      "name": "BECKER-AS",
+      "type": "Unknown"
+    },
+    "218399": {
+      "name": "ARTHUR-AS",
+      "type": "Unknown"
+    },
+    "218402": {
+      "name": "AMOUTILLON-AS",
+      "type": "Unknown"
+    },
+    "218405": {
+      "name": "Albin Labranche",
+      "type": "Educational/Research"
+    },
+    "218764": {
+      "name": "finland_cloud",
+      "type": "Unknown"
+    },
+    "198661": {
+      "name": "MavNetworks-AS",
+      "type": "Unknown"
+    },
+    "213100": {
+      "name": "enox",
+      "type": "Unknown"
+    },
+    "212535": {
+      "name": "MSBV",
+      "type": "Unknown"
+    },
+    "899": {
+      "name": "Intrepid Telecom",
+      "type": "NSP"
+    },
+    "10508": {
+      "name": "UARK-FAYETTEVILLE",
+      "type": "Unknown"
+    },
+    "275807": {
+      "name": "ASN275807",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -120429,7 +120473,7 @@
       "type": "Content"
     },
     "268328": {
-      "name": "aliancalink network",
+      "name": "Aliança Link Provedor de Internet",
       "type": "Cable/DSL/ISP"
     },
     "209641": {
@@ -122219,10 +122263,6 @@
     "139347": {
       "name": "RV Cyber World",
       "type": "Cable/DSL/ISP"
-    },
-    "269130": {
-      "name": "UPNet Fibra - SUSANE DOS SANTOS ZACARIN ME",
-      "type": "NSP"
     },
     "60849": {
       "name": "NaiTel “Aqaba Digital Hub”",
@@ -130920,6 +130960,10 @@
       "name": "TwentyWAN Network",
       "type": "Network Services"
     },
+    "61071": {
+      "name": "NETBOX BG",
+      "type": "Unknown"
+    },
     "142631": {
       "name": "Metro Lightspeed",
       "type": "Cable/DSL/ISP"
@@ -131131,6 +131175,10 @@
     "212999": {
       "name": "Kainar-Media",
       "type": "Cable/DSL/ISP"
+    },
+    "36890": {
+      "name": "MTN Rwandacell",
+      "type": "NSP"
     },
     "208768": {
       "name": "Constantine Evans",
@@ -134868,10 +134916,6 @@
       "name": "LTech Solutions",
       "type": "Network Services"
     },
-    "198180": {
-      "name": "Gabriele-Sabatino",
-      "type": "Network Services"
-    },
     "198219": {
       "name": "Charlie Camilleri",
       "type": "Educational/Research"
@@ -135281,7 +135325,7 @@
       "type": "NSP"
     },
     "49592": {
-      "name": "Pipe Networks LTD",
+      "name": "Pipe Networks LGmbH",
       "type": "Content"
     },
     "151507": {
@@ -138213,7 +138257,7 @@
       "type": "Network Services"
     },
     "200325": {
-      "name": "BunnyCDN",
+      "name": "Bunny.net",
       "type": "Content"
     },
     "214312": {
@@ -141616,6 +141660,10 @@
       "name": "PESONA NET",
       "type": "Cable/DSL/ISP"
     },
+    "198834": {
+      "name": "net.noahlvb.nl",
+      "type": "Educational/Research"
+    },
     "199185": {
       "name": "PLUSLAYER",
       "type": "NSP"
@@ -142200,6 +142248,10 @@
       "name": "Nyallo",
       "type": "Content"
     },
+    "218973": {
+      "name": "ONEZEROTEL",
+      "type": "NSP"
+    },
     "218969": {
       "name": "SheepMC Networks",
       "type": "Non-Profit"
@@ -142456,6 +142508,14 @@
       "name": "asteco e.K.",
       "type": "Enterprise"
     },
+    "139304": {
+      "name": "LIMDA HOST",
+      "type": "Enterprise"
+    },
+    "218456": {
+      "name": "Mizelli",
+      "type": "Non-Profit"
+    },
     "213368": {
       "name": "MarcoBox",
       "type": "Non-Profit"
@@ -142479,6 +142539,10 @@
     "219121": {
       "name": "CLOUFINITY",
       "type": "Content"
+    },
+    "403076": {
+      "name": "BAMNET-AS01",
+      "type": "Unknown"
     }
   }
 }
