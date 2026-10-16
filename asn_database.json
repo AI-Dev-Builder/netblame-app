@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-15T02:27:32.766Z",
+  "updated_at": "2026-10-16T02:21:55.794Z",
   "source": "PeeringDB",
-  "entry_count": 35635,
+  "entry_count": 35648,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -38806,7 +38806,7 @@
     },
     "328140": {
       "name": "INSIST NET",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "263616": {
       "name": "Dez Solucoes em Telecomunicacoes",
@@ -76332,10 +76332,6 @@
       "name": "IT011",
       "type": "Unknown"
     },
-    "269417": {
-      "name": "PontoCOM - AS269417",
-      "type": "NSP"
-    },
     "61112": {
       "name": "AKILE",
       "type": "Cable/DSL/ISP"
@@ -79756,6 +79752,10 @@
       "name": "PT Gian Nugraha Teknologi Indonesia",
       "type": "NSP"
     },
+    "8434": {
+      "name": "Telenor Sweden",
+      "type": "NSP"
+    },
     "268339": {
       "name": "MOBILLE TELECOM",
       "type": "Unknown"
@@ -81425,8 +81425,8 @@
       "type": "NSP"
     },
     "44382": {
-      "name": "FibaCloud",
-      "type": "Cable/DSL/ISP"
+      "name": "White Label Services",
+      "type": "Content"
     },
     "273714": {
       "name": "POINT NET TELECOMUNICAÇÃO LTDA",
@@ -86270,7 +86270,7 @@
     },
     "215992": {
       "name": "MCS GmbH",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "201211": {
       "name": "LLC \"Tvoi Telecom\"",
@@ -106416,10 +106416,6 @@
       "name": "NANOTELECOM-AS",
       "type": "Unknown"
     },
-    "196651": {
-      "name": "ITSH",
-      "type": "Unknown"
-    },
     "218945": {
       "name": "BYCODED",
       "type": "Unknown"
@@ -106497,8 +106493,8 @@
       "type": "Content"
     },
     "401694": {
-      "name": "CLOUD-9-INTERNET",
-      "type": "Unknown"
+      "name": "Cloud 9 Internet",
+      "type": "Cable/DSL/ISP"
     },
     "274325": {
       "name": "274325",
@@ -107054,7 +107050,7 @@
     },
     "402979": {
       "name": "VORTEX-01",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "218792": {
       "name": "FiberMouse",
@@ -107809,7 +107805,7 @@
       "type": "Unknown"
     },
     "152584": {
-      "name": "IVAN-ENTERPRISE",
+      "name": "Infinivan2",
       "type": "NSP"
     },
     "7315": {
@@ -108434,7 +108430,7 @@
     },
     "402722": {
       "name": "ARCTCLOUD",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "131476": {
       "name": "FUSIONBB-AU",
@@ -108482,7 +108478,7 @@
     },
     "218416": {
       "name": "SYIFAN-MAULANA",
-      "type": "Unknown"
+      "type": "Content"
     },
     "16704": {
       "name": "ITP 360",
@@ -108501,8 +108497,8 @@
       "type": "Cable/DSL/ISP"
     },
     "197213": {
-      "name": "NINETY-ONE-TELECOM",
-      "type": "Unknown"
+      "name": "91TELECOM LTD",
+      "type": "Network Services"
     },
     "218415": {
       "name": "CLOUDER",
@@ -108561,7 +108557,7 @@
       "type": "Unknown"
     },
     "213100": {
-      "name": "enox",
+      "name": "Enox",
       "type": "Unknown"
     },
     "212535": {
@@ -108573,12 +108569,60 @@
       "type": "NSP"
     },
     "10508": {
-      "name": "UARK-FAYETTEVILLE",
+      "name": "University of Arkansas",
       "type": "Unknown"
     },
     "275807": {
-      "name": "ASN275807",
+      "name": "Inova Fibra Telecom Ltda",
       "type": "Cable/DSL/ISP"
+    },
+    "136461": {
+      "name": "Virtual Network Pvt.Ltd",
+      "type": "Unknown"
+    },
+    "198473": {
+      "name": "NemNet",
+      "type": "Cable/DSL/ISP"
+    },
+    "154841": {
+      "name": "PT INOVASI AKSES NUSANTARA",
+      "type": "Unknown"
+    },
+    "218414": {
+      "name": "POLTRONIERI-AS",
+      "type": "Unknown"
+    },
+    "41298": {
+      "name": "JURIS-AS",
+      "type": "Unknown"
+    },
+    "268890": {
+      "name": "ASN268890",
+      "type": "Unknown"
+    },
+    "403063": {
+      "name": "SWNETWORK-CUSTOMER",
+      "type": "Unknown"
+    },
+    "200276": {
+      "name": "BEENET-AS",
+      "type": "Unknown"
+    },
+    "402977": {
+      "name": "RPICORP",
+      "type": "Unknown"
+    },
+    "216150": {
+      "name": "verdian-cloud",
+      "type": "Unknown"
+    },
+    "218755": {
+      "name": "easyweb-as",
+      "type": "Unknown"
+    },
+    "218385": {
+      "name": "SEVA-AS",
+      "type": "Educational/Research"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -134616,6 +134660,10 @@
       "name": "ANTONIO CARLOS ATELLA FERREIRA JUNIOR",
       "type": "Cable/DSL/ISP"
     },
+    "269417": {
+      "name": "PontoCOM - AS269417",
+      "type": "NSP"
+    },
     "46427": {
       "name": "SF Innovations",
       "type": "Cable/DSL/ISP"
@@ -135955,10 +136003,6 @@
     "47152": {
       "name": "Fibersix di Ascione Francesco",
       "type": "Cable/DSL/ISP"
-    },
-    "8434": {
-      "name": "Telenor Sweden",
-      "type": "NSP"
     },
     "329255": {
       "name": "Telcoptics",
@@ -141674,7 +141718,7 @@
     },
     "198679": {
       "name": "RADZI",
-      "type": "Content"
+      "type": "Non-Profit"
     },
     "56501": {
       "name": "Diogenius SPRL - Belgium",
@@ -141881,7 +141925,7 @@
       "type": "Content"
     },
     "133371": {
-      "name": "SOKKALINK-NAP",
+      "name": "SOKKAFIBER-NAP",
       "type": "NSP"
     },
     "219489": {
@@ -142225,7 +142269,7 @@
       "type": "Content"
     },
     "206916": {
-      "name": "SOUTHWEST-NET",
+      "name": "SWNETWORK-BACKBONE",
       "type": "Network Services"
     },
     "402902": {
@@ -142275,6 +142319,10 @@
     "210057": {
       "name": "INFINITYWIFI",
       "type": "Network Services"
+    },
+    "196651": {
+      "name": "ITSH",
+      "type": "Government"
     },
     "273635": {
       "name": "ASN273635",
@@ -142533,7 +142581,7 @@
       "type": "Educational/Research"
     },
     "133468": {
-      "name": "IDNIC-DBTNET-ID",
+      "name": "DBTNET",
       "type": "Cable/DSL/ISP"
     },
     "219121": {
@@ -142543,6 +142591,10 @@
     "403076": {
       "name": "BAMNET-AS01",
       "type": "Unknown"
+    },
+    "154981": {
+      "name": "PT Aulia Solusi Internet",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
