@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-16T02:21:55.794Z",
+  "updated_at": "2026-10-17T02:14:24.250Z",
   "source": "PeeringDB",
-  "entry_count": 35648,
+  "entry_count": 35655,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -3614,10 +3614,6 @@
     },
     "24218": {
       "name": "Global Transit Communications",
-      "type": "NSP"
-    },
-    "34224": {
-      "name": "Neterra",
       "type": "NSP"
     },
     "24129": {
@@ -65280,10 +65276,6 @@
       "name": "Full Span Solutions AS399897",
       "type": "Unknown"
     },
-    "328533": {
-      "name": "Fliber",
-      "type": "Unknown"
-    },
     "198036": {
       "name": "NETSERVIS",
       "type": "Unknown"
@@ -71855,10 +71847,6 @@
     "150220": {
       "name": "ID-IX",
       "type": "Route Server"
-    },
-    "209988": {
-      "name": "EverTheLess",
-      "type": "Unknown"
     },
     "150373": {
       "name": "Zhang Bocheng",
@@ -99210,7 +99198,7 @@
     },
     "206101": {
       "name": "EPIC_TELECOM",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "14120": {
       "name": "oneZero Financial Systems",
@@ -99635,10 +99623,6 @@
     "213493": {
       "name": "NYRU",
       "type": "Content"
-    },
-    "202858": {
-      "name": "ALASTAIR",
-      "type": "Unknown"
     },
     "32200": {
       "name": "Epoxytel",
@@ -101697,8 +101681,8 @@
       "type": "Unknown"
     },
     "199911": {
-      "name": "3C1B Telekomunikasyon ve Internet Hiz. San. ve Tic. A.S.",
-      "type": "Unknown"
+      "name": "RegPEX - Regional Peering Exchange",
+      "type": "Route Server"
     },
     "274461": {
       "name": "Dazsoft Desenvolvimento de Softwares Ltda ME",
@@ -105826,7 +105810,7 @@
     },
     "402835": {
       "name": "Linus Media Group",
-      "type": "Unknown"
+      "type": "Content"
     },
     "37301": {
       "name": "AFRINIC MBA",
@@ -107328,10 +107312,6 @@
       "name": "YUUSEI LTD",
       "type": "Unknown"
     },
-    "150162": {
-      "name": "KOMET Networks Pty Ltd",
-      "type": "Cable/DSL/ISP"
-    },
     "402360": {
       "name": "BRFLASHV",
       "type": "Unknown"
@@ -108038,7 +108018,7 @@
     },
     "218538": {
       "name": "Argsment Limited",
-      "type": "Educational/Research"
+      "type": "Cable/DSL/ISP"
     },
     "401598": {
       "name": "JUNO",
@@ -108322,7 +108302,7 @@
     },
     "219310": {
       "name": "R09TELECOM",
-      "type": "Unknown"
+      "type": "Content"
     },
     "403034": {
       "name": "LAYER9I",
@@ -108334,7 +108314,7 @@
     },
     "403070": {
       "name": "RRAINN-NET-01",
-      "type": "Unknown"
+      "type": "Content"
     },
     "154993": {
       "name": "STRATA-AS-AP",
@@ -108514,7 +108494,7 @@
     },
     "218529": {
       "name": "FQUADRAT-AS",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "155005": {
       "name": "NGOONLINE-AS-AP",
@@ -108597,12 +108577,12 @@
       "type": "Unknown"
     },
     "268890": {
-      "name": "ASN268890",
+      "name": "ASTERNET SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
       "type": "Unknown"
     },
     "403063": {
       "name": "SWNETWORK-CUSTOMER",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "200276": {
       "name": "BEENET-AS",
@@ -108623,6 +108603,46 @@
     "218385": {
       "name": "SEVA-AS",
       "type": "Educational/Research"
+    },
+    "154806": {
+      "name": "NHS-VN",
+      "type": "Unknown"
+    },
+    "402956": {
+      "name": "IOVANTA",
+      "type": "Unknown"
+    },
+    "139004": {
+      "name": "RLCAFENET-AS-AP",
+      "type": "Unknown"
+    },
+    "214944": {
+      "name": "SECOPS",
+      "type": "Unknown"
+    },
+    "218373": {
+      "name": "SAPISCH-NET",
+      "type": "Educational/Research"
+    },
+    "218381": {
+      "name": "SHICHAO-Net",
+      "type": "NSP"
+    },
+    "218375": {
+      "name": "CALGANAYGUN-AS",
+      "type": "Unknown"
+    },
+    "21794": {
+      "name": "Ameren Corp",
+      "type": "Enterprise"
+    },
+    "403068": {
+      "name": "CLOUDEVELOP-01",
+      "type": "Unknown"
+    },
+    "400768": {
+      "name": "MMC",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -109302,6 +109322,10 @@
     },
     "5631": {
       "name": "Elevate UK",
+      "type": "NSP"
+    },
+    "34224": {
+      "name": "Neterra",
       "type": "NSP"
     },
     "38826": {
@@ -140461,7 +140485,7 @@
       "type": "Enterprise"
     },
     "210578": {
-      "name": "McPal",
+      "name": "NeNet",
       "type": "Educational/Research"
     },
     "205126": {
@@ -140924,10 +140948,6 @@
       "name": "FIBER FAST PROVEDOR DE INTERNET E SERVICOS LTDA",
       "type": "Cable/DSL/ISP"
     },
-    "274348": {
-      "name": "Datasec Projetos e Servicos de Tecnologia e Seguranca Cibernetica LTDA",
-      "type": "Enterprise"
-    },
     "399331": {
       "name": "Connect 2 First Internet, LLC",
       "type": "Network Services"
@@ -141199,6 +141219,10 @@
     "329592": {
       "name": "SiteHUB Agency",
       "type": "Content"
+    },
+    "202858": {
+      "name": "ALASTAIR",
+      "type": "Educational/Research"
     },
     "11169": {
       "name": "Arquenzo",
@@ -142464,6 +142488,10 @@
       "name": "MA Global",
       "type": "Unknown"
     },
+    "150162": {
+      "name": "KOMET Networks Pty Ltd",
+      "type": "Cable/DSL/ISP"
+    },
     "395197": {
       "name": "Taipei101 Mobile (UK)",
       "type": "Cable/DSL/ISP"
@@ -142479,10 +142507,6 @@
     "218683": {
       "name": "ALEMAL",
       "type": "Educational/Research"
-    },
-    "396529": {
-      "name": "Cathrix Network",
-      "type": "Cable/DSL/ISP"
     },
     "218654": {
       "name": "SWISH-WORLD",
@@ -142594,6 +142618,10 @@
     },
     "154981": {
       "name": "PT Aulia Solusi Internet",
+      "type": "Cable/DSL/ISP"
+    },
+    "62748": {
+      "name": "Cathrix Network",
       "type": "Cable/DSL/ISP"
     }
   }
