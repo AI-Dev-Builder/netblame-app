@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-17T02:14:24.250Z",
+  "updated_at": "2026-10-18T02:14:14.296Z",
   "source": "PeeringDB",
-  "entry_count": 35655,
+  "entry_count": 35658,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -39756,10 +39756,6 @@
       "name": "THIAGO DA SILVA SOUZA",
       "type": "Cable/DSL/ISP"
     },
-    "138014": {
-      "name": "Daulatpur Online",
-      "type": "Cable/DSL/ISP"
-    },
     "9136": {
       "name": "WOBCOM",
       "type": "Cable/DSL/ISP"
@@ -42348,10 +42344,6 @@
       "name": "WATERSTONS",
       "type": "Unknown"
     },
-    "264207": {
-      "name": "Ponto Net Telecom",
-      "type": "Cable/DSL/ISP"
-    },
     "35133": {
       "name": "Eranium Unified Transit",
       "type": "NSP"
@@ -43923,10 +43915,6 @@
     "36140": {
       "name": "ETS",
       "type": "Non-Profit"
-    },
-    "208707": {
-      "name": "WATANIA LTD",
-      "type": "Network Services"
     },
     "269067": {
       "name": "RVTNET",
@@ -77112,10 +77100,6 @@
       "name": "67 Telecom",
       "type": "Cable/DSL/ISP"
     },
-    "151399": {
-      "name": "Herza Singapore Pte Ltd",
-      "type": "Network Services"
-    },
     "263939": {
       "name": "Loginnet Telecom",
       "type": "Cable/DSL/ISP"
@@ -94360,10 +94344,6 @@
       "name": "OCTAVACZ",
       "type": "Unknown"
     },
-    "401205": {
-      "name": "CORKERY'S COMPUTERS",
-      "type": "Content"
-    },
     "45806": {
       "name": "Siam Commercial Bank",
       "type": "Unknown"
@@ -104898,7 +104878,7 @@
     },
     "26939": {
       "name": "NRNET",
-      "type": "Unknown"
+      "type": "Content"
     },
     "219315": {
       "name": "M62 Bank",
@@ -108643,6 +108623,42 @@
     "400768": {
       "name": "MMC",
       "type": "Unknown"
+    },
+    "400458": {
+      "name": "FEXTEL-DC",
+      "type": "Unknown"
+    },
+    "402546": {
+      "name": "RackByte",
+      "type": "Content"
+    },
+    "328465": {
+      "name": "ORG-IPSL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "152811": {
+      "name": "IDNIC-STNET-ID",
+      "type": "Unknown"
+    },
+    "218398": {
+      "name": "TOLDI-AS",
+      "type": "Unknown"
+    },
+    "218653": {
+      "name": "IBOU SEARCH ENGINE",
+      "type": "Enterprise"
+    },
+    "400966": {
+      "name": "CLOUDQUANT-01",
+      "type": "Unknown"
+    },
+    "132495": {
+      "name": "IDNIC-NETIN-ID",
+      "type": "Unknown"
+    },
+    "403067": {
+      "name": "Flake Networks",
+      "type": "Educational/Research"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -116947,10 +116963,6 @@
     "137256": {
       "name": "CatIO Network",
       "type": "Educational/Research"
-    },
-    "41119": {
-      "name": "Objedinenie Group",
-      "type": "Cable/DSL/ISP"
     },
     "136284": {
       "name": "Paradise Telecom",
@@ -127936,10 +127948,6 @@
       "name": "Ninja-IX Sacramento Route Servers",
       "type": "Route Server"
     },
-    "212057": {
-      "name": "Pascal Stattmann trading as Nodescrape",
-      "type": "Content"
-    },
     "268374": {
       "name": "Telnet Servicos e Comércio em Informática Ltda.",
       "type": "Cable/DSL/ISP"
@@ -135397,7 +135405,7 @@
       "type": "NSP"
     },
     "49592": {
-      "name": "Pipe Networks LGmbH",
+      "name": "Pipe Networks GmbH",
       "type": "Content"
     },
     "151507": {
@@ -142622,6 +142630,10 @@
     },
     "62748": {
       "name": "Cathrix Network",
+      "type": "Cable/DSL/ISP"
+    },
+    "154311": {
+      "name": "MEHERPUR BROADBAND",
       "type": "Cable/DSL/ISP"
     }
   }
