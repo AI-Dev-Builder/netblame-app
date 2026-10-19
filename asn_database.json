@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-18T02:14:14.296Z",
+  "updated_at": "2026-10-19T02:29:59.459Z",
   "source": "PeeringDB",
-  "entry_count": 35658,
+  "entry_count": 35662,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -86762,7 +86762,7 @@
     },
     "401294": {
       "name": "RoofSoft LLC",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "272046": {
       "name": "PUYUTA INTERNET & TECNOLOGIA",
@@ -100945,7 +100945,7 @@
       "type": "Unknown"
     },
     "142264": {
-      "name": "PT SKY Base Technologhy Digital",
+      "name": "PT SKY BASE TECHNOLOGHY DIGITAL",
       "type": "Cable/DSL/ISP"
     },
     "151805": {
@@ -107760,10 +107760,6 @@
       "name": "VATECH-NET",
       "type": "Unknown"
     },
-    "218605": {
-      "name": "HamzaDenizYilmaz",
-      "type": "Unknown"
-    },
     "152584": {
       "name": "Infinivan2",
       "type": "NSP"
@@ -108536,10 +108532,6 @@
       "name": "Inova Fibra Telecom Ltda",
       "type": "Cable/DSL/ISP"
     },
-    "136461": {
-      "name": "Virtual Network Pvt.Ltd",
-      "type": "Unknown"
-    },
     "198473": {
       "name": "NemNet",
       "type": "Cable/DSL/ISP"
@@ -108659,6 +108651,22 @@
     "403067": {
       "name": "Flake Networks",
       "type": "Educational/Research"
+    },
+    "218387": {
+      "name": "VAINAMO-AS",
+      "type": "Unknown"
+    },
+    "275725": {
+      "name": "ASN275725",
+      "type": "Unknown"
+    },
+    "218388": {
+      "name": "LODESTAR",
+      "type": "Unknown"
+    },
+    "274456": {
+      "name": "274456",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -142058,7 +142066,7 @@
     },
     "219332": {
       "name": "Pmman Network",
-      "type": "Enterprise"
+      "type": "Non-Profit"
     },
     "136403": {
       "name": "PENOLNET",
@@ -142548,6 +142556,10 @@
       "name": "PT WIRA HASTA JITU",
       "type": "Cable/DSL/ISP"
     },
+    "218605": {
+      "name": "HamzaDenizYilmaz",
+      "type": "Content"
+    },
     "403001": {
       "name": "Mirage Global Technologies",
       "type": "NSP"
@@ -142623,6 +142635,10 @@
     "403076": {
       "name": "BAMNET-AS01",
       "type": "Unknown"
+    },
+    "136461": {
+      "name": "Virtual Network",
+      "type": "Cable/DSL/ISP"
     },
     "154981": {
       "name": "PT Aulia Solusi Internet",
