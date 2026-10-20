@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-19T02:29:59.459Z",
+  "updated_at": "2026-10-20T02:42:48.039Z",
   "source": "PeeringDB",
-  "entry_count": 35662,
+  "entry_count": 35672,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -32741,7 +32741,7 @@
       "type": "Cable/DSL/ISP"
     },
     "266358": {
-      "name": "H L SERVICOS DE COMUNICACAO E TECNOLOGIA",
+      "name": "H NET SERVICOS DE COMUNICACAO E TECNOLOGIA LTDA",
       "type": "Cable/DSL/ISP"
     },
     "262942": {
@@ -68168,6 +68168,10 @@
       "name": "MANGALURU BROADBAND NETWORK",
       "type": "Cable/DSL/ISP"
     },
+    "205079": {
+      "name": "ziesel.network",
+      "type": "Educational/Research"
+    },
     "208025": {
       "name": "RSG Group",
       "type": "Enterprise"
@@ -83082,7 +83086,7 @@
     },
     "40368": {
       "name": "Nixcon",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "32878": {
       "name": "National Weather Service",
@@ -88850,7 +88854,7 @@
     },
     "269905": {
       "name": "Fernheim Cooperative",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "273973": {
       "name": "Apoapsis",
@@ -89387,10 +89391,6 @@
     "57304": {
       "name": "RETNRU",
       "type": "NSP"
-    },
-    "213801": {
-      "name": "NATHANMOORE",
-      "type": "Unknown"
     },
     "401519": {
       "name": "Sunoaki Network Commerical Content Hosting",
@@ -98222,7 +98222,7 @@
     },
     "10922": {
       "name": "Better Stack, Inc.",
-      "type": "Unknown"
+      "type": "Content"
     },
     "141509": {
       "name": "Uteleservices",
@@ -99880,10 +99880,6 @@
       "name": "DATAHUB-IX",
       "type": "NSP"
     },
-    "214507": {
-      "name": "SIA \"Puces datorsistemas\"",
-      "type": "NSP"
-    },
     "214635": {
       "name": "MedOneISP",
       "type": "Network Services"
@@ -99959,6 +99955,10 @@
     "60712": {
       "name": "MCSWEEN",
       "type": "Unknown"
+    },
+    "204464": {
+      "name": "NextServ - US",
+      "type": "NSP"
     },
     "133147": {
       "name": "UNIVERSAL DATA PTY LTD, TechPath Pty Ltd",
@@ -104644,10 +104644,6 @@
       "name": "Optical Communication",
       "type": "Cable/DSL/ISP"
     },
-    "402663": {
-      "name": "PHOENIXNET-LABS",
-      "type": "Network Services"
-    },
     "402549": {
       "name": "Terraservers Services",
       "type": "Cable/DSL/ISP"
@@ -106564,6 +106560,10 @@
       "name": "MTNET !",
       "type": "NSP"
     },
+    "218904": {
+      "name": "NextIX - Route Servers",
+      "type": "Route Server"
+    },
     "274368": {
       "name": "Swiss Fiber",
       "type": "Cable/DSL/ISP"
@@ -108286,7 +108286,7 @@
     },
     "403065": {
       "name": "PARKERCS",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "403070": {
       "name": "RRAINN-NET-01",
@@ -108404,10 +108404,6 @@
       "name": "DOMYNET-AS",
       "type": "Cable/DSL/ISP"
     },
-    "329735": {
-      "name": "ORG-EL10-AFRINIC",
-      "type": "Unknown"
-    },
     "153771": {
       "name": "Heptasky",
       "type": "Cable/DSL/ISP"
@@ -108445,7 +108441,7 @@
       "type": "Content"
     },
     "153515": {
-      "name": "IDNIC-STARLIGHTNETWORK-AS-ID",
+      "name": "PT Bintang Jaringan Indonesia",
       "type": "Unknown"
     },
     "154905": {
@@ -108489,8 +108485,8 @@
       "type": "Unknown"
     },
     "218400": {
-      "name": "BECKER-AS",
-      "type": "Unknown"
+      "name": "COMATIT-AS",
+      "type": "Educational/Research"
     },
     "218399": {
       "name": "ARTHUR-AS",
@@ -108634,7 +108630,7 @@
     },
     "218398": {
       "name": "TOLDI-AS",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "218653": {
       "name": "IBOU SEARCH ENGINE",
@@ -108667,6 +108663,46 @@
     "274456": {
       "name": "274456",
       "type": "Unknown"
+    },
+    "155017": {
+      "name": "IDNIC-SAVIEL-ID",
+      "type": "Content"
+    },
+    "17411": {
+      "name": "IO-GLOBAL-AP",
+      "type": "Unknown"
+    },
+    "154988": {
+      "name": "IDNIC-MEREKAHSUKSES-ID",
+      "type": "Unknown"
+    },
+    "152011": {
+      "name": "IDNIC-GENTING-AS-ID",
+      "type": "Unknown"
+    },
+    "58049": {
+      "name": "ERINIX",
+      "type": "Unknown"
+    },
+    "203862": {
+      "name": "FiberSpeed",
+      "type": "Cable/DSL/ISP"
+    },
+    "218370": {
+      "name": "TWSCONNECT",
+      "type": "Unknown"
+    },
+    "397920": {
+      "name": "EDD-01",
+      "type": "Unknown"
+    },
+    "403112": {
+      "name": "ZeroCopy, Inc.",
+      "type": "Content"
+    },
+    "198979": {
+      "name": "EDGECORE",
+      "type": "Enterprise"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -113258,7 +113294,7 @@
     },
     "202831": {
       "name": "PACKET LOSS LTD",
-      "type": "Content"
+      "type": "NSP"
     },
     "327960": {
       "name": "PC Maniacs",
@@ -122178,7 +122214,7 @@
     },
     "9952": {
       "name": "Hostway IDC",
-      "type": "NSP"
+      "type": "Network Services"
     },
     "54932": {
       "name": "M3 Wireless",
@@ -131984,10 +132020,6 @@
       "name": "Atlantic.net",
       "type": "Content"
     },
-    "205079": {
-      "name": "ziesel.network",
-      "type": "Educational/Research"
-    },
     "269539": {
       "name": "PARA ENERGIA SOLAR LTDA - ME",
       "type": "Cable/DSL/ISP"
@@ -139020,6 +139052,10 @@
       "name": "LYNXNET Pawel Krzaczkowski Krzysztof Malek",
       "type": "Cable/DSL/ISP"
     },
+    "213801": {
+      "name": "NATHANMOORE",
+      "type": "Unknown"
+    },
     "61790": {
       "name": "CETEL",
       "type": "Unknown"
@@ -140302,7 +140338,7 @@
     },
     "216193": {
       "name": "Hyperion Cloud SAS",
-      "type": "Content"
+      "type": "Cable/DSL/ISP"
     },
     "213413": {
       "name": "Michal Pawski",
@@ -141276,6 +141312,10 @@
       "name": "Bitarray GmbH",
       "type": "Educational/Research"
     },
+    "214507": {
+      "name": "SIA \"Puces datorsistemas\"",
+      "type": "Educational/Research"
+    },
     "57222": {
       "name": "HAASE IT",
       "type": "NSP"
@@ -141287,10 +141327,6 @@
     "154468": {
       "name": "LRDF INTERNET SERVICE PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
-    },
-    "204464": {
-      "name": "NextServ - US",
-      "type": "NSP"
     },
     "203534": {
       "name": "On1x",
@@ -142064,6 +142100,10 @@
       "name": "Sakarin Network",
       "type": "Educational/Research"
     },
+    "402663": {
+      "name": "PHOENIXNET-LABS",
+      "type": "Network Services"
+    },
     "219332": {
       "name": "Pmman Network",
       "type": "Non-Profit"
@@ -142380,10 +142420,6 @@
       "name": "Interfere",
       "type": "Enterprise"
     },
-    "218904": {
-      "name": "NextIX - Route Servers",
-      "type": "Route Server"
-    },
     "201328": {
       "name": "Telewizja Kablowa Kolobrzeg",
       "type": "Cable/DSL/ISP"
@@ -142611,6 +142647,10 @@
     "213368": {
       "name": "MarcoBox",
       "type": "Non-Profit"
+    },
+    "329735": {
+      "name": "Enryoc (Pty) Ltd",
+      "type": "NSP"
     },
     "218426": {
       "name": "AS-TRFQ",
