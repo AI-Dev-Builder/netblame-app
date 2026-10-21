@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-20T02:42:48.039Z",
+  "updated_at": "2026-10-21T02:36:43.273Z",
   "source": "PeeringDB",
-  "entry_count": 35672,
+  "entry_count": 35687,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -4321,7 +4321,7 @@
       "type": "Non-Profit"
     },
     "14282": {
-      "name": "PERSIS TELECOM",
+      "name": "ONN MULTIMIDIA LTDA",
       "type": "Cable/DSL/ISP"
     },
     "40015": {
@@ -11116,6 +11116,10 @@
       "name": "Neos Networks",
       "type": "NSP"
     },
+    "41268": {
+      "name": "Sesameware",
+      "type": "Enterprise"
+    },
     "393269": {
       "name": "Dailymotion USA",
       "type": "Content"
@@ -16429,7 +16433,7 @@
       "type": "Cable/DSL/ISP"
     },
     "63859": {
-      "name": "Eka Mas Republik",
+      "name": "PT. Ekamas Mora Republik",
       "type": "Cable/DSL/ISP"
     },
     "53240": {
@@ -22693,7 +22697,7 @@
       "type": "Unknown"
     },
     "28305": {
-      "name": "LGTEL61 INTERNET",
+      "name": "IRED INTERNET LTDA",
       "type": "Cable/DSL/ISP"
     },
     "199413": {
@@ -63657,7 +63661,7 @@
       "type": "Unknown"
     },
     "9816": {
-      "name": "Beijing VCLOUDS UNION Technology Co.",
+      "name": "AIDC-HK",
       "type": "Unknown"
     },
     "199378": {
@@ -77976,6 +77980,10 @@
       "name": "Anodic Telenetwork Private Limited",
       "type": "Cable/DSL/ISP"
     },
+    "197710": {
+      "name": "Keshav_Kumar",
+      "type": "NSP"
+    },
     "273800": {
       "name": "CONNECT INTERNET BANDA LARGA LTDA ME",
       "type": "Unknown"
@@ -82331,6 +82339,10 @@
     "134637": {
       "name": "HerzaNET",
       "type": "Cable/DSL/ISP"
+    },
+    "215598": {
+      "name": "TKM-IX",
+      "type": "Route Server"
     },
     "141639": {
       "name": "Lintas Satu Visi",
@@ -106861,7 +106873,7 @@
       "type": "Unknown"
     },
     "218804": {
-      "name": "MAHMOOD-ALTHAWADI",
+      "name": "Mahmood Althawadi",
       "type": "Educational/Research"
     },
     "218822": {
@@ -108442,7 +108454,7 @@
     },
     "153515": {
       "name": "PT Bintang Jaringan Indonesia",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "154905": {
       "name": "SINADATA",
@@ -108558,7 +108570,7 @@
     },
     "402977": {
       "name": "RPICORP",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "216150": {
       "name": "verdian-cloud",
@@ -108625,7 +108637,7 @@
       "type": "Unknown"
     },
     "152811": {
-      "name": "IDNIC-STNET-ID",
+      "name": "PT SUMATERA TEKNOLOGI NETWORK",
       "type": "Unknown"
     },
     "218398": {
@@ -108654,11 +108666,11 @@
     },
     "275725": {
       "name": "ASN275725",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218388": {
       "name": "LODESTAR",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "274456": {
       "name": "274456",
@@ -108670,7 +108682,7 @@
     },
     "17411": {
       "name": "IO-GLOBAL-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "154988": {
       "name": "IDNIC-MEREKAHSUKSES-ID",
@@ -108682,7 +108694,7 @@
     },
     "58049": {
       "name": "ERINIX",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "203862": {
       "name": "FiberSpeed",
@@ -108703,6 +108715,58 @@
     "198979": {
       "name": "EDGECORE",
       "type": "Enterprise"
+    },
+    "218360": {
+      "name": "NovaMX",
+      "type": "NSP"
+    },
+    "219101": {
+      "name": "JWDB-AS",
+      "type": "Unknown"
+    },
+    "1635": {
+      "name": "WSC-READING",
+      "type": "Unknown"
+    },
+    "135413": {
+      "name": "SSTNTECHNOLOGY-AS-AP",
+      "type": "Unknown"
+    },
+    "218374": {
+      "name": "REZRAF",
+      "type": "Unknown"
+    },
+    "218369": {
+      "name": "TIEMANNITE",
+      "type": "Unknown"
+    },
+    "30102": {
+      "name": "BALDWIN",
+      "type": "Unknown"
+    },
+    "7842": {
+      "name": "WEBWORLD",
+      "type": "Unknown"
+    },
+    "218349": {
+      "name": "HYVESTAR-AS",
+      "type": "Educational/Research"
+    },
+    "204730": {
+      "name": "Flashnet",
+      "type": "Unknown"
+    },
+    "218429": {
+      "name": "GL-AS",
+      "type": "Unknown"
+    },
+    "218346": {
+      "name": "Serverdunyam",
+      "type": "Unknown"
+    },
+    "218357": {
+      "name": "STREETHOSTING LTDA",
+      "type": "Content"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -110976,10 +111040,6 @@
       "name": "Troy Cablevision, Inc.",
       "type": "Cable/DSL/ISP"
     },
-    "41268": {
-      "name": "Sesameware",
-      "type": "Enterprise"
-    },
     "28178": {
       "name": "NWI Telecom",
       "type": "NSP"
@@ -111394,7 +111454,7 @@
     },
     "262150": {
       "name": "EPEC Telecomunicaciones",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "62193": {
       "name": "BCIX Management GmbH",
@@ -141793,7 +141853,7 @@
       "type": "Cable/DSL/ISP"
     },
     "198679": {
-      "name": "RADZI",
+      "name": "MOHD RAFIQ FITRI BIN ABDUL RADZI",
       "type": "Non-Profit"
     },
     "56501": {
@@ -142582,7 +142642,7 @@
     },
     "218681": {
       "name": "GKIM-AS",
-      "type": "NSP"
+      "type": "Content"
     },
     "218593": {
       "name": "TEAMRIVERBUBBLES",
@@ -142593,7 +142653,7 @@
       "type": "Cable/DSL/ISP"
     },
     "218605": {
-      "name": "HamzaDenizYilmaz",
+      "name": "Hamza Deniz Yilmaz",
       "type": "Content"
     },
     "403001": {
