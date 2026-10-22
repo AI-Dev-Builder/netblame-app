@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-21T02:36:43.273Z",
+  "updated_at": "2026-10-22T02:34:11.783Z",
   "source": "PeeringDB",
-  "entry_count": 35687,
+  "entry_count": 35704,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -17965,7 +17965,7 @@
       "type": "Unknown"
     },
     "62172": {
-      "name": "Airbytes (AS62172)",
+      "name": "Airbytes",
       "type": "NSP"
     },
     "198722": {
@@ -23283,10 +23283,6 @@
     "30990": {
       "name": "Djibouti Telecom",
       "type": "NSP"
-    },
-    "204126": {
-      "name": "NET-KOMP Sp. z o. o.",
-      "type": "Cable/DSL/ISP"
     },
     "206593": {
       "name": "Profitbyte",
@@ -44999,6 +44995,10 @@
     "46494": {
       "name": "CHRISCOMCO",
       "type": "Unknown"
+    },
+    "208394": {
+      "name": "ETERNAL-GROUP-DENIZCILIK-EGITIM-MAKINE-DANISMANLIK-DIS-TICARET-LIMITED-SIRKETI",
+      "type": "Educational/Research"
     },
     "10208": {
       "name": "THENET",
@@ -66949,7 +66949,7 @@
       "type": "Cable/DSL/ISP"
     },
     "264976": {
-      "name": "Cyberline Comunicacoes e Serviços LTDA ME",
+      "name": "CYBERLINE",
       "type": "Cable/DSL/ISP"
     },
     "149347": {
@@ -73569,7 +73569,7 @@
       "type": "Unknown"
     },
     "212177": {
-      "name": "Airbytes (AS212177) - Legacy",
+      "name": "Airbytes (Legacy)",
       "type": "NSP"
     },
     "19418": {
@@ -74686,7 +74686,7 @@
     },
     "201148": {
       "name": "Lookin-Link",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "142368": {
       "name": "Global Data Akses Persada",
@@ -77518,7 +77518,7 @@
     },
     "141443": {
       "name": "Habiganj Net Communications",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "17516": {
       "name": "NTTCOMWARE",
@@ -91348,10 +91348,6 @@
       "name": "JetEmail Pty Ltd",
       "type": "Unknown"
     },
-    "151333": {
-      "name": "ASCON TEL (PRIVATE) LIMITED",
-      "type": "Cable/DSL/ISP"
-    },
     "213981": {
       "name": "RTLP",
       "type": "Unknown"
@@ -92321,11 +92317,11 @@
       "type": "Unknown"
     },
     "198373": {
-      "name": "Airbytes (Europe)",
+      "name": "Airbytes (Legacy2)",
       "type": "NSP"
     },
     "401275": {
-      "name": "Airbytes (US)",
+      "name": "Airbytes Americas",
       "type": "NSP"
     },
     "28136": {
@@ -96382,10 +96378,6 @@
     },
     "48269": {
       "name": "Identiqa",
-      "type": "Unknown"
-    },
-    "154200": {
-      "name": "JUJIEDSO FIBR WIRED INTERNET SERVICES",
       "type": "Unknown"
     },
     "36367": {
@@ -100933,7 +100925,7 @@
       "type": "NSP"
     },
     "46082": {
-      "name": "Voltage Park",
+      "name": "Lightning AI",
       "type": "Unknown"
     },
     "208997": {
@@ -101509,7 +101501,7 @@
       "type": "Unknown"
     },
     "39420": {
-      "name": "Airbytes (AS39420)",
+      "name": "Airbytes Europe",
       "type": "NSP"
     },
     "394680": {
@@ -107909,16 +107901,12 @@
       "type": "Unknown"
     },
     "135471": {
-      "name": "IDNIC-BOYOLALIKAB-AS-ID",
+      "name": "DISKOMINFO Boyolali",
       "type": "Unknown"
     },
     "60847": {
       "name": "AUTO-1",
       "type": "Unknown"
-    },
-    "218569": {
-      "name": "Viktor Nesmeianov",
-      "type": "Network Services"
     },
     "43050": {
       "name": "CHOKOLOVKA-AS",
@@ -108662,14 +108650,14 @@
     },
     "218387": {
       "name": "VAINAMO-AS",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "275725": {
       "name": "ASN275725",
       "type": "Cable/DSL/ISP"
     },
     "218388": {
-      "name": "LODESTAR",
+      "name": "LODESTAR NETWORKS",
       "type": "Cable/DSL/ISP"
     },
     "274456": {
@@ -108702,7 +108690,7 @@
     },
     "218370": {
       "name": "TWSCONNECT",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "397920": {
       "name": "EDD-01",
@@ -108767,6 +108755,70 @@
     "218357": {
       "name": "STREETHOSTING LTDA",
       "type": "Content"
+    },
+    "132305": {
+      "name": "PTTNZLIMITED-AS-AP",
+      "type": "Unknown"
+    },
+    "218362": {
+      "name": "OKTA-ASN",
+      "type": "Non-Profit"
+    },
+    "329833": {
+      "name": "ICTNETWORKS (PTY) LTD",
+      "type": "NSP"
+    },
+    "219488": {
+      "name": "Fidelir Security Network",
+      "type": "Enterprise"
+    },
+    "153952": {
+      "name": "HXL-AS-AP",
+      "type": "Unknown"
+    },
+    "215487": {
+      "name": "Tehnomerkez",
+      "type": "Enterprise"
+    },
+    "218351": {
+      "name": "NITROTOL-AS",
+      "type": "Unknown"
+    },
+    "154911": {
+      "name": "NETWORKPARK-AS-AP",
+      "type": "Unknown"
+    },
+    "218330": {
+      "name": "AA-AS",
+      "type": "Unknown"
+    },
+    "135690": {
+      "name": "SHINE994-AS-IN",
+      "type": "Unknown"
+    },
+    "267007": {
+      "name": "ASN267007",
+      "type": "Unknown"
+    },
+    "218321": {
+      "name": "CLOGGEDPIPE",
+      "type": "Unknown"
+    },
+    "218338": {
+      "name": "GRIMM-AS",
+      "type": "Unknown"
+    },
+    "31783": {
+      "name": "SKRC-SOUTH01",
+      "type": "Unknown"
+    },
+    "397370": {
+      "name": "ACADIANA-WIRELESS",
+      "type": "Unknown"
+    },
+    "6936": {
+      "name": "BOOTSTATE",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -114275,6 +114327,10 @@
     "33771": {
       "name": "Safaricom AS33771",
       "type": "NSP"
+    },
+    "204126": {
+      "name": "NET-KOMP Sp. z o. o.",
+      "type": "Cable/DSL/ISP"
     },
     "263025": {
       "name": "ISPTEC Sistemas de Comunicação",
@@ -135705,8 +135761,8 @@
       "type": "Educational/Research"
     },
     "216394": {
-      "name": "NETLEN",
-      "type": "Network Services"
+      "name": "WireShield",
+      "type": "NSP"
     },
     "151770": {
       "name": "Nexflo Communications",
@@ -137826,7 +137882,7 @@
     },
     "214762": {
       "name": "MatHost.eu",
-      "type": "Content"
+      "type": "NSP"
     },
     "214783": {
       "name": "DedicatedNodes",
@@ -139600,6 +139656,10 @@
       "name": "Felicity IDC Limited",
       "type": "Network Services"
     },
+    "151333": {
+      "name": "ASCON TEL (PRIVATE) LIMITED",
+      "type": "Cable/DSL/ISP"
+    },
     "199241": {
       "name": "LH142",
       "type": "Educational/Research"
@@ -140700,6 +140760,10 @@
       "name": "Orbital Network",
       "type": "NSP"
     },
+    "154200": {
+      "name": "JUJIEDSO FIBR WIRED INTERNET SERVICES",
+      "type": "Cable/DSL/ISP"
+    },
     "14291": {
       "name": "Antietam Broadband",
       "type": "Cable/DSL/ISP"
@@ -141590,7 +141654,7 @@
     },
     "63477": {
       "name": "Coniferous Systems (CONIFER-EDGE)",
-      "type": "Educational/Research"
+      "type": "NSP"
     },
     "5116": {
       "name": "Open Pipes Transpeering",
@@ -142659,6 +142723,10 @@
     "403001": {
       "name": "Mirage Global Technologies",
       "type": "NSP"
+    },
+    "218569": {
+      "name": "Viktor Nesmeianov",
+      "type": "Network Services"
     },
     "271494": {
       "name": "Soft Telecom",
