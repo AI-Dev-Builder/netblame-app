@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-22T02:34:11.783Z",
+  "updated_at": "2026-10-23T02:38:41.540Z",
   "source": "PeeringDB",
-  "entry_count": 35704,
+  "entry_count": 35718,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -8794,7 +8794,7 @@
     },
     "6379": {
       "name": "Turtle Systems, LLC",
-      "type": "Enterprise"
+      "type": "Network Services"
     },
     "55651": {
       "name": "DBolical Pty Ltd",
@@ -13623,10 +13623,6 @@
     "4594": {
       "name": "Internet Solutions Limited",
       "type": "NSP"
-    },
-    "37678": {
-      "name": "Botswana Fibre Networks",
-      "type": "Cable/DSL/ISP"
     },
     "198589": {
       "name": "Al-Jazeera Al-Arabiya",
@@ -19998,7 +19994,7 @@
     },
     "30985": {
       "name": "Orange Mali",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "11647": {
       "name": "Sentex Communications",
@@ -22486,6 +22482,10 @@
     },
     "52009": {
       "name": "RAFAL SLAWINSKI SEJNET",
+      "type": "Cable/DSL/ISP"
+    },
+    "132412": {
+      "name": "PT ADIRA MEDIA TEKNOLOGI",
       "type": "Cable/DSL/ISP"
     },
     "202994": {
@@ -46629,7 +46629,7 @@
       "type": "Cable/DSL/ISP"
     },
     "24459": {
-      "name": "NETVALUELTD",
+      "name": "RIMUHOSTING-AS24459",
       "type": "Unknown"
     },
     "263455": {
@@ -51774,6 +51774,10 @@
     },
     "397666": {
       "name": "HostRound",
+      "type": "Unknown"
+    },
+    "206004": {
+      "name": "DOLOMITINET-AS",
       "type": "Unknown"
     },
     "267390": {
@@ -70790,7 +70794,7 @@
     },
     "207598": {
       "name": "iraqcell",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "136878": {
       "name": "ISN",
@@ -71370,7 +71374,7 @@
     },
     "400725": {
       "name": "Zephyr Monitors",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "138025": {
       "name": "RBC CABLE MASTER SYSTEM",
@@ -72778,6 +72782,10 @@
     },
     "142616": {
       "name": "Misaka Network (AS142616)",
+      "type": "Unknown"
+    },
+    "200885": {
+      "name": "koldingnet",
       "type": "Unknown"
     },
     "200882": {
@@ -80462,7 +80470,7 @@
     },
     "149898": {
       "name": "PT Retbizz Exabit Indonesia",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "139202": {
       "name": "Power Media",
@@ -83363,10 +83371,6 @@
     "329416": {
       "name": "W.A.S.P LIMITED",
       "type": "Unknown"
-    },
-    "215191": {
-      "name": "StoneApp Network",
-      "type": "Non-Profit"
     },
     "138046": {
       "name": "INSTITUT BISNIS DAN INFORMATIKA STIKOM SURABAYA",
@@ -87960,6 +87964,10 @@
       "name": "LIKENET LLC",
       "type": "Cable/DSL/ISP"
     },
+    "214622": {
+      "name": "Apple Cache Initiative",
+      "type": "Content"
+    },
     "211235": {
       "name": "ALSAHIN",
       "type": "Unknown"
@@ -90531,10 +90539,6 @@
     "215499": {
       "name": "richard-franks",
       "type": "Unknown"
-    },
-    "215251": {
-      "name": "William Perry",
-      "type": "Network Services"
     },
     "53266": {
       "name": "DFN Systems",
@@ -95545,7 +95549,7 @@
       "type": "NSP"
     },
     "139580": {
-      "name": "RIMU HOSTING",
+      "name": "RIMUHOSTING-AS139580",
       "type": "Unknown"
     },
     "329597": {
@@ -102544,10 +102548,6 @@
       "name": "YFI INTERNET PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
     },
-    "328889": {
-      "name": "MODEM COMPUTER SERVICES",
-      "type": "Enterprise"
-    },
     "198860": {
       "name": "CANTER",
       "type": "Content"
@@ -107736,10 +107736,6 @@
       "name": "Natsom Bilisim Teknolojileri",
       "type": "Enterprise"
     },
-    "402011": {
-      "name": "Braeden LLC",
-      "type": "Government"
-    },
     "402761": {
       "name": "NEUROGRID",
       "type": "Unknown"
@@ -108726,7 +108722,7 @@
     },
     "218369": {
       "name": "TIEMANNITE",
-      "type": "Unknown"
+      "type": "Content"
     },
     "30102": {
       "name": "BALDWIN",
@@ -108758,7 +108754,7 @@
     },
     "132305": {
       "name": "PTTNZLIMITED-AS-AP",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "218362": {
       "name": "OKTA-ASN",
@@ -108788,10 +108784,6 @@
       "name": "NETWORKPARK-AS-AP",
       "type": "Unknown"
     },
-    "218330": {
-      "name": "AA-AS",
-      "type": "Unknown"
-    },
     "135690": {
       "name": "SHINE994-AS-IN",
       "type": "Unknown"
@@ -108806,7 +108798,7 @@
     },
     "218338": {
       "name": "GRIMM-AS",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "31783": {
       "name": "SKRC-SOUTH01",
@@ -108814,10 +108806,62 @@
     },
     "397370": {
       "name": "ACADIANA-WIRELESS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "6936": {
       "name": "BOOTSTATE",
+      "type": "Unknown"
+    },
+    "218324": {
+      "name": "LAB-TRAUMATECH",
+      "type": "Unknown"
+    },
+    "58909": {
+      "name": "ISSPL-IN",
+      "type": "Unknown"
+    },
+    "155022": {
+      "name": "INSERVNETWORK-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "218335": {
+      "name": "NA-FRUCTA",
+      "type": "Unknown"
+    },
+    "58206": {
+      "name": "MDCC-AS",
+      "type": "Unknown"
+    },
+    "274022": {
+      "name": "274022",
+      "type": "Unknown"
+    },
+    "218347": {
+      "name": "AS-NOBELL",
+      "type": "Educational/Research"
+    },
+    "197848": {
+      "name": "NETPOL",
+      "type": "Unknown"
+    },
+    "329822": {
+      "name": "ORG-PFL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "30685": {
+      "name": "KITS-AKR-OH-DC1",
+      "type": "Unknown"
+    },
+    "275034": {
+      "name": "275034",
+      "type": "Unknown"
+    },
+    "18344": {
+      "name": "CNCGROUP-BACKBONE-NORTH",
+      "type": "Unknown"
+    },
+    "155007": {
+      "name": "IDNIC-HARFA-ID",
       "type": "Unknown"
     },
     "22822": {
@@ -111659,6 +111703,10 @@
     "44843": {
       "name": "MSS LLC.",
       "type": "NSP"
+    },
+    "37678": {
+      "name": "Botswana Fibre Networks",
+      "type": "Cable/DSL/ISP"
     },
     "31257": {
       "name": "Orion Telecom",
@@ -129241,7 +129289,7 @@
       "type": "Cable/DSL/ISP"
     },
     "50839": {
-      "name": "Netlayer India Private Limited",
+      "name": "C1V",
       "type": "NSP"
     },
     "142419": {
@@ -133896,10 +133944,6 @@
       "name": "INAAYA IT SOLUTIONS",
       "type": "Enterprise"
     },
-    "400298": {
-      "name": "Madcityservers",
-      "type": "Cable/DSL/ISP"
-    },
     "272851": {
       "name": "GIGA FIBRA",
       "type": "Cable/DSL/ISP"
@@ -134270,10 +134314,6 @@
     },
     "48678": {
       "name": "PENDC",
-      "type": "Content"
-    },
-    "210993": {
-      "name": "SPACECORE OLD",
       "type": "Content"
     },
     "49286": {
@@ -137367,6 +137407,10 @@
     "400400": {
       "name": "Clair Global",
       "type": "Cable/DSL/ISP"
+    },
+    "215191": {
+      "name": "StoneApp Network",
+      "type": "Non-Profit"
     },
     "14219": {
       "name": "ENTRYWAN",
@@ -141896,6 +141940,10 @@
       "name": "Dinas Komunikasi Informatika Statistik Dan Persandian Kota Pekanbaru",
       "type": "Government"
     },
+    "328889": {
+      "name": "MODEM COMPUTER SERVICES",
+      "type": "Enterprise"
+    },
     "402410": {
       "name": "Compatible Network (AS402410)",
       "type": "Cable/DSL/ISP"
@@ -142708,6 +142756,10 @@
       "name": "GKIM-AS",
       "type": "Content"
     },
+    "402011": {
+      "name": "Braeden LLC",
+      "type": "Government"
+    },
     "218593": {
       "name": "TEAMRIVERBUBBLES",
       "type": "Educational/Research"
@@ -142819,6 +142871,10 @@
     "154311": {
       "name": "MEHERPUR BROADBAND",
       "type": "Cable/DSL/ISP"
+    },
+    "218330": {
+      "name": "AA-AS",
+      "type": "Non-Profit"
     }
   }
 }
