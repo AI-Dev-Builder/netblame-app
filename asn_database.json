@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-23T02:38:41.540Z",
+  "updated_at": "2026-10-24T02:36:22.472Z",
   "source": "PeeringDB",
-  "entry_count": 35718,
+  "entry_count": 35729,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -31573,8 +31573,8 @@
       "type": "Educational/Research"
     },
     "203641": {
-      "name": "Inpro Telecomunicaciones",
-      "type": "Cable/DSL/ISP"
+      "name": "B3 Online",
+      "type": "NSP"
     },
     "135639": {
       "name": "John Holland",
@@ -39291,10 +39291,6 @@
     "268490": {
       "name": "A.I.P. INTERNET",
       "type": "Cable/DSL/ISP"
-    },
-    "58750": {
-      "name": "Logic Plus",
-      "type": "Enterprise"
     },
     "268654": {
       "name": "MEGA FIBRA",
@@ -51778,7 +51774,7 @@
     },
     "206004": {
       "name": "DOLOMITINET-AS",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "267390": {
       "name": "POWERTEC TELECOMUNICACOES",
@@ -61064,6 +61060,10 @@
       "name": "DSI Internet",
       "type": "Cable/DSL/ISP"
     },
+    "57197": {
+      "name": "Shaporenko Yuri Nikolaevich",
+      "type": "Cable/DSL/ISP"
+    },
     "5482": {
       "name": "AllPoints Fibre Networks",
       "type": "Cable/DSL/ISP"
@@ -69267,10 +69267,6 @@
     "196739": {
       "name": "Success",
       "type": "Cable/DSL/ISP"
-    },
-    "204214": {
-      "name": "Arpanet",
-      "type": "Enterprise"
     },
     "204235": {
       "name": "Nicoloinvernizzi",
@@ -87092,10 +87088,6 @@
       "name": "NMJ Service Oy",
       "type": "Unknown"
     },
-    "273172": {
-      "name": "INTERCARIBE TV S.A.S.",
-      "type": "Cable/DSL/ISP"
-    },
     "21764": {
       "name": "Clearview Federal Credit Union",
       "type": "Unknown"
@@ -93489,7 +93481,7 @@
       "type": "Cable/DSL/ISP"
     },
     "208743": {
-      "name": "Ali Rayan",
+      "name": "Nordpeer",
       "type": "NSP"
     },
     "151043": {
@@ -98601,8 +98593,8 @@
       "type": "Unknown"
     },
     "136036": {
-      "name": "ThinkEx Holdings Pty Ltd",
-      "type": "Unknown"
+      "name": "efex DC - Adelaide CBD",
+      "type": "Enterprise"
     },
     "401450": {
       "name": "Pluxcon Network USA LLC",
@@ -106066,7 +106058,7 @@
     },
     "219031": {
       "name": "ROXYCLOUD",
-      "type": "Unknown"
+      "type": "Content"
     },
     "275818": {
       "name": "ATIV Internet - AS275818",
@@ -106193,7 +106185,7 @@
       "type": "Unknown"
     },
     "269604": {
-      "name": "JNETCOM TELECOM",
+      "name": "Jnetcom Tecnologia",
       "type": "Unknown"
     },
     "271728": {
@@ -107002,7 +106994,7 @@
     },
     "218796": {
       "name": "GREYWIND-AS",
-      "type": "Educational/Research"
+      "type": "Cable/DSL/ISP"
     },
     "153055": {
       "name": "Tamaraw Vision Network Inc.",
@@ -108252,10 +108244,6 @@
       "name": "PROENKS-TH-AS",
       "type": "Unknown"
     },
-    "218623": {
-      "name": "Lee Wanwoo",
-      "type": "Unknown"
-    },
     "136614": {
       "name": "Prime Parami Technology and Telecom Co.,Ltd.",
       "type": "Unknown"
@@ -108766,7 +108754,7 @@
     },
     "219488": {
       "name": "Fidelir Security Network",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "153952": {
       "name": "HXL-AS-AP",
@@ -108785,8 +108773,8 @@
       "type": "Unknown"
     },
     "135690": {
-      "name": "SHINE994-AS-IN",
-      "type": "Unknown"
+      "name": "Shineplus Networks",
+      "type": "Cable/DSL/ISP"
     },
     "267007": {
       "name": "ASN267007",
@@ -108862,6 +108850,58 @@
     },
     "155007": {
       "name": "IDNIC-HARFA-ID",
+      "type": "Unknown"
+    },
+    "210535": {
+      "name": "LordHosting",
+      "type": "Unknown"
+    },
+    "59418": {
+      "name": "NewTechnologies-AS Telecommunications 21 century LLC",
+      "type": "Cable/DSL/ISP"
+    },
+    "218541": {
+      "name": "Mail.land",
+      "type": "Content"
+    },
+    "56798": {
+      "name": "Hidora",
+      "type": "Unknown"
+    },
+    "329788": {
+      "name": "CSquared Ghana",
+      "type": "Unknown"
+    },
+    "268226": {
+      "name": "ASN268226",
+      "type": "Unknown"
+    },
+    "264526": {
+      "name": "ASN264526",
+      "type": "Cable/DSL/ISP"
+    },
+    "218294": {
+      "name": "INFINITE-HORIZON-NETWORKS",
+      "type": "Unknown"
+    },
+    "271003": {
+      "name": "ASN271003",
+      "type": "Unknown"
+    },
+    "263598": {
+      "name": "ASN263598",
+      "type": "Unknown"
+    },
+    "151847": {
+      "name": "FASTMAILPTYLTD-AS-AP",
+      "type": "Unknown"
+    },
+    "218297": {
+      "name": "VDB",
+      "type": "Unknown"
+    },
+    "218295": {
+      "name": "CHRISSSS-COM",
       "type": "Unknown"
     },
     "22822": {
@@ -129172,10 +129212,6 @@
       "name": "FreeCom",
       "type": "Cable/DSL/ISP"
     },
-    "57197": {
-      "name": "Shaporenko Yuri Nikolaevich",
-      "type": "Cable/DSL/ISP"
-    },
     "140918": {
       "name": "CMKL University",
       "type": "Educational/Research"
@@ -138528,6 +138564,10 @@
       "name": "Infonal",
       "type": "Unknown"
     },
+    "273172": {
+      "name": "INTERCARIBE TV S.A.S.",
+      "type": "Cable/DSL/ISP"
+    },
     "214309": {
       "name": "Aurorix Gaming Solutions Limited",
       "type": "Network Services"
@@ -141646,7 +141686,7 @@
     },
     "402194": {
       "name": "14097335 Canada inc",
-      "type": "Enterprise"
+      "type": "NSP"
     },
     "149616": {
       "name": "Saileelas Internet Service Private Limited",
@@ -142753,7 +142793,7 @@
       "type": "Content"
     },
     "218681": {
-      "name": "GKIM-AS",
+      "name": "Geonwoo Kim ( Xr3azn Networks )",
       "type": "Content"
     },
     "402011": {
@@ -142799,6 +142839,10 @@
     "403010": {
       "name": "NOPING",
       "type": "Unknown"
+    },
+    "218623": {
+      "name": "Lee Wanwoo ( TeamWicked )",
+      "type": "Network Services"
     },
     "215910": {
       "name": "EDMA-NET",
