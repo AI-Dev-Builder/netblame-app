@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-24T02:36:22.472Z",
+  "updated_at": "2026-10-25T02:24:50.055Z",
   "source": "PeeringDB",
-  "entry_count": 35729,
+  "entry_count": 35732,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -78896,10 +78896,6 @@
       "name": "PT Latansa Teknologi Multimedia",
       "type": "Unknown"
     },
-    "140549": {
-      "name": "SHIFT DATA SERVICES INC",
-      "type": "Unknown"
-    },
     "64027": {
       "name": "PT SURYA TEKNIKA PRATAMA",
       "type": "Cable/DSL/ISP"
@@ -91696,10 +91692,6 @@
       "name": "Knox Box Networks",
       "type": "NSP"
     },
-    "135495": {
-      "name": "Independent Telephone Company",
-      "type": "Unknown"
-    },
     "48744": {
       "name": "C-TECHNOLOGY",
       "type": "Unknown"
@@ -97102,10 +97094,6 @@
     },
     "56253": {
       "name": "Bank Tabungan Pensiunan Nasional Tbk",
-      "type": "Unknown"
-    },
-    "215526": {
-      "name": "Shahe Networks",
       "type": "Unknown"
     },
     "152723": {
@@ -107432,10 +107420,6 @@
       "name": "Fibramar Telecomunicações Ltda",
       "type": "Cable/DSL/ISP"
     },
-    "218668": {
-      "name": "CENA-NET",
-      "type": "Unknown"
-    },
     "136089": {
       "name": "IDNIC-MMNET-AS-ID",
       "type": "Unknown"
@@ -107893,8 +107877,8 @@
       "type": "Unknown"
     },
     "60847": {
-      "name": "AUTO-1",
-      "type": "Unknown"
+      "name": "Karel İletişim Hizmetleri A.Ş.",
+      "type": "Content"
     },
     "43050": {
       "name": "CHOKOLOVKA-AS",
@@ -108343,10 +108327,6 @@
     "218444": {
       "name": "Muhammet Eren Karaman",
       "type": "Unknown"
-    },
-    "403060": {
-      "name": "SIGNAL9-LAB-NET",
-      "type": "Enterprise"
     },
     "402697": {
       "name": "IMTX Holdings, LLC",
@@ -108903,6 +108883,38 @@
     "218295": {
       "name": "CHRISSSS-COM",
       "type": "Unknown"
+    },
+    "154979": {
+      "name": "PT DZAKI WAJAH PRIBUMI",
+      "type": "Cable/DSL/ISP"
+    },
+    "219227": {
+      "name": "VANISH-CLOUD-AS",
+      "type": "Network Services"
+    },
+    "153278": {
+      "name": "Wipra One",
+      "type": "Cable/DSL/ISP"
+    },
+    "218404": {
+      "name": "IT-FABIOALESSAN-20261009",
+      "type": "Unknown"
+    },
+    "218301": {
+      "name": "PakaiCloud !",
+      "type": "Unknown"
+    },
+    "267714": {
+      "name": "267714",
+      "type": "Unknown"
+    },
+    "142244": {
+      "name": "IOTAMINE-AS-AP",
+      "type": "Enterprise"
+    },
+    "274997": {
+      "name": "274997",
+      "type": "Network Services"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -113878,7 +113890,7 @@
     },
     "59796": {
       "name": "StormWall",
-      "type": "NSP"
+      "type": "Network Services"
     },
     "132372": {
       "name": "GB Network Solutions",
@@ -128510,7 +128522,7 @@
     },
     "132649": {
       "name": "Adau Putra Network (ADAUNet)",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "269359": {
       "name": "CANAA TELECOMUNICAÇÕES LTDA - ME",
@@ -138274,7 +138286,7 @@
     },
     "43298": {
       "name": "Storm Networks",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "329365": {
       "name": "E-Lapariah",
@@ -138719,10 +138731,6 @@
     "28465": {
       "name": "IX-NN Sociedad Anónima de Capital Variable",
       "type": "Non-Profit"
-    },
-    "215523": {
-      "name": "Yayzi Broadband",
-      "type": "Cable/DSL/ISP"
     },
     "42914": {
       "name": "IMPERIUM Telecom",
@@ -139435,10 +139443,6 @@
     "206014": {
       "name": "RdemSystems",
       "type": "Enterprise"
-    },
-    "153183": {
-      "name": "Gonsoa, Unipessoal, Lda.",
-      "type": "Unknown"
     },
     "270558": {
       "name": "VITWORK COMUNICAÇÃO LTDA",
@@ -142772,6 +142776,10 @@
       "name": "ALEMAL",
       "type": "Educational/Research"
     },
+    "218668": {
+      "name": "CENA-NET",
+      "type": "Unknown"
+    },
     "218654": {
       "name": "SWISH-WORLD",
       "type": "Content"
@@ -142871,6 +142879,10 @@
     "213368": {
       "name": "MarcoBox",
       "type": "Non-Profit"
+    },
+    "403060": {
+      "name": "SIGNAL9-LAB-NET",
+      "type": "Enterprise"
     },
     "329735": {
       "name": "Enryoc (Pty) Ltd",
