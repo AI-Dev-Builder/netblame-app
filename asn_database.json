@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-25T02:24:50.055Z",
+  "updated_at": "2026-10-26T02:24:29.760Z",
   "source": "PeeringDB",
-  "entry_count": 35732,
+  "entry_count": 35738,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -19173,7 +19173,7 @@
       "type": "Enterprise"
     },
     "62068": {
-      "name": "SpectraIP B.V.",
+      "name": "SpectraIP B.V. NL",
       "type": "Cable/DSL/ISP"
     },
     "201942": {
@@ -23562,7 +23562,7 @@
     },
     "197572": {
       "name": "Citynet Marcin Sobala, Piotr Misiuda",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "43861": {
       "name": "Circle B",
@@ -57097,7 +57097,7 @@
       "type": "Unknown"
     },
     "26262": {
-      "name": "Snell & Wilmer",
+      "name": "Circle City Internet",
       "type": "Unknown"
     },
     "19637": {
@@ -87316,10 +87316,6 @@
       "name": "DYRIS",
       "type": "Unknown"
     },
-    "215599": {
-      "name": "★ ZKILLU",
-      "type": "Content"
-    },
     "40285": {
       "name": "NORTHLAND-CABLE",
       "type": "Unknown"
@@ -100022,7 +100018,7 @@
     },
     "401860": {
       "name": "FiberWise LLC",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "206691": {
       "name": "TJ-IX RS",
@@ -106613,7 +106609,7 @@
       "type": "Unknown"
     },
     "218878": {
-      "name": "SpectraIP B.V. (AS218878)",
+      "name": "SpectraIP B.V.",
       "type": "Cable/DSL/ISP"
     },
     "329798": {
@@ -107761,8 +107757,8 @@
       "type": "Unknown"
     },
     "218589": {
-      "name": "Benesjan014",
-      "type": "Unknown"
+      "name": "Noveric.cc",
+      "type": "Content"
     },
     "30027": {
       "name": "STINET-1",
@@ -108915,6 +108911,30 @@
     "274997": {
       "name": "274997",
       "type": "Network Services"
+    },
+    "143": {
+      "name": "OOG1-AS",
+      "type": "Unknown"
+    },
+    "154656": {
+      "name": "Dwarkesh Communication Pvt. Ltd.",
+      "type": "Cable/DSL/ISP"
+    },
+    "17674": {
+      "name": "IWNOC26-NET",
+      "type": "Unknown"
+    },
+    "63084": {
+      "name": "COLOAZ01",
+      "type": "Unknown"
+    },
+    "218327": {
+      "name": "STRAIN-AS",
+      "type": "Unknown"
+    },
+    "200027": {
+      "name": "RDA-TELECOM",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -136569,7 +136589,7 @@
       "type": "Enterprise"
     },
     "21647": {
-      "name": "Lightboard ★ AS21647",
+      "name": "Lightboard ☆ AS21647",
       "type": "Network Services"
     },
     "273079": {
@@ -136702,7 +136722,7 @@
     },
     "62848": {
       "name": "Vermont IX 🍁 Route Servers",
-      "type": "Content"
+      "type": "Route Server"
     },
     "39617": {
       "name": "8086 Consultancy",
@@ -138679,6 +138699,10 @@
     "214790": {
       "name": "Brainoza OU",
       "type": "NSP"
+    },
+    "215599": {
+      "name": "★ ZKILLU",
+      "type": "Content"
     },
     "45691": {
       "name": "DODO",
@@ -141621,8 +141645,8 @@
       "type": "Enterprise"
     },
     "11150": {
-      "name": "American IX ★ Route Servers",
-      "type": "Network Services"
+      "name": "American IX ☆ Route Servers",
+      "type": "Route Server"
     },
     "201423": {
       "name": "Seojun Yun",
@@ -141721,7 +141745,7 @@
       "type": "Cable/DSL/ISP"
     },
     "5096": {
-      "name": "Lightboard Services ★ AS5096",
+      "name": "Lightboard Services ☆ AS5096",
       "type": "Network Services"
     },
     "268036": {
