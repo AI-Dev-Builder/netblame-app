@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-26T02:24:29.760Z",
+  "updated_at": "2026-10-27T02:59:47.248Z",
   "source": "PeeringDB",
-  "entry_count": 35738,
+  "entry_count": 35752,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -14751,10 +14751,6 @@
     "34916": {
       "name": "DIGITAL CONSTRUCTION NETWORK SRL",
       "type": "Cable/DSL/ISP"
-    },
-    "49063": {
-      "name": "LLC Dataline",
-      "type": "NSP"
     },
     "9615": {
       "name": "Toyohashi Cable Network inc.",
@@ -39291,6 +39287,10 @@
     "268490": {
       "name": "A.I.P. INTERNET",
       "type": "Cable/DSL/ISP"
+    },
+    "58750": {
+      "name": "efex DC - Edinburgh Parks",
+      "type": "Enterprise"
     },
     "268654": {
       "name": "MEGA FIBRA",
@@ -66239,6 +66239,10 @@
     "210139": {
       "name": "DPT",
       "type": "Cable/DSL/ISP"
+    },
+    "44439": {
+      "name": "Deksel",
+      "type": "Unknown"
     },
     "263579": {
       "name": "iSUPER Telecom",
@@ -97184,10 +97188,6 @@
       "name": "CICLO TECNOLOGIA DA INFORMACAO LTDA - - ME",
       "type": "Unknown"
     },
-    "154267": {
-      "name": "JMJR ENTERPRISES OPC",
-      "type": "NSP"
-    },
     "43467": {
       "name": "SEC",
       "type": "Unknown"
@@ -98790,7 +98790,7 @@
     },
     "329446": {
       "name": "Boma Rural Connect",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "555": {
       "name": "VTSII",
@@ -99941,7 +99941,7 @@
       "type": "Unknown"
     },
     "204464": {
-      "name": "NextServ - US",
+      "name": "SharedServ Ltd.",
       "type": "NSP"
     },
     "133147": {
@@ -106404,10 +106404,6 @@
       "name": "Hyper Network Technology",
       "type": "Enterprise"
     },
-    "218928": {
-      "name": "Carl Fischer",
-      "type": "Educational/Research"
-    },
     "154844": {
       "name": "DDITSERVICESOPC-AS-AP",
       "type": "Unknown"
@@ -106828,10 +106824,6 @@
       "name": "FOELLMI",
       "type": "NSP"
     },
-    "218805": {
-      "name": "MEDIBUDDY-NET",
-      "type": "Content"
-    },
     "197448": {
       "name": "NTGroupAS",
       "type": "Unknown"
@@ -106977,7 +106969,7 @@
       "type": "Cable/DSL/ISP"
     },
     "218796": {
-      "name": "GREYWIND-AS",
+      "name": "GREYWIND",
       "type": "Cable/DSL/ISP"
     },
     "153055": {
@@ -108542,7 +108534,7 @@
     },
     "139004": {
       "name": "RLCAFENET-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "214944": {
       "name": "SECOPS",
@@ -108678,7 +108670,7 @@
     },
     "135413": {
       "name": "SSTNTECHNOLOGY-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218374": {
       "name": "REZRAF",
@@ -108781,8 +108773,8 @@
       "type": "Unknown"
     },
     "58909": {
-      "name": "ISSPL-IN",
-      "type": "Unknown"
+      "name": "IBEE AS58909",
+      "type": "Content"
     },
     "155022": {
       "name": "INSERVNETWORK-AS-AP",
@@ -108809,7 +108801,7 @@
       "type": "Unknown"
     },
     "329822": {
-      "name": "ORG-PFL1-AFRINIC",
+      "name": "PURPLE FIBER LTD",
       "type": "Unknown"
     },
     "30685": {
@@ -108858,7 +108850,7 @@
     },
     "218294": {
       "name": "INFINITE-HORIZON-NETWORKS",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "271003": {
       "name": "ASN271003",
@@ -108934,6 +108926,54 @@
     },
     "200027": {
       "name": "RDA-TELECOM",
+      "type": "Cable/DSL/ISP"
+    },
+    "218293": {
+      "name": "UNSC",
+      "type": "Educational/Research"
+    },
+    "137325": {
+      "name": "IDNIC-SANBE-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
+    "154813": {
+      "name": "VALONET-AS-AP",
+      "type": "Unknown"
+    },
+    "216346": {
+      "name": "INDC",
+      "type": "Unknown"
+    },
+    "205856": {
+      "name": "AS_polnet24",
+      "type": "NSP"
+    },
+    "269200": {
+      "name": "ASN269200",
+      "type": "Unknown"
+    },
+    "403039": {
+      "name": "KICYA",
+      "type": "Unknown"
+    },
+    "272570": {
+      "name": "ASN272570",
+      "type": "Unknown"
+    },
+    "218667": {
+      "name": "ScherliCom",
+      "type": "Non-Profit"
+    },
+    "275856": {
+      "name": "ASN275856",
+      "type": "Unknown"
+    },
+    "218279": {
+      "name": "DE-LEVINSCHROER-20261024",
+      "type": "Unknown"
+    },
+    "218639": {
+      "name": "CogniTransit",
       "type": "Cable/DSL/ISP"
     },
     "22822": {
@@ -131412,10 +131452,6 @@
       "name": "PITER-IX Rostov Route Servers",
       "type": "Route Server"
     },
-    "44439": {
-      "name": "2Hip Consultancy",
-      "type": "Network Services"
-    },
     "135781": {
       "name": "Vibhuti Networks",
       "type": "Cable/DSL/ISP"
@@ -141008,6 +141044,10 @@
       "name": "HostBilby Inc.",
       "type": "NSP"
     },
+    "154267": {
+      "name": "JMJR ENTERPRISES OPC",
+      "type": "NSP"
+    },
     "207940": {
       "name": "Kupschke",
       "type": "Educational/Research"
@@ -142652,6 +142692,10 @@
       "name": "VERSADC",
       "type": "Content"
     },
+    "218928": {
+      "name": "Carl Fischer",
+      "type": "Educational/Research"
+    },
     "218918": {
       "name": "DATA-INNOVATION-SL",
       "type": "Enterprise"
@@ -142727,6 +142771,10 @@
     "154866": {
       "name": "Airspine",
       "type": "Non-Profit"
+    },
+    "218805": {
+      "name": "STACKLAYER-NET",
+      "type": "Content"
     },
     "218807": {
       "name": "Pixel Networks",
@@ -142955,6 +143003,14 @@
     "218330": {
       "name": "AA-AS",
       "type": "Non-Profit"
+    },
+    "64160": {
+      "name": "64160",
+      "type": "Content"
+    },
+    "218274": {
+      "name": "FBLAB-IT-AS",
+      "type": "Educational/Research"
     }
   }
 }
