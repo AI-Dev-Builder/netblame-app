@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-27T02:59:47.248Z",
+  "updated_at": "2026-10-28T03:10:10.462Z",
   "source": "PeeringDB",
-  "entry_count": 35752,
+  "entry_count": 35770,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -17129,7 +17129,7 @@
       "type": "Content"
     },
     "61775": {
-      "name": "AW Fbra",
+      "name": "AW Fibra",
       "type": "Cable/DSL/ISP"
     },
     "15975": {
@@ -46386,7 +46386,7 @@
     },
     "39568": {
       "name": "ASIA WIRELESS",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "269295": {
       "name": "Wlan Network",
@@ -69564,10 +69564,6 @@
       "name": "Vitosa.net",
       "type": "Cable/DSL/ISP"
     },
-    "203899": {
-      "name": "WJY Network",
-      "type": "Unknown"
-    },
     "204588": {
       "name": "Protegion",
       "type": "Unknown"
@@ -72255,6 +72251,10 @@
     "200435": {
       "name": "Titan Datacenters France",
       "type": "NSP"
+    },
+    "208734": {
+      "name": "ELSA-TECH",
+      "type": "Network Services"
     },
     "141681": {
       "name": "ONDO",
@@ -105022,7 +105022,7 @@
     },
     "199813": {
       "name": "ALPSiX Route Servers",
-      "type": "Unknown"
+      "type": "Route Server"
     },
     "138752": {
       "name": "Starone Broadband",
@@ -105275,6 +105275,10 @@
     "274929": {
       "name": "CHILE IX - IP SERVICES",
       "type": "Unknown"
+    },
+    "219224": {
+      "name": "Neonhost Datacenter LTDA",
+      "type": "Content"
     },
     "273014": {
       "name": "AGUSTINA SERVICIOS GENERALES S.A.C",
@@ -108802,7 +108806,7 @@
     },
     "329822": {
       "name": "PURPLE FIBER LTD",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "30685": {
       "name": "KITS-AKR-OH-DC1",
@@ -108834,7 +108838,7 @@
     },
     "56798": {
       "name": "Hidora",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "329788": {
       "name": "CSquared Ghana",
@@ -108854,7 +108858,7 @@
     },
     "271003": {
       "name": "ASN271003",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "263598": {
       "name": "ASN263598",
@@ -108969,12 +108973,72 @@
       "type": "Unknown"
     },
     "218279": {
-      "name": "DE-LEVINSCHROER-20261024",
-      "type": "Unknown"
+      "name": "Levin Schroeren",
+      "type": "Educational/Research"
     },
     "218639": {
       "name": "CogniTransit",
       "type": "Cable/DSL/ISP"
+    },
+    "155053": {
+      "name": "FOORTYDIGITAL-AS-AP",
+      "type": "Unknown"
+    },
+    "218285": {
+      "name": "BENGOEPFERT",
+      "type": "Unknown"
+    },
+    "155060": {
+      "name": "IRINN-FPLINDAFGO-AS-IN",
+      "type": "Unknown"
+    },
+    "32819": {
+      "name": "ENTITY-SOLUTIONS-LLC",
+      "type": "Content"
+    },
+    "151657": {
+      "name": "KCIXP Route Servers",
+      "type": "Route Server"
+    },
+    "206147": {
+      "name": "ch-lo",
+      "type": "Unknown"
+    },
+    "197182": {
+      "name": "KORE",
+      "type": "Network Services"
+    },
+    "403102": {
+      "name": "SLEEPTIME-NETWORK",
+      "type": "Unknown"
+    },
+    "218268": {
+      "name": "FR-UNIOHOSTASSO-20261024",
+      "type": "Unknown"
+    },
+    "218273": {
+      "name": "Templass",
+      "type": "Network Services"
+    },
+    "218284": {
+      "name": "Lion",
+      "type": "Unknown"
+    },
+    "32684": {
+      "name": "ARIENS",
+      "type": "Unknown"
+    },
+    "329839": {
+      "name": "ORG-PA18-AFRINIC",
+      "type": "Unknown"
+    },
+    "403147": {
+      "name": "DJBOOYA-NETWORKS-01",
+      "type": "Unknown"
+    },
+    "403145": {
+      "name": "VMNODE-AS1",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -113225,7 +113289,7 @@
       "type": "Cable/DSL/ISP"
     },
     "393950": {
-      "name": "Xiber LLC",
+      "name": "Xiber",
       "type": "Cable/DSL/ISP"
     },
     "262713": {
@@ -133592,10 +133656,6 @@
       "name": "WEB MASTER COLOMBIA",
       "type": "Network Services"
     },
-    "208734": {
-      "name": "ELSA-TECH",
-      "type": "NSP"
-    },
     "11080": {
       "name": "Yellowknife Wireless Company",
       "type": "Cable/DSL/ISP"
@@ -142374,7 +142434,7 @@
     },
     "219367": {
       "name": "Andreas Fornberg",
-      "type": "Non-Profit"
+      "type": "Content"
     },
     "219378": {
       "name": "Sakarin Network",
@@ -142482,10 +142542,6 @@
     },
     "219254": {
       "name": "VanIsle-Networks",
-      "type": "NSP"
-    },
-    "219224": {
-      "name": "Neonhost Datacenter LTDA",
       "type": "NSP"
     },
     "219244": {
@@ -142957,7 +143013,7 @@
       "type": "Enterprise"
     },
     "329735": {
-      "name": "Enryoc (Pty) Ltd",
+      "name": "Enryoc",
       "type": "NSP"
     },
     "218426": {
@@ -143009,8 +143065,24 @@
       "type": "Content"
     },
     "218274": {
-      "name": "FBLAB-IT-AS",
+      "name": "AS-FBLAB-IT",
       "type": "Educational/Research"
+    },
+    "23672": {
+      "name": "IBSYS-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
+    "141922": {
+      "name": "Agsa Global Network, PT",
+      "type": "Cable/DSL/ISP"
+    },
+    "41665": {
+      "name": "WJY (Hong Kong) Limited",
+      "type": "Cable/DSL/ISP"
+    },
+    "274245": {
+      "name": "274245",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
