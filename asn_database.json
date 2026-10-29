@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-28T03:10:10.462Z",
+  "updated_at": "2026-10-29T03:35:50.994Z",
   "source": "PeeringDB",
-  "entry_count": 35770,
+  "entry_count": 35778,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -20714,10 +20714,6 @@
     },
     "201986": {
       "name": "ArpiNet AS201986",
-      "type": "Cable/DSL/ISP"
-    },
-    "11014": {
-      "name": "CPS",
       "type": "Cable/DSL/ISP"
     },
     "45015": {
@@ -57098,7 +57094,7 @@
     },
     "26262": {
       "name": "Circle City Internet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "19637": {
       "name": "Avago Technologies",
@@ -59347,10 +59343,6 @@
     "208544": {
       "name": "Pautina05",
       "type": "Cable/DSL/ISP"
-    },
-    "141884": {
-      "name": "Immerse Networks Limited",
-      "type": "Network Services"
     },
     "398270": {
       "name": "HCWIRELESS",
@@ -83404,6 +83396,10 @@
       "name": "JianyueLab Global Backbone",
       "type": "Cable/DSL/ISP"
     },
+    "215236": {
+      "name": "Julian Huhn",
+      "type": "Educational/Research"
+    },
     "267174": {
       "name": "Powernet Telecom AS267174",
       "type": "Unknown"
@@ -84286,7 +84282,7 @@
     },
     "149734": {
       "name": "PEDEE",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "207630": {
       "name": "MEKOS",
@@ -93064,10 +93060,6 @@
       "name": "PT Reach Network Services Indonesia (Telstra International)",
       "type": "NSP"
     },
-    "214966": {
-      "name": "Wetterskip Fryslan",
-      "type": "Unknown"
-    },
     "225": {
       "name": "University of Virginia",
       "type": "Unknown"
@@ -99419,10 +99411,6 @@
     "18908": {
       "name": "Technology & Business Solutions",
       "type": "Unknown"
-    },
-    "22665": {
-      "name": "UNGAGE",
-      "type": "Content"
     },
     "208111": {
       "name": "baremetal.ae",
@@ -107292,10 +107280,6 @@
       "name": "BITRATE LLC",
       "type": "Unknown"
     },
-    "218766": {
-      "name": "HDS-AS",
-      "type": "Network Services"
-    },
     "218813": {
       "name": "MEDIATRIPLE",
       "type": "Unknown"
@@ -107810,10 +107794,6 @@
     },
     "54581": {
       "name": "JLANSKA-DESIGN",
-      "type": "Unknown"
-    },
-    "275749": {
-      "name": "ASN275749",
       "type": "Unknown"
     },
     "11424": {
@@ -108500,10 +108480,6 @@
       "name": "JURIS-AS",
       "type": "Unknown"
     },
-    "268890": {
-      "name": "ASTERNET SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
-      "type": "Unknown"
-    },
     "403063": {
       "name": "SWNETWORK-CUSTOMER",
       "type": "Network Services"
@@ -108853,7 +108829,7 @@
       "type": "Cable/DSL/ISP"
     },
     "218294": {
-      "name": "INFINITE-HORIZON-NETWORKS",
+      "name": "MERIDIAN-BACKBONE",
       "type": "Educational/Research"
     },
     "271003": {
@@ -108866,7 +108842,7 @@
     },
     "151847": {
       "name": "FASTMAILPTYLTD-AS-AP",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "218297": {
       "name": "VDB",
@@ -108889,7 +108865,7 @@
       "type": "Cable/DSL/ISP"
     },
     "218404": {
-      "name": "IT-FABIOALESSAN-20261009",
+      "name": "AS218404.net",
       "type": "Unknown"
     },
     "218301": {
@@ -108982,7 +108958,7 @@
     },
     "155053": {
       "name": "FOORTYDIGITAL-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218285": {
       "name": "BENGOEPFERT",
@@ -109022,7 +108998,7 @@
     },
     "218284": {
       "name": "Lion",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "32684": {
       "name": "ARIENS",
@@ -109038,6 +109014,38 @@
     },
     "403145": {
       "name": "VMNODE-AS1",
+      "type": "Unknown"
+    },
+    "61436": {
+      "name": "LANTA-AS",
+      "type": "Unknown"
+    },
+    "206176": {
+      "name": "greenedge",
+      "type": "Unknown"
+    },
+    "154959": {
+      "name": "PT Andika Komunika Tama",
+      "type": "Cable/DSL/ISP"
+    },
+    "136128": {
+      "name": "IDNIC-CITRAINDO-AS-ID",
+      "type": "Unknown"
+    },
+    "218258": {
+      "name": "ZIPBIT",
+      "type": "Unknown"
+    },
+    "84": {
+      "name": "DNIC-AS-00084",
+      "type": "Unknown"
+    },
+    "155039": {
+      "name": "IDNIC-MANIKSARI-ID",
+      "type": "Unknown"
+    },
+    "329220": {
+      "name": "ORG-DOE1-AFRINIC",
       "type": "Unknown"
     },
     "22822": {
@@ -113914,6 +113922,10 @@
     },
     "197615": {
       "name": "NaszaSiec.NET Krakow Damian Murzynowski",
+      "type": "Cable/DSL/ISP"
+    },
+    "11014": {
+      "name": "Metrotel Argentina",
       "type": "Cable/DSL/ISP"
     },
     "200594": {
@@ -128700,6 +128712,10 @@
       "name": "TIH-TW",
       "type": "Unknown"
     },
+    "141884": {
+      "name": "Immerse Networks Limited",
+      "type": "Network Services"
+    },
     "141776": {
       "name": "Baoshuo Network",
       "type": "Educational/Research"
@@ -137588,10 +137604,6 @@
       "name": "iNET SOLUTIONS",
       "type": "Cable/DSL/ISP"
     },
-    "215236": {
-      "name": "Julian Huhn",
-      "type": "Educational/Research"
-    },
     "135529": {
       "name": "Interlink Telecom Public Company Limited",
       "type": "Unknown"
@@ -140219,6 +140231,10 @@
     "153100": {
       "name": "JENTRE NET",
       "type": "NSP"
+    },
+    "214966": {
+      "name": "Wetterskip Fryslan",
+      "type": "Government"
     },
     "135649": {
       "name": "PT Apci Network Solutions",
@@ -142892,6 +142908,10 @@
       "name": "Taipei101 Mobile (UK)",
       "type": "Cable/DSL/ISP"
     },
+    "218766": {
+      "name": "HDS-AS",
+      "type": "Network Services"
+    },
     "31806": {
       "name": "TERRIBLE-NETWORK",
       "type": "NSP"
@@ -143048,6 +143068,10 @@
       "name": "PT Aulia Solusi Internet",
       "type": "Cable/DSL/ISP"
     },
+    "268890": {
+      "name": "ASTERNET SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
+      "type": "Cable/DSL/ISP"
+    },
     "62748": {
       "name": "Cathrix Network",
       "type": "Cable/DSL/ISP"
@@ -143072,6 +143096,10 @@
       "name": "IBSYS-AS-AP",
       "type": "Cable/DSL/ISP"
     },
+    "202084": {
+      "name": "Jan Schuerlein trading as \"Schuerlein IT\"",
+      "type": "Content"
+    },
     "141922": {
       "name": "Agsa Global Network, PT",
       "type": "Cable/DSL/ISP"
@@ -143083,6 +143111,10 @@
     "274245": {
       "name": "274245",
       "type": "Cable/DSL/ISP"
+    },
+    "218255": {
+      "name": "FPLNET",
+      "type": "Non-Profit"
     }
   }
 }
