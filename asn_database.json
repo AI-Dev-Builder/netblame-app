@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-29T03:35:50.994Z",
+  "updated_at": "2026-10-30T03:39:11.659Z",
   "source": "PeeringDB",
-  "entry_count": 35778,
+  "entry_count": 35790,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1463,6 +1463,10 @@
     "30212": {
       "name": "Hypermedia Systems",
       "type": "Content"
+    },
+    "40064": {
+      "name": "AMATEUR-IX",
+      "type": "Route Server"
     },
     "22384": {
       "name": "NationalNet, Inc.",
@@ -4374,7 +4378,7 @@
     },
     "11664": {
       "name": "CLARO ARGENTINA",
-      "type": "Cable/DSL/ISP"
+      "type": "Content"
     },
     "34762": {
       "name": "Combell",
@@ -37572,10 +37576,6 @@
       "name": "TSS SOFTWARE",
       "type": "Cable/DSL/ISP"
     },
-    "264326": {
-      "name": "ATIVA NETWORK",
-      "type": "Unknown"
-    },
     "132573": {
       "name": "SAI NGN Network Services",
       "type": "Cable/DSL/ISP"
@@ -41450,7 +41450,7 @@
     },
     "266185": {
       "name": "Spin Telecomunicaes",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "27313": {
       "name": "Spencer Stuart",
@@ -46710,10 +46710,6 @@
     },
     "328562": {
       "name": "Swift Connect",
-      "type": "Cable/DSL/ISP"
-    },
-    "269425": {
-      "name": "RN TELECOMUNICACOES",
       "type": "Cable/DSL/ISP"
     },
     "208108": {
@@ -53647,6 +53643,10 @@
     "64120": {
       "name": "NOCPERU-LATIN TECHNOLOGIES",
       "type": "Enterprise"
+    },
+    "140946": {
+      "name": "IDNIC-LCNET-AS-ID",
+      "type": "Educational/Research"
     },
     "140926": {
       "name": "251 Research Redive",
@@ -66419,6 +66419,10 @@
     "393240": {
       "name": "BTWI Wireless Internet",
       "type": "Unknown"
+    },
+    "400304": {
+      "name": "Synteq",
+      "type": "Content"
     },
     "48732": {
       "name": "PEERES-TELECOM",
@@ -86744,10 +86748,6 @@
       "name": "Cloudnet Technologies",
       "type": "Educational/Research"
     },
-    "152878": {
-      "name": "Luna",
-      "type": "Unknown"
-    },
     "270173": {
       "name": "IXSY Public Services",
       "type": "Network Services"
@@ -92184,6 +92184,10 @@
       "name": "Pathfinder Broadband",
       "type": "Unknown"
     },
+    "40419": {
+      "name": "Austin Hadley 40419",
+      "type": "Unknown"
+    },
     "151999": {
       "name": "Aris Media Globalindo",
       "type": "Cable/DSL/ISP"
@@ -93463,10 +93467,6 @@
     "152799": {
       "name": "IDNIC-WARPIKNET-AS-ID",
       "type": "Cable/DSL/ISP"
-    },
-    "208743": {
-      "name": "Nordpeer",
-      "type": "NSP"
     },
     "151043": {
       "name": "PT Lintas Data Internasional",
@@ -99412,6 +99412,10 @@
       "name": "Technology & Business Solutions",
       "type": "Unknown"
     },
+    "22665": {
+      "name": "Swiftlet",
+      "type": "Content"
+    },
     "208111": {
       "name": "baremetal.ae",
       "type": "Enterprise"
@@ -101015,10 +101019,6 @@
     "400848": {
       "name": "DHI9PUT",
       "type": "Content"
-    },
-    "203991": {
-      "name": "Hainan Jinzhao Biotechnology Co. Ltd.",
-      "type": "Educational/Research"
     },
     "154523": {
       "name": "PT Ali Telematika Nusantara",
@@ -105242,7 +105242,7 @@
     },
     "38630": {
       "name": "Natsumegu Networks",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "274909": {
       "name": "CONECTADOS",
@@ -105453,8 +105453,8 @@
       "type": "Unknown"
     },
     "219443": {
-      "name": "Daneberg-AS",
-      "type": "Unknown"
+      "name": "Ascella Network",
+      "type": "Network Services"
     },
     "274311": {
       "name": "INTEROS - INTERNET SERVICE SAS",
@@ -108778,7 +108778,7 @@
     },
     "197848": {
       "name": "NETPOL",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "329822": {
       "name": "PURPLE FIBER LTD",
@@ -108992,10 +108992,6 @@
       "name": "FR-UNIOHOSTASSO-20261024",
       "type": "Unknown"
     },
-    "218273": {
-      "name": "Templass",
-      "type": "Network Services"
-    },
     "218284": {
       "name": "Lion",
       "type": "Enterprise"
@@ -109034,7 +109030,7 @@
     },
     "218258": {
       "name": "ZIPBIT",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "84": {
       "name": "DNIC-AS-00084",
@@ -109046,6 +109042,66 @@
     },
     "329220": {
       "name": "ORG-DOE1-AFRINIC",
+      "type": "Unknown"
+    },
+    "141473": {
+      "name": "JESSOREIT-AS-AP",
+      "type": "Unknown"
+    },
+    "273424": {
+      "name": "ASN273424",
+      "type": "Unknown"
+    },
+    "329700": {
+      "name": "ORG-SN1-AFRINIC",
+      "type": "Unknown"
+    },
+    "402554": {
+      "name": "FFxF",
+      "type": "Content"
+    },
+    "218247": {
+      "name": "kommunit",
+      "type": "Government"
+    },
+    "218248": {
+      "name": "GavinPhratsachack",
+      "type": "Educational/Research"
+    },
+    "271977": {
+      "name": "271977",
+      "type": "Unknown"
+    },
+    "219451": {
+      "name": "justinbrugmann",
+      "type": "Unknown"
+    },
+    "201898": {
+      "name": "AS-BLUEWAVE",
+      "type": "Unknown"
+    },
+    "218243": {
+      "name": "EPICJUMP-SYSTEMS",
+      "type": "Unknown"
+    },
+    "155066": {
+      "name": "IDNIC-JIANNETWORK-ID",
+      "type": "Unknown"
+    },
+    "39961": {
+      "name": "CCSF",
+      "type": "Unknown"
+    },
+    "395011": {
+      "name": "SF-PSN",
+      "type": "Unknown"
+    },
+    "218277": {
+      "name": "MTXNET",
+      "type": "Content"
+    },
+    "133033": {
+      "name": "VPSQUAN-AS-AP",
       "type": "Unknown"
     },
     "22822": {
@@ -117492,10 +117548,6 @@
       "name": "FIBRAWORLD TELECOM S.A.U. AS200738",
       "type": "Cable/DSL/ISP"
     },
-    "267102": {
-      "name": "CONECTA INTERNET",
-      "type": "Unknown"
-    },
     "134160": {
       "name": "Vine Networks Pty Ltd",
       "type": "Cable/DSL/ISP"
@@ -122626,7 +122678,7 @@
     },
     "267348": {
       "name": "FC Telecomunicações",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "18053": {
       "name": "Special Communication Organization",
@@ -126075,10 +126127,6 @@
     "61786": {
       "name": "E.D.SERVIÇOS DE COMUNICAÇÕES",
       "type": "NSP"
-    },
-    "270857": {
-      "name": "G.F. SERVICOS DE COMUNICACAO LTDA",
-      "type": "Cable/DSL/ISP"
     },
     "64029": {
       "name": "RAMA WIMA NUSANTARA",
@@ -131590,10 +131638,6 @@
     },
     "209669": {
       "name": "PRIMO NETWORK",
-      "type": "Content"
-    },
-    "400304": {
-      "name": "Synteq",
       "type": "Content"
     },
     "209018": {
@@ -138940,6 +138984,10 @@
       "name": "IETF-MEETING",
       "type": "NSP"
     },
+    "17290": {
+      "name": "Austin Hadley",
+      "type": "Educational/Research"
+    },
     "7403": {
       "name": "COLBANET",
       "type": "NSP"
@@ -140312,6 +140360,10 @@
       "name": "HerrTxbias",
       "type": "Educational/Research"
     },
+    "208743": {
+      "name": "Nordpeer",
+      "type": "NSP"
+    },
     "214693": {
       "name": "FUSIORA",
       "type": "Content"
@@ -141432,10 +141484,6 @@
       "name": "Aiko Appeldorn",
       "type": "Educational/Research"
     },
-    "135046": {
-      "name": "TAIZTEL (PRIVATE) LIMITED",
-      "type": "Unknown"
-    },
     "1046": {
       "name": "Fiberifi",
       "type": "Cable/DSL/ISP"
@@ -141940,6 +141988,10 @@
       "name": "Sculk Ltd",
       "type": "Network Services"
     },
+    "203991": {
+      "name": "Hainan Jinzhao Biotechnology Co. Ltd.",
+      "type": "Educational/Research"
+    },
     "154181": {
       "name": "ROYAL INTERNET ACCESS PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
@@ -142059,10 +142111,6 @@
     "208665": {
       "name": "Gareth Pulham",
       "type": "Unknown"
-    },
-    "199746": {
-      "name": "V6Direct",
-      "type": "NSP"
     },
     "200841": {
       "name": "Livesoft",
