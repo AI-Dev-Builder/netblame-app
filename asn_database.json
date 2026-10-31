@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-30T03:39:11.659Z",
+  "updated_at": "2026-10-31T03:23:37.903Z",
   "source": "PeeringDB",
-  "entry_count": 35790,
+  "entry_count": 35800,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -20249,8 +20249,8 @@
       "type": "Cable/DSL/ISP"
     },
     "327761": {
-      "name": "Access Point Technologies",
-      "type": "NSP"
+      "name": "Oxygn ISP (Pty) Ltd",
+      "type": "Cable/DSL/ISP"
     },
     "51399": {
       "name": "Fiberway",
@@ -31852,6 +31852,10 @@
       "name": "INTEREDE TELECOM",
       "type": "Cable/DSL/ISP"
     },
+    "39753": {
+      "name": "Liuxyon",
+      "type": "Non-Profit"
+    },
     "51947": {
       "name": "GeCom",
       "type": "Cable/DSL/ISP"
@@ -34361,7 +34365,7 @@
       "type": "Cable/DSL/ISP"
     },
     "262545": {
-      "name": "Mandic",
+      "name": "AS262545",
       "type": "Unknown"
     },
     "266633": {
@@ -64017,7 +64021,7 @@
       "type": "Cable/DSL/ISP"
     },
     "47865": {
-      "name": "Inter.link Research and Bug Hunting",
+      "name": "Inter.link Research",
       "type": "Unknown"
     },
     "401307": {
@@ -82832,10 +82836,6 @@
       "name": "Jeffsworld Networks LLC",
       "type": "Educational/Research"
     },
-    "215343": {
-      "name": "Minjae's Network",
-      "type": "Cable/DSL/ISP"
-    },
     "23818": {
       "name": "JETINTERNET Corporation",
       "type": "Cable/DSL/ISP"
@@ -98717,7 +98717,7 @@
       "type": "Unknown"
     },
     "401927": {
-      "name": "NANA NET, LLC",
+      "name": "NANA NET",
       "type": "Cable/DSL/ISP"
     },
     "265384": {
@@ -99342,10 +99342,6 @@
     },
     "139940": {
       "name": "Dinas Komunikasi dan Informatika Kabupaten Sampang",
-      "type": "Unknown"
-    },
-    "154408": {
-      "name": "URLSTART",
       "type": "Unknown"
     },
     "142169": {
@@ -101671,10 +101667,6 @@
     "36903": {
       "name": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
       "type": "Unknown"
-    },
-    "402028": {
-      "name": "Zephyr Broadband, LLC",
-      "type": "Cable/DSL/ISP"
     },
     "200677": {
       "name": "HACK-DV",
@@ -108478,7 +108470,7 @@
     },
     "41298": {
       "name": "JURIS-AS",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "403063": {
       "name": "SWNETWORK-CUSTOMER",
@@ -108894,7 +108886,7 @@
     },
     "17674": {
       "name": "IWNOC26-NET",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "63084": {
       "name": "COLOAZ01",
@@ -109064,10 +109056,6 @@
       "name": "kommunit",
       "type": "Government"
     },
-    "218248": {
-      "name": "GavinPhratsachack",
-      "type": "Educational/Research"
-    },
     "271977": {
       "name": "271977",
       "type": "Unknown"
@@ -109102,6 +109090,50 @@
     },
     "133033": {
       "name": "VPSQUAN-AS-AP",
+      "type": "Unknown"
+    },
+    "46953": {
+      "name": "INCLEAF",
+      "type": "Unknown"
+    },
+    "218242": {
+      "name": "ZDUNEK-DEV",
+      "type": "Unknown"
+    },
+    "19047": {
+      "name": "AWS-01",
+      "type": "Unknown"
+    },
+    "26900": {
+      "name": "LPS-6",
+      "type": "Unknown"
+    },
+    "218240": {
+      "name": "TATNET",
+      "type": "Unknown"
+    },
+    "23155": {
+      "name": "HTC-NET",
+      "type": "Cable/DSL/ISP"
+    },
+    "218239": {
+      "name": "ANTIDDOS-NETWORKS-AS",
+      "type": "Unknown"
+    },
+    "11761": {
+      "name": "KKCLOUD-LLC",
+      "type": "NSP"
+    },
+    "218235": {
+      "name": "xcom1710.hamburg",
+      "type": "Unknown"
+    },
+    "218476": {
+      "name": "Reiner-IT-AS",
+      "type": "Enterprise"
+    },
+    "402294": {
+      "name": "RT-NET",
       "type": "Unknown"
     },
     "22822": {
@@ -109249,7 +109281,7 @@
       "type": "Cable/DSL/ISP"
     },
     "24098": {
-      "name": "Brody Stockel",
+      "name": "Bordy Stockel",
       "type": "Cable/DSL/ISP"
     },
     "29670": {
@@ -117127,10 +117159,6 @@
     "14397": {
       "name": "1st Class Hosting",
       "type": "Content"
-    },
-    "39753": {
-      "name": "Liuxyon",
-      "type": "Non-Profit"
     },
     "205081": {
       "name": "EasyDataHost",
@@ -137654,7 +137682,7 @@
     },
     "215219": {
       "name": "Florian Berthold trading as Sub-Net e.U.",
-      "type": "Educational/Research"
+      "type": "NSP"
     },
     "215168": {
       "name": "FurITSystems",
@@ -140361,7 +140389,7 @@
       "type": "Educational/Research"
     },
     "208743": {
-      "name": "Nordpeer",
+      "name": "Templass",
       "type": "NSP"
     },
     "214693": {
@@ -141612,6 +141640,10 @@
       "name": "Michael Bussmann",
       "type": "NSP"
     },
+    "154408": {
+      "name": "URLSTART",
+      "type": "Cable/DSL/ISP"
+    },
     "153252": {
       "name": "Rg Communications Private Limited",
       "type": "Unknown"
@@ -142091,6 +142123,10 @@
     "200085": {
       "name": "WeilNet, LLC",
       "type": "Educational/Research"
+    },
+    "402028": {
+      "name": "Zephyr Broadband, LLC",
+      "type": "Cable/DSL/ISP"
     },
     "131651": {
       "name": "Lazco R&E Network",
@@ -143163,6 +143199,10 @@
     "218255": {
       "name": "FPLNET",
       "type": "Non-Profit"
+    },
+    "218248": {
+      "name": "GavinPhratsachack",
+      "type": "Educational/Research"
     }
   }
 }
