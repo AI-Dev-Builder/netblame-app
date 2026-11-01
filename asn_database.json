@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-31T03:23:37.903Z",
+  "updated_at": "2026-11-01T03:23:47.635Z",
   "source": "PeeringDB",
-  "entry_count": 35800,
+  "entry_count": 35802,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -8428,10 +8428,6 @@
       "name": "Nonattached Network",
       "type": "Non-Profit"
     },
-    "55865": {
-      "name": "Satellite Communications Australia",
-      "type": "Cable/DSL/ISP"
-    },
     "6776": {
       "name": "TheNet - Internet Services AG",
       "type": "Cable/DSL/ISP"
@@ -12611,10 +12607,6 @@
     "28110": {
       "name": "Rack Lodge",
       "type": "Content"
-    },
-    "28368": {
-      "name": "SOBRAL TELECOMUNICACOES LTDA",
-      "type": "Cable/DSL/ISP"
     },
     "10733": {
       "name": "SBA EDGE",
@@ -39938,10 +39930,6 @@
     },
     "51798": {
       "name": "MSWSI",
-      "type": "Unknown"
-    },
-    "199572": {
-      "name": "Setevye technologii",
       "type": "Unknown"
     },
     "50471": {
@@ -76580,10 +76568,6 @@
       "name": "Nevigate Global Network (Australia) Pty Ltd",
       "type": "Unknown"
     },
-    "151338": {
-      "name": "POLONETWORK",
-      "type": "Cable/DSL/ISP"
-    },
     "28974": {
       "name": "ACTIVE OPERATIONS",
       "type": "Unknown"
@@ -78770,10 +78754,6 @@
     },
     "266146": {
       "name": "Inove Telecom",
-      "type": "Cable/DSL/ISP"
-    },
-    "268973": {
-      "name": "B C NET TELECOM",
       "type": "Cable/DSL/ISP"
     },
     "271005": {
@@ -82835,6 +82815,10 @@
     "395522": {
       "name": "Jeffsworld Networks LLC",
       "type": "Educational/Research"
+    },
+    "215343": {
+      "name": "Minjae's Network",
+      "type": "Cable/DSL/ISP"
     },
     "23818": {
       "name": "JETINTERNET Corporation",
@@ -87038,7 +87022,7 @@
     },
     "214329": {
       "name": "BGP Network LLC",
-      "type": "Cable/DSL/ISP"
+      "type": "Content"
     },
     "201896": {
       "name": "MEDIACTIVE 24/7",
@@ -90529,7 +90513,7 @@
       "type": "Unknown"
     },
     "213622": {
-      "name": "Falcon Global Networks",
+      "name": "Falcon Network",
       "type": "NSP"
     },
     "401593": {
@@ -92185,8 +92169,8 @@
       "type": "Unknown"
     },
     "40419": {
-      "name": "Austin Hadley 40419",
-      "type": "Unknown"
+      "name": "NullCloud - AS40419",
+      "type": "Content"
     },
     "151999": {
       "name": "Aris Media Globalindo",
@@ -93167,6 +93151,10 @@
     "269544": {
       "name": "TWISTNET TELECOMUNICACOES LTDA",
       "type": "Unknown"
+    },
+    "212683": {
+      "name": "Olilo",
+      "type": "Cable/DSL/ISP"
     },
     "1363": {
       "name": "NNIC AS1363",
@@ -95676,10 +95664,6 @@
       "name": "AS396186 Project",
       "type": "Educational/Research"
     },
-    "207567": {
-      "name": "Intezio Worldwide",
-      "type": "Unknown"
-    },
     "212788": {
       "name": "Edge Network Technologies",
       "type": "Unknown"
@@ -95690,7 +95674,7 @@
     },
     "205621": {
       "name": "ZENTRIAOU",
-      "type": "Unknown"
+      "type": "Content"
     },
     "153150": {
       "name": "Gerbang Nasional Akses Prima",
@@ -97073,7 +97057,7 @@
       "type": "Unknown"
     },
     "154262": {
-      "name": "Your Tech Electronics and Your Shop Enterprise",
+      "name": "SMJ3 Corporation",
       "type": "Cable/DSL/ISP"
     },
     "398182": {
@@ -97393,7 +97377,7 @@
       "type": "Cable/DSL/ISP"
     },
     "152873": {
-      "name": "Neodyland",
+      "name": "NEODY-NET",
       "type": "Educational/Research"
     },
     "132061": {
@@ -97791,10 +97775,6 @@
     "202411": {
       "name": "FLOW-ZRH2",
       "type": "Unknown"
-    },
-    "204211": {
-      "name": "LoCyan Network",
-      "type": "Enterprise"
     },
     "267347": {
       "name": "PEGASUS",
@@ -103772,10 +103752,6 @@
       "name": "Beltran Gallego Gutierrez",
       "type": "Unknown"
     },
-    "154092": {
-      "name": "PT Artha Teknologi Inovasi",
-      "type": "Cable/DSL/ISP"
-    },
     "64005": {
       "name": "KaritKarma",
       "type": "Unknown"
@@ -103822,7 +103798,7 @@
     },
     "151698": {
       "name": "GREEN WEB SOFTWARE DEVELOPMENT PRIVATE LIMITED",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "198474": {
       "name": "Stefan Stevanovic",
@@ -105825,8 +105801,8 @@
       "type": "Unknown"
     },
     "219094": {
-      "name": "MCDADE",
-      "type": "Unknown"
+      "name": "William McDade",
+      "type": "Content"
     },
     "154578": {
       "name": "LEAPDIGITALS-AS-AP",
@@ -109040,10 +109016,6 @@
       "name": "JESSOREIT-AS-AP",
       "type": "Unknown"
     },
-    "273424": {
-      "name": "ASN273424",
-      "type": "Unknown"
-    },
     "329700": {
       "name": "ORG-SN1-AFRINIC",
       "type": "Unknown"
@@ -109118,7 +109090,7 @@
     },
     "218239": {
       "name": "ANTIDDOS-NETWORKS-AS",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "11761": {
       "name": "KKCLOUD-LLC",
@@ -109135,6 +109107,30 @@
     "402294": {
       "name": "RT-NET",
       "type": "Unknown"
+    },
+    "154777": {
+      "name": "PT Mata Artha Digital",
+      "type": "Unknown"
+    },
+    "154734": {
+      "name": "PT Media Borneo Global",
+      "type": "Unknown"
+    },
+    "152717": {
+      "name": "PT ALLNETWORK DIGITAL INDONESIA",
+      "type": "Unknown"
+    },
+    "219178": {
+      "name": "BOGERTDEV",
+      "type": "Unknown"
+    },
+    "272434": {
+      "name": "ASN272434",
+      "type": "Unknown"
+    },
+    "218343": {
+      "name": "TERRANETWORKS-AS",
+      "type": "Enterprise"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -130202,7 +130198,7 @@
     },
     "210890": {
       "name": "ROKR Services BV",
-      "type": "Educational/Research"
+      "type": "Network Services"
     },
     "133929": {
       "name": "TWOWIN NETWORK",
@@ -135211,6 +135207,10 @@
     "27204": {
       "name": "The Albany Mutual Telephone Association Transit",
       "type": "Unknown"
+    },
+    "151338": {
+      "name": "POLONETWORK",
+      "type": "Cable/DSL/ISP"
     },
     "45291": {
       "name": "Prima Telekom Indonesia",
@@ -140336,10 +140336,6 @@
       "name": "ResetData",
       "type": "Unknown"
     },
-    "212683": {
-      "name": "Olilo",
-      "type": "Cable/DSL/ISP"
-    },
     "210457": {
       "name": "Kyonix Networks Limited",
       "type": "Content"
@@ -140962,7 +140958,7 @@
     },
     "210578": {
       "name": "NeNet",
-      "type": "Educational/Research"
+      "type": "Cable/DSL/ISP"
     },
     "205126": {
       "name": "LGO",
@@ -141363,6 +141359,10 @@
     "210171": {
       "name": "AVP-Technology",
       "type": "Cable/DSL/ISP"
+    },
+    "204211": {
+      "name": "LoCyan Network",
+      "type": "Enterprise"
     },
     "32042": {
       "name": "EVERGATE-NETWORKS",
@@ -142392,6 +142392,10 @@
       "name": "Gotschna",
       "type": "Content"
     },
+    "154092": {
+      "name": "PT Artha Teknologi Inovasi",
+      "type": "Cable/DSL/ISP"
+    },
     "197179": {
       "name": "OCASDEV - AIPB44-AD",
       "type": "Cable/DSL/ISP"
@@ -143033,7 +143037,7 @@
       "type": "Content"
     },
     "218681": {
-      "name": "Geonwoo Kim ( Xr3azn Networks )",
+      "name": "Xr3azn Network Limited",
       "type": "Content"
     },
     "402011": {
@@ -143199,6 +143203,10 @@
     "218255": {
       "name": "FPLNET",
       "type": "Non-Profit"
+    },
+    "273424": {
+      "name": "SAAT NET TELECOM",
+      "type": "Cable/DSL/ISP"
     },
     "218248": {
       "name": "GavinPhratsachack",
