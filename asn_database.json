@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-01T03:23:47.635Z",
+  "updated_at": "2026-11-02T03:32:43.080Z",
   "source": "PeeringDB",
-  "entry_count": 35802,
+  "entry_count": 35805,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -56013,7 +56013,7 @@
       "type": "Educational/Research"
     },
     "36231": {
-      "name": "Tempest Hosting, LLC",
+      "name": "Tempest / AG Management",
       "type": "Content"
     },
     "141227": {
@@ -107861,8 +107861,8 @@
       "type": "Unknown"
     },
     "218543": {
-      "name": "EasyIX - Route Servers",
-      "type": "Non-Profit"
+      "name": "EasyIX Networks",
+      "type": "Cable/DSL/ISP"
     },
     "218545": {
       "name": "eaglecloud !",
@@ -108526,7 +108526,7 @@
     },
     "152811": {
       "name": "PT SUMATERA TEKNOLOGI NETWORK",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218398": {
       "name": "TOLDI-AS",
@@ -108601,7 +108601,7 @@
       "type": "Content"
     },
     "198979": {
-      "name": "EDGECORE",
+      "name": "RSN-EDGECORE",
       "type": "Enterprise"
     },
     "218360": {
@@ -108837,8 +108837,8 @@
       "type": "Unknown"
     },
     "218301": {
-      "name": "PakaiCloud !",
-      "type": "Unknown"
+      "name": "PakaiCloud - KILAWAN",
+      "type": "NSP"
     },
     "267714": {
       "name": "267714",
@@ -108877,7 +108877,7 @@
       "type": "Cable/DSL/ISP"
     },
     "218293": {
-      "name": "UNSC",
+      "name": "UNSC-FLEETNET",
       "type": "Educational/Research"
     },
     "137325": {
@@ -108954,7 +108954,7 @@
     },
     "403102": {
       "name": "SLEEPTIME-NETWORK",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "218268": {
       "name": "FR-UNIOHOSTASSO-20261024",
@@ -109046,15 +109046,15 @@
     },
     "155066": {
       "name": "IDNIC-JIANNETWORK-ID",
-      "type": "Unknown"
+      "type": "Route Server"
     },
     "39961": {
       "name": "CCSF",
-      "type": "Unknown"
+      "type": "Government"
     },
     "395011": {
       "name": "SF-PSN",
-      "type": "Unknown"
+      "type": "Government"
     },
     "218277": {
       "name": "MTXNET",
@@ -109131,6 +109131,18 @@
     "218343": {
       "name": "TERRANETWORKS-AS",
       "type": "Enterprise"
+    },
+    "152827": {
+      "name": "Smartlink Teknologi Indonesia",
+      "type": "Cable/DSL/ISP"
+    },
+    "204429": {
+      "name": "SMARTCITY",
+      "type": "Network Services"
+    },
+    "218455": {
+      "name": "JEAN-PASQUALINI",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -110426,7 +110438,7 @@
     },
     "40253": {
       "name": "Elysia Root L.C.",
-      "type": "Unknown"
+      "type": "Content"
     },
     "196621": {
       "name": "FreeStone Systems",
@@ -137550,7 +137562,7 @@
     },
     "215296": {
       "name": "LowPing NL",
-      "type": "Educational/Research"
+      "type": "NSP"
     },
     "141987": {
       "name": "Progenet Innovations",
