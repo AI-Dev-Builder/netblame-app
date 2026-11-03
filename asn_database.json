@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-02T03:32:43.080Z",
+  "updated_at": "2026-11-03T04:40:18.303Z",
   "source": "PeeringDB",
-  "entry_count": 35805,
+  "entry_count": 35816,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -4801,8 +4801,8 @@
       "type": "Cable/DSL/ISP"
     },
     "49625": {
-      "name": "IC Hosting",
-      "type": "Content"
+      "name": "gocloud",
+      "type": "Unknown"
     },
     "37652": {
       "name": "PCN - Fibre and Wireless",
@@ -22947,6 +22947,10 @@
     "262512": {
       "name": "Cijun - Companhia de Informatica de Jundiai",
       "type": "Government"
+    },
+    "16374": {
+      "name": "BCIX Route Servers",
+      "type": "Route Server"
     },
     "64463": {
       "name": "InterXS",
@@ -57776,10 +57780,6 @@
       "name": "ICONNECT",
       "type": "Cable/DSL/ISP"
     },
-    "199390": {
-      "name": "Alfa Komputer System",
-      "type": "Cable/DSL/ISP"
-    },
     "266611": {
       "name": "POLISERV SERVICOS E COMERCIO",
       "type": "NSP"
@@ -65132,6 +65132,10 @@
       "name": "NEXWORKS COMMUNICATIONS",
       "type": "NSP"
     },
+    "210528": {
+      "name": "YOU Broadband & Cable India Ltd.",
+      "type": "Unknown"
+    },
     "328954": {
       "name": "Bluecom Ltd",
       "type": "Unknown"
@@ -67859,14 +67863,6 @@
     "58752": {
       "name": "Delta Infocom AS58752",
       "type": "Cable/DSL/ISP"
-    },
-    "57916": {
-      "name": "Larom TV",
-      "type": "Unknown"
-    },
-    "8474": {
-      "name": "Riscom",
-      "type": "Unknown"
     },
     "27348": {
       "name": "Surfnet Communications",
@@ -71490,7 +71486,7 @@
     },
     "270151": {
       "name": "Witmac Internet",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "14445": {
       "name": "PeaceWeb B.V.",
@@ -75378,7 +75374,7 @@
     },
     "199068": {
       "name": "LETSCO",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "59802": {
       "name": "unicycle - AS59802",
@@ -76452,16 +76448,12 @@
       "name": "NovaNetwork",
       "type": "Unknown"
     },
-    "48708": {
-      "name": "Omax Network",
-      "type": "Unknown"
-    },
     "19830": {
       "name": "The Ringgold Telephone",
       "type": "Cable/DSL/ISP"
     },
     "198558": {
-      "name": "ALMYRIA",
+      "name": "eterneth",
       "type": "Unknown"
     },
     "267047": {
@@ -78879,10 +78871,6 @@
     "59285": {
       "name": "PT Latansa Teknologi Multimedia",
       "type": "Unknown"
-    },
-    "64027": {
-      "name": "PT SURYA TEKNIKA PRATAMA",
-      "type": "Cable/DSL/ISP"
     },
     "46265": {
       "name": "Netskrt (Canada)",
@@ -81414,10 +81402,6 @@
     },
     "16729": {
       "name": "Royal Bank of Canada - IX",
-      "type": "Unknown"
-    },
-    "202511": {
-      "name": "IPV4-HOSTING",
       "type": "Unknown"
     },
     "19415": {
@@ -85861,7 +85845,7 @@
       "type": "Cable/DSL/ISP"
     },
     "58605": {
-      "name": "SIS Group",
+      "name": "Amaze ISP",
       "type": "Unknown"
     },
     "214569": {
@@ -92247,10 +92231,6 @@
     "217": {
       "name": "UMN System Network",
       "type": "Educational/Research"
-    },
-    "271280": {
-      "name": "CDL COMUNICACAO E TECNOLOGIA",
-      "type": "Unknown"
     },
     "151584": {
       "name": "Indodata Solusi Persada",
@@ -104813,8 +104793,8 @@
       "type": "Content"
     },
     "219315": {
-      "name": "M62 Bank",
-      "type": "Government"
+      "name": "Vanta Media Services",
+      "type": "Content"
     },
     "213515": {
       "name": "Honeybank Studios LTD",
@@ -105534,7 +105514,7 @@
     },
     "219484": {
       "name": "TAKO",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "25330": {
       "name": "FBRX-UA",
@@ -106046,7 +106026,7 @@
     },
     "60982": {
       "name": "XZONE",
-      "type": "Unknown"
+      "type": "Content"
     },
     "205013": {
       "name": "JESSYU",
@@ -107300,10 +107280,6 @@
       "name": "Nerdpitch",
       "type": "Unknown"
     },
-    "218677": {
-      "name": "IAF",
-      "type": "Cable/DSL/ISP"
-    },
     "57800": {
       "name": "Kadr-TV TVRC",
       "type": "Cable/DSL/ISP"
@@ -107764,6 +107740,10 @@
       "name": "JLANSKA-DESIGN",
       "type": "Unknown"
     },
+    "275749": {
+      "name": "ASN275749",
+      "type": "Unknown"
+    },
     "11424": {
       "name": "TEMPLE-UNIVERSITY-HEALTH-SYSTEM",
       "type": "Unknown"
@@ -107940,10 +107920,6 @@
       "name": "BIC Consolidated",
       "type": "Enterprise"
     },
-    "219408": {
-      "name": "NetPlus-AS",
-      "type": "NSP"
-    },
     "7845": {
       "name": "INTEGRATELECOM",
       "type": "Unknown"
@@ -108114,7 +108090,7 @@
     },
     "213514": {
       "name": "EuroVDC EOOD",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218479": {
       "name": "Dark Nebulae",
@@ -108932,10 +108908,6 @@
       "name": "BENGOEPFERT",
       "type": "Unknown"
     },
-    "155060": {
-      "name": "IRINN-FPLINDAFGO-AS-IN",
-      "type": "Unknown"
-    },
     "32819": {
       "name": "ENTITY-SOLUTIONS-LLC",
       "type": "Content"
@@ -109143,6 +109115,58 @@
     "218455": {
       "name": "JEAN-PASQUALINI",
       "type": "Unknown"
+    },
+    "402799": {
+      "name": "WAWANODE-AI",
+      "type": "Network Services"
+    },
+    "218229": {
+      "name": "g3 NetworX UG & Co. KG",
+      "type": "NSP"
+    },
+    "218228": {
+      "name": "PBNET-AS",
+      "type": "Unknown"
+    },
+    "218263": {
+      "name": "AEVIAN",
+      "type": "Unknown"
+    },
+    "219504": {
+      "name": "YOSSICOM",
+      "type": "Cable/DSL/ISP"
+    },
+    "329687": {
+      "name": "ORG-GTGL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "155021": {
+      "name": "IDNIC-AJNSKD-ID",
+      "type": "Unknown"
+    },
+    "153818": {
+      "name": "IDNIC-MARAJADIGITALNUSANTARA-ID",
+      "type": "Unknown"
+    },
+    "218223": {
+      "name": "MINO-AS",
+      "type": "Unknown"
+    },
+    "218222": {
+      "name": "DE-MIGUELDAMOTA-20261031",
+      "type": "Unknown"
+    },
+    "401904": {
+      "name": "ORCHARD-LAKE-SYSTEMS",
+      "type": "Unknown"
+    },
+    "400053": {
+      "name": "SYNAPSE !",
+      "type": "Unknown"
+    },
+    "403164": {
+      "name": "ThoughtWave Technologies, Inc",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -114582,10 +114606,6 @@
     },
     "39107": {
       "name": "InterLAN-IX Route Servers",
-      "type": "Route Server"
-    },
-    "16374": {
-      "name": "BCIX Route Servers",
       "type": "Route Server"
     },
     "263483": {
@@ -128124,6 +128144,10 @@
       "name": "Ten G Network Solution",
       "type": "Cable/DSL/ISP"
     },
+    "199390": {
+      "name": "Alfa Komputer System",
+      "type": "Cable/DSL/ISP"
+    },
     "199286": {
       "name": "Abtec Network Systems",
       "type": "Network Services"
@@ -136184,6 +136208,10 @@
       "name": "GLOBAL-ICT HONGKONG",
       "type": "Cable/DSL/ISP"
     },
+    "64027": {
+      "name": "PT SURYA TEKNIKA PRATAMA",
+      "type": "Network Services"
+    },
     "216333": {
       "name": "NetDev Network",
       "type": "NSP"
@@ -142781,7 +142809,7 @@
       "type": "Unknown"
     },
     "274913": {
-      "name": "274913",
+      "name": "HCTERCOM DOMINICANA, SRL",
       "type": "Cable/DSL/ISP"
     },
     "151245": {
@@ -143192,6 +143220,10 @@
       "name": "AS-FBLAB-IT",
       "type": "Educational/Research"
     },
+    "155060": {
+      "name": "IRINN-FPLINDAFGO-AS-IN",
+      "type": "Cable/DSL/ISP"
+    },
     "23672": {
       "name": "IBSYS-AS-AP",
       "type": "Cable/DSL/ISP"
@@ -143223,6 +143255,18 @@
     "218248": {
       "name": "GavinPhratsachack",
       "type": "Educational/Research"
+    },
+    "218214": {
+      "name": "HUBS-AS",
+      "type": "Enterprise"
+    },
+    "218215": {
+      "name": "NETWORK !",
+      "type": "Unknown"
+    },
+    "218218": {
+      "name": "Florian Voit",
+      "type": "Unknown"
     }
   }
 }
