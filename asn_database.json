@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-03T04:40:18.303Z",
+  "updated_at": "2026-11-04T03:59:56.486Z",
   "source": "PeeringDB",
-  "entry_count": 35816,
+  "entry_count": 35825,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -1510,7 +1510,7 @@
     },
     "13768": {
       "name": "Aptum Technologies",
-      "type": "NSP"
+      "type": "Network Services"
     },
     "35244": {
       "name": "PŸUR - Sued",
@@ -4802,7 +4802,7 @@
     },
     "49625": {
       "name": "gocloud",
-      "type": "Unknown"
+      "type": "Content"
     },
     "37652": {
       "name": "PCN - Fibre and Wireless",
@@ -4999,10 +4999,6 @@
     "45411": {
       "name": "APCS",
       "type": "Cable/DSL/ISP"
-    },
-    "7469": {
-      "name": "Japan Experimental Internet Xchange RS",
-      "type": "Route Server"
     },
     "20915": {
       "name": "100 Percent IT",
@@ -5241,7 +5237,7 @@
       "type": "Content"
     },
     "2484": {
-      "name": "FR-NIC-DNS-ANYCAST (AFNIC > NIC-FR > Anycast DNS)",
+      "name": "AFNIC (DNS Anycast)",
       "type": "Non-Profit"
     },
     "40867": {
@@ -11716,6 +11712,10 @@
       "name": "BS2 Sistemas para Internet Ltda",
       "type": "Content"
     },
+    "42831": {
+      "name": "UK Dedicated Servers",
+      "type": "Content"
+    },
     "61898": {
       "name": "Foco Serviçoes de Telecomunicações",
       "type": "Cable/DSL/ISP"
@@ -12297,8 +12297,8 @@
       "type": "Cable/DSL/ISP"
     },
     "14829": {
-      "name": "INFINITRON-TBN",
-      "type": "Unknown"
+      "name": "BYOIP, DataSphere Group",
+      "type": "Network Services"
     },
     "45680": {
       "name": "DOVA Corporation",
@@ -18222,7 +18222,7 @@
     },
     "262666": {
       "name": "Estabilis",
-      "type": "Enterprise"
+      "type": "Content"
     },
     "52993": {
       "name": "VER TV COMUNICAÇÕES",
@@ -28441,7 +28441,7 @@
       "type": "Unknown"
     },
     "3243": {
-      "name": "MEO Residential",
+      "name": "MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A. AS3243",
       "type": "Unknown"
     },
     "22847": {
@@ -28993,7 +28993,7 @@
       "type": "Educational/Research"
     },
     "2486": {
-      "name": "FR-NIC-DNS-UNICAST (AFNIC > NIC-FR > Unicast DNS)",
+      "name": "AFNIC (DNS Unicast)",
       "type": "Non-Profit"
     },
     "3256": {
@@ -29317,7 +29317,7 @@
       "type": "NSP"
     },
     "2485": {
-      "name": "AFNIC Offices",
+      "name": "AFNIC (Registry)",
       "type": "Unknown"
     },
     "3269": {
@@ -34045,7 +34045,7 @@
       "type": "Cable/DSL/ISP"
     },
     "266182": {
-      "name": "FLY FIBRA",
+      "name": "Fly Internet",
       "type": "Cable/DSL/ISP"
     },
     "205140": {
@@ -72540,10 +72540,6 @@
       "name": "HP",
       "type": "Unknown"
     },
-    "204882": {
-      "name": "DENIS NOLAN",
-      "type": "Educational/Research"
-    },
     "47624": {
       "name": "Netguard AS47624",
       "type": "Unknown"
@@ -76884,6 +76880,10 @@
       "name": "Woohoo",
       "type": "Content"
     },
+    "200605": {
+      "name": "Alexander Samoylyk",
+      "type": "Network Services"
+    },
     "140042": {
       "name": "Zhipinshang (Hongkong) Electron Communication Technology",
       "type": "Unknown"
@@ -79741,8 +79741,8 @@
       "type": "Unknown"
     },
     "15525": {
-      "name": "MEO EMPRESAS",
-      "type": "Unknown"
+      "name": "MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A. AS15525",
+      "type": "Enterprise"
     },
     "151834": {
       "name": "HGC Global Communications Malaysia Sdn. Bhd.",
@@ -79986,7 +79986,7 @@
     },
     "396856": {
       "name": "Sharon Networks, LLC",
-      "type": "Cable/DSL/ISP"
+      "type": "Content"
     },
     "138548": {
       "name": "CONNECT 3",
@@ -90716,10 +90716,6 @@
       "name": "TCI",
       "type": "Unknown"
     },
-    "274035": {
-      "name": "RODRITEL",
-      "type": "Cable/DSL/ISP"
-    },
     "215242": {
       "name": "DATAPENTA",
       "type": "Unknown"
@@ -91610,7 +91606,7 @@
     },
     "212763": {
       "name": "Nanobytes Informatica y Telecomunicaciones",
-      "type": "Unknown"
+      "type": "Content"
     },
     "215492": {
       "name": "Butler",
@@ -98819,6 +98815,10 @@
     "154394": {
       "name": "Roshni Communication - AS154394",
       "type": "Cable/DSL/ISP"
+    },
+    "214906": {
+      "name": "Cedric Hammes",
+      "type": "Educational/Research"
     },
     "203001": {
       "name": "GateX",
@@ -108584,10 +108584,6 @@
       "name": "NovaMX",
       "type": "NSP"
     },
-    "219101": {
-      "name": "JWDB-AS",
-      "type": "Unknown"
-    },
     "1635": {
       "name": "WSC-READING",
       "type": "Unknown"
@@ -108954,7 +108950,7 @@
     },
     "61436": {
       "name": "LANTA-AS",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "206176": {
       "name": "greenedge",
@@ -109082,7 +109078,7 @@
     },
     "154777": {
       "name": "PT Mata Artha Digital",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "154734": {
       "name": "PT Media Borneo Global",
@@ -109141,8 +109137,8 @@
       "type": "Unknown"
     },
     "155021": {
-      "name": "IDNIC-AJNSKD-ID",
-      "type": "Unknown"
+      "name": "Access Jaringan Nusantara",
+      "type": "Cable/DSL/ISP"
     },
     "153818": {
       "name": "IDNIC-MARAJADIGITALNUSANTARA-ID",
@@ -109153,7 +109149,7 @@
       "type": "Unknown"
     },
     "218222": {
-      "name": "DE-MIGUELDAMOTA-20261031",
+      "name": "Miguel da Mota",
       "type": "Unknown"
     },
     "401904": {
@@ -109166,6 +109162,38 @@
     },
     "403164": {
       "name": "ThoughtWave Technologies, Inc",
+      "type": "Cable/DSL/ISP"
+    },
+    "141171": {
+      "name": "SAKTINET",
+      "type": "Cable/DSL/ISP"
+    },
+    "218211": {
+      "name": "HEKKELMAN-AS",
+      "type": "Unknown"
+    },
+    "218221": {
+      "name": "QUICKMETAL-AS",
+      "type": "Unknown"
+    },
+    "274146": {
+      "name": "Berisys",
+      "type": "NSP"
+    },
+    "218210": {
+      "name": "MPL-NET",
+      "type": "Unknown"
+    },
+    "218564": {
+      "name": "DE-FELIXWILHELM-20260924",
+      "type": "Unknown"
+    },
+    "199053": {
+      "name": "Euronodes",
+      "type": "Content"
+    },
+    "60699": {
+      "name": "SixtyNet",
       "type": "Cable/DSL/ISP"
     },
     "22822": {
@@ -111604,10 +111632,6 @@
       "name": "Vero Internet AS28263",
       "type": "Cable/DSL/ISP"
     },
-    "42831": {
-      "name": "UK Dedicated Servers",
-      "type": "Content"
-    },
     "37619": {
       "name": "Broadband Systems Corporation",
       "type": "NSP"
@@ -112629,7 +112653,7 @@
       "type": "NSP"
     },
     "198342": {
-      "name": "NYANET",
+      "name": "nyanet",
       "type": "Non-Profit"
     },
     "57208": {
@@ -133924,6 +133948,10 @@
       "name": "Mitra Internet Indonesia",
       "type": "Cable/DSL/ISP"
     },
+    "204882": {
+      "name": "DENIS NOLAN",
+      "type": "Educational/Research"
+    },
     "139026": {
       "name": "Shadhinota Net",
       "type": "Cable/DSL/ISP"
@@ -135359,10 +135387,6 @@
     "398079": {
       "name": "Eminent",
       "type": "Unknown"
-    },
-    "200605": {
-      "name": "Alexander Samoylyk",
-      "type": "Network Services"
     },
     "150547": {
       "name": "PT. Mettadc Teknologi Indonesia",
@@ -139828,6 +139852,10 @@
       "name": "ZTE CORPORATION",
       "type": "Unknown"
     },
+    "274035": {
+      "name": "RODRITEL",
+      "type": "Cable/DSL/ISP"
+    },
     "6517": {
       "name": "LAKENETWORKS",
       "type": "NSP"
@@ -141584,10 +141612,6 @@
       "name": "Gmina Miasto Koszalin",
       "type": "Unknown"
     },
-    "214906": {
-      "name": "Cedric Hammes",
-      "type": "Educational/Research"
-    },
     "150559": {
       "name": "PT Genezis Mitra Technology",
       "type": "Cable/DSL/ISP"
@@ -143208,6 +143232,10 @@
       "name": "MEHERPUR BROADBAND",
       "type": "Cable/DSL/ISP"
     },
+    "219101": {
+      "name": "JWDB-AS",
+      "type": "Unknown"
+    },
     "218330": {
       "name": "AA-AS",
       "type": "Non-Profit"
@@ -143262,11 +143290,19 @@
     },
     "218215": {
       "name": "NETWORK !",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "218218": {
       "name": "Florian Voit",
-      "type": "Unknown"
+      "type": "Content"
+    },
+    "155065": {
+      "name": "Laguna ISP",
+      "type": "Cable/DSL/ISP"
+    },
+    "403177": {
+      "name": "JUCODE",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
