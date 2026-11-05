@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-04T03:59:56.486Z",
+  "updated_at": "2026-11-05T04:21:47.279Z",
   "source": "PeeringDB",
-  "entry_count": 35825,
+  "entry_count": 35835,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -4998,6 +4998,10 @@
     },
     "45411": {
       "name": "APCS",
+      "type": "Cable/DSL/ISP"
+    },
+    "7469": {
+      "name": "DODO_BackBone",
       "type": "Cable/DSL/ISP"
     },
     "20915": {
@@ -24649,7 +24653,7 @@
       "type": "Cable/DSL/ISP"
     },
     "197833": {
-      "name": "ZAPNET",
+      "name": "ZAPNET Karol Zapart Sp. J.",
       "type": "Enterprise"
     },
     "200865": {
@@ -35896,10 +35900,6 @@
       "name": "Suraj Networks",
       "type": "Cable/DSL/ISP"
     },
-    "133173": {
-      "name": "Inomial",
-      "type": "Unknown"
-    },
     "134856": {
       "name": "Tri Infotech",
       "type": "Unknown"
@@ -38726,10 +38726,6 @@
     },
     "135654": {
       "name": "Internet @ Home",
-      "type": "Unknown"
-    },
-    "38077": {
-      "name": "Timor Telecom",
       "type": "Unknown"
     },
     "264008": {
@@ -43845,7 +43841,7 @@
       "type": "Content"
     },
     "56468": {
-      "name": "mcnet",
+      "name": "MC NETWORKING Sh.p.k.",
       "type": "Unknown"
     },
     "206683": {
@@ -45141,7 +45137,7 @@
       "type": "Unknown"
     },
     "38060": {
-      "name": "BIX Indonesia Route Servers",
+      "name": "Biznet Internet Exchange",
       "type": "Route Server"
     },
     "133898": {
@@ -47707,10 +47703,6 @@
     "267570": {
       "name": "Rafael Zamboni Freisleben",
       "type": "Cable/DSL/ISP"
-    },
-    "51356": {
-      "name": "Eezee",
-      "type": "Unknown"
     },
     "61922": {
       "name": "CNX TELECOMUNICAÇOES",
@@ -52978,10 +52970,6 @@
     },
     "269357": {
       "name": "Inter fibra telecomunicação",
-      "type": "Unknown"
-    },
-    "209235": {
-      "name": "Fibercli",
       "type": "Unknown"
     },
     "11904": {
@@ -83274,7 +83262,7 @@
     },
     "272906": {
       "name": "LIBERTY TECHNOLOGY SRL",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "89": {
       "name": "NNIC AS89",
@@ -83446,6 +83434,10 @@
     },
     "151678": {
       "name": "Iriga Telephone Company Inc.",
+      "type": "Cable/DSL/ISP"
+    },
+    "152679": {
+      "name": "PT Mustika Samudra Kharisma Nusantara",
       "type": "Cable/DSL/ISP"
     },
     "329303": {
@@ -97768,10 +97760,6 @@
       "name": "CN Telecom",
       "type": "Unknown"
     },
-    "213799": {
-      "name": "CONHOST BILGI TEKNOLOJILERI VERI MERKEZI HIZMETLERI VE DANISMANLIK LIMITED SIRKETI",
-      "type": "Content"
-    },
     "30179": {
       "name": "DWS",
       "type": "Content"
@@ -103304,10 +103292,6 @@
       "name": "e-MAX NETWORK CORP.",
       "type": "Unknown"
     },
-    "198839": {
-      "name": "MCASYS",
-      "type": "Enterprise"
-    },
     "18414": {
       "name": "FOX L3 Service",
       "type": "Network Services"
@@ -108742,7 +108726,7 @@
     },
     "210535": {
       "name": "LordHosting",
-      "type": "Unknown"
+      "type": "Content"
     },
     "59418": {
       "name": "NewTechnologies-AS Telecommunications 21 century LLC",
@@ -108887,10 +108871,6 @@
     "275856": {
       "name": "ASN275856",
       "type": "Unknown"
-    },
-    "218279": {
-      "name": "Levin Schroeren",
-      "type": "Educational/Research"
     },
     "218639": {
       "name": "CogniTransit",
@@ -109195,6 +109175,58 @@
     "60699": {
       "name": "SixtyNet",
       "type": "Cable/DSL/ISP"
+    },
+    "219058": {
+      "name": "MULTEDNET",
+      "type": "Unknown"
+    },
+    "155059": {
+      "name": "PT Jaringan Bisnis Digital",
+      "type": "Unknown"
+    },
+    "47637": {
+      "name": "inferna",
+      "type": "Enterprise"
+    },
+    "207858": {
+      "name": "DMBZ-AS",
+      "type": "Unknown"
+    },
+    "215141": {
+      "name": "IT-Guru",
+      "type": "Unknown"
+    },
+    "57998": {
+      "name": "ANFA-PL",
+      "type": "Unknown"
+    },
+    "218187": {
+      "name": "LIOTTA-AS",
+      "type": "Unknown"
+    },
+    "218310": {
+      "name": "netplatforms",
+      "type": "Enterprise"
+    },
+    "134239": {
+      "name": "IRINN-VFPL-IN-AS-IN",
+      "type": "Unknown"
+    },
+    "218212": {
+      "name": "GuernseyOnline",
+      "type": "Unknown"
+    },
+    "270172": {
+      "name": "Open TI",
+      "type": "Cable/DSL/ISP"
+    },
+    "218196": {
+      "name": "Nesox",
+      "type": "Educational/Research"
+    },
+    "218188": {
+      "name": "WEXCONNECT",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -118930,7 +118962,7 @@
     },
     "37776": {
       "name": "AMRTP",
-      "type": "Non-Profit"
+      "type": "Route Server"
     },
     "61591": {
       "name": "WESTLINK TECNOLOGIA E COMUNICACAO AS61591",
@@ -120318,6 +120350,10 @@
     },
     "396951": {
       "name": "TransCanada Pipelines AS396951",
+      "type": "Unknown"
+    },
+    "38077": {
+      "name": "Timor Telecom",
       "type": "Unknown"
     },
     "49824": {
@@ -126228,6 +126264,10 @@
       "name": "Sky Walters",
       "type": "Educational/Research"
     },
+    "209235": {
+      "name": "Fibercli",
+      "type": "Unknown"
+    },
     "49271": {
       "name": "Bitbakers",
       "type": "Cable/DSL/ISP"
@@ -130830,7 +130870,7 @@
     },
     "147040": {
       "name": "Nebula Systems",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "210825": {
       "name": "Teigtascherlfabrik",
@@ -134871,10 +134911,6 @@
     "28296": {
       "name": "Acessa Telecomunicações Ltda",
       "type": "NSP"
-    },
-    "26831": {
-      "name": "Cameron Communications",
-      "type": "Cable/DSL/ISP"
     },
     "150450": {
       "name": "KBCI",
@@ -141440,6 +141476,10 @@
       "name": "WANDERPORT NETWORKS MOZAMBIQUE",
       "type": "NSP"
     },
+    "213799": {
+      "name": "CONHOST BILGI TEKNOLOJILERI VERI MERKEZI HIZMETLERI VE DANISMANLIK LIMITED SIRKETI",
+      "type": "Content"
+    },
     "153893": {
       "name": "PT TENGGARA MULTIMEDIA GEMILANG",
       "type": "Cable/DSL/ISP"
@@ -141461,7 +141501,7 @@
       "type": "Educational/Research"
     },
     "214933": {
-      "name": "Baka.Pub Network",
+      "name": "Baka.Pub Education And Research Network",
       "type": "Educational/Research"
     },
     "204069": {
@@ -142392,10 +142432,6 @@
       "name": "Giotsas",
       "type": "Network Services"
     },
-    "402425": {
-      "name": "QOREXA LABS",
-      "type": "Content"
-    },
     "402547": {
       "name": "J Wynegar Jr Inc - US",
       "type": "Content"
@@ -143246,6 +143282,10 @@
     },
     "218274": {
       "name": "AS-FBLAB-IT",
+      "type": "Educational/Research"
+    },
+    "218279": {
+      "name": "Levin Schroeren",
       "type": "Educational/Research"
     },
     "155060": {
