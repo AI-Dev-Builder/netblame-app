@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-05T04:21:47.279Z",
+  "updated_at": "2026-11-06T04:19:42.995Z",
   "source": "PeeringDB",
-  "entry_count": 35835,
+  "entry_count": 35846,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -14932,10 +14932,6 @@
       "name": "Next Dimension",
       "type": "NSP"
     },
-    "199547": {
-      "name": "Voix s.r.l.",
-      "type": "Cable/DSL/ISP"
-    },
     "133658": {
       "name": "Ishani Broadband",
       "type": "Cable/DSL/ISP"
@@ -24654,7 +24650,7 @@
     },
     "197833": {
       "name": "ZAPNET Karol Zapart Sp. J.",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "200865": {
       "name": "TISHK NET",
@@ -34843,10 +34839,6 @@
     "55101": {
       "name": "Daemon Defense Systems",
       "type": "Enterprise"
-    },
-    "136525": {
-      "name": "Wancom (Pvt) Ltd.",
-      "type": "NSP"
     },
     "265996": {
       "name": "POWER LINK TELECOM LTDA",
@@ -45572,10 +45564,6 @@
       "name": "DUNAS TELECOM",
       "type": "Unknown"
     },
-    "138988": {
-      "name": "AVCOMM",
-      "type": "Unknown"
-    },
     "9303": {
       "name": "KCCS",
       "type": "Cable/DSL/ISP"
@@ -49219,10 +49207,6 @@
     "23822": {
       "name": "HAGI Television",
       "type": "Cable/DSL/ISP"
-    },
-    "35115": {
-      "name": "BESTGOPL-WROCLAW",
-      "type": "Unknown"
     },
     "62994": {
       "name": "LITECLOUD",
@@ -90516,10 +90500,6 @@
       "name": "sc Network (Research)",
       "type": "Educational/Research"
     },
-    "213585": {
-      "name": "Null Pointer",
-      "type": "Cable/DSL/ISP"
-    },
     "266638": {
       "name": "Giga Telecom LTDA ME",
       "type": "Cable/DSL/ISP"
@@ -93114,7 +93094,7 @@
     },
     "265548": {
       "name": "WCD, S.A. DE C.V.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "269544": {
       "name": "TWISTNET TELECOMUNICACOES LTDA",
@@ -93947,10 +93927,6 @@
     "211138": {
       "name": "Private-Hosting di Cipriano oscar",
       "type": "Enterprise"
-    },
-    "210870": {
-      "name": "NETJETT",
-      "type": "Unknown"
     },
     "47528": {
       "name": "PITER-IX Vladikavkaz Route Servers",
@@ -103714,7 +103690,7 @@
     },
     "197237": {
       "name": "Beltran Gallego Gutierrez",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "64005": {
       "name": "KaritKarma",
@@ -105043,10 +105019,6 @@
     "59770": {
       "name": "KT MAZ",
       "type": "Cable/DSL/ISP"
-    },
-    "209155": {
-      "name": "onehostplanet",
-      "type": "Unknown"
     },
     "219239": {
       "name": "CloudSlice",
@@ -108325,7 +108297,7 @@
       "type": "Unknown"
     },
     "219082": {
-      "name": "BOUGH",
+      "name": "Bough Limited",
       "type": "Enterprise"
     },
     "218529": {
@@ -109090,7 +109062,7 @@
     },
     "218455": {
       "name": "JEAN-PASQUALINI",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "402799": {
       "name": "WAWANODE-AI",
@@ -109182,11 +109154,7 @@
     },
     "155059": {
       "name": "PT Jaringan Bisnis Digital",
-      "type": "Unknown"
-    },
-    "47637": {
-      "name": "inferna",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "207858": {
       "name": "DMBZ-AS",
@@ -109210,7 +109178,7 @@
     },
     "134239": {
       "name": "IRINN-VFPL-IN-AS-IN",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218212": {
       "name": "GuernseyOnline",
@@ -109226,6 +109194,62 @@
     },
     "218188": {
       "name": "WEXCONNECT",
+      "type": "Cable/DSL/ISP"
+    },
+    "60405": {
+      "name": "RADEON",
+      "type": "Unknown"
+    },
+    "275072": {
+      "name": "Conectate Comunicaciones del Pacifico",
+      "type": "Cable/DSL/ISP"
+    },
+    "37006": {
+      "name": "Liquid Telecommunication Rwanda Limited",
+      "type": "Unknown"
+    },
+    "30099": {
+      "name": "SB-2",
+      "type": "Unknown"
+    },
+    "198630": {
+      "name": "OPG-PRIMORYE",
+      "type": "Unknown"
+    },
+    "218168": {
+      "name": "TORO-DIJITAL",
+      "type": "Enterprise"
+    },
+    "51622": {
+      "name": "IV-COM-as",
+      "type": "Cable/DSL/ISP"
+    },
+    "218167": {
+      "name": "BUTLANYS-AS",
+      "type": "Unknown"
+    },
+    "218163": {
+      "name": "encircle360",
+      "type": "Content"
+    },
+    "12945": {
+      "name": "GAMEPOINT",
+      "type": "Unknown"
+    },
+    "59592": {
+      "name": "as59592",
+      "type": "NSP"
+    },
+    "61038": {
+      "name": "COMPUTERWERKE-AS",
+      "type": "Unknown"
+    },
+    "403156": {
+      "name": "ENTERPRISE-JUNCTION",
+      "type": "Unknown"
+    },
+    "207126": {
+      "name": "Christian-Burger",
       "type": "Unknown"
     },
     "22822": {
@@ -118491,6 +118515,10 @@
     "64271": {
       "name": "rixCloud, Inc.",
       "type": "Enterprise"
+    },
+    "136525": {
+      "name": "Wancom (Pvt) Ltd.",
+      "type": "NSP"
     },
     "204185": {
       "name": "StarCloud Networks",
@@ -136925,7 +136953,7 @@
       "type": "Content"
     },
     "265112": {
-      "name": "MÓVEL",
+      "name": "DÍGITO",
       "type": "Cable/DSL/ISP"
     },
     "151690": {
@@ -140674,7 +140702,7 @@
     },
     "205874": {
       "name": "Zero Byte",
-      "type": "Educational/Research"
+      "type": "NSP"
     },
     "213438": {
       "name": "colocatel-inc",
@@ -142338,7 +142366,7 @@
     },
     "198679": {
       "name": "MOHD RAFIQ FITRI BIN ABDUL RADZI",
-      "type": "Non-Profit"
+      "type": "Network Services"
     },
     "56501": {
       "name": "Diogenius SPRL - Belgium",
@@ -142431,6 +142459,10 @@
     "207135": {
       "name": "Giotsas",
       "type": "Network Services"
+    },
+    "402425": {
+      "name": "QLL-AS-001",
+      "type": "Content"
     },
     "402547": {
       "name": "J Wynegar Jr Inc - US",
@@ -142727,6 +142759,10 @@
     "219237": {
       "name": "CxByte",
       "type": "Educational/Research"
+    },
+    "209155": {
+      "name": "onehostplanet",
+      "type": "Content"
     },
     "44166": {
       "name": "NTD",
@@ -143343,6 +143379,14 @@
     "403177": {
       "name": "JUCODE",
       "type": "Cable/DSL/ISP"
+    },
+    "47637": {
+      "name": "inferna",
+      "type": "Enterprise"
+    },
+    "218165": {
+      "name": "DARKSIGNAL",
+      "type": "Educational/Research"
     }
   }
 }
