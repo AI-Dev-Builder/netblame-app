@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-06T04:19:42.995Z",
+  "updated_at": "2026-11-07T03:49:55.135Z",
   "source": "PeeringDB",
-  "entry_count": 35846,
+  "entry_count": 35858,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -24349,7 +24349,7 @@
       "type": "Unknown"
     },
     "33072": {
-      "name": "ISC F-ROOT BCN1",
+      "name": "ISC F-ROOT BCN2",
       "type": "Unknown"
     },
     "23708": {
@@ -43833,8 +43833,8 @@
       "type": "Content"
     },
     "56468": {
-      "name": "MC NETWORKING Sh.p.k.",
-      "type": "Unknown"
+      "name": "MC Networking",
+      "type": "Cable/DSL/ISP"
     },
     "206683": {
       "name": "Moravskoslezske inovacni centrum Ostrava",
@@ -51759,10 +51759,6 @@
     "328246": {
       "name": "Foschini Retail Group",
       "type": "Enterprise"
-    },
-    "328445": {
-      "name": "STE UNLIMITED",
-      "type": "Cable/DSL/ISP"
     },
     "13951": {
       "name": "Databank (AS13951)",
@@ -67604,6 +67600,10 @@
       "name": "Cleura Middle East",
       "type": "NSP"
     },
+    "131171": {
+      "name": "Techne Fiber",
+      "type": "Cable/DSL/ISP"
+    },
     "205876": {
       "name": "Hoasted",
       "type": "Content"
@@ -69634,10 +69634,6 @@
     },
     "264369": {
       "name": "INHAMBUPE ON-LINE COM COM. E SERV. DE INFORMÁTICA",
-      "type": "Unknown"
-    },
-    "329102": {
-      "name": "Intellicomms",
       "type": "Unknown"
     },
     "271477": {
@@ -82543,6 +82539,10 @@
     "329135": {
       "name": "Unicast Technology",
       "type": "Cable/DSL/ISP"
+    },
+    "215379": {
+      "name": "Chadinar Geraldi Purnama",
+      "type": "Educational/Research"
     },
     "273366": {
       "name": "Laikos Telecom",
@@ -106412,10 +106412,6 @@
       "name": "PIRINEOS",
       "type": "Cable/DSL/ISP"
     },
-    "136453": {
-      "name": "IDNIC-KAHOT-AS-ID",
-      "type": "Unknown"
-    },
     "37802": {
       "name": "ORG-MISP1-AFRINIC",
       "type": "Unknown"
@@ -108950,7 +108946,7 @@
     },
     "271977": {
       "name": "271977",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "219451": {
       "name": "justinbrugmann",
@@ -109241,7 +109237,7 @@
       "type": "NSP"
     },
     "61038": {
-      "name": "COMPUTERWERKE-AS",
+      "name": "Computerwerke Viechtach GmbH",
       "type": "Unknown"
     },
     "403156": {
@@ -109251,6 +109247,58 @@
     "207126": {
       "name": "Christian-Burger",
       "type": "Unknown"
+    },
+    "218160": {
+      "name": "COM-DCRUBRO",
+      "type": "Unknown"
+    },
+    "275777": {
+      "name": "ASN275777",
+      "type": "Unknown"
+    },
+    "215365": {
+      "name": "Threatoff",
+      "type": "Unknown"
+    },
+    "53279": {
+      "name": "MILFORDSDASN",
+      "type": "Unknown"
+    },
+    "155078": {
+      "name": "APHL-AS-AP",
+      "type": "Unknown"
+    },
+    "218308": {
+      "name": "VELNORA-AS",
+      "type": "NSP"
+    },
+    "218147": {
+      "name": "Martins-AS",
+      "type": "Unknown"
+    },
+    "403035": {
+      "name": "MODAL",
+      "type": "Unknown"
+    },
+    "403201": {
+      "name": "Lungu Stefan-Gabriel",
+      "type": "Enterprise"
+    },
+    "218198": {
+      "name": "ZaNet-Networks",
+      "type": "Unknown"
+    },
+    "218204": {
+      "name": "AFFLICTED-AS",
+      "type": "Educational/Research"
+    },
+    "63260": {
+      "name": "ALYESKA",
+      "type": "Unknown"
+    },
+    "218195": {
+      "name": "AIARKS-AS",
+      "type": "Network Services"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -132284,10 +132332,6 @@
       "name": "NETENMICASA",
       "type": "Unknown"
     },
-    "131171": {
-      "name": "Techne Fiber",
-      "type": "Cable/DSL/ISP"
-    },
     "205929": {
       "name": "Abzieher",
       "type": "Unknown"
@@ -137560,10 +137604,6 @@
       "name": "Quick Fiber Limited (Kenya)",
       "type": "NSP"
     },
-    "215379": {
-      "name": "Chadinar Geraldi Purnama",
-      "type": "Educational/Research"
-    },
     "215386": {
       "name": "AHofman",
       "type": "Educational/Research"
@@ -141506,7 +141546,7 @@
     },
     "213799": {
       "name": "CONHOST BILGI TEKNOLOJILERI VERI MERKEZI HIZMETLERI VE DANISMANLIK LIMITED SIRKETI",
-      "type": "Content"
+      "type": "NSP"
     },
     "153893": {
       "name": "PT TENGGARA MULTIMEDIA GEMILANG",
@@ -143000,6 +143040,10 @@
       "name": "Interfere",
       "type": "Enterprise"
     },
+    "136453": {
+      "name": "KALA HOTAMA TECHNOLOGY",
+      "type": "Cable/DSL/ISP"
+    },
     "201328": {
       "name": "Telewizja Kablowa Kolobrzeg",
       "type": "Cable/DSL/ISP"
@@ -143387,6 +143431,10 @@
     "218165": {
       "name": "DARKSIGNAL",
       "type": "Educational/Research"
+    },
+    "403191": {
+      "name": "Yugandhar Veeramachaneni",
+      "type": "Enterprise"
     }
   }
 }
