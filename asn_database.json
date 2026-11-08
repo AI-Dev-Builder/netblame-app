@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-07T03:49:55.135Z",
+  "updated_at": "2026-11-08T03:30:36.902Z",
   "source": "PeeringDB",
-  "entry_count": 35858,
+  "entry_count": 35864,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -8733,7 +8733,7 @@
       "type": "Cable/DSL/ISP"
     },
     "54444": {
-      "name": "AS54444 s.r.o.",
+      "name": "AS54444",
       "type": "Content"
     },
     "198792": {
@@ -70121,7 +70121,7 @@
       "type": "Cable/DSL/ISP"
     },
     "46553": {
-      "name": "AS46553 s.r.o.",
+      "name": "AS46553",
       "type": "Non-Profit"
     },
     "212483": {
@@ -70793,7 +70793,7 @@
       "type": "Unknown"
     },
     "44445": {
-      "name": "AS44445 LTD",
+      "name": "AS44445",
       "type": "Content"
     },
     "19413": {
@@ -85822,7 +85822,7 @@
     },
     "58605": {
       "name": "Amaze ISP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "214569": {
       "name": "Miralium Research",
@@ -93469,7 +93469,7 @@
       "type": "Educational/Research"
     },
     "212594": {
-      "name": "DIEMO",
+      "name": "DIEMO DE",
       "type": "Unknown"
     },
     "150616": {
@@ -98449,7 +98449,7 @@
       "type": "Cable/DSL/ISP"
     },
     "232": {
-      "name": "Merit Network Inc.",
+      "name": "OpenAI",
       "type": "Unknown"
     },
     "274369": {
@@ -104445,7 +104445,7 @@
       "type": "Unknown"
     },
     "401518": {
-      "name": "OpenAI",
+      "name": "OpenAI-2",
       "type": "Unknown"
     },
     "402446": {
@@ -104766,7 +104766,7 @@
     },
     "219297": {
       "name": "Vadim Deynichenko",
-      "type": "Unknown"
+      "type": "Content"
     },
     "154729": {
       "name": "PT Arkanova Cipta Inovasi",
@@ -105842,7 +105842,7 @@
     },
     "219066": {
       "name": "KX712-SAS",
-      "type": "Unknown"
+      "type": "Content"
     },
     "274422": {
       "name": "WOWnet MX",
@@ -106134,7 +106134,7 @@
     },
     "402898": {
       "name": "PPFLIGHT",
-      "type": "Unknown"
+      "type": "Network Services"
     },
     "329786": {
       "name": "ORG-SSIL1-AFRINIC",
@@ -109299,6 +109299,30 @@
     "218195": {
       "name": "AIARKS-AS",
       "type": "Network Services"
+    },
+    "218686": {
+      "name": "RESOPLUS",
+      "type": "Unknown"
+    },
+    "212298": {
+      "name": "OXIWI",
+      "type": "Unknown"
+    },
+    "218452": {
+      "name": "JEZAHOST",
+      "type": "Unknown"
+    },
+    "218280": {
+      "name": "HILDREY-NET",
+      "type": "Unknown"
+    },
+    "44671": {
+      "name": "SKYLINE-ASN",
+      "type": "Unknown"
+    },
+    "396858": {
+      "name": "CAELUMENAI-INC",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -142500,10 +142524,6 @@
       "name": "Giotsas",
       "type": "Network Services"
     },
-    "402425": {
-      "name": "QLL-AS-001",
-      "type": "Content"
-    },
     "402547": {
       "name": "J Wynegar Jr Inc - US",
       "type": "Content"
@@ -143427,6 +143447,10 @@
     "47637": {
       "name": "inferna",
       "type": "Enterprise"
+    },
+    "403187": {
+      "name": "QLABS-AS",
+      "type": "Content"
     },
     "218165": {
       "name": "DARKSIGNAL",
