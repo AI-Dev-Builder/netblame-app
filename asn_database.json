@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-08T03:30:36.902Z",
+  "updated_at": "2026-11-09T03:46:18.449Z",
   "source": "PeeringDB",
-  "entry_count": 35864,
+  "entry_count": 35862,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -17607,10 +17607,6 @@
     "37901": {
       "name": "NTT EAST (NTTE-NGN-AS)",
       "type": "Cable/DSL/ISP"
-    },
-    "203968": {
-      "name": "aiticon",
-      "type": "Content"
     },
     "394362": {
       "name": "DigitalOcean AS394362",
@@ -67840,10 +67836,6 @@
       "name": "Surfnet Communications",
       "type": "Unknown"
     },
-    "205648": {
-      "name": "VirgoCube Limited",
-      "type": "Cable/DSL/ISP"
-    },
     "141372": {
       "name": "Logitech Cable",
       "type": "Cable/DSL/ISP"
@@ -70682,7 +70674,7 @@
     },
     "272057": {
       "name": "DERIVALNET Y COMUNICACIONES",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "209512": {
       "name": "Alex Thomassen",
@@ -72159,10 +72151,6 @@
     "149360": {
       "name": "Indo Telemedia Solusi",
       "type": "Cable/DSL/ISP"
-    },
-    "210504": {
-      "name": "CloudIDC Digital Company",
-      "type": "Unknown"
     },
     "204677": {
       "name": "Sky Digital Co., AS204677",
@@ -79952,10 +79940,6 @@
       "name": "DCConnect Sdn. Bhd.",
       "type": "Unknown"
     },
-    "396856": {
-      "name": "Sharon Networks, LLC",
-      "type": "Content"
-    },
     "138548": {
       "name": "CONNECT 3",
       "type": "Cable/DSL/ISP"
@@ -82560,10 +82544,6 @@
       "name": "Cotia Fiber Telecomunicações e Serviços LTDA",
       "type": "Cable/DSL/ISP"
     },
-    "215378": {
-      "name": "Lunaworks Limited",
-      "type": "Content"
-    },
     "328535": {
       "name": "JUBA NETWORK CO. LTD",
       "type": "Unknown"
@@ -83983,10 +83963,6 @@
     "215021": {
       "name": "OVERKILL",
       "type": "Unknown"
-    },
-    "151817": {
-      "name": "Zappie Host AS151817",
-      "type": "NSP"
     },
     "140934": {
       "name": "Unique Internet",
@@ -105058,7 +105034,7 @@
     },
     "154590": {
       "name": "Sera Koneksi Nusantara",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "401869": {
       "name": "Shine Summit LLC",
@@ -106126,7 +106102,7 @@
     },
     "218995": {
       "name": "Bobeica Mihaita David",
-      "type": "Network Services"
+      "type": "Cable/DSL/ISP"
     },
     "209928": {
       "name": "Angelinks",
@@ -107194,7 +107170,7 @@
     },
     "218722": {
       "name": "SLOUDHOST",
-      "type": "Unknown"
+      "type": "Content"
     },
     "218730": {
       "name": "JAKUBSZEWCZYK",
@@ -109242,7 +109218,7 @@
     },
     "403156": {
       "name": "ENTERPRISE-JUNCTION",
-      "type": "Unknown"
+      "type": "Content"
     },
     "207126": {
       "name": "Christian-Burger",
@@ -109323,6 +109299,26 @@
     "396858": {
       "name": "CAELUMENAI-INC",
       "type": "Unknown"
+    },
+    "149737": {
+      "name": "IDNIC-DATALINTAS-AS-ID",
+      "type": "Unknown"
+    },
+    "394381": {
+      "name": "L7-CONNECT",
+      "type": "Unknown"
+    },
+    "403061": {
+      "name": "GROT",
+      "type": "Unknown"
+    },
+    "273811": {
+      "name": "ASN273811",
+      "type": "Unknown"
+    },
+    "403124": {
+      "name": "RunOnce",
+      "type": "Enterprise"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -134838,10 +134834,6 @@
     },
     "199591": {
       "name": "Evaldo-Gardenal",
-      "type": "Unknown"
-    },
-    "199605": {
-      "name": "JIANYUELAB (AS199605)",
       "type": "Unknown"
     },
     "47898": {
