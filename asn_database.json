@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-10T05:19:51.370Z",
+  "updated_at": "2026-11-11T03:51:28.034Z",
   "source": "PeeringDB",
-  "entry_count": 35874,
+  "entry_count": 35887,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -49202,7 +49202,7 @@
     },
     "35115": {
       "name": "Bestgo.pl",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "62994": {
       "name": "LITECLOUD",
@@ -50595,6 +50595,10 @@
     "203123": {
       "name": "techni_de",
       "type": "Unknown"
+    },
+    "210175": {
+      "name": "Lietuvos Interneto Paslaugu Teikeju Asociacija",
+      "type": "Non-Profit"
     },
     "50754": {
       "name": "C2D",
@@ -106860,10 +106864,6 @@
       "name": "BCN-NET",
       "type": "Enterprise"
     },
-    "218772": {
-      "name": "Barbonetworks",
-      "type": "NSP"
-    },
     "328318": {
       "name": "ORG-RNDE1-AFRINIC",
       "type": "Educational/Research"
@@ -107093,8 +107093,8 @@
       "type": "NSP"
     },
     "274223": {
-      "name": "274223",
-      "type": "Unknown"
+      "name": "NETWORKS TV S.A.S",
+      "type": "Cable/DSL/ISP"
     },
     "63313": {
       "name": "IEP-AS",
@@ -108858,7 +108858,7 @@
     },
     "329839": {
       "name": "ORG-PA18-AFRINIC",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "403147": {
       "name": "DJBOOYA-NETWORKS-01",
@@ -109196,10 +109196,6 @@
       "name": "BUTLANYS-AS",
       "type": "Unknown"
     },
-    "218163": {
-      "name": "encircle360",
-      "type": "Content"
-    },
     "12945": {
       "name": "GAMEPOINT",
       "type": "Unknown"
@@ -109257,7 +109253,7 @@
       "type": "Enterprise"
     },
     "218198": {
-      "name": "ZaNet-Networks",
+      "name": "ZANET LTD",
       "type": "Unknown"
     },
     "218204": {
@@ -109341,8 +109337,8 @@
       "type": "Unknown"
     },
     "133104": {
-      "name": "INSTRACORPORATION-AS-AP",
-      "type": "Unknown"
+      "name": "INSTRACORPORATION",
+      "type": "Enterprise"
     },
     "329828": {
       "name": "Own Group SA",
@@ -109354,7 +109350,55 @@
     },
     "274869": {
       "name": "274869",
+      "type": "Cable/DSL/ISP"
+    },
+    "215670": {
+      "name": "FIRSTPAGE-AS",
       "type": "Unknown"
+    },
+    "403208": {
+      "name": "SEPARARE",
+      "type": "Unknown"
+    },
+    "30896": {
+      "name": "ORG-ACL2-AFRINIC",
+      "type": "Unknown"
+    },
+    "58610": {
+      "name": "TELNET-AS-AP",
+      "type": "Unknown"
+    },
+    "218127": {
+      "name": "BLOGNOT",
+      "type": "Unknown"
+    },
+    "218126": {
+      "name": "digisync",
+      "type": "Unknown"
+    },
+    "37461": {
+      "name": "ORG-OG1-AFRINIC",
+      "type": "Unknown"
+    },
+    "150302": {
+      "name": "FENICYBERLINK-AS-AP",
+      "type": "Unknown"
+    },
+    "25846": {
+      "name": "US-CLOUDNIUM-01",
+      "type": "Unknown"
+    },
+    "274196": {
+      "name": "274196",
+      "type": "Unknown"
+    },
+    "155093": {
+      "name": "JCLAVZ-AS-AP",
+      "type": "Unknown"
+    },
+    "154896": {
+      "name": "CV.GRIYA CLOUD SERVER",
+      "type": "Route Collector"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -125383,10 +125427,6 @@
     "138886": {
       "name": "Data Buana Nusantara",
       "type": "Cable/DSL/ISP"
-    },
-    "210175": {
-      "name": "Lietuvos Interneto Paslaugu Teikeju Asociacija",
-      "type": "Non-Profit"
     },
     "268047": {
       "name": "Masterinfo Internet",
@@ -143196,6 +143236,10 @@
       "name": "Expeditioner Network",
       "type": "Content"
     },
+    "218772": {
+      "name": "Barbonetworks",
+      "type": "NSP"
+    },
     "218758": {
       "name": "Azzurri Communications",
       "type": "Cable/DSL/ISP"
@@ -143492,6 +143536,10 @@
       "name": "QLABS-AS",
       "type": "Content"
     },
+    "218163": {
+      "name": "encircle360",
+      "type": "Content"
+    },
     "218165": {
       "name": "DARKSIGNAL",
       "type": "Educational/Research"
@@ -143499,6 +143547,10 @@
     "403191": {
       "name": "Yugandhar Veeramachaneni",
       "type": "Enterprise"
+    },
+    "273991": {
+      "name": "FIBRACOL E.A.S. UNIPERSONAL",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
