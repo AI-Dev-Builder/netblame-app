@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-11T03:51:28.034Z",
+  "updated_at": "2026-11-12T04:58:58.721Z",
   "source": "PeeringDB",
-  "entry_count": 35887,
+  "entry_count": 35893,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -3488,10 +3488,6 @@
       "name": "Amazon IVS",
       "type": "Content"
     },
-    "44919": {
-      "name": "AtrilA",
-      "type": "NSP"
-    },
     "20093": {
       "name": "ZeroLag Communications",
       "type": "Content"
@@ -5219,10 +5215,6 @@
     "28908": {
       "name": "Telecom3 Sverige AB",
       "type": "Cable/DSL/ISP"
-    },
-    "15469": {
-      "name": "Warinet Global Services SA",
-      "type": "NSP"
     },
     "35407": {
       "name": "Santa Monica Networks",
@@ -50166,7 +50158,7 @@
     },
     "140269": {
       "name": "KOTALIPARANET-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "49675": {
       "name": "SKB Kontur Production",
@@ -57616,10 +57608,6 @@
       "name": "STRENCOM",
       "type": "Enterprise"
     },
-    "271456": {
-      "name": "NET2YOU NETWORK",
-      "type": "Cable/DSL/ISP"
-    },
     "397736": {
       "name": "Beacon Federal Credit Union",
       "type": "Enterprise"
@@ -58602,7 +58590,7 @@
     },
     "203924": {
       "name": "buerodata",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "29242": {
       "name": "Viasat UA",
@@ -67102,7 +67090,7 @@
     },
     "41305": {
       "name": "UkrNet Fastiv",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "208223": {
       "name": "fOxO Internet Service Provider",
@@ -72295,6 +72283,10 @@
     "398980": {
       "name": "OSINET",
       "type": "NSP"
+    },
+    "213241": {
+      "name": "TechIT.be",
+      "type": "Cable/DSL/ISP"
     },
     "17675": {
       "name": "Internap Japan Co.,Ltd.",
@@ -87736,10 +87728,6 @@
       "name": "Antonio Weslley Ximenes Farias EIRELI",
       "type": "Unknown"
     },
-    "152823": {
-      "name": "Naura Network Nusantara",
-      "type": "Cable/DSL/ISP"
-    },
     "214138": {
       "name": "Host Zentrum",
       "type": "Unknown"
@@ -89607,10 +89595,6 @@
     "53182": {
       "name": "lazernet.com.br ltda me",
       "type": "Cable/DSL/ISP"
-    },
-    "401485": {
-      "name": "CANIX Quebec City Services",
-      "type": "Unknown"
     },
     "15037": {
       "name": "CANIX Quebec City Route Servers",
@@ -99844,10 +99828,6 @@
       "name": "NRS ENTERPRISE",
       "type": "Cable/DSL/ISP"
     },
-    "402127": {
-      "name": "Project Takoyaki Technologies",
-      "type": "NSP"
-    },
     "270187": {
       "name": "2M SOLUCIONES",
       "type": "Network Services"
@@ -103904,10 +103884,6 @@
       "name": "TRIOLAB",
       "type": "Unknown"
     },
-    "203886": {
-      "name": "Davion",
-      "type": "Unknown"
-    },
     "268774": {
       "name": "K NET COMUNICAÇÕES",
       "type": "Unknown"
@@ -107414,7 +107390,7 @@
     },
     "152523": {
       "name": "Blazing Bullet",
-      "type": "Cable/DSL/ISP"
+      "type": "Content"
     },
     "154786": {
       "name": "TAKERHATIT-AS-AP",
@@ -109353,7 +109329,7 @@
       "type": "Cable/DSL/ISP"
     },
     "215670": {
-      "name": "FIRSTPAGE-AS",
+      "name": "LLP Internet Company First Page",
       "type": "Unknown"
     },
     "403208": {
@@ -109361,27 +109337,23 @@
       "type": "Unknown"
     },
     "30896": {
-      "name": "ORG-ACL2-AFRINIC",
+      "name": "Afsat Communications Ltd",
       "type": "Unknown"
     },
     "58610": {
-      "name": "TELNET-AS-AP",
-      "type": "Unknown"
-    },
-    "218127": {
-      "name": "BLOGNOT",
-      "type": "Unknown"
+      "name": "Telnet Telecommunication Limited",
+      "type": "Cable/DSL/ISP"
     },
     "218126": {
       "name": "digisync",
       "type": "Unknown"
     },
     "37461": {
-      "name": "ORG-OG1-AFRINIC",
+      "name": "ORANGE GUINEE",
       "type": "Unknown"
     },
     "150302": {
-      "name": "FENICYBERLINK-AS-AP",
+      "name": "Feni Cyber Link",
       "type": "Unknown"
     },
     "25846": {
@@ -109389,7 +109361,7 @@
       "type": "Unknown"
     },
     "274196": {
-      "name": "274196",
+      "name": "FASTCONEXION S.A.",
       "type": "Unknown"
     },
     "155093": {
@@ -109399,6 +109371,38 @@
     "154896": {
       "name": "CV.GRIYA CLOUD SERVER",
       "type": "Route Collector"
+    },
+    "218262": {
+      "name": "F-IX-AS",
+      "type": "Route Server"
+    },
+    "218193": {
+      "name": "UN-Hack-Bar e.V.",
+      "type": "Unknown"
+    },
+    "403210": {
+      "name": "CHRONOSCALE",
+      "type": "Unknown"
+    },
+    "218124": {
+      "name": "JME-TECHNOLOGIES-LLP",
+      "type": "Unknown"
+    },
+    "218725": {
+      "name": "wow-as",
+      "type": "Unknown"
+    },
+    "218111": {
+      "name": "ManInDark-Network",
+      "type": "Educational/Research"
+    },
+    "149026": {
+      "name": "EMUTELPTYLTD-AS-AP",
+      "type": "Unknown"
+    },
+    "132252": {
+      "name": "HKMPCL-HK",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -134064,10 +134068,6 @@
       "name": "Guwin Universal Services LLC",
       "type": "NSP"
     },
-    "213241": {
-      "name": "TechIT.be",
-      "type": "Cable/DSL/ISP"
-    },
     "149749": {
       "name": "Morizt ID",
       "type": "Cable/DSL/ISP"
@@ -139292,6 +139292,10 @@
       "name": "SPMZT",
       "type": "Educational/Research"
     },
+    "152823": {
+      "name": "Naura Network Nusantara",
+      "type": "Cable/DSL/ISP"
+    },
     "214668": {
       "name": "AXUSHOST",
       "type": "Content"
@@ -139811,6 +139815,10 @@
     "274676": {
       "name": "SENTRY (Multiway)",
       "type": "Enterprise"
+    },
+    "401485": {
+      "name": "CANIX Quebec City Services",
+      "type": "Unknown"
     },
     "213748": {
       "name": "MQNG",
@@ -142040,6 +142048,10 @@
       "name": "On1x",
       "type": "Content"
     },
+    "402127": {
+      "name": "Project Takoyaki Technologies",
+      "type": "NSP"
+    },
     "204208": {
       "name": "Peravix",
       "type": "Cable/DSL/ISP"
@@ -142719,6 +142731,10 @@
     "133588": {
       "name": "Cambodian Network Exchange Co., Ltd. Anycast",
       "type": "Content"
+    },
+    "203886": {
+      "name": "Davion",
+      "type": "Unknown"
     },
     "133371": {
       "name": "SOKKAFIBER-NAP",
@@ -143548,9 +143564,17 @@
       "name": "Yugandhar Veeramachaneni",
       "type": "Enterprise"
     },
+    "218127": {
+      "name": "BLOGNOT",
+      "type": "Educational/Research"
+    },
     "273991": {
       "name": "FIBRACOL E.A.S. UNIPERSONAL",
       "type": "Cable/DSL/ISP"
+    },
+    "150510": {
+      "name": "IDNIC-KAWANLAMA-ID",
+      "type": "Enterprise"
     }
   }
 }
