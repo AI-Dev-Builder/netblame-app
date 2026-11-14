@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-13T04:13:44.597Z",
+  "updated_at": "2026-11-14T04:09:48.136Z",
   "source": "PeeringDB",
-  "entry_count": 35902,
+  "entry_count": 35911,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -15219,6 +15219,10 @@
     "57043": {
       "name": "HOSTKEY B.V.",
       "type": "Content"
+    },
+    "60461": {
+      "name": "INTERCOLO-SECURITY",
+      "type": "NSP"
     },
     "262699": {
       "name": "Fox Internet",
@@ -42242,7 +42246,7 @@
     },
     "17456": {
       "name": "PDSGUAM",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "48375": {
       "name": "Tibra Trading Europe AS48375",
@@ -55642,6 +55646,10 @@
     },
     "212522": {
       "name": "Stuttgart-IX Infrastructure",
+      "type": "Unknown"
+    },
+    "62454": {
+      "name": "LILLYCDN",
       "type": "Unknown"
     },
     "200409": {
@@ -82189,7 +82197,7 @@
       "type": "Educational/Research"
     },
     "272193": {
-      "name": "SPnetFibra Provedor Networking",
+      "name": "Fly Conecta Internet LTDA",
       "type": "NSP"
     },
     "197352": {
@@ -104564,10 +104572,6 @@
       "name": "Isimac Internet",
       "type": "Unknown"
     },
-    "154650": {
-      "name": "SKYAERO",
-      "type": "Cable/DSL/ISP"
-    },
     "210814": {
       "name": "VUNIFY",
       "type": "Enterprise"
@@ -108040,10 +108044,6 @@
       "name": "STRATA-AS-AP",
       "type": "Cable/DSL/ISP"
     },
-    "152060": {
-      "name": "IDNIC-SBLNET-AS-ID",
-      "type": "Unknown"
-    },
     "152543": {
       "name": "NET6584-AS-IN",
       "type": "Unknown"
@@ -108526,10 +108526,6 @@
     },
     "267007": {
       "name": "ASN267007",
-      "type": "Unknown"
-    },
-    "218321": {
-      "name": "CLOGGEDPIPE",
       "type": "Unknown"
     },
     "218338": {
@@ -109360,10 +109356,6 @@
       "name": "OMEGACLOUD",
       "type": "Unknown"
     },
-    "153432": {
-      "name": "TONGIONLINE-AS-AP",
-      "type": "Unknown"
-    },
     "155102": {
       "name": "Argsment Asia Pacific",
       "type": "Cable/DSL/ISP"
@@ -109408,10 +109400,6 @@
       "name": "IDNIC-ARMEDA-ID",
       "type": "Unknown"
     },
-    "154928": {
-      "name": "IDNIC-ISTINET-ID",
-      "type": "Unknown"
-    },
     "155092": {
       "name": "IDNIC-CAKRANUSA-ID",
       "type": "Unknown"
@@ -109427,6 +109415,34 @@
     "132259": {
       "name": "PPSII-AS-AP",
       "type": "Cable/DSL/ISP"
+    },
+    "11740": {
+      "name": "PROGRESSIVE-AS",
+      "type": "Enterprise"
+    },
+    "219072": {
+      "name": "ALMASAR",
+      "type": "Unknown"
+    },
+    "20382": {
+      "name": "OANET",
+      "type": "Cable/DSL/ISP"
+    },
+    "400789": {
+      "name": "STREAMLINE",
+      "type": "Cable/DSL/ISP"
+    },
+    "275779": {
+      "name": "ASN275779",
+      "type": "Unknown"
+    },
+    "61063": {
+      "name": "Colofactory",
+      "type": "Unknown"
+    },
+    "218213": {
+      "name": "ceccun",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -112185,7 +112201,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263421": {
-      "name": "NR Conexões que Fortalecem",
+      "name": "NR Internet",
       "type": "Cable/DSL/ISP"
     },
     "263486": {
@@ -133701,7 +133717,7 @@
       "type": "Cable/DSL/ISP"
     },
     "57027": {
-      "name": "FCP Network",
+      "name": "FCP Network AS57027",
       "type": "Content"
     },
     "273590": {
@@ -142880,6 +142896,10 @@
       "name": "Andi",
       "type": "Cable/DSL/ISP"
     },
+    "154650": {
+      "name": "SKYAERO",
+      "type": "Cable/DSL/ISP"
+    },
     "402673": {
       "name": "AtomRoute Global Network (US) LLC",
       "type": "Network Services"
@@ -143420,6 +143440,10 @@
       "name": "ASN275626",
       "type": "NSP"
     },
+    "152060": {
+      "name": "IDNIC-SBLNET-AS-ID",
+      "type": "Cable/DSL/ISP"
+    },
     "218443": {
       "name": "asteco e.K.",
       "type": "Enterprise"
@@ -143495,6 +143519,10 @@
     "218330": {
       "name": "AA-AS",
       "type": "Non-Profit"
+    },
+    "218321": {
+      "name": "CLOGGEDPIPE",
+      "type": "Network Services"
     },
     "64160": {
       "name": "64160",
@@ -143600,13 +143628,21 @@
       "name": "IDNIC-KAWANLAMA-ID",
       "type": "Enterprise"
     },
+    "153432": {
+      "name": "TONGIONLINE-AS-AP",
+      "type": "NSP"
+    },
     "218102": {
-      "name": "ASF22Labs218102",
+      "name": "AS218102 - F22Labs",
       "type": "Enterprise"
     },
     "215593": {
-      "name": "FCP Network NL",
+      "name": "FCP Network AS215593",
       "type": "Content"
+    },
+    "154928": {
+      "name": "PT. Trisuta Teknologi Perwira",
+      "type": "Cable/DSL/ISP"
     },
     "401569": {
       "name": "PM-LLC",
