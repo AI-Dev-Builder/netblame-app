@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-14T04:09:48.136Z",
+  "updated_at": "2026-11-15T03:55:34.004Z",
   "source": "PeeringDB",
-  "entry_count": 35911,
+  "entry_count": 35915,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -75674,7 +75674,7 @@
     },
     "151187": {
       "name": "Leo Network",
-      "type": "Non-Profit"
+      "type": "Educational/Research"
     },
     "150914": {
       "name": "PT Ned Link Telekomunikasi",
@@ -80011,10 +80011,6 @@
     "265982": {
       "name": "GAÚCHA ONLINE PROVEDOR DE INTERNET LTDA",
       "type": "Unknown"
-    },
-    "216065": {
-      "name": "Florian Meissner",
-      "type": "Educational/Research"
     },
     "273331": {
       "name": "Flognet Inc.",
@@ -89971,10 +89967,6 @@
     "13527": {
       "name": "GOOFL-TESTBED",
       "type": "Unknown"
-    },
-    "213683": {
-      "name": "Host.AL",
-      "type": "Content"
     },
     "10692": {
       "name": "DLS-LITH",
@@ -105532,10 +105524,6 @@
       "name": "TAMEDIA-AS",
       "type": "Unknown"
     },
-    "219107": {
-      "name": "VELIXOX",
-      "type": "Unknown"
-    },
     "263746": {
       "name": "263746",
       "type": "Cable/DSL/ISP"
@@ -108478,7 +108466,7 @@
     },
     "218429": {
       "name": "GL-AS",
-      "type": "Unknown"
+      "type": "Non-Profit"
     },
     "218346": {
       "name": "Serverdunyam",
@@ -108852,10 +108840,6 @@
       "name": "271977",
       "type": "Cable/DSL/ISP"
     },
-    "219451": {
-      "name": "justinbrugmann",
-      "type": "Unknown"
-    },
     "201898": {
       "name": "AS-BLUEWAVE",
       "type": "Unknown"
@@ -108998,10 +108982,6 @@
     },
     "218223": {
       "name": "MINO-AS",
-      "type": "Unknown"
-    },
-    "218222": {
-      "name": "Miguel da Mota",
       "type": "Unknown"
     },
     "401904": {
@@ -109189,7 +109169,7 @@
       "type": "Unknown"
     },
     "218195": {
-      "name": "AIARKS-AS",
+      "name": "AIARKS",
       "type": "Network Services"
     },
     "218686": {
@@ -109314,7 +109294,7 @@
     },
     "155093": {
       "name": "JCLAVZ-AS-AP",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "154896": {
       "name": "CV.GRIYA CLOUD SERVER",
@@ -109443,6 +109423,34 @@
     "218213": {
       "name": "ceccun",
       "type": "Unknown"
+    },
+    "403229": {
+      "name": "SULPHANIC",
+      "type": "Unknown"
+    },
+    "218298": {
+      "name": "PURPURSYSTEMS",
+      "type": "Network Services"
+    },
+    "400951": {
+      "name": "Akari Networks (US)",
+      "type": "Cable/DSL/ISP"
+    },
+    "403232": {
+      "name": "COAI",
+      "type": "NSP"
+    },
+    "393498": {
+      "name": "LUNAR-CORE",
+      "type": "Unknown"
+    },
+    "210878": {
+      "name": "Treadstone-AS",
+      "type": "Unknown"
+    },
+    "34835": {
+      "name": "PADUCHNET-AS",
+      "type": "Cable/DSL/ISP"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -126305,8 +126313,8 @@
       "type": "Cable/DSL/ISP"
     },
     "213092": {
-      "name": "MarbleISL Network",
-      "type": "Unknown"
+      "name": "Acrion Cloud",
+      "type": "NSP"
     },
     "138987": {
       "name": "CHARLES CATV SYSTEMS INC",
@@ -129542,7 +129550,7 @@
     },
     "211358": {
       "name": "PP-Networks Solutions, IT",
-      "type": "Content"
+      "type": "Educational/Research"
     },
     "211814": {
       "name": "Fortis Telekomunikasyon",
@@ -137221,7 +137229,7 @@
       "type": "Unknown"
     },
     "62848": {
-      "name": "Vermont IX 🍁 Route Servers",
+      "name": "American IX ☆ Vermont Route Servers",
       "type": "Route Server"
     },
     "39617": {
@@ -139940,6 +139948,10 @@
       "name": "J&Y LLC",
       "type": "Cable/DSL/ISP"
     },
+    "213683": {
+      "name": "Host.AL",
+      "type": "Content"
+    },
     "152769": {
       "name": "Gopal Networks",
       "type": "Cable/DSL/ISP"
@@ -141368,10 +141380,6 @@
       "name": "Sector Telecom Ltd.",
       "type": "Cable/DSL/ISP"
     },
-    "153573": {
-      "name": "BAYNET - PT Bayu Multimedia Telekomunikasi",
-      "type": "NSP"
-    },
     "329608": {
       "name": "NetClick",
       "type": "Cable/DSL/ISP"
@@ -141533,8 +141541,8 @@
       "type": "Educational/Research"
     },
     "10475": {
-      "name": "Tampa Bay Access Exchange",
-      "type": "Unknown"
+      "name": "🌴 Tampa Bay Access Exchange 🏴‍☠️",
+      "type": "Route Server"
     },
     "207258": {
       "name": "ARTEMIS",
@@ -142173,7 +142181,7 @@
       "type": "Enterprise"
     },
     "11150": {
-      "name": "American IX ☆ Route Servers",
+      "name": "American IX ☆ New England Route Servers",
       "type": "Route Server"
     },
     "201423": {
@@ -143105,7 +143113,7 @@
       "type": "Government"
     },
     "274964": {
-      "name": "274964",
+      "name": "COITNET",
       "type": "Unknown"
     },
     "274913": {
@@ -143572,9 +143580,17 @@
       "name": "GavinPhratsachack",
       "type": "Educational/Research"
     },
+    "219451": {
+      "name": "justinbrugmann",
+      "type": "Network Services"
+    },
     "218214": {
       "name": "HUBS-AS",
       "type": "Enterprise"
+    },
+    "218222": {
+      "name": "Miguel da Mota",
+      "type": "Content"
     },
     "218215": {
       "name": "NETWORK !",
