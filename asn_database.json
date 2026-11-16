@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-15T03:55:34.004Z",
+  "updated_at": "2026-11-16T03:55:57.009Z",
   "source": "PeeringDB",
-  "entry_count": 35915,
+  "entry_count": 35920,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -84668,10 +84668,6 @@
       "name": "GND-DATACENTER",
       "type": "Network Services"
     },
-    "55672": {
-      "name": "Universitas Sanata Dharma",
-      "type": "Unknown"
-    },
     "401100": {
       "name": "BMUS AS401100",
       "type": "NSP"
@@ -104750,7 +104746,7 @@
     },
     "152056": {
       "name": "Sangkakala Gema Utama",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "1106": {
       "name": "Nationale Speeltuin",
@@ -106287,10 +106283,6 @@
     "30350": {
       "name": "REGION7-ESC",
       "type": "Educational/Research"
-    },
-    "154539": {
-      "name": "MNADS-AS-AP",
-      "type": "Cable/DSL/ISP"
     },
     "9515": {
       "name": "compute.inc",
@@ -109381,8 +109373,8 @@
       "type": "Unknown"
     },
     "155092": {
-      "name": "IDNIC-CAKRANUSA-ID",
-      "type": "Unknown"
+      "name": "SYNORA",
+      "type": "Cable/DSL/ISP"
     },
     "218877": {
       "name": "GuardX",
@@ -109411,10 +109403,6 @@
     "400789": {
       "name": "STREAMLINE",
       "type": "Cable/DSL/ISP"
-    },
-    "275779": {
-      "name": "ASN275779",
-      "type": "Unknown"
     },
     "61063": {
       "name": "Colofactory",
@@ -109451,6 +109439,26 @@
     "34835": {
       "name": "PADUCHNET-AS",
       "type": "Cable/DSL/ISP"
+    },
+    "219241": {
+      "name": "bensku-net",
+      "type": "Unknown"
+    },
+    "214998": {
+      "name": "EMKC",
+      "type": "NSP"
+    },
+    "218999": {
+      "name": "N0-PW",
+      "type": "Unknown"
+    },
+    "50461": {
+      "name": "CITYTELECOM",
+      "type": "Unknown"
+    },
+    "50964": {
+      "name": "Komm-ONE-AS",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -129062,7 +129070,7 @@
     },
     "132649": {
       "name": "Adau Putra Network (ADAUNet)",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "269359": {
       "name": "CANAA TELECOMUNICAÇÕES LTDA - ME",
@@ -131313,7 +131321,7 @@
       "type": "Cable/DSL/ISP"
     },
     "8888": {
-      "name": "xTom APAC",
+      "name": "xTom Global",
       "type": "Cable/DSL/ISP"
     },
     "398668": {
@@ -141380,6 +141388,10 @@
       "name": "Sector Telecom Ltd.",
       "type": "Cable/DSL/ISP"
     },
+    "153573": {
+      "name": "BAYNET - PT Bayu Multimedia Telekomunikasi",
+      "type": "NSP"
+    },
     "329608": {
       "name": "NetClick",
       "type": "Cable/DSL/ISP"
@@ -143212,6 +143224,10 @@
       "name": "Interfere",
       "type": "Enterprise"
     },
+    "154539": {
+      "name": "MNADS-AS-AP",
+      "type": "Cable/DSL/ISP"
+    },
     "136453": {
       "name": "KALA HOTAMA TECHNOLOGY",
       "type": "Cable/DSL/ISP"
@@ -143389,8 +143405,8 @@
       "type": "Content"
     },
     "218681": {
-      "name": "Xr3azn Network Limited",
-      "type": "Content"
+      "name": "Xr3azn Network",
+      "type": "NSP"
     },
     "402011": {
       "name": "Braeden LLC",
@@ -143663,6 +143679,10 @@
     "401569": {
       "name": "PM-LLC",
       "type": "Unknown"
+    },
+    "275779": {
+      "name": "ASN275779",
+      "type": "Cable/DSL/ISP"
     }
   }
 }
