@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-16T03:55:57.009Z",
+  "updated_at": "2026-11-17T05:48:10.181Z",
   "source": "PeeringDB",
-  "entry_count": 35920,
+  "entry_count": 35933,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -4177,8 +4177,8 @@
       "type": "Cable/DSL/ISP"
     },
     "8553": {
-      "name": "Avensys Networks Ltd",
-      "type": "NSP"
+      "name": "HOSTAL",
+      "type": "Unknown"
     },
     "8535": {
       "name": "Agora",
@@ -36264,10 +36264,6 @@
       "name": "Distinct New Media",
       "type": "Unknown"
     },
-    "47043": {
-      "name": "SmartInc",
-      "type": "Unknown"
-    },
     "126": {
       "name": "United States Department of Defense (AS126)",
       "type": "Unknown"
@@ -50278,7 +50274,7 @@
     },
     "4741": {
       "name": "Samart Infonet Co., Ltd.",
-      "type": "Route Server"
+      "type": "Cable/DSL/ISP"
     },
     "136055": {
       "name": "Queen Network Nusantara",
@@ -56291,10 +56287,6 @@
     "208584": {
       "name": "LOESBERG",
       "type": "Network Services"
-    },
-    "212434": {
-      "name": "Network Integration Technologies Limited",
-      "type": "Enterprise"
     },
     "52428": {
       "name": "ASOCIACION REGIONAL DE COOPERATIVAS DE SERVICIOS PUBLICOS",
@@ -69333,7 +69325,7 @@
       "type": "Cable/DSL/ISP"
     },
     "270585": {
-      "name": "Rodrigo de Mello Gonçalves Lopes ME",
+      "name": "Flyconecta Internet LTDA",
       "type": "Cable/DSL/ISP"
     },
     "149746": {
@@ -70274,7 +70266,7 @@
     },
     "212294": {
       "name": "Basel Al-Sayeh",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "203333": {
       "name": "Jonas Busch",
@@ -74971,6 +74963,10 @@
     "207683": {
       "name": "Jonas Emilsson",
       "type": "Educational/Research"
+    },
+    "205589": {
+      "name": "ADE22",
+      "type": "Unknown"
     },
     "269996": {
       "name": "HENDERSON.NET SRL",
@@ -81777,7 +81773,7 @@
       "type": "Unknown"
     },
     "150768": {
-      "name": "Thru Cloud LTD.",
+      "name": "Cloud Walker Co., Ltd.",
       "type": "Enterprise"
     },
     "273612": {
@@ -83832,10 +83828,6 @@
       "name": "Japanet Holdings Co.,Ltd.",
       "type": "Cable/DSL/ISP"
     },
-    "134245": {
-      "name": "The IT Dept Pty Ltd",
-      "type": "Unknown"
-    },
     "210960": {
       "name": "Acorso Anycast",
       "type": "Network Services"
@@ -84667,6 +84659,10 @@
     "40701": {
       "name": "GND-DATACENTER",
       "type": "Network Services"
+    },
+    "55672": {
+      "name": "Universitas Sanata Dharma",
+      "type": "Unknown"
     },
     "401100": {
       "name": "BMUS AS401100",
@@ -85910,7 +85906,7 @@
     },
     "214941": {
       "name": "UPCELL TELEKOMUNIKASYON LIMITED SIRKETI",
-      "type": "Cable/DSL/ISP"
+      "type": "Enterprise"
     },
     "214545": {
       "name": "Intercare NV",
@@ -94948,6 +94944,10 @@
       "name": "FR-ALTSYSNET",
       "type": "Unknown"
     },
+    "215685": {
+      "name": "Dotnet",
+      "type": "NSP"
+    },
     "34696": {
       "name": "Mismelink Networks",
       "type": "NSP"
@@ -103658,7 +103658,7 @@
     },
     "204618": {
       "name": "CONR",
-      "type": "Unknown"
+      "type": "Government"
     },
     "397451": {
       "name": "ZEROBOUNCE",
@@ -104663,10 +104663,6 @@
     "219297": {
       "name": "Vadim Deynichenko",
       "type": "Content"
-    },
-    "154729": {
-      "name": "PT Arkanova Cipta Inovasi",
-      "type": "Cable/DSL/ISP"
     },
     "219291": {
       "name": "OTT",
@@ -106062,6 +106058,10 @@
     },
     "268832": {
       "name": "ASN268832",
+      "type": "Unknown"
+    },
+    "154353": {
+      "name": "IDNIC-ICNET-ID",
       "type": "Unknown"
     },
     "218963": {
@@ -107776,10 +107776,6 @@
       "name": "Lightpath Detroit",
       "type": "NSP"
     },
-    "137055": {
-      "name": "PT Berkah Buana Solusindo",
-      "type": "Cable/DSL/ISP"
-    },
     "218944": {
       "name": "OTNETvTEL-AS",
       "type": "Cable/DSL/ISP"
@@ -109056,6 +109052,10 @@
       "name": "Open TI",
       "type": "Cable/DSL/ISP"
     },
+    "218196": {
+      "name": "Nesox",
+      "type": "Non-Profit"
+    },
     "218188": {
       "name": "WEXCONNECT",
       "type": "Cable/DSL/ISP"
@@ -109316,10 +109316,6 @@
       "name": "ManInDark-Network",
       "type": "Educational/Research"
     },
-    "149026": {
-      "name": "EMUTELPTYLTD-AS-AP",
-      "type": "Unknown"
-    },
     "132252": {
       "name": "Hong Kong Media Production Company Limited",
       "type": "Unknown"
@@ -109346,7 +109342,7 @@
     },
     "269547": {
       "name": "ASN269547",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "218101": {
       "name": "KATIA-ESPOSITO",
@@ -109387,10 +109383,6 @@
     "132259": {
       "name": "PPSII-AS-AP",
       "type": "Cable/DSL/ISP"
-    },
-    "11740": {
-      "name": "PROGRESSIVE-AS",
-      "type": "Enterprise"
     },
     "219072": {
       "name": "ALMASAR",
@@ -109458,6 +109450,54 @@
     },
     "50964": {
       "name": "Komm-ONE-AS",
+      "type": "Unknown"
+    },
+    "152590": {
+      "name": "Underlay Networks",
+      "type": "NSP"
+    },
+    "152337": {
+      "name": "NUM-AS-AP",
+      "type": "Educational/Research"
+    },
+    "54228": {
+      "name": "INVTECHNOLOGIES",
+      "type": "Unknown"
+    },
+    "218060": {
+      "name": "NewtnAphos-AS",
+      "type": "Unknown"
+    },
+    "154628": {
+      "name": "PT Sinergi Multidata Utama",
+      "type": "Cable/DSL/ISP"
+    },
+    "218058": {
+      "name": "VUJCEC-NET",
+      "type": "Unknown"
+    },
+    "218065": {
+      "name": "PRUNK",
+      "type": "Unknown"
+    },
+    "41791": {
+      "name": "Datagio Systems Ltd.",
+      "type": "Enterprise"
+    },
+    "274288": {
+      "name": "274288",
+      "type": "Cable/DSL/ISP"
+    },
+    "155091": {
+      "name": "IDNIC-LINTASAN-ID",
+      "type": "Unknown"
+    },
+    "154903": {
+      "name": "ESPL-AS-AP",
+      "type": "Unknown"
+    },
+    "7577": {
+      "name": "VTC-AS-AP",
       "type": "Unknown"
     },
     "22822": {
@@ -112229,7 +112269,7 @@
       "type": "Cable/DSL/ISP"
     },
     "45884": {
-      "name": "RVR Digital Infrastructures",
+      "name": "RVR Digital Net Pvt Ltd",
       "type": "Cable/DSL/ISP"
     },
     "52777": {
@@ -120774,7 +120814,7 @@
     },
     "60304": {
       "name": "Starnet Albania",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "397031": {
       "name": "GALAXYGATE",
@@ -134702,7 +134742,7 @@
     },
     "212071": {
       "name": "SYDMAE",
-      "type": "Content"
+      "type": "Educational/Research"
     },
     "6145": {
       "name": "Synapsis.io AS6145",
@@ -141128,10 +141168,6 @@
       "name": "Imtech Solution and Data Providers",
       "type": "Cable/DSL/ISP"
     },
-    "215685": {
-      "name": "Dotnet",
-      "type": "NSP"
-    },
     "273976": {
       "name": "FICOM INTERNATIONAL",
       "type": "Cable/DSL/ISP"
@@ -142952,6 +142988,10 @@
       "name": "GIACOM-ISP",
       "type": "Unknown"
     },
+    "154729": {
+      "name": "PT Arkanova Cipta Inovasi",
+      "type": "Cable/DSL/ISP"
+    },
     "203291": {
       "name": "FrysLÂN",
       "type": "NSP"
@@ -143436,6 +143476,10 @@
       "name": "Soft Telecom",
       "type": "Cable/DSL/ISP"
     },
+    "137055": {
+      "name": "PT Berkah Buana Solusindo",
+      "type": "Cable/DSL/ISP"
+    },
     "218684": {
       "name": "QA-HMC",
       "type": "Unknown"
@@ -143660,6 +143704,10 @@
       "name": "IDNIC-KAWANLAMA-ID",
       "type": "Enterprise"
     },
+    "149026": {
+      "name": "EmuTel",
+      "type": "Cable/DSL/ISP"
+    },
     "153432": {
       "name": "TONGIONLINE-AS-AP",
       "type": "NSP"
@@ -143679,6 +143727,10 @@
     "401569": {
       "name": "PM-LLC",
       "type": "Unknown"
+    },
+    "11740": {
+      "name": "PROGRESSIVE-AS",
+      "type": "Enterprise"
     },
     "275779": {
       "name": "ASN275779",
