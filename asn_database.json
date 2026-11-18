@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-17T05:48:10.181Z",
+  "updated_at": "2026-11-18T05:13:32.366Z",
   "source": "PeeringDB",
-  "entry_count": 35933,
+  "entry_count": 35945,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -35680,6 +35680,10 @@
       "name": "R L GUIMARAES TELECOMUNICACAO",
       "type": "Unknown"
     },
+    "16740": {
+      "name": "DOXX.NET CORPORATION",
+      "type": "Network Services"
+    },
     "268237": {
       "name": "CARLA ANDREIA ARAUJO DE OLIVEIRA",
       "type": "Unknown"
@@ -36699,10 +36703,6 @@
     "20919": {
       "name": "IBS Expertise",
       "type": "Unknown"
-    },
-    "49466": {
-      "name": "KLAYER EU",
-      "type": "Content"
     },
     "59781": {
       "name": "KP-REKLAMA",
@@ -53989,7 +53989,7 @@
       "type": "Unknown"
     },
     "212815": {
-      "name": "★ Dyjix SAS",
+      "name": "Dyjix SAS",
       "type": "Cable/DSL/ISP"
     },
     "264440": {
@@ -55669,7 +55669,7 @@
       "type": "Unknown"
     },
     "29050": {
-      "name": "Terrecablate😉",
+      "name": "Terrecablate",
       "type": "Cable/DSL/ISP"
     },
     "41415": {
@@ -70266,7 +70266,7 @@
     },
     "212294": {
       "name": "Basel Al-Sayeh",
-      "type": "NSP"
+      "type": "Unknown"
     },
     "203333": {
       "name": "Jonas Busch",
@@ -74405,7 +74405,7 @@
       "type": "Unknown"
     },
     "57984": {
-      "name": "XINDI ♻",
+      "name": "XINDI",
       "type": "Unknown"
     },
     "400260": {
@@ -74963,10 +74963,6 @@
     "207683": {
       "name": "Jonas Emilsson",
       "type": "Educational/Research"
-    },
-    "205589": {
-      "name": "ADE22",
-      "type": "Unknown"
     },
     "269996": {
       "name": "HENDERSON.NET SRL",
@@ -78805,11 +78801,11 @@
       "type": "Unknown"
     },
     "46265": {
-      "name": "Netskrt (Canada)",
+      "name": "Netskrt (CA)",
       "type": "Content"
     },
     "22359": {
-      "name": "NETSKRTSYSTEMS-UK",
+      "name": "Netskrt (UK)",
       "type": "Content"
     },
     "400196": {
@@ -79305,7 +79301,7 @@
       "type": "Unknown"
     },
     "48854": {
-      "name": "team.blue DK",
+      "name": "team.blue Denmark A/S",
       "type": "Content"
     },
     "204652": {
@@ -83617,7 +83613,7 @@
       "type": "Unknown"
     },
     "273211": {
-      "name": "IX ANDESPARK PERU",
+      "name": "IX AndeSpark Peering - IP Service",
       "type": "Unknown"
     },
     "152376": {
@@ -83865,7 +83861,7 @@
       "type": "Unknown"
     },
     "64162": {
-      "name": "IX ANDESPARK - HUANCAYO",
+      "name": "IX AndeSpark - Route Server",
       "type": "Enterprise"
     },
     "146970": {
@@ -83957,7 +83953,7 @@
       "type": "Cable/DSL/ISP"
     },
     "215035": {
-      "name": "★ CONNECT-IX",
+      "name": "CONNECT-IX",
       "type": "Network Services"
     },
     "40933": {
@@ -101330,7 +101326,7 @@
     },
     "18919": {
       "name": "smartTrade Technologies",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "401121": {
       "name": "Hennepin County",
@@ -106125,7 +106121,7 @@
       "type": "Unknown"
     },
     "48729": {
-      "name": "Serverking B.V.",
+      "name": "ServerKing B.V.",
       "type": "Unknown"
     },
     "47141": {
@@ -106257,8 +106253,8 @@
       "type": "Cable/DSL/ISP"
     },
     "214195": {
-      "name": "Tres Teknoloji",
-      "type": "NSP"
+      "name": "LINK-IX",
+      "type": "Route Server"
     },
     "46910": {
       "name": "Noctys",
@@ -109241,7 +109237,7 @@
       "type": "Cable/DSL/ISP"
     },
     "64174": {
-      "name": "64174",
+      "name": "IXP GYE",
       "type": "Content"
     },
     "274869": {
@@ -109318,7 +109314,7 @@
     },
     "132252": {
       "name": "Hong Kong Media Production Company Limited",
-      "type": "Unknown"
+      "type": "Content"
     },
     "198339": {
       "name": "OMEGACLOUD",
@@ -109462,7 +109458,7 @@
     },
     "54228": {
       "name": "INVTECHNOLOGIES",
-      "type": "Unknown"
+      "type": "Content"
     },
     "218060": {
       "name": "NewtnAphos-AS",
@@ -109485,7 +109481,7 @@
       "type": "Enterprise"
     },
     "274288": {
-      "name": "274288",
+      "name": "SERVIWI 22, C.A",
       "type": "Cable/DSL/ISP"
     },
     "155091": {
@@ -109498,6 +109494,50 @@
     },
     "7577": {
       "name": "VTC-AS-AP",
+      "type": "Unknown"
+    },
+    "218057": {
+      "name": "NET-766",
+      "type": "Unknown"
+    },
+    "206996": {
+      "name": "zap-hosting",
+      "type": "Unknown"
+    },
+    "328494": {
+      "name": "ORG-WPL2-AFRINIC",
+      "type": "Unknown"
+    },
+    "42446": {
+      "name": "VISCOMP-AS",
+      "type": "Unknown"
+    },
+    "149721": {
+      "name": "JTEL-AS-ID",
+      "type": "Unknown"
+    },
+    "397649": {
+      "name": "PhillyIX Research Network",
+      "type": "Educational/Research"
+    },
+    "153994": {
+      "name": "BITSFIBEROPC-AS-AP",
+      "type": "Unknown"
+    },
+    "273827": {
+      "name": "273827",
+      "type": "Unknown"
+    },
+    "202272": {
+      "name": "WGET-AS",
+      "type": "Unknown"
+    },
+    "35846": {
+      "name": "MATTERLOOM",
+      "type": "Unknown"
+    },
+    "155094": {
+      "name": "IDNIC-HIGHSPEED-ID",
       "type": "Unknown"
     },
     "22822": {
@@ -119152,10 +119192,6 @@
       "name": "IX Liverpool Route Servers",
       "type": "Route Server"
     },
-    "16740": {
-      "name": "DX-SECURE",
-      "type": "Unknown"
-    },
     "265451": {
       "name": "INFOLINK TELECOM",
       "type": "Cable/DSL/ISP"
@@ -122474,7 +122510,7 @@
     },
     "57630": {
       "name": "84Grams",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "266160": {
       "name": "Kater Telecomunicações",
@@ -131809,7 +131845,7 @@
       "type": "Cable/DSL/ISP"
     },
     "210030": {
-      "name": "★ ANCELADE CLOUD",
+      "name": "ANCELADE CLOUD",
       "type": "Network Services"
     },
     "141346": {
@@ -133129,7 +133165,7 @@
       "type": "NSP"
     },
     "997": {
-      "name": "KLAYER",
+      "name": "Beyotta",
       "type": "Enterprise"
     },
     "52762": {
@@ -135104,6 +135140,10 @@
       "name": "Bluedog Technology",
       "type": "Unknown"
     },
+    "205589": {
+      "name": "ADE22",
+      "type": "Non-Profit"
+    },
     "20909": {
       "name": "Unity S.A.",
       "type": "Unknown"
@@ -135669,7 +135709,7 @@
       "type": "Network Services"
     },
     "273007": {
-      "name": "FiVEN",
+      "name": "FIVEN",
       "type": "Content"
     },
     "137349": {
@@ -136521,7 +136561,7 @@
       "type": "NSP"
     },
     "53471": {
-      "name": "Netskrt",
+      "name": "Netskrt (US)",
       "type": "Content"
     },
     "149398": {
@@ -137145,7 +137185,7 @@
       "type": "Enterprise"
     },
     "21647": {
-      "name": "Lightboard ☆ AS21647",
+      "name": "Lightboard AS21647",
       "type": "Network Services"
     },
     "273079": {
@@ -137277,7 +137317,7 @@
       "type": "Unknown"
     },
     "62848": {
-      "name": "American IX ☆ Vermont Route Servers",
+      "name": "American IX Vermont Route Servers",
       "type": "Route Server"
     },
     "39617": {
@@ -137878,7 +137918,7 @@
     },
     "152605": {
       "name": "Z COM NETWORKS",
-      "type": "Cable/DSL/ISP"
+      "type": "NSP"
     },
     "40343": {
       "name": "Skyfiber",
@@ -139713,7 +139753,7 @@
       "type": "Content"
     },
     "153327": {
-      "name": "APEX Network - JT",
+      "name": "APEX Network",
       "type": "Cable/DSL/ISP"
     },
     "9923": {
@@ -140965,7 +141005,7 @@
       "type": "Content"
     },
     "211626": {
-      "name": "KARTHOR 🪐",
+      "name": "KARTHOR",
       "type": "Educational/Research"
     },
     "267384": {
@@ -140978,7 +141018,7 @@
     },
     "196898": {
       "name": "SARNET",
-      "type": "Content"
+      "type": "Enterprise"
     },
     "212591": {
       "name": "PLTFRMS",
@@ -141589,7 +141629,7 @@
       "type": "Educational/Research"
     },
     "10475": {
-      "name": "🌴 Tampa Bay Access Exchange 🏴‍☠️",
+      "name": "Tampa Bay Access Exchange",
       "type": "Route Server"
     },
     "207258": {
@@ -142229,7 +142269,7 @@
       "type": "Enterprise"
     },
     "11150": {
-      "name": "American IX ☆ New England Route Servers",
+      "name": "American IX New England Route Servers",
       "type": "Route Server"
     },
     "201423": {
@@ -142329,7 +142369,7 @@
       "type": "Cable/DSL/ISP"
     },
     "5096": {
-      "name": "Lightboard Services ☆ AS5096",
+      "name": "Lightboard Services AS5096",
       "type": "Network Services"
     },
     "268036": {
@@ -143734,6 +143774,14 @@
     },
     "275779": {
       "name": "ASN275779",
+      "type": "Cable/DSL/ISP"
+    },
+    "218134": {
+      "name": "UNILAB Network",
+      "type": "Network Services"
+    },
+    "141794": {
+      "name": "THANGAM-AS-IN",
       "type": "Cable/DSL/ISP"
     }
   }
