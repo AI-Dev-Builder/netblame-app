@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-18T05:13:32.366Z",
+  "updated_at": "2026-11-19T05:08:43.747Z",
   "source": "PeeringDB",
-  "entry_count": 35945,
+  "entry_count": 35964,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -16140,10 +16140,6 @@
       "name": "VEXNET TELECOM INFORMÁTICA LTDA",
       "type": "Cable/DSL/ISP"
     },
-    "44000": {
-      "name": "Net1C",
-      "type": "Content"
-    },
     "31240": {
       "name": "Hosting Telesystems JSC",
       "type": "Content"
@@ -22529,7 +22525,7 @@
       "type": "Government"
     },
     "206758": {
-      "name": "Arkadiusz Jerzy Kochanski trading as Akomp Systemy Informatyczne",
+      "name": "AKOMP Systemy Informatyczne Sp. z o.o.",
       "type": "Cable/DSL/ISP"
     },
     "31577": {
@@ -30139,10 +30135,6 @@
     "51391": {
       "name": "Tommy Bowditch",
       "type": "Educational/Research"
-    },
-    "266438": {
-      "name": "GIGANETSUL",
-      "type": "Cable/DSL/ISP"
     },
     "49904": {
       "name": "Kosaka Network",
@@ -43804,10 +43796,6 @@
       "name": "SquareAlpha",
       "type": "Content"
     },
-    "56468": {
-      "name": "MC Networking",
-      "type": "Cable/DSL/ISP"
-    },
     "206683": {
       "name": "Moravskoslezske inovacni centrum Ostrava",
       "type": "Unknown"
@@ -44159,10 +44147,6 @@
     "10214": {
       "name": "Pentanet AS10214",
       "type": "Cable/DSL/ISP"
-    },
-    "51248": {
-      "name": "Host-Telecom.com",
-      "type": "Content"
     },
     "63014": {
       "name": "McCormick Place",
@@ -49397,7 +49381,7 @@
       "type": "Unknown"
     },
     "23483": {
-      "name": "Shasta County Office of Education",
+      "name": "Shasta COE",
       "type": "Educational/Research"
     },
     "135172": {
@@ -56389,8 +56373,8 @@
       "type": "Unknown"
     },
     "209604": {
-      "name": "2E Telekom (TWO E Telekom)",
-      "type": "Network Services"
+      "name": "Zenix Data Center",
+      "type": "NSP"
     },
     "270389": {
       "name": "Horacio Machado de Aquino",
@@ -72205,7 +72189,7 @@
       "type": "Enterprise"
     },
     "213206": {
-      "name": "Ministria e Administrates Publike",
+      "name": "Ministry of Digitalization and Public Administration",
       "type": "Unknown"
     },
     "14031": {
@@ -85026,7 +85010,7 @@
     },
     "271996": {
       "name": "WILLNET SRL",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "273781": {
       "name": "CONECT + FIBRA",
@@ -98300,10 +98284,6 @@
       "name": "Nasstec Airnet",
       "type": "Cable/DSL/ISP"
     },
-    "198441": {
-      "name": "Migtelecom LLC AS198441",
-      "type": "Cable/DSL/ISP"
-    },
     "215385": {
       "name": "ALONET",
       "type": "Cable/DSL/ISP"
@@ -100237,7 +100217,7 @@
       "type": "Non-Profit"
     },
     "201392": {
-      "name": "FurNet",
+      "name": "Team Inverse",
       "type": "Content"
     },
     "210693": {
@@ -108788,10 +108768,6 @@
       "name": "IDNIC-CITRAINDO-AS-ID",
       "type": "Unknown"
     },
-    "218258": {
-      "name": "ZIPBIT",
-      "type": "Enterprise"
-    },
     "84": {
       "name": "DNIC-AS-00084",
       "type": "Unknown"
@@ -109246,7 +109222,7 @@
     },
     "215670": {
       "name": "LLP Internet Company First Page",
-      "type": "Unknown"
+      "type": "Content"
     },
     "403208": {
       "name": "SEPARARE",
@@ -109278,7 +109254,7 @@
     },
     "274196": {
       "name": "FASTCONEXION S.A.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "155093": {
       "name": "JCLAVZ-AS-AP",
@@ -109318,7 +109294,7 @@
     },
     "198339": {
       "name": "OMEGACLOUD",
-      "type": "Unknown"
+      "type": "Content"
     },
     "155102": {
       "name": "Argsment Asia Pacific",
@@ -109493,8 +109469,8 @@
       "type": "Unknown"
     },
     "7577": {
-      "name": "VTC-AS-AP",
-      "type": "Unknown"
+      "name": "Vocational Training Council Hong Kong",
+      "type": "Educational/Research"
     },
     "218057": {
       "name": "NET-766",
@@ -109538,6 +109514,70 @@
     },
     "155094": {
       "name": "IDNIC-HIGHSPEED-ID",
+      "type": "Unknown"
+    },
+    "42431": {
+      "name": "B-NET",
+      "type": "Cable/DSL/ISP"
+    },
+    "218097": {
+      "name": "HAOCHEN",
+      "type": "Unknown"
+    },
+    "218216": {
+      "name": "PASSIMIT-AS",
+      "type": "Unknown"
+    },
+    "218043": {
+      "name": "TROIHOST",
+      "type": "Unknown"
+    },
+    "275321": {
+      "name": "ASN275321",
+      "type": "Unknown"
+    },
+    "2900": {
+      "name": "WN-AZ-AS",
+      "type": "Unknown"
+    },
+    "8431": {
+      "name": "AS8431",
+      "type": "Unknown"
+    },
+    "403249": {
+      "name": "K9NET-01",
+      "type": "Enterprise"
+    },
+    "218068": {
+      "name": "perforlabs-as",
+      "type": "Unknown"
+    },
+    "49740": {
+      "name": "GGN",
+      "type": "Cable/DSL/ISP"
+    },
+    "264822": {
+      "name": "264822",
+      "type": "Unknown"
+    },
+    "218034": {
+      "name": "FURRIX-MAWS-N-PAWS",
+      "type": "Educational/Research"
+    },
+    "218046": {
+      "name": "IVPLUS",
+      "type": "Unknown"
+    },
+    "218038": {
+      "name": "ALEXEYLAPKIS",
+      "type": "Educational/Research"
+    },
+    "154822": {
+      "name": "FWPL-AS-AP",
+      "type": "Unknown"
+    },
+    "403197": {
+      "name": "Taipei101 Mobile (DE)",
       "type": "Unknown"
     },
     "22822": {
@@ -113059,6 +113099,10 @@
     "132330": {
       "name": "Hillsong International",
       "type": "Non-Profit"
+    },
+    "44000": {
+      "name": "Net1C",
+      "type": "Cable/DSL/ISP"
     },
     "56475": {
       "name": "DATA-COM Piotr Data",
@@ -122872,6 +122916,10 @@
       "name": "T2web",
       "type": "Cable/DSL/ISP"
     },
+    "56468": {
+      "name": "MC Networking",
+      "type": "Cable/DSL/ISP"
+    },
     "208920": {
       "name": "Rocket Way",
       "type": "Cable/DSL/ISP"
@@ -123031,6 +123079,10 @@
     "269118": {
       "name": "Gtn Telecom",
       "type": "Cable/DSL/ISP"
+    },
+    "51248": {
+      "name": "Host-Telecom.com",
+      "type": "NSP"
     },
     "328237": {
       "name": "megamax",
@@ -137185,7 +137237,7 @@
       "type": "Enterprise"
     },
     "21647": {
-      "name": "Lightboard AS21647",
+      "name": "Lightboard 米 AS21647",
       "type": "Network Services"
     },
     "273079": {
@@ -137317,7 +137369,7 @@
       "type": "Unknown"
     },
     "62848": {
-      "name": "American IX Vermont Route Servers",
+      "name": "American IX 米 Vermont Route Servers",
       "type": "Route Server"
     },
     "39617": {
@@ -141944,6 +141996,10 @@
       "name": "Fiberifi",
       "type": "Cable/DSL/ISP"
     },
+    "198441": {
+      "name": "Migtelecom LLC AS198441",
+      "type": "Cable/DSL/ISP"
+    },
     "203309": {
       "name": "Liangyi Ma",
       "type": "Educational/Research"
@@ -142269,7 +142325,7 @@
       "type": "Enterprise"
     },
     "11150": {
-      "name": "American IX New England Route Servers",
+      "name": "American IX 米 New England Route Servers",
       "type": "Route Server"
     },
     "201423": {
@@ -143668,6 +143724,10 @@
       "name": "274245",
       "type": "Cable/DSL/ISP"
     },
+    "218258": {
+      "name": "ZIPBIT",
+      "type": "Enterprise"
+    },
     "218255": {
       "name": "FPLNET",
       "type": "Non-Profit"
@@ -143783,6 +143843,22 @@
     "141794": {
       "name": "THANGAM-AS-IN",
       "type": "Cable/DSL/ISP"
+    },
+    "27415": {
+      "name": "CANIX Regina Route Servers",
+      "type": "Route Server"
+    },
+    "403133": {
+      "name": "CANIX Regina Services",
+      "type": "Network Services"
+    },
+    "13595": {
+      "name": "CANIX Winnipeg Route Servers",
+      "type": "Route Server"
+    },
+    "403134": {
+      "name": "CANIX Winnipeg Services",
+      "type": "Network Services"
     }
   }
 }
