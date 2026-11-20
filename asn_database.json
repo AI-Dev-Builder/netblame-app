@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-19T05:08:43.747Z",
+  "updated_at": "2026-11-20T04:57:22.240Z",
   "source": "PeeringDB",
-  "entry_count": 35964,
+  "entry_count": 35976,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -30135,6 +30135,10 @@
     "51391": {
       "name": "Tommy Bowditch",
       "type": "Educational/Research"
+    },
+    "266438": {
+      "name": "GIGANETSUL",
+      "type": "Cable/DSL/ISP"
     },
     "49904": {
       "name": "Kosaka Network",
@@ -82169,7 +82173,7 @@
       "type": "Educational/Research"
     },
     "272193": {
-      "name": "Fly Conecta Internet LTDA",
+      "name": "Fly Conecta Internet LTDA.",
       "type": "NSP"
     },
     "197352": {
@@ -95824,10 +95828,6 @@
       "name": "ADESA",
       "type": "Unknown"
     },
-    "393373": {
-      "name": "MORANTELECOLLC",
-      "type": "Unknown"
-    },
     "153322": {
       "name": "Persian Cable TV Network",
       "type": "Unknown"
@@ -98282,6 +98282,10 @@
     },
     "142647": {
       "name": "Nasstec Airnet",
+      "type": "Cable/DSL/ISP"
+    },
+    "198441": {
+      "name": "Migtelecom LLC AS198441",
       "type": "Cable/DSL/ISP"
     },
     "215385": {
@@ -107988,10 +107992,6 @@
       "name": "PARKERCS",
       "type": "Educational/Research"
     },
-    "403070": {
-      "name": "RRAINN-NET-01",
-      "type": "Content"
-    },
     "154993": {
       "name": "STRATA-AS-AP",
       "type": "Cable/DSL/ISP"
@@ -108834,7 +108834,7 @@
     },
     "218242": {
       "name": "ZDUNEK-DEV",
-      "type": "Unknown"
+      "type": "Educational/Research"
     },
     "19047": {
       "name": "AWS-01",
@@ -109446,7 +109446,7 @@
     },
     "218058": {
       "name": "VUJCEC-NET",
-      "type": "Unknown"
+      "type": "Enterprise"
     },
     "218065": {
       "name": "PRUNK",
@@ -109526,11 +109526,7 @@
     },
     "218216": {
       "name": "PASSIMIT-AS",
-      "type": "Unknown"
-    },
-    "218043": {
-      "name": "TROIHOST",
-      "type": "Unknown"
+      "type": "Content"
     },
     "275321": {
       "name": "ASN275321",
@@ -109573,11 +109569,51 @@
       "type": "Educational/Research"
     },
     "154822": {
-      "name": "FWPL-AS-AP",
-      "type": "Unknown"
+      "name": "Fibrenet Wholesale AS154822",
+      "type": "Cable/DSL/ISP"
     },
     "403197": {
       "name": "Taipei101 Mobile (DE)",
+      "type": "Unknown"
+    },
+    "211428": {
+      "name": "keyf",
+      "type": "Unknown"
+    },
+    "50332": {
+      "name": "SQUILD-AS",
+      "type": "Unknown"
+    },
+    "218039": {
+      "name": "Serverhelden",
+      "type": "Content"
+    },
+    "155055": {
+      "name": "IDNIC-OMEGANET-ID",
+      "type": "Unknown"
+    },
+    "211560": {
+      "name": "UGUR-OZTURK",
+      "type": "Unknown"
+    },
+    "218031": {
+      "name": "Leenaert",
+      "type": "Non-Profit"
+    },
+    "218905": {
+      "name": "ORDNARY",
+      "type": "Content"
+    },
+    "218024": {
+      "name": "SYSTEMCROSSING",
+      "type": "Educational/Research"
+    },
+    "131466": {
+      "name": "Akari Networks (SG)",
+      "type": "Cable/DSL/ISP"
+    },
+    "271836": {
+      "name": "271836",
       "type": "Unknown"
     },
     "22822": {
@@ -141444,6 +141480,10 @@
       "name": "PHPLAVATEC SOLUTIONS LTD",
       "type": "Cable/DSL/ISP"
     },
+    "393373": {
+      "name": "MORANTELECOLLC",
+      "type": "Educational/Research"
+    },
     "205150": {
       "name": "Gustavo_Iribarrem",
       "type": "Educational/Research"
@@ -141994,10 +142034,6 @@
     },
     "1046": {
       "name": "Fiberifi",
-      "type": "Cable/DSL/ISP"
-    },
-    "198441": {
-      "name": "Migtelecom LLC AS198441",
       "type": "Cable/DSL/ISP"
     },
     "203309": {
@@ -143596,6 +143632,10 @@
       "name": "EDMA-NET",
       "type": "Cable/DSL/ISP"
     },
+    "403070": {
+      "name": "RRAINN-NET-01",
+      "type": "Content"
+    },
     "269528": {
       "name": "ASN269528",
       "type": "NSP"
@@ -143844,6 +143884,10 @@
       "name": "THANGAM-AS-IN",
       "type": "Cable/DSL/ISP"
     },
+    "218043": {
+      "name": "TROIHOST",
+      "type": "Unknown"
+    },
     "27415": {
       "name": "CANIX Regina Route Servers",
       "type": "Route Server"
@@ -143859,6 +143903,10 @@
     "403134": {
       "name": "CANIX Winnipeg Services",
       "type": "Network Services"
+    },
+    "215052": {
+      "name": "DINSERVGRO-NET",
+      "type": "Unknown"
     }
   }
 }
