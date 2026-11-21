@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-20T04:57:22.240Z",
+  "updated_at": "2026-11-21T04:52:54.917Z",
   "source": "PeeringDB",
-  "entry_count": 35976,
+  "entry_count": 35982,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -21224,10 +21224,6 @@
       "name": "Starry Network Limited",
       "type": "NSP"
     },
-    "59415": {
-      "name": "PPHU Haker Mateusz Dymitruk",
-      "type": "Cable/DSL/ISP"
-    },
     "264316": {
       "name": "IZAZ Processamento de Dados",
       "type": "Cable/DSL/ISP"
@@ -21547,6 +21543,10 @@
     "9115": {
       "name": "Hostopia, a HostPapa, Inc. company [Europe]",
       "type": "Content"
+    },
+    "135610": {
+      "name": "IDNIC-BERSAMANET-ID",
+      "type": "Unknown"
     },
     "133245": {
       "name": "Go WiFi Networking Solutions",
@@ -33754,10 +33754,6 @@
     },
     "266156": {
       "name": "OESTENET SERVICOS DE COMUNICACAO LTDA",
-      "type": "Cable/DSL/ISP"
-    },
-    "60398": {
-      "name": "CITCO",
       "type": "Cable/DSL/ISP"
     },
     "19332": {
@@ -73588,10 +73584,6 @@
       "name": "Nervelink Utama Media",
       "type": "Unknown"
     },
-    "54936": {
-      "name": "Wyyerd Group",
-      "type": "Cable/DSL/ISP"
-    },
     "17390": {
       "name": "IBM",
       "type": "Enterprise"
@@ -74626,10 +74618,6 @@
     },
     "150630": {
       "name": "Bhima Riddhi Broadband",
-      "type": "Cable/DSL/ISP"
-    },
-    "199683": {
-      "name": "KILOGRAM",
       "type": "Cable/DSL/ISP"
     },
     "199676": {
@@ -86930,7 +86918,7 @@
     },
     "138238": {
       "name": "Smartware Technologies Pvt Ltd.",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "214317": {
       "name": "KEYPOINT-VLD",
@@ -88862,7 +88850,7 @@
     },
     "214623": {
       "name": "2644819 Ontario Inc",
-      "type": "Unknown"
+      "type": "Content"
     },
     "25664": {
       "name": "Solano County Office of Education",
@@ -90586,10 +90574,6 @@
     },
     "58224": {
       "name": "TCI",
-      "type": "Unknown"
-    },
-    "215242": {
-      "name": "DATAPENTA",
       "type": "Unknown"
     },
     "152839": {
@@ -92946,7 +92930,7 @@
     },
     "152757": {
       "name": "PT DHAHA PRIMA NET",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "196854": {
       "name": "ISATEL",
@@ -101420,10 +101404,6 @@
       "name": "WOOMER REIS DE LACERDA -ME",
       "type": "Unknown"
     },
-    "199817": {
-      "name": "TANG NAIYUAN",
-      "type": "Unknown"
-    },
     "199892": {
       "name": "Muhammad Akmal Hazim Bin Hafizul Rasydan",
       "type": "Unknown"
@@ -105708,10 +105688,6 @@
       "name": "274005",
       "type": "Cable/DSL/ISP"
     },
-    "219066": {
-      "name": "KX712-SAS",
-      "type": "Content"
-    },
     "274422": {
       "name": "WOWnet MX",
       "type": "Cable/DSL/ISP"
@@ -106373,8 +106349,8 @@
       "type": "NSP"
     },
     "218871": {
-      "name": "NISHIO-AS",
-      "type": "Unknown"
+      "name": "YATSNET",
+      "type": "Educational/Research"
     },
     "218890": {
       "name": "Yuri Systems LLC",
@@ -108388,10 +108364,6 @@
       "name": "ZeroCopy, Inc.",
       "type": "Content"
     },
-    "198979": {
-      "name": "RSN-EDGECORE",
-      "type": "Enterprise"
-    },
     "218360": {
       "name": "NovaMX",
       "type": "NSP"
@@ -108832,10 +108804,6 @@
       "name": "INCLEAF",
       "type": "Unknown"
     },
-    "218242": {
-      "name": "ZDUNEK-DEV",
-      "type": "Educational/Research"
-    },
     "19047": {
       "name": "AWS-01",
       "type": "Unknown"
@@ -109201,8 +109169,8 @@
       "type": "Enterprise"
     },
     "154537": {
-      "name": "IDNIC-GLN-ID",
-      "type": "Unknown"
+      "name": "GarudaFiber",
+      "type": "Cable/DSL/ISP"
     },
     "133104": {
       "name": "INSTRACORPORATION",
@@ -109322,7 +109290,7 @@
     },
     "218938": {
       "name": "POTUZHNO-AS",
-      "type": "Unknown"
+      "type": "Content"
     },
     "202268": {
       "name": "nicolai",
@@ -109524,10 +109492,6 @@
       "name": "HAOCHEN",
       "type": "Unknown"
     },
-    "218216": {
-      "name": "PASSIMIT-AS",
-      "type": "Content"
-    },
     "275321": {
       "name": "ASN275321",
       "type": "Unknown"
@@ -109539,10 +109503,6 @@
     "8431": {
       "name": "AS8431",
       "type": "Unknown"
-    },
-    "403249": {
-      "name": "K9NET-01",
-      "type": "Enterprise"
     },
     "218068": {
       "name": "perforlabs-as",
@@ -109614,6 +109574,54 @@
     },
     "271836": {
       "name": "271836",
+      "type": "Unknown"
+    },
+    "37318": {
+      "name": "ORG-BA9-AFRINIC",
+      "type": "Unknown"
+    },
+    "218041": {
+      "name": "BUFFHOST-AS",
+      "type": "Unknown"
+    },
+    "218025": {
+      "name": "NETRUM-CLOUD",
+      "type": "Unknown"
+    },
+    "153826": {
+      "name": "SLJFIBER-IN",
+      "type": "Unknown"
+    },
+    "151802": {
+      "name": "FSAS-AS-MM",
+      "type": "Unknown"
+    },
+    "214829": {
+      "name": "Z-CERT",
+      "type": "Non-Profit"
+    },
+    "31128": {
+      "name": "SHAZAM-AS",
+      "type": "Unknown"
+    },
+    "218062": {
+      "name": "SPASKRUG-AS",
+      "type": "Cable/DSL/ISP"
+    },
+    "400026": {
+      "name": "P5 VENTURES",
+      "type": "Unknown"
+    },
+    "35870": {
+      "name": "NAMETAG",
+      "type": "Unknown"
+    },
+    "272509": {
+      "name": "ASN272509",
+      "type": "Unknown"
+    },
+    "152985": {
+      "name": "CLOUD247-VN",
       "type": "Unknown"
     },
     "22822": {
@@ -111191,10 +111199,6 @@
     "51944": {
       "name": "PROMEDIA NOWICKI WESOŁOWSKI SPÓŁKA JAWNA",
       "type": "Cable/DSL/ISP"
-    },
-    "28165": {
-      "name": "Wireless Comm Services LTDA",
-      "type": "NSP"
     },
     "28300": {
       "name": "Speed Serviços de Internet Ltda",
@@ -114606,6 +114610,10 @@
     },
     "62161": {
       "name": "PRO-PING",
+      "type": "Cable/DSL/ISP"
+    },
+    "59415": {
+      "name": "PPHU Haker Mateusz Dymitruk",
       "type": "Cable/DSL/ISP"
     },
     "36225": {
@@ -126409,7 +126417,7 @@
       "type": "Cable/DSL/ISP"
     },
     "140423": {
-      "name": "Chandra Media Nusantara, PT",
+      "name": "CMedia ISP",
       "type": "NSP"
     },
     "328644": {
@@ -134756,6 +134764,10 @@
       "name": "Qupra B.V.",
       "type": "Unknown"
     },
+    "54936": {
+      "name": "Wyyerd Group",
+      "type": "Cable/DSL/ISP"
+    },
     "150020": {
       "name": "AIRGIGAFIBER NET SERVICE",
       "type": "Cable/DSL/ISP"
@@ -136479,10 +136491,6 @@
     "198037": {
       "name": "SPACECORE SOLUTION LTD",
       "type": "NSP"
-    },
-    "201386": {
-      "name": "Myrna Misaka Network Inc.",
-      "type": "Cable/DSL/ISP"
     },
     "151533": {
       "name": "PT. Sarana Optima Berdikari",
@@ -139237,7 +139245,7 @@
       "type": "Unknown"
     },
     "152821": {
-      "name": "CMedia Nusantara, CV",
+      "name": "CMedia Cloud",
       "type": "Enterprise"
     },
     "400940": {
@@ -143304,6 +143312,10 @@
       "name": "HCTERCOM DOMINICANA, SRL",
       "type": "Cable/DSL/ISP"
     },
+    "219066": {
+      "name": "KX712-SAS",
+      "type": "Content"
+    },
     "151245": {
       "name": "Yuelungu Network",
       "type": "Content"
@@ -143784,6 +143796,10 @@
       "name": "justinbrugmann",
       "type": "Network Services"
     },
+    "218242": {
+      "name": "ZDUNEK-DEV",
+      "type": "Educational/Research"
+    },
     "218214": {
       "name": "HUBS-AS",
       "type": "Enterprise"
@@ -143884,9 +143900,13 @@
       "name": "THANGAM-AS-IN",
       "type": "Cable/DSL/ISP"
     },
+    "218216": {
+      "name": "PASSIMIT-AS",
+      "type": "Content"
+    },
     "218043": {
       "name": "TROIHOST",
-      "type": "Unknown"
+      "type": "Content"
     },
     "27415": {
       "name": "CANIX Regina Route Servers",
@@ -143903,6 +143923,10 @@
     "403134": {
       "name": "CANIX Winnipeg Services",
       "type": "Network Services"
+    },
+    "403249": {
+      "name": "K9NET-01",
+      "type": "Enterprise"
     },
     "215052": {
       "name": "DINSERVGRO-NET",
