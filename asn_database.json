@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-21T04:52:54.917Z",
+  "updated_at": "2026-11-22T04:10:44.391Z",
   "source": "PeeringDB",
-  "entry_count": 35982,
+  "entry_count": 35990,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -17481,7 +17481,7 @@
       "type": "Cable/DSL/ISP"
     },
     "263049": {
-      "name": "NIPPONTEC TELECOMUNICACOES",
+      "name": "RAPIDIN INTERNET",
       "type": "Cable/DSL/ISP"
     },
     "32742": {
@@ -23006,7 +23006,7 @@
     },
     "197400": {
       "name": "P.P.U.H \"OLKO\"",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "206910": {
       "name": "Bestconnect",
@@ -25714,6 +25714,10 @@
     },
     "35819": {
       "name": "Etihad Etisalat Company (Mobily)",
+      "type": "Unknown"
+    },
+    "197612": {
+      "name": "UltraVM",
       "type": "Unknown"
     },
     "33133": {
@@ -71797,7 +71801,7 @@
       "type": "Content"
     },
     "56327": {
-      "name": "Uniconnect AS56327",
+      "name": "Uniconnect",
       "type": "NSP"
     },
     "202661": {
@@ -81918,10 +81922,6 @@
     },
     "327697": {
       "name": "Free Reunion",
-      "type": "Cable/DSL/ISP"
-    },
-    "271971": {
-      "name": "CABLE SATELITE",
       "type": "Cable/DSL/ISP"
     },
     "216271": {
@@ -98268,10 +98268,6 @@
       "name": "Nasstec Airnet",
       "type": "Cable/DSL/ISP"
     },
-    "198441": {
-      "name": "Migtelecom LLC AS198441",
-      "type": "Cable/DSL/ISP"
-    },
     "215385": {
       "name": "ALONET",
       "type": "Cable/DSL/ISP"
@@ -99205,7 +99201,7 @@
       "type": "Unknown"
     },
     "22665": {
-      "name": "Swiftlet",
+      "name": "Swiftlet Labs Ltd",
       "type": "Content"
     },
     "208111": {
@@ -107317,7 +107313,7 @@
       "type": "NSP"
     },
     "218791": {
-      "name": "BetterWorx",
+      "name": "BetterNetworx",
       "type": "Cable/DSL/ISP"
     },
     "218906": {
@@ -109289,7 +109285,7 @@
       "type": "Unknown"
     },
     "218938": {
-      "name": "POTUZHNO-AS",
+      "name": "Potuzhno Telecom",
       "type": "Content"
     },
     "202268": {
@@ -109622,6 +109618,34 @@
     },
     "152985": {
       "name": "CLOUD247-VN",
+      "type": "Unknown"
+    },
+    "218018": {
+      "name": "NARU-AS",
+      "type": "Unknown"
+    },
+    "218824": {
+      "name": "Netiyo",
+      "type": "Unknown"
+    },
+    "134365": {
+      "name": "ANSHENG-AS-AP",
+      "type": "Unknown"
+    },
+    "263561": {
+      "name": "ASN263561",
+      "type": "Unknown"
+    },
+    "213709": {
+      "name": "DanieleFerrara",
+      "type": "Non-Profit"
+    },
+    "135115": {
+      "name": "OFABL-AS-AP",
+      "type": "Unknown"
+    },
+    "218078": {
+      "name": "HYEOKJUN-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -137732,6 +137756,10 @@
       "name": "AGUIA NET TELECOMUNICACOES EIRELI",
       "type": "Cable/DSL/ISP"
     },
+    "271971": {
+      "name": "CABLE SATELITE",
+      "type": "Cable/DSL/ISP"
+    },
     "273350": {
       "name": "Gns Telecom",
       "type": "Cable/DSL/ISP"
@@ -142042,6 +142070,10 @@
     },
     "1046": {
       "name": "Fiberifi",
+      "type": "Cable/DSL/ISP"
+    },
+    "198441": {
+      "name": "Migtelecom LLC AS198441",
       "type": "Cable/DSL/ISP"
     },
     "203309": {
