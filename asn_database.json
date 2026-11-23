@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-22T04:10:44.391Z",
+  "updated_at": "2026-11-23T04:51:33.846Z",
   "source": "PeeringDB",
-  "entry_count": 35990,
+  "entry_count": 35989,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -23848,10 +23848,6 @@
       "name": "Województwo Lubelskie",
       "type": "Cable/DSL/ISP"
     },
-    "206479": {
-      "name": "AceRDP Ltd",
-      "type": "Unknown"
-    },
     "54069": {
       "name": "NetGain Information systems",
       "type": "Unknown"
@@ -25159,10 +25155,6 @@
     "19324": {
       "name": "DOSarrest Internet Security",
       "type": "Unknown"
-    },
-    "48224": {
-      "name": "INTERDOM Pawel Jesiolowski",
-      "type": "Cable/DSL/ISP"
     },
     "61203": {
       "name": "FIDRO",
@@ -31823,10 +31815,6 @@
     "265975": {
       "name": "INTEREDE TELECOM",
       "type": "Cable/DSL/ISP"
-    },
-    "39753": {
-      "name": "Liuxyon",
-      "type": "Non-Profit"
     },
     "51947": {
       "name": "GeCom",
@@ -54524,10 +54512,6 @@
       "name": "Commercis",
       "type": "Cable/DSL/ISP"
     },
-    "263424": {
-      "name": "Fonelight Telecomunicações",
-      "type": "Cable/DSL/ISP"
-    },
     "3801": {
       "name": "Mikrotec Internet Services",
       "type": "NSP"
@@ -70565,7 +70549,7 @@
       "type": "NSP"
     },
     "45736": {
-      "name": "eSys Technologies",
+      "name": "DCS1 SARTS",
       "type": "Enterprise"
     },
     "266277": {
@@ -72401,7 +72385,7 @@
       "type": "Educational/Research"
     },
     "140982": {
-      "name": "Broadside Quanta India",
+      "name": "DCS1 Broadside Hyderabad",
       "type": "Enterprise"
     },
     "150270": {
@@ -89384,14 +89368,6 @@
       "name": "Hi-Speed Broadband Network",
       "type": "Cable/DSL/ISP"
     },
-    "211282": {
-      "name": "Consumer Internet Cooperative PG-19 - AS211282",
-      "type": "Cable/DSL/ISP"
-    },
-    "206680": {
-      "name": "Consumer Internet Cooperative PG-19 - AS206680",
-      "type": "Cable/DSL/ISP"
-    },
     "18248": {
       "name": "Taiwan Network Operators' Group (TWNOG)",
       "type": "Unknown"
@@ -92407,10 +92383,6 @@
     "211121": {
       "name": "Tiger Network AS211121",
       "type": "Unknown"
-    },
-    "212628": {
-      "name": "ARTRUBY",
-      "type": "Content"
     },
     "30079": {
       "name": "IQUID",
@@ -102276,10 +102248,6 @@
       "name": "Psycho Solutions",
       "type": "Unknown"
     },
-    "199227": {
-      "name": "Protocol 7 IX - Router Server",
-      "type": "Route Server"
-    },
     "154606": {
       "name": "YFI INTERNET PRIVATE LIMITED",
       "type": "Cable/DSL/ISP"
@@ -104123,6 +104091,10 @@
     "149608": {
       "name": "TRIGART01-AS-IN",
       "type": "Unknown"
+    },
+    "219421": {
+      "name": "Jonatan Miarecki",
+      "type": "Educational/Research"
     },
     "35142": {
       "name": "BLX",
@@ -106013,8 +105985,8 @@
       "type": "Unknown"
     },
     "154353": {
-      "name": "IDNIC-ICNET-ID",
-      "type": "Unknown"
+      "name": "Indo Cahaya Network, PT",
+      "type": "Cable/DSL/ISP"
     },
     "218963": {
       "name": "KPEDV",
@@ -106731,6 +106703,10 @@
     "402932": {
       "name": "BCN-NET",
       "type": "Enterprise"
+    },
+    "218772": {
+      "name": "Barbonetworks",
+      "type": "NSP"
     },
     "328318": {
       "name": "ORG-RNDE1-AFRINIC",
@@ -107954,15 +107930,11 @@
     },
     "219310": {
       "name": "R09TELECOM",
-      "type": "Content"
+      "type": "Educational/Research"
     },
     "403034": {
       "name": "LAYER9I",
       "type": "Unknown"
-    },
-    "403065": {
-      "name": "PARKERCS",
-      "type": "Educational/Research"
     },
     "154993": {
       "name": "STRATA-AS-AP",
@@ -108071,6 +108043,10 @@
     "153771": {
       "name": "Heptasky",
       "type": "Cable/DSL/ISP"
+    },
+    "218426": {
+      "name": "AS-TRFQ",
+      "type": "Content"
     },
     "397892": {
       "name": "REXELUSA",
@@ -108409,7 +108385,7 @@
       "type": "Content"
     },
     "132305": {
-      "name": "PTTNZLIMITED-AS-AP",
+      "name": "PTT NZ Limited",
       "type": "NSP"
     },
     "218362": {
@@ -109646,7 +109622,35 @@
     },
     "218078": {
       "name": "HYEOKJUN-AS",
+      "type": "Educational/Research"
+    },
+    "218033": {
+      "name": "ONE-MS",
       "type": "Unknown"
+    },
+    "275323": {
+      "name": "ASN275323",
+      "type": "Unknown"
+    },
+    "59091": {
+      "name": "KAIT-NWLAB",
+      "type": "Unknown"
+    },
+    "218808": {
+      "name": "AS_CLOUDFIVE",
+      "type": "Unknown"
+    },
+    "218093": {
+      "name": "CARLHOST-AS",
+      "type": "Unknown"
+    },
+    "403218": {
+      "name": "FURRY-LLC",
+      "type": "Unknown"
+    },
+    "153305": {
+      "name": "DCS1 Broadside Panvel",
+      "type": "Enterprise"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -112967,10 +112971,6 @@
     "23252": {
       "name": "WTC Communications",
       "type": "Cable/DSL/ISP"
-    },
-    "28212": {
-      "name": "Coprel Telecom - 28212",
-      "type": "NSP"
     },
     "327824": {
       "name": "Converged Telecoms",
@@ -117671,6 +117671,10 @@
     "14397": {
       "name": "1st Class Hosting",
       "type": "Content"
+    },
+    "39753": {
+      "name": "Liuxyon",
+      "type": "Non-Profit"
     },
     "205081": {
       "name": "EasyDataHost",
@@ -140776,6 +140780,10 @@
       "name": "Cloud View",
       "type": "Cable/DSL/ISP"
     },
+    "212628": {
+      "name": "ARTRUBY",
+      "type": "Content"
+    },
     "56926": {
       "name": "KOMNET",
       "type": "Cable/DSL/ISP"
@@ -142934,7 +142942,7 @@
     },
     "197324": {
       "name": "BGP43",
-      "type": "Educational/Research"
+      "type": "Non-Profit"
     },
     "197194": {
       "name": "KAYAN-IT",
@@ -143055,10 +143063,6 @@
     "4849": {
       "name": "S3 Company",
       "type": "Unknown"
-    },
-    "219421": {
-      "name": "Jonatan Miarecki",
-      "type": "Educational/Research"
     },
     "132023": {
       "name": "tNet Network and Data Solution",
@@ -143536,10 +143540,6 @@
       "name": "Expeditioner Network",
       "type": "Content"
     },
-    "218772": {
-      "name": "Barbonetworks",
-      "type": "NSP"
-    },
     "218758": {
       "name": "Azzurri Communications",
       "type": "Cable/DSL/ISP"
@@ -143715,10 +143715,6 @@
     "329735": {
       "name": "Enryoc",
       "type": "NSP"
-    },
-    "218426": {
-      "name": "AS-TRFQ",
-      "type": "Content"
     },
     "218424": {
       "name": "Mohrline.Net",
