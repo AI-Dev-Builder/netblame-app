@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-23T04:51:33.846Z",
+  "updated_at": "2026-11-24T07:41:06.866Z",
   "source": "PeeringDB",
-  "entry_count": 35989,
+  "entry_count": 36009,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -13836,10 +13836,6 @@
       "name": "Telenet",
       "type": "Cable/DSL/ISP"
     },
-    "201196": {
-      "name": "Bermond Management Ltd.",
-      "type": "Unknown"
-    },
     "20340": {
       "name": "Calltower",
       "type": "Content"
@@ -21545,8 +21541,8 @@
       "type": "Content"
     },
     "135610": {
-      "name": "IDNIC-BERSAMANET-ID",
-      "type": "Unknown"
+      "name": "BERSAMANET-NAP",
+      "type": "NSP"
     },
     "133245": {
       "name": "Go WiFi Networking Solutions",
@@ -30964,10 +30960,6 @@
       "name": "AMS-IX India NOC Operations",
       "type": "Route Server"
     },
-    "205240": {
-      "name": "Jan Ackerstaff",
-      "type": "Non-Profit"
-    },
     "267670": {
       "name": "NetLink Telecom",
       "type": "Cable/DSL/ISP"
@@ -36484,10 +36476,6 @@
       "name": "Cloudware Enterprise",
       "type": "Enterprise"
     },
-    "134998": {
-      "name": "Green Packet Global",
-      "type": "Enterprise"
-    },
     "137936": {
       "name": "RDTECH",
       "type": "Cable/DSL/ISP"
@@ -36642,7 +36630,7 @@
     },
     "19281": {
       "name": "Quad9",
-      "type": "Content"
+      "type": "Non-Profit"
     },
     "396855": {
       "name": "TNC COMMUNICATIONS",
@@ -50302,7 +50290,7 @@
     },
     "60460": {
       "name": "AZIENDEITALIA",
-      "type": "Unknown"
+      "type": "Content"
     },
     "62648": {
       "name": "City of Mont Belvieu",
@@ -56393,8 +56381,8 @@
       "type": "Cable/DSL/ISP"
     },
     "212348": {
-      "name": "FIVEMSHIELD NETWORK",
-      "type": "Unknown"
+      "name": "FILTERCORE",
+      "type": "Network Services"
     },
     "52250": {
       "name": "ADSIB",
@@ -69918,7 +69906,7 @@
     },
     "272765": {
       "name": "AA TELECOM",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "272741": {
       "name": "ATLANTICA TELECOMUNICAÇÕES",
@@ -76336,6 +76324,10 @@
       "name": "NovaNetwork",
       "type": "Unknown"
     },
+    "48708": {
+      "name": "NETPLUS-AS",
+      "type": "Unknown"
+    },
     "19830": {
       "name": "The Ringgold Telephone",
       "type": "Cable/DSL/ISP"
@@ -81719,10 +81711,6 @@
     "58350": {
       "name": "PHU Classcom Sp. z o.o.",
       "type": "Cable/DSL/ISP"
-    },
-    "327760": {
-      "name": "ELECTRO METIC ENTERPRISES",
-      "type": "Unknown"
     },
     "134654": {
       "name": "Datautama Dinamika NAP",
@@ -104344,10 +104332,6 @@
       "name": "FynnHuppke",
       "type": "Unknown"
     },
-    "154723": {
-      "name": "Optical Communication",
-      "type": "Cable/DSL/ISP"
-    },
     "402549": {
       "name": "Terraservers Services",
       "type": "Cable/DSL/ISP"
@@ -105191,10 +105175,6 @@
     "23311": {
       "name": "Agnico Eagle",
       "type": "Unknown"
-    },
-    "219189": {
-      "name": "CLNexus LTD",
-      "type": "NSP"
     },
     "3944": {
       "name": "PARTAN-LAB",
@@ -106367,6 +106347,10 @@
     "135155": {
       "name": "TALTOLANET-AS-AP",
       "type": "Cable/DSL/ISP"
+    },
+    "218916": {
+      "name": "FIOD",
+      "type": "Government"
     },
     "218865": {
       "name": "WHITE-ISP-SOLUTIONS-LTD-AS",
@@ -107936,6 +107920,10 @@
       "name": "LAYER9I",
       "type": "Unknown"
     },
+    "403065": {
+      "name": "PARKERCS",
+      "type": "Educational/Research"
+    },
     "154993": {
       "name": "STRATA-AS-AP",
       "type": "Cable/DSL/ISP"
@@ -108384,10 +108372,6 @@
       "name": "STREETHOSTING LTDA",
       "type": "Content"
     },
-    "132305": {
-      "name": "PTT NZ Limited",
-      "type": "NSP"
-    },
     "218362": {
       "name": "OKTA-ASN",
       "type": "Non-Profit"
@@ -108805,7 +108789,7 @@
       "type": "Unknown"
     },
     "218476": {
-      "name": "Reiner-IT-AS",
+      "name": "Reiner IT-Systems GmbH",
       "type": "Enterprise"
     },
     "402294": {
@@ -109536,10 +109520,6 @@
       "name": "ORDNARY",
       "type": "Content"
     },
-    "218024": {
-      "name": "SYSTEMCROSSING",
-      "type": "Educational/Research"
-    },
     "131466": {
       "name": "Akari Networks (SG)",
       "type": "Cable/DSL/ISP"
@@ -109651,6 +109631,82 @@
     "153305": {
       "name": "DCS1 Broadside Panvel",
       "type": "Enterprise"
+    },
+    "329369": {
+      "name": "ORG-JPL1-AFRINIC",
+      "type": "Unknown"
+    },
+    "218013": {
+      "name": "CHAOS-NETWORKS",
+      "type": "Unknown"
+    },
+    "25953": {
+      "name": "IIG",
+      "type": "Unknown"
+    },
+    "218015": {
+      "name": "APPMATRIX-TECHNOLOGIES-AS",
+      "type": "Unknown"
+    },
+    "275084": {
+      "name": "275084",
+      "type": "Cable/DSL/ISP"
+    },
+    "218064": {
+      "name": "IT-DASABOSRLDAS-20261111",
+      "type": "Unknown"
+    },
+    "26836": {
+      "name": "AS-MARCHESE-NET",
+      "type": "Unknown"
+    },
+    "218017": {
+      "name": "GUPTA-AS",
+      "type": "Unknown"
+    },
+    "21565": {
+      "name": "AS21565",
+      "type": "Unknown"
+    },
+    "399951": {
+      "name": "ARCHOUS",
+      "type": "Unknown"
+    },
+    "208421": {
+      "name": "Sarrazin",
+      "type": "Unknown"
+    },
+    "262379": {
+      "name": "ASN262379",
+      "type": "Unknown"
+    },
+    "154888": {
+      "name": "IDNIC-SINARPERSADA-ID",
+      "type": "Unknown"
+    },
+    "154143": {
+      "name": "IDNIC-AZWARNETWORKS-ID",
+      "type": "Unknown"
+    },
+    "273174": {
+      "name": "273174",
+      "type": "Network Services"
+    },
+    "61706": {
+      "name": "ASN61706",
+      "type": "Cable/DSL/ISP"
+    },
+    "218011": {
+      "name": "Necron-Network",
+      "type": "Unknown"
+    },
+    "140322": {
+      "name": "GREENESOLUTIONS-AS-AP",
+      "type": "Unknown"
+    },
+    "142202": {
+      "name": "IDNIC-SJT-AS-ID",
+      "type": "Unknown"
     },
     "22822": {
       "name": "Edgio - AS22822",
@@ -113109,7 +113165,7 @@
       "type": "Non-Profit"
     },
     "57208": {
-      "name": "Visolit Sweden AB",
+      "name": "Advania Sverige",
       "type": "NSP"
     },
     "34966": {
@@ -117391,6 +117447,10 @@
     "267613": {
       "name": "ELETRONET",
       "type": "NSP"
+    },
+    "205240": {
+      "name": "Jan Ackerstaff",
+      "type": "Non-Profit"
     },
     "136716": {
       "name": "APPLE BROADBAND SERVICES",
@@ -124753,7 +124813,7 @@
       "type": "Cable/DSL/ISP"
     },
     "136856": {
-      "name": "Tower Bersama",
+      "name": "BERSAMANET-ISP",
       "type": "Cable/DSL/ISP"
     },
     "209116": {
@@ -137684,6 +137744,10 @@
       "name": "CRE Network LLC",
       "type": "Network Services"
     },
+    "327760": {
+      "name": "ELECTRO METIC ENTERPRISES",
+      "type": "Unknown"
+    },
     "215615": {
       "name": "David Svanlund",
       "type": "Educational/Research"
@@ -138333,7 +138397,7 @@
       "type": "Network Services"
     },
     "398891": {
-      "name": "Quad9 Administrative",
+      "name": "Quad9 FDFA",
       "type": "Non-Profit"
     },
     "42546": {
@@ -140005,7 +140069,7 @@
       "type": "Unknown"
     },
     "43093": {
-      "name": "LYNXNET Pawel Krzaczkowski Krzysztof Malek",
+      "name": "LYNXNET",
       "type": "Cable/DSL/ISP"
     },
     "213801": {
@@ -143104,6 +143168,10 @@
       "name": "Andreas Fornberg",
       "type": "Content"
     },
+    "154723": {
+      "name": "Optical Communication",
+      "type": "Cable/DSL/ISP"
+    },
     "219378": {
       "name": "Sakarin Network",
       "type": "Educational/Research"
@@ -143468,10 +143536,6 @@
       "name": "HOSTSTACK-PRO",
       "type": "Network Services"
     },
-    "218916": {
-      "name": "FIOD",
-      "type": "Government"
-    },
     "264338": {
       "name": "ASN264338",
       "type": "Unknown"
@@ -143760,6 +143824,10 @@
       "name": "JWDB-AS",
       "type": "Unknown"
     },
+    "132305": {
+      "name": "PTT NZ Limited",
+      "type": "NSP"
+    },
     "218330": {
       "name": "AA-AS",
       "type": "Non-Profit"
@@ -143959,6 +144027,18 @@
     "215052": {
       "name": "DINSERVGRO-NET",
       "type": "Unknown"
+    },
+    "218024": {
+      "name": "SYSTEMCROSSING",
+      "type": "Educational/Research"
+    },
+    "398892": {
+      "name": "Quad9 Administrative",
+      "type": "Non-Profit"
+    },
+    "213597": {
+      "name": "Quad9 Administrative 2",
+      "type": "Non-Profit"
     }
   }
 }
