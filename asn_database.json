@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-27T05:55:30.940Z",
+  "updated_at": "2026-11-28T05:36:33.177Z",
   "source": "PeeringDB",
-  "entry_count": 36050,
+  "entry_count": 36059,
   "entries": {
     "4436": {
       "name": "GTT Communications (AS4436)",
@@ -4178,7 +4178,7 @@
     },
     "8553": {
       "name": "HOSTAL",
-      "type": "Unknown"
+      "type": "Content"
     },
     "8535": {
       "name": "Agora",
@@ -22482,7 +22482,7 @@
     },
     "15735": {
       "name": "GO PLC",
-      "type": "Unknown"
+      "type": "Cable/DSL/ISP"
     },
     "37671": {
       "name": "3S INF",
@@ -29518,7 +29518,7 @@
     },
     "57069": {
       "name": "Dempsey and Clark",
-      "type": "Unknown"
+      "type": "NSP"
     },
     "47317": {
       "name": "Web4ce",
@@ -60058,7 +60058,7 @@
     },
     "271320": {
       "name": "CONEX PROVEDOR",
-      "type": "Enterprise"
+      "type": "Cable/DSL/ISP"
     },
     "141184": {
       "name": "I NOX NET COMMUNICATION",
@@ -71151,6 +71151,10 @@
     "394429": {
       "name": "MWestIX Route Servers",
       "type": "Route Server"
+    },
+    "202828": {
+      "name": "Patcharakorn Communication Limited Partnership",
+      "type": "Educational/Research"
     },
     "63794": {
       "name": "ILKS",
@@ -91950,7 +91954,7 @@
     },
     "40419": {
       "name": "Northdeck",
-      "type": "Content"
+      "type": "Educational/Research"
     },
     "151999": {
       "name": "Aris Media Globalindo",
@@ -96258,7 +96262,7 @@
     },
     "152626": {
       "name": "Cloudbase Network",
-      "type": "NSP"
+      "type": "Cable/DSL/ISP"
     },
     "213476": {
       "name": "LITLINK",
@@ -98141,7 +98145,7 @@
       "type": "Cable/DSL/ISP"
     },
     "63906": {
-      "name": "FUYU",
+      "name": "FUYU Group Inc.",
       "type": "Unknown"
     },
     "395047": {
@@ -103012,10 +103016,6 @@
       "name": "NODREX Cloud",
       "type": "Cable/DSL/ISP"
     },
-    "197613": {
-      "name": "Nicholas Marshall",
-      "type": "Unknown"
-    },
     "274208": {
       "name": "VERLA S.A.S.",
       "type": "Unknown"
@@ -106034,7 +106034,7 @@
     },
     "218945": {
       "name": "BYCODED",
-      "type": "Unknown"
+      "type": "Content"
     },
     "218956": {
       "name": "HUBNET",
@@ -108860,10 +108860,6 @@
       "name": "SAKTINET",
       "type": "Cable/DSL/ISP"
     },
-    "218211": {
-      "name": "Nouche Hekkelman",
-      "type": "Unknown"
-    },
     "218221": {
       "name": "QuickMetal",
       "type": "Unknown"
@@ -109336,10 +109332,6 @@
       "name": "INVTECHNOLOGIES",
       "type": "Content"
     },
-    "218060": {
-      "name": "newtn-aphos",
-      "type": "Educational/Research"
-    },
     "154628": {
       "name": "PT Sinergi Multidata Utama",
       "type": "Cable/DSL/ISP"
@@ -109701,11 +109693,11 @@
       "type": "Unknown"
     },
     "43548": {
-      "name": "NETBOX (AS43548)",
+      "name": "DELTANET",
       "type": "Unknown"
     },
     "208021": {
-      "name": "Chris-Allen",
+      "name": "Chris Allen",
       "type": "Educational/Research"
     },
     "217999": {
@@ -109785,15 +109777,15 @@
       "type": "Non-Profit"
     },
     "149100": {
-      "name": "SMDS-VN",
+      "name": "SMARTMIND SECURITIES JOINT STOCK COMPANY",
       "type": "Unknown"
     },
     "403289": {
-      "name": "SHARE",
+      "name": "Share Global, Inc.",
       "type": "Unknown"
     },
     "155127": {
-      "name": "IDNIC-MEIDIA-ID",
+      "name": "PT Meidia Fast Network",
       "type": "Unknown"
     },
     "403263": {
@@ -109846,6 +109838,42 @@
     },
     "403085": {
       "name": "NoahNet",
+      "type": "Unknown"
+    },
+    "25502": {
+      "name": "EKM-NET",
+      "type": "Cable/DSL/ISP"
+    },
+    "218098": {
+      "name": "AlbisTech",
+      "type": "Unknown"
+    },
+    "25281": {
+      "name": "MTM-AS",
+      "type": "Cable/DSL/ISP"
+    },
+    "217984": {
+      "name": "HOSTGRAP",
+      "type": "Content"
+    },
+    "57559": {
+      "name": "Sidarion",
+      "type": "Unknown"
+    },
+    "155139": {
+      "name": "BITASERVER-AS-AP",
+      "type": "Unknown"
+    },
+    "217955": {
+      "name": "TIMOTHYNELSO",
+      "type": "Unknown"
+    },
+    "401586": {
+      "name": "SQUIRREL",
+      "type": "Unknown"
+    },
+    "217954": {
+      "name": "TES286-AS",
       "type": "Unknown"
     },
     "22822": {
@@ -134496,10 +134524,6 @@
       "name": "Aquilenet Paris",
       "type": "Non-Profit"
     },
-    "150286": {
-      "name": "VICTORIAS TELEPHONE SYSTEM",
-      "type": "Cable/DSL/ISP"
-    },
     "131634": {
       "name": "SeaIX-TW",
       "type": "Unknown"
@@ -138089,7 +138113,7 @@
       "type": "Content"
     },
     "150771": {
-      "name": "FUYU Group Inc.",
+      "name": "FUYU AS150771",
       "type": "Network Services"
     },
     "54286": {
@@ -143072,6 +143096,10 @@
       "name": "NXLAYER",
       "type": "Enterprise"
     },
+    "197613": {
+      "name": "Nicholas Marshall",
+      "type": "Unknown"
+    },
     "56320": {
       "name": "VIKING",
       "type": "Unknown"
@@ -144034,7 +144062,7 @@
     },
     "218248": {
       "name": "GavinPhratsachack",
-      "type": "Educational/Research"
+      "type": "Content"
     },
     "219451": {
       "name": "justinbrugmann",
@@ -144063,6 +144091,10 @@
     "155065": {
       "name": "Laguna ISP",
       "type": "Cable/DSL/ISP"
+    },
+    "218211": {
+      "name": "Nouche Hekkelman",
+      "type": "Unknown"
     },
     "403177": {
       "name": "JUCODE",
@@ -144136,6 +144168,10 @@
       "name": "SANTANA & LOPES TELECOMUNICACOES",
       "type": "Cable/DSL/ISP"
     },
+    "218060": {
+      "name": "newtn-aphos",
+      "type": "Educational/Research"
+    },
     "218134": {
       "name": "UNILAB Network",
       "type": "Network Services"
@@ -144193,7 +144229,7 @@
       "type": "Cable/DSL/ISP"
     },
     "218488": {
-      "name": "Routeplex",
+      "name": "Routeplex Limited",
       "type": "Educational/Research"
     },
     "329648": {
